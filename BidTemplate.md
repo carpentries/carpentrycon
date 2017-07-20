@@ -1,5 +1,8 @@
 # Bid Template
 
+## Link to the Google Form
+The current template is available now as a google form [here](https://docs.google.com/forms/d/15MwQIucsR3H13QTNBmVHqUzlx201olldBNtxZV_ExsU/edit?usp=drive_web)
+
 ## Minimum requirements
 _must-haves denoted in parentheses_
 
