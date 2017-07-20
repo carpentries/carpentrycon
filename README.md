@@ -8,7 +8,7 @@
 
 ## The CarpentryCon Task Force
 
-The [CarpentryCon Task Force](https://github.com/swcarpentry/board/tree/master/TaskForces/2018-CarpentryCon) has been created within the carpentries to help organize and coordinate the CarpentrCon 2018.
+The [CarpentryCon Task Force](https://github.com/swcarpentry/board/tree/master/TaskForces/2018-CarpentryCon) has been created within the carpentries to help organize and coordinate the CarpentryCon 2018.
 
 ### What members of the task force do
 Right now, we are working on
@@ -39,4 +39,4 @@ We have occasional [meetings][meetings].  Minutes of past meetings are available
 ## Useful Links
 
 [meetings]: http://pad.software-carpentry.org/2018carpentrycontaskforce
-[minutes]: https://github.com/swcarpentry/board/tree/master/TaskForces/2018-CarpentryCon/minutes
+[minutes]: https://github.com/carpentries/carpentrycon/tree/master/TFMinutes
