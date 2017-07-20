@@ -25,7 +25,7 @@ We have occasional [meetings][meetings].  Minutes of past meetings are available
 * Fotis Psomopoulos (Chair)
 * Malvika Sharan (Secretary)
 * Mark Laufersweiler
-* Mateusz Kuzak (Steering Committee Liason)
+* Mateusz Kuzak (Steering Committee Liaison)
 * Alix Keener
 * Greg Wilson
 * Rayna Harris
@@ -34,6 +34,7 @@ We have occasional [meetings][meetings].  Minutes of past meetings are available
 * Jamie Hadwin
 * Ivo Arrey
 * Jonah Duckles
+* Belinda Weaver
 
 ## Useful Links
 
