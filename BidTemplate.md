@@ -34,6 +34,7 @@ A few information about the event:
 * Is the venue close to the city center or area with coffee shops, restaurants and pubs?
 
 ## Conference Management
+* Do you have a local organizing committee
 * Do you have experience with organising a conference?
 * Do you have support staff experienced in organising a conference?
 * Does the host have a legal entity (local non-profit)?
