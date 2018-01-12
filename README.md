@@ -1,4 +1,4 @@
-# CarpentryCon
+# [CarpentryCon](http://www.carpentrycon.org/)
 
 *Building Locally, Connecting Globally*
 
@@ -40,5 +40,6 @@ We have occasional [meetings][meetings].  Minutes of past meetings are available
 
 ## Useful Links
 
-[meetings]: http://pad.software-carpentry.org/2018carpentrycontaskforce
-[minutes]: https://github.com/carpentries/carpentrycon/tree/master/Minutes
+[meetings](http://pad.software-carpentry.org/2018carpentrycontaskforce)
+[minutes](https://github.com/carpentries/carpentrycon/tree/master/Minutes)
+[official website](http://www.carpentrycon.org/)
