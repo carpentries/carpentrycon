@@ -5,7 +5,7 @@
 ![Tim Dennis](https://pbs.twimg.com/profile_images/858727947133267968/Az0QOyA1_400x400.jpg)
 ![Belinda Weaver](https://carpentries.org/img/team/5.jpg)
 
-[Tim Dennis](https://twitter.com/jt14den), [Belinda Weaver]https://twitter.com/cloudaus)
+[Tim Dennis](https://twitter.com/jt14den), [Belinda Weaver](https://twitter.com/cloudaus)
 
 
 ## Abstract
