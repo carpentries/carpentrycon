@@ -1,8 +1,14 @@
 # Breakout 5: **Making the Case for Membership**
 
-## Lead(s)
-* Jonah Duckles - Director of Membership
-* Elizabeth Williams - Business Administrator
+## Leads
+
+![Picture of Jonah Duckles](http://carpentries.org/img/team/3.jpg)
+
+[Jonah Duckles](https://twitter.com/jduckles) - Director of Membership
+
+![Picture of Elizabeth Williams](http://carpentries.org/img/team/9.jpg)
+
+[Elizabeth Williams](https://twitter.com/ecwilliams8) - Business Administrator
 
 ## Abstract
 
