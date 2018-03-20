@@ -1,8 +1,9 @@
 # Skill-Up 2: **Speaking Effectively**
 
 ## Lead
+![Belinda Weaver](http://carpentries.org/img/team/5.jpg)
+
 [Belinda Weaver](https://twitter.com/cloudaus)
-![Belinda Weaver](https://pbs.twimg.com/profile_images/739665870717255680/0ockcwl4_400x400.jpg)
 
 ## Abstract
 Speaking well is a fantastic skill to have in any career. Yet many people are frightened of public speaking, and are not sure this is a skill they can master. The good news is great speakers, like great teachers, are not born, but made, using the practice/feedback/practice loop that is so effective in instructor training.
