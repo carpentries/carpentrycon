@@ -3,7 +3,7 @@
 ## Lead
 ![Belinda Weaver](http://carpentries.org/img/team/5.jpg)
 
-[Belinda Weaver](https://twitter.com/cloudaus)
+[Belinda Weaver](https://twitter.com/cloudaus), *Community and Communications Lead, The Carpentries*
 
 ## Abstract
 Speaking well is a fantastic skill to have in any career. Yet many people are frightened of public speaking, and are not sure this is a skill they can master. The good news is great speakers, like great teachers, are not born, but made, using the practice/feedback/practice loop that is so effective in instructor training.
