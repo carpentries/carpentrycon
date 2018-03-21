@@ -1,9 +1,8 @@
-**Mark J. Laufersweiler**
-**Research Data Specialist**
-**University Libraries, University of Oklahoma**
-**@laufers & @OULibData**
+**Mark J. Laufersweiler**</br>
+**Research Data Specialist** </br>
+**University Libraries, University of Oklahoma**</br>
+**@laufers & @OULibData**</br>
 **ORCID 0000-0001-5544-0976**
-
 
 Mark Laufersweiler has always had a strong interest in computers, computing, data and data visualization. Mark started at OU as the Computer Systems Coordinator for the School of Meteorology from 1999-2013.  Part of his duties included managing the real time data feed and maintaining the departmental data archive. He assisted the faculty, students, and staff in their courses to help promote the computing and data skills needed for the classroom and instruction based on current best (better) practices regarding research data and code development, what he refers to as research hacking. Since the Fall of 2013, he has served as the Research Data Specialist for the OU Libraries.
 
