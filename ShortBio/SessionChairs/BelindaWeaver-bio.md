@@ -1,3 +1,6 @@
-Session name(s) and link(s):
+**Session name(s) and link(s)**
 
-One line bio:
+-
+-
+
+**One line bio**
