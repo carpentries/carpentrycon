@@ -44,7 +44,6 @@ Project Websites:
 
 - Malvika Sharan [1, 3]
 - Toby Hodges [1]
-- Julia Ritzerfeld [2, 3] 
 - Georg Zeller [1, 3]
 
 1. European Molecular Biology Laboratory (EMBL), Heidelberg, Germany. 
