@@ -1,5 +1,5 @@
 ### Speaker
-Michael Zelentz
+Michael Zelenetz
 
 ### Title
 How I learned to stop worrying and love graph databases
