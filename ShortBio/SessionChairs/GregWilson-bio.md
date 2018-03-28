@@ -9,3 +9,5 @@
 **Session name(s) and link(s)**
 
 - [Day-1: Skill-Up 1: Project Leadership](https://github.com/carpentries/carpentrycon/tree/master/Sessions/2018-05-30/01-Skill-Up-1-Project-Leadership)
+
+![](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/profile_picture/GregVWilson.png)
