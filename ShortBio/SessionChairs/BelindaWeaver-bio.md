@@ -1,6 +1,8 @@
 **Short bio**
 
-- [Tag: Carpentry Taskforce](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/TaskForce/BelindaWeaver-bio.md)
+- Tags: 
+  - [The Carpentries](https://www.linkedin.com/in/belinda-weaver-8525526)
+  - [CarpentryCon Taskforce](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/TaskForce/BelindaWeaver-bio.md)
 
 **Session name(s) and link(s)**
 
