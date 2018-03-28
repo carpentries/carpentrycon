@@ -2,6 +2,7 @@
 
 - Tags: 
   - [CarpentryCon Taskforce](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/TaskForce/MalvikaSharan-bio.md)
+  - [DC Lesson Maintainer](http://www.datacarpentry.org/lessons/)
 
 **Session name(s) and link(s)**
 
