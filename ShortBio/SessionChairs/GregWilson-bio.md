@@ -1,6 +1,7 @@
 **Short Bio**
 
-- [Tag: CarpentryCon Speaker](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/Speakers/GregWilson-bio.md)
+- Tags: 
+  - [CarpentryCon Speaker](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/Speakers/GregWilson-bio.md)
 
 **Session name(s) and link(s)**
 
