@@ -2,7 +2,8 @@
 
 - Here you can add a short bio.
 
-- Tags: (Use tags if you have an profiles in the CarpentryCon repo)
+- Tags: 
+(Use tags if you have an existing profile in the CarpentryCon repo or have other roles in the Carpentries that you would like to mention)
   - [CarpentryCon Speaker](GitHub Link to the existing Bio)
   - [CarpentryCon Taskforce](GitHub Link to the existing Bio)
   - The Carpentries
