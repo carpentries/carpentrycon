@@ -1,3 +1,5 @@
 **Short bio**
 
 [Des Higgins](https://twitter.com/HigginsDes) is [Professor of Bioinformatics](http://www.ucd.ie/conway/research/researchers/conwayfellowsa-z/professordeshiggins/) in University College Dublin, Ireland where his lab works on "omics" data analysis and sequence alignment algorithms. He has a PhD in Zoology from Trinity College Dublin, Ireland. His group maintains and develops the Clustal package for multiple sequence alignment in collaboration with groups in France, Germany and the UK. Des wrote the first version of Clustal in Dublin in 1988 and then moved to the EMBL Data Library group, in Heidelberg, in 1990 as a post-doc and later, staff scientist. In 1994, he moved to the EBI, Hinxton with the Data Library and stayed there for two years.This coincided with the release of Clustal W, and later, Clustal X which became extremely widely used and cited. Currently he has run out of letters and works on Clustal Omega which is designed for making extremely large protein alignments.
+
+![](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/profile_picture/DesHiggins.jpg)
