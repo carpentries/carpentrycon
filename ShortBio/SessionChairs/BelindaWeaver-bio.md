@@ -4,7 +4,7 @@ Belinda Weaver is the Community and Communications Lead for The Carpentries. She
  
 - Tags: 
   - [The Carpentries](https://www.linkedin.com/in/belinda-weaver-8525526)
-  - [GitHub](https://github/com/weaverbel)
+  - [GitHub](https://github.com/weaverbel)
   - [CarpentryCon Taskforce](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/TaskForce/BelindaWeaver-bio.md)
 
 **Session name(s) and link(s)**
