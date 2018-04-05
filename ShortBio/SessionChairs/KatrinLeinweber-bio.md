@@ -11,3 +11,5 @@ Hannover (TIB) and advising/supporting research software engineering projects.
 **Session name and link**
 
 - [Day-2: Session-11: Fostering FAIR Data and Sustainable Software Practices](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-31/11-Breakout-11-Fostering-FAIR-Data-And-Sustainable-Software-Practices/Abstract.md)
+
+![](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/profile_picture/KatrinLeinweber.jpeg)
