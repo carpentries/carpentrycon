@@ -8,3 +8,5 @@
 **Session name(s) and link(s)**
 
 - [Day-2: Breakout 8: HPC Carpentry](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-31/05-Breakout-8-HPC-Carpentry/Abstract.md)
+
+![](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/profile_picture/AlanOCais.png)
