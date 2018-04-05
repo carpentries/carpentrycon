@@ -5,7 +5,9 @@
 **Time**: 2:35-3:35 pm (1 hour)
 
 ## Lead(s)
+
 [Alan O'Cais](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/SessionChairs/AlanOCais-bio.md)
+
 [Daniel Smith](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/SessionChairs/DanielSmith-bio.md)
 
 ## Abstract
@@ -22,11 +24,20 @@ Short presentations on
 Teaching basic skills for high-performance computing.](https://hpc-carpentry.github.io/)
 - [HPC in a day](https://psteinb.github.io/hpc-in-a-day/)
 
-### **Part 2**: Where do we go?
+### **Part 2**: Where do we go? (20 minutes, guided group discussion)
 
+Open discussion on what short and medium goals should be, for example:
+- Can we agree a scope and target group for an initial HPC novice lesson?
+- How do we approach access to HPC resources, is it just assumed to be available?
+- How do we make lessons flexible wrt *scheduler, environment, access,...*?
+- How far could/should HPC Carpentry go?
 
+### **Part 3**: How do we get there? (15 minutes, split in 2/3 groups)
 
-### **Part 3**: How do we get there?
+Select 2/3 topics from the previous discussion that are suitable to be matured further by smaller groups. Refine them to help identify short-term targets and see if there are volunteers to move things forward. 
 
+### **Part 4**: Wrap-up (10 minutes)
 
+- Summary of split group outcomes
+- What's next
 
