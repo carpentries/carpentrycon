@@ -13,3 +13,6 @@
 
 - [Day-1: Session-X: Name](GitHub Link)
 - [Day-2: Session-X: Name](GitHub Link)
+
+- update the link with your name and delete this line
+![](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/profile_picture/NameSurname.png)
