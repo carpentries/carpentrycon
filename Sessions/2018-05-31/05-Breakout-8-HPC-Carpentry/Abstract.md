@@ -12,32 +12,30 @@
 
 ## Abstract
 
-Many HPC sites show interest in the Software Carpentry approach to training and are keen to adopt it. In this breakout, we will firstly review what has been done with a Software Carpentry perspective in the HPC space. The main goal of the session is to gather interested people together, map out where we would like to go and define some short term targets to help us get there.
+Many HPC sites show interest in the Software Carpentry approach to training and are keen to adopt it's practices. In this breakout, we will firstly review what has been done with a Software Carpentry perspective in the HPC space and the lesson material that already exists. The main goal of the session is to gather interested people together, evaluate what has been done, map out where we would like to go and define some short term targets to help us get there.
 
 ## The Plan
 
-### **Part 1**: What has been done to date? (15 minutes)
+### **Part 1**: What has been done to date? (30 minutes)
 
-Short presentations on
-- [Outcomes of the HPC Carpentry BoF session at SC17](https://github.com/hpc-uk/sc17-hpccarpentry-bof/raw/master/pdf/sc17-hpccarpentry-bof-report.pdf)
+The first part of the session will be used to review HPC Carpentry related discussions that have already taken place (primarily the [Outcomes of the HPC Carpentry BoF session at SC17](https://github.com/hpc-uk/sc17-hpccarpentry-bof/raw/master/pdf/sc17-hpccarpentry-bof-report.pdf) and the [issues of the hpc-novice lesson](https://github.com/swcarpentry/hpc-novice/issues)). In particular we will point out notable conclusions from these discussions and gather attendees feedback on them.
+
+This will be followed by two lightning talks on
 - [HPC Carpentry:
 Teaching basic skills for high-performance computing.](https://hpc-carpentry.github.io/)
 - [HPC in a day](https://psteinb.github.io/hpc-in-a-day/)
 
-### **Part 2**: Where do we go? (20 minutes, guided group discussion)
+### **Part 2**: Getting to `hpc-novice v1.0` (20 minutes)
 
-Open discussion on what short and medium goals should be, for example:
-- Can we agree a scope and target group for an initial HPC novice lesson?
-- How do we approach access to HPC resources, is it just assumed to be available?
-- How do we make lessons flexible wrt *scheduler, environment, access,...*?
-- How far could/should HPC Carpentry go?
+Identify and address the practical challenges with *collaboratively* creating an HPC novice lesson. There are many aspects that will need to be easily tweakable:
+- Access methods
+- Schedulers
+- Software environments
+- ...
 
-### **Part 3**: How do we get there? (15 minutes, split in 2/3 groups)
+Getting this right is important as future lessons can be built upon the same infrastructure.
 
-Select 2/3 topics from the previous discussion that are suitable to be matured further by smaller groups. Refine them to help identify short-term targets and see if there are volunteers to move things forward. 
+### **Part 3**: Beyond `hpc-novice v1.0` (10 minutes)
 
-### **Part 4**: Wrap-up (10 minutes)
-
-- Summary of split group outcomes
-- What's next
-
+- Is there interest in other lessons in this space?
+- How will people stay in touch?
