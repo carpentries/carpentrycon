@@ -15,9 +15,6 @@ NumPy package, and has recently started a new "big data" project for molecular s
 
 Twitter: @dga_smith
 
-- Tags:
-  - [CarpentryCon Session Chair](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/SessionChairs/DanielSmith-bio.md)
-
 **Session name(s) and link(s)**
 
 - [Day-2: Breakout 8: HPC Carpentry](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-31/05-Breakout-8-HPC-Carpentry/Abstract.md)
