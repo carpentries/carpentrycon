@@ -11,4 +11,4 @@
 
 - [Day-3: Workshop 5: **HPC Carpentry**](https://github.com/carpentries/carpentrycon/tree/master/Sessions/2018-06-01/05-Workshop-5-HPC-Carpentry/Abstract.md)
 
-![](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/profile_picture/PeterSteinbach.png)
+![](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/profile_picture/PeterSteinbach.jpg)
