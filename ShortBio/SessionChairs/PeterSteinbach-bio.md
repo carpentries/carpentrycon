@@ -4,7 +4,6 @@
 
 
 - Tags: 
-  - [CarpentryCon Speaker](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/Speakers/PeterSteinbach-bio.md)
   - [HPC-in-a-Day Lesson Maintainer](https://psteinb.github.io/hpc-in-a-day/)
 
 **Session name(s) and link(s)**
