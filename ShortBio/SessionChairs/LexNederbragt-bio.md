@@ -10,7 +10,6 @@
 
 
 - Tags: 
-  - [CarpentryCon Session Chair](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/SessionChairs/LexNederbragt-bio.md)
   - [Carpentries Executive Council](http://carpentries.org/governance/) 
  
 **Session name(s) and link(s)**
