@@ -12,7 +12,14 @@
 
 ## Abstract
 
-Many HPC sites show interest in the Software Carpentry approach to training and are keen to adopt it's practices. In this breakout, we will firstly review what has been done with a Software Carpentry perspective in the HPC space and the lesson material that already exists. The main goal of the session is to gather interested people together, evaluate what has been done, map out where we would like to go and define some short term targets to help us get there.
+- Are you engaged in training activities at an HPC site or with a research community that can leverage HPC facilities?
+- Are you interested in seeing the Carpentries approach to training used more in the HPC space?
+- Do want to see HPC lessons developed within the Carpentries?
+- Are you willing to collaborate with others to make that happen?
+
+The Carpentries are often mentioned as providing (some of) the prerequisite knowledge to access High Performance Computing (HPC). Many HPC sites have shown interest in the Software Carpentry approach to training and are keen to adopt it's practices.
+
+In this breakout, we will firstly review what has been done with a Software Carpentry perspective in the HPC space and the lesson material that already exists. The main goal of the session is to gather interested people together, evaluate what has been done, map out where we would like to go and define some short term targets to help us get there.
 
 ## The Plan
 
