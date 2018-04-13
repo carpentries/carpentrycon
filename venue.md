@@ -8,13 +8,13 @@ The keynote lectures will take place in George Moore Auditorium. The workshop an
 
 **Address**
 
-UCD O'Brien Centre for Science
-UCD Science Centre (East)
-University College Dublin
-Belfield, Dublin 4
-Roebuck, Dublin
-Ireland
-(01) 716 2120
+  UCD O'Brien Centre for Science
+  UCD Science Centre (East)
+  University College Dublin
+  Belfield, Dublin 4
+  Roebuck, Dublin
+  Ireland
+  (01) 716 2120
 
 Link: https://goo.gl/maps/xpnddSdsZ8n
 
@@ -22,20 +22,17 @@ Link: https://goo.gl/maps/xpnddSdsZ8n
 
 The conference venue is accessible. Please see the [floor plan](http://www.ucd.ie/t4cms/Con-Science-District.pdf) for detail. Please contact us if you would need any special assistance.
 
-**Travelling to UCD - Belfield Campus**
+##Travelling to UCD - Belfield Campus and within the city**
 
-Please refer this [UCD communiting guide](https://www.ucd.ie/t4cms/UCD-commuting-guide-2015.pdf) for more information on how to get to UCD. See the [additional detail](http://www.ucd.ie/gettingtoucd.htm) on how to get to the location from the airport or train stations.
+Please refer this [UCD communiting guide](https://www.ucd.ie/t4cms/UCD-commuting-guide-2015.pdf) for more information on how to get to UCD. 
 
-**Surrounding**
+### Travel to and from Dublin
 
+See the [additional detail](http://www.ucd.ie/gettingtoucd.htm) on how to get to the location from the airport or train stations.
 
 ### Dublin Area
 
 ### Lodging information
-
-### Travel to and from Dublin
-
-### Transportation within Dublin
 
 ### Visa information for international travelers
 
