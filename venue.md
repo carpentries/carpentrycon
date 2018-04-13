@@ -24,7 +24,7 @@ The conference venue is accessible. Please see the [floor plan](http://www.ucd.i
 
 ##Travelling to UCD - Belfield Campus and within the city**
 
-Please refer this [UCD communiting guide](https://www.ucd.ie/t4cms/UCD-commuting-guide-2015.pdf) for more information on how to get to UCD. 
+Please refer this [UCD commuting guide](https://www.ucd.ie/t4cms/UCD-commuting-guide-2015.pdf) for more information on how to get to UCD. 
 
 ### Travel to and from Dublin
 
