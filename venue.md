@@ -42,6 +42,10 @@ See the [additional detail](http://www.ucd.ie/gettingtoucd.htm) on how to get to
 
 ### Childcare and nursing
 
-### Accessibility and Special requirements
+### Special requirements
 
-### Entertainment and Exercise
+### Prayer/meditation room
+
+### Physical work-out options
+
+### Entertainment 
