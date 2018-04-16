@@ -1,6 +1,6 @@
 **Short bio**
 
-- Dr. Kate Hertweck is an Assistant Professor of Biology at the University of Texas of Tyler. Her research interests in evolution, genomics, and bioinformatics have led to student advising and research collaborations around the world.
+- [Dr. Kate Hertweck](https://twitter.com/k8hert) is an Assistant Professor of Biology at the University of Texas of Tyler. Her research interests in evolution, genomics, and bioinformatics have led to student advising and research collaborations around the world.
 
 - Tags: 
   - The Carpentries Executive Council
