@@ -64,7 +64,7 @@ for details. There is even an app (available for download for iOS devices
 [here](https://itunes.apple.com/us/app/ucd-woodland-walks/id715113745?mt=8)) with an interactive map and guide to the
 UCD trail system!
 
-*Interested in Art?* Follow the [UCD Sculpture Trail(http://www.ucd.ie/exploreucd/docs/UCD_Sculpture_Trail_2015.pdf)]
+*Interested in Art?* Follow the [UCD Sculpture Trail](http://www.ucd.ie/exploreucd/docs/UCD_Sculpture_Trail_2015.pdf)
 which showcases 35 public works of art representative of national and internationally 
 renowned artists.
 
