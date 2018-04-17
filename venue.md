@@ -52,7 +52,7 @@ from the Dublin airport or train stations.
 
 ## Prayer / Meditation Room
 
-## Physical Activity Options
+## Entertainment & Physical Activity
 
 *Interested in Culture and History?* [Explore UCD](http://www.ucd.ie/exploreucd/) is a 
 self-guided walking tour of approximately 2.5 km, and takes 75 to 90 minutes.
@@ -67,5 +67,3 @@ UCD trail system!
 *Interested in Art?* Follow the [UCD Sculpture Trail](http://www.ucd.ie/exploreucd/docs/UCD_Sculpture_Trail_2015.pdf)
 which showcases 35 public works of art representative of national and internationally 
 renowned artists.
-
-## Entertainment 
