@@ -3,6 +3,7 @@
 - [François Michonneau](https://francoismichonneau.net) is the Curriculum Development Lead for The Carpentries. He is a marine biologist by training with a special fondness for biodiversity data and sea cucumbers.
 
 - Tags: 
+   - [The Carpentries](http://www.datacarpentry.org/blog/curriculum-dev-scaling/)
    - [DC Lesson Maintainer](http://www.datacarpentry.org/lessons/) etc. 
  
 **Session name(s) and link(s)**
