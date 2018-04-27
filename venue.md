@@ -5,17 +5,17 @@
 
 ## Important Contact List
 
-*Contact the CarpentryCon organisers:* carpentrycon@carpentries.org
+**Contact the CarpentryCon organisers:** carpentrycon@carpentries.org
   - Please see the complete contact list for specific contact person: http://www.carpentrycon.org/#contact
   - Slack chennels to contact the organiser and other participants:
   - We have conference Slack channel for getting in touch with the organisers and other participants: https://tinyurl.com/carpentrycon-slack
 
-*Nearest pharmacy:* [Procare Pharmacy UCD](http://procarepharmacy.ie/)
+**Nearest pharmacy:** [Procare Pharmacy UCD](http://procarepharmacy.ie/)
   - Address: UCD Student Centre, Belfield, Dublin 4, D04 V1W8
   - Phone: 01 7163840
   - Email: ucd@procarepharmacy.ie
 
-*Emergency:* http://mentalhealth.ucd.ie/emergency-contacts/
+**Emergency:** http://mentalhealth.ucd.ie/emergency-contacts/
 
   - Campus Services (For On Campus Emergencies): 01 716 7999
   - Ambulance/ Gardaí and Emergency Services: 999 or 112
@@ -23,7 +23,7 @@
   East Doc (out of hours GP service): 01 209 4021
   - Accident & Emergency (St Vincent’s): 01 221 4387
 
-*UCD Conference & Events Manager:* 
+**UCD Conference & Events Manager:**
   - Contact person: Mary-Beth Jennings
   - Tel: +353 1 716 2189
   - Email: marybeth.jennings@ucd.ie
@@ -42,6 +42,7 @@ Specific workshop, skill-up, and breakout rooms will be anounced as information
 becomes available.
 
 **Location Address**
+
 The UCD O'Brien Centre for Science is located on UCD's Belfield campus, 4 km south of Dublin
 city centre.
 
@@ -129,7 +130,7 @@ For any related requests and suggestions please contact the organisers.
 
 ## Special Requirements
 
-If you are in need of special accommodations, we want to be able to assist in all ways. Please be sure to inform the taskforce at carpentrycon@carpentries.org prior to arrival so that you will have what you need while attending CarpentryCon
+If you are in need of special accommodations, we want to be able to assist in all ways. Please be sure to inform the organisers prior to arrival so that you will have what you need while attending CarpentryCon
 
 ## Quiet /Prayer Rooms
 
