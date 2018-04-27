@@ -1,7 +1,7 @@
 # CarpentryCon Accessibility Information
 
-- AtoZ of the CarpentryCon: will be added soon.
-- CarpentryCon cheatsheet: will be added soon.
+- AtoZ of the CarpentryCon: [under preparation](https://github.com/carpentries/carpentrycon/blob/master/AtoZ_of_CarpentryCon.md).
+- CarpentryCon cheatsheet: [under preparation](https://github.com/carpentries/carpentrycon/blob/master/CarpentryCon_Cheetsheet.md).
 
 ## Important Contact List
 
