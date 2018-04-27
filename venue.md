@@ -130,7 +130,7 @@ For any related requests and suggestions please contact the organisers.
 
 ## Special Requirements
 
-If you are in need of special accommodations, we want to be able to assist in all ways. Please be sure to inform the organisers prior to arrival so that you will have what you need while attending CarpentryCon
+If you are in need of special accommodations, we want to be able to assist in all ways. Please be sure to inform the organisers prior to arrival so that you will have what you need while attending CarpentryCon.
 
 ## Quiet /Prayer Rooms
 
