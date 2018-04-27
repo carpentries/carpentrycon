@@ -41,7 +41,7 @@ map, above) on the left hand side of the main foyer.
 Specific workshop, skill-up, and breakout rooms will be anounced as information
 becomes available.
 
-**##### Location Address**
+**Location Address**
 The UCD O'Brien Centre for Science is located on UCD's Belfield campus, 4 km south of Dublin
 city centre.
 
@@ -58,14 +58,14 @@ Link to Google Map: https://goo.gl/maps/xpnddSdsZ8n
 A campus map can be found
 [here](http://mdd.ucd.ie/wp-content/uploads/2015/05/UCD-Map-October-2014-Custom.pdf).
 
-**##### Wheelchair Accessibility**
+**Wheelchair Accessibility**
 
 The conference venue is accessible. Please see the
 [floor plan](http://www.ucd.ie/t4cms/Con-Science-District.pdf) for detail.
 
 Please contact us if you would need any special assistance.
 
-**##### Wireless**
+**Wireless**
 
 Two wireless networks are available in the UCD O'Brien Centre for Science:
 
@@ -73,7 +73,7 @@ Two wireless networks are available in the UCD O'Brien Centre for Science:
 |--|--|
 |<table> <tr><td>**SSID**</td><td>UCD Wireless</td></tr> <tr><td>**Network type**</td><td>Access point</td></tr> <tr><td>**Security type**</td><td>No authentication</td></tr> <tr><td>**Encryption type**</td><td>None</td></tr></table>| <table> <tr><td>**SSID**</td><td>eduroam</td></tr> <tr><td>**Network type**</td><td>Access point</td></tr> <tr><td>**Security type**</td><td>WPA2-Enterprise</td></tr> <tr><td>**Encryption type**</td><td>AES</td></tr></table>|
 
-**##### Helpdesk**
+**Helpdesk**
 
 We will have a helpdesk at the conference where you can get all the information that you may need during the conference. We will also assign a welcome-team, who will help you during the first day to get orientated at the conference venue.
 
