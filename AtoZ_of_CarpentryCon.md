@@ -15,7 +15,8 @@
 - K: Knowledge sharing
 - L: Library Carpentry, Lightning talks
 - M: Medical, Mentoring, meet-up
-- N: Nursing, Name-tag (name tag idea w/ pronouns and icebreaker: https://github.com/DanielleQuinn/Miscellaneous/blob/master/nametag.jpg)
+- N: Nursing, Name-tag 
+  - (name tag idea w/ pronouns and icebreaker: https://github.com/DanielleQuinn/Miscellaneous/blob/master/nametag.jpg)
 - O: Opportunities, O'Brien center, Orientation, Open mic
 - P: Pronouns, Photography, Posters, post-conference
 - Q: Questions, Quiet Rooms
