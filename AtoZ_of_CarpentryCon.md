@@ -1,6 +1,6 @@
-##A to Z of CarpentryCon
+# A to Z of CarpentryCon
 
-# Coming soon...
+## Coming soon...
 
 - A: Address, Arrival, Access, Allies
 - B: Break-out session, Buses, Bars
