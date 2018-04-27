@@ -7,7 +7,7 @@
 
 **Contact the CarpentryCon organisers:** carpentrycon@carpentries.org
   - Please see the complete contact list for specific contact person: http://www.carpentrycon.org/#contact
-  - Slack chennels to contact the organiser and other participants:
+  - Slack channels to contact the organiser and other participants:
   - We have conference Slack channel for getting in touch with the organisers and other participants: https://tinyurl.com/carpentrycon-slack
 
 **Nearest pharmacy:** [Procare Pharmacy UCD](http://procarepharmacy.ie/)
