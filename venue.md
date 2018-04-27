@@ -158,4 +158,4 @@ UCD trail system!
 which showcases 35 public works of art representative of national and internationally
 renowned artists.
 
-*Interesred in Museums?* UCD is home to the National Folklore Collection, one of the world's largest collections of oral & ethnological material, including books, audio recordings, videos, photographs, & art dealing with Irish life, folk-history, & culture. Read more: https://www.discoverireland.ie/Arts-Culture-Heritage/national-folklore-collection/88595
+*Interesred in Museums?* UCD is home to the National Folklore Collection, one of the world's largest collections of oral & ethnological material, including books, audio recordings, videos, photographs, & art dealing with Irish life, folk-history, & culture. [Read more](https://www.discoverireland.ie/Arts-Culture-Heritage/national-folklore-collection/88595).
