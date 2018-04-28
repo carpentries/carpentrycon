@@ -8,7 +8,7 @@
 
 Toby Hodges
 
-Kari L. Jordan
+[Kari L. Jordan](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/SessionChairs/KariLJordan-bio.md)
 
 ## Abstract
 What are the characteristics of a great mentor? How can I lead small groups of instructors and other community members to achieve a common goal? During this session, we will explore strategies and resources to help potential mentors prepare to lead groups around teaching Carpentries material, hosting self-organizing workshops, and maintaining Carpentries lessons. Participants will leave equipped with the tools to mentor individuals locally, and across the Carpentries’ global community.
