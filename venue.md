@@ -3,32 +3,6 @@
 - AtoZ of the CarpentryCon: [under preparation](https://github.com/carpentries/carpentrycon/blob/master/AtoZ_of_CarpentryCon.md).
 - CarpentryCon cheatsheet: [under preparation](https://github.com/carpentries/carpentrycon/blob/master/CarpentryCon_Cheetsheet.md).
 
-## Important Contact List
-
-**Contact the CarpentryCon organisers:** carpentrycon@carpentries.org
-  - Please see the complete contact list for specific contact person: http://www.carpentrycon.org/#contact
-  - Slack channels to contact the organiser and other participants:
-  - We have conference Slack channel for getting in touch with the organisers and other participants: https://tinyurl.com/carpentrycon-slack
-
-**Nearest pharmacy:** [Procare Pharmacy UCD](http://procarepharmacy.ie/)
-  - Address: UCD Student Centre, Belfield, Dublin 4, D04 V1W8
-  - Phone: 01 7163840
-  - Email: ucd@procarepharmacy.ie
-
-**Emergency:** http://mentalhealth.ucd.ie/emergency-contacts/
-
-  - Campus Services (For On Campus Emergencies): 01 716 7999
-  - Ambulance/ Gardaí and Emergency Services: 999 or 112
-  - UCD Student Health Service: 01 716 3131
-  East Doc (out of hours GP service): 01 209 4021
-  - Accident & Emergency (St Vincent’s): 01 221 4387
-
-**UCD Conference & Events Manager:**
-  - Contact person: Mary-Beth Jennings
-  - Tel: +353 1 716 2189
-  - Email: marybeth.jennings@ucd.ie
-  - More contact from the venue: http://www.ucd.ie/conferences/contactus/
-
 ## Conference Venue
 
 The conference is being held at the [O'Brien Centre for Science](http://www.ucd.ie/conferences/venues/classroom-and-theatres/)
@@ -61,10 +35,10 @@ A campus map can be found
 
 **Wheelchair Accessibility**
 
-The conference venue is accessible. Please see the
+The conference venue is wheelchair accessible. Please see the
 [floor plan](http://www.ucd.ie/t4cms/Con-Science-District.pdf) for detail.
 
-Please contact us if you would need any special assistance.
+Please contact the organisers (email: carpentrycon@carpentries.org) if you would need any special assistance.
 
 **Wireless**
 
@@ -76,9 +50,43 @@ Two wireless networks are available in the UCD O'Brien Centre for Science:
 
 **Helpdesk**
 
-We will have a helpdesk at the conference where you can get all the information that you may need during the conference. We will also assign a welcome-team, who will help you during the first day to get orientated at the conference venue.
+We will have a helpdesk at the venue where you can get all the information that you may need during the conference. We will also have a designated welcome-team, who will help you during the day to get orientated at the conference venue.
 
-A group of volunteers will always be present at the venue to help you coordinate with the organiser, session chairs, venue manager, and help you find your way at the venue. You are welcome to join us as a volunteer to extend your help to the other participants.
+**Volunteers and Volunteering**
+
+A group of volunteers will always be present at the venue to help you coordinate with the organiser, session chairs, venue manager, and find your way to the different rooms at the venue. 
+
+You are welcome to join us as a volunteer to extend your help to the other participants. You can find all the information on [this etherpad](http://pad.software-carpentry.org/carpentrycon_volunteers). Write an email to the organizers (Malvika, Sher and Danielle) for any related questions and concers.
+
+## Important Contact List
+
+**Contact the CarpentryCon organisers:** 
+  - Please see the complete list to find the specific contact person who could help you with your queries: http://www.carpentrycon.org/#contact
+  - The direct emails can be sent to the following email addresses: 
+  - Common email: carpentrycon@carpentries.org
+  - Fotis Psomopoulos: fpsom@issel.ee.auth.gr
+  - Malvika Sharan: malvika.sharan@embl.de
+  - Belinda Weaver: bweaver@carpentries.org
+  - Join our conference Slack channel for getting in touch with the organisers and other participants: https://tinyurl.com/carpentrycon-slack
+  - Phone number (only during the conference): TBD
+
+**Emergency:** http://mentalhealth.ucd.ie/emergency-contacts/
+  - Campus Services (for on campus emergencies): 01 716 7999
+  - Ambulance/ Gardaí and Emergency Services: 999 or 112
+  - UCD Student Health Service: 01 716 3131
+  - East Doc (out of hours GP service): 01 209 4021
+  - Accident & Emergency (St Vincent’s): 01 221 4387
+  
+**Nearest pharmacy:** [Procare Pharmacy UCD](http://procarepharmacy.ie/)
+  - Address: UCD Student Centre, Belfield, Dublin 4, D04 V1W8
+  - Phone: 01 7163840
+  - Email: ucd@procarepharmacy.ie
+  
+**UCD Conference & Events Manager:**
+  - Contact person: Mary-Beth Jennings
+  - Tel: +353 1 716 2189
+  - Email: marybeth.jennings@ucd.ie
+  - More contact from the venue: http://www.ucd.ie/conferences/contactus/
 
 ## Travelling In Dublin / Getting to UCD Belfield Campus
 
@@ -106,15 +114,17 @@ University College Dublin (UCD) has a special offer for CarpentryCon 2018 partic
 
 Additionally, we are providing three hotel options for you. All hotels are offering us a special CarpentryCon rate. See the UCD map to help you choose.The special rates will be valid for the period of the event and available until the specified cut-off dates; anyone looking to book after that date will be offered the best available rate at the time.
 
+Please contact the organisers (Malvika and Fotis) for any related queries.
+
 ## Visa Information for International Travelers
 
 Please see the details about the application process here for a visa request from the Irish Naturalisation and Immigration Service : https://www.dfa.ie/travel/visas/visas-for-ireland/.
 
-You can receieve a visa support letter from the conference organisers, please contact Fotis (fpsom@issel.ee.auth.gr) and Malvika (malvika.sharan@embl.de) with your request.
+You can receieve a visa support letter from the conference organisers, please contact Fotis and Malvika with your request.
 
 ## Weather and Attire
 
-The temperature during the conference as per the [accuweather-forecast](https://www.accuweather.com/en/ie/dublin/207931/may-weather/207931?monyr=5/1/2018&view=table) will be 8-16 Degree Celcius.
+The temperature during the conference, as per the [accuweather-forecast](https://www.accuweather.com/en/ie/dublin/207931/may-weather/207931?monyr=5/1/2018&view=table), will be 8-16 Degree Celcius.
 
 Weather in Dublin is very variable and it is not unusual to have short rain showers during the day. Unfortunately, the city is also extremely windy so umbrellas will not be very useful! A good strategy is to resort to layered clothing and to bring waterproof shoes and jackets.
 
@@ -126,7 +136,7 @@ For mothers who need a designated space for nursing, please look for the nursing
 
 Please check Talbot hotel for their accommodation and child care support: (https://www.talbothotelstillorgan.com/). You must be a guest of this hotel to receive this service.
 
-For any related requests and suggestions please contact the organisers.
+For any related requests and suggestions please contact the organisers (Sher and Fotis).
 
 ## Special Requirements
 
@@ -159,3 +169,10 @@ which showcases 35 public works of art representative of national and internatio
 renowned artists.
 
 *Interesred in Museums?* UCD is home to the National Folklore Collection, one of the world's largest collections of oral & ethnological material, including books, audio recordings, videos, photographs, & art dealing with Irish life, folk-history, & culture. [Read more](https://www.discoverireland.ie/Arts-Culture-Heritage/national-folklore-collection/88595).
+
+**Other Useful links to help you plan for stay in Dublin**
+
+- https://www.discoverireland.ie/visit-dublin
+- https://www.visitdublin.com/
+- http://www.touristofficedublin.com/
+- [Everything else](https://www.google.de/search?q=dublin+tourism&oq=dublin+tourism&aqs=chrome..69i57j69i60j0l4.4615j1j4&sourceid=chrome&ie=UTF-8)
