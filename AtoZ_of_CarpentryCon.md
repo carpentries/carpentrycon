@@ -86,15 +86,10 @@ The Carpentries is governed by the newly formed Executive Council, to whom the E
 ##### Emergency
 
 In case of emergency, please contact the welcome-team/organizers via phone (number to be added), email (carpentrycon@carpentries.org) or slack.
-
 Here is a list of few other emergency contacts:
-
 - Campus Services (for on campus emergencies): 01 716 7999
 - Ambulance/ Gardaí and Emergency Services: 999 or 112
 - Nearest pharmacy: [Procare Pharmacy UCD](https://goo.gl/maps/hoxNWogRPWE2), Phone: 01 7163840
-
-
-Phone: 01 7163840
 
 Check the list of all other important contact on [this page](https://github.com/carpentries/carpentrycon/blob/master/venue.md).
 
