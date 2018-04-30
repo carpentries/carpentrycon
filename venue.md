@@ -140,7 +140,7 @@ For any related requests and suggestions please contact the organisers (Sher and
 
 ## Special Requirements
 
-If you are in need of special accommodations, we want to be able to assist in all ways. Please be sure to inform the organisers prior to arrival so that you will have what you need while attending CarpentryCon.
+We want to be able to provide you all the support possible from our end to make your attendence at CarpentryCon comfortable and enjoayble. If you have any special requirements related to your health, diet, accommodations, medical or anything that is not listed on this page, please be sure to inform the organisers prior to arrival so that you will have what you need while attending the conference.
 
 ## Quiet /Prayer Rooms
 
