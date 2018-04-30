@@ -23,9 +23,11 @@ We will offer you a range of badges (speakers, course maintainers, job seeker, n
 
 ##### Break-out sessions
 
+There will be 12 breakout sessions during CarpentryCon (http://www.carpentrycon.org/#program). The abstracts of all the session can be found and stored in the [CarpentryCon GitHub pages](https://github.com/carpentries/carpentrycon/tree/master/Sessions) (separated by dates). There will be a limuted number of participation possible for each of these. Closer to the conference we will send out more information on how to register for those (look out for that).
+
 ##### Bars
 
-Here is a list of Bars in Dublin (suggested by our Volunteers from UCD Benjamin Roques and Chiara Cotroneo, who know what they are talking about):
+Here is a list of Bars in Dublin (suggested by our Volunteers from UCD, Benjamin Roques and Chiara Cotroneo, who know what they are talking about):
 - [Alfie Byrne's](https://goo.gl/maps/5tjjhJ7w4EQ2)
 - [Against the Grain](https://goo.gl/maps/HwPYvmhe9H42)
 - [The Barge](https://goo.gl/maps/eA8m2AXYd7K2)
@@ -35,11 +37,11 @@ Here is a list of Bars in Dublin (suggested by our Volunteers from UCD Benjamin 
 
 If you have any additional recommendations, head over to the etherpad dedicated for the discussion on [social activities at CarpentryCon](http://pad.software-carpentry.org/social_events).
 
-#### C: Carpentries, CarpentryCon, Child Care, Code of Conduct, Coffee
+#### C: Carpentries, CarpentryCon, Code of Conduct, Child Care, Coffee
 
-##### Carpentries
+##### The Carpentries and *Code of Conduct*
 
-##### CarpentryCon and Code of Conduct
+##### CarpentryCon and *Code of Conduct*
 
 ##### Child Care
 
