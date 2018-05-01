@@ -38,7 +38,7 @@ We have a list of bar suggestion on the etherpad dedicated to the discussion on 
 
 The Carpentries (https://carpentries.org/), brings Software, Data, and Library Carpentries together under an umbrella to teach foundational computational, coding, and data science skills to researchers worldwide. We are a diverse, global community of volunteer Instructors, helpers, Trainers, Maintainers, champions, member organizations, supporters, and staffs.
 
-##### CarpentryCon 2018
+##### CarpentryCon 2018 and *Code of Conduct*
 
 CarpentryCon 2018 (http://www.carpentrycon.org/) is the inaugural annual conference for all the members of the Carpentries. Under the theme “Building Locally, Connecting Globally”, we have planned a number of events and opportunities for you including keynote talks, skill-up sessions, breakout discussions, social events, lightning talks, and workshop. This will provide a diverse and inclusive environment for learning, skill-building, and networking event for the participants interested in computational techniques to enhance the quality and efficiency of their work, and have a great time at the conference.
 
