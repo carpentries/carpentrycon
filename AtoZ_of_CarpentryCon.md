@@ -64,7 +64,7 @@ Our host city [Dublin](https://en.wikipedia.org/wiki/Dublin) is known for its ri
 
 ##### Diversity
 
-The Carpentries is a community of volunteer instructors, helpers, Trainers, Maintainers, champions, member organisations, supporters, and staff of diverse background, nationality, ethnicity, gender and various identity groups. We are working hard to ensure that everyone feels welcome at CarpentryCon. Feel free to reach out to the organizers and staff if they can improve your experience as a member at The Carpentries and CarpentryCon. Attendees must be prepared to abide by our Code of Conduct (see *Code of Conduct, Emergency, Inclusion*).
+The Carpentries is a community of volunteer instructors, helpers, Trainers, Maintainers, champions, member organisations, supporters, and staff of diverse background, nationality, ethnicity, gender and various identity groups. We are working hard to ensure that everyone feels welcome at CarpentryCon. Feel free to reach out to the organizers and staff if they can improve your experience as a member at The Carpentries and CarpentryCon. Attendees must be prepared to abide by our Code of Conduct (see *Allies, Carpentries, Code of Conduct, Inclusion, Emergency*).
 
 ##### Data Carpentry at CarpentryCon
 
@@ -122,7 +122,7 @@ Many people coming to CarpentryCon 2018 will be new to our community. We know th
 
 ##### Inclusion
 
-We want to create an inclusive and welcoming environment at the conference. We are providing travel assistance to facilitate attendance from as wide a group as possible. We are collecting full details to identify needs for childcare and mobility, accessibility and dietary preferences during registeration. Feel free to reach out to the organizers and staff if they can improve your participation at CarpentryCon. (see *Carpentries, Diversity, Emergency, Code of Conduct*)
+We want to create an inclusive and welcoming environment at the conference. We are providing travel assistance to facilitate attendance from as wide a group as possible. We are collecting full details to identify needs for childcare and mobility, accessibility and dietary preferences during registeration. Feel free to reach out to the organizers and staff if they can improve your participation at CarpentryCon. (see *Allies, Carpentries, Code of Conduct, Diversity, Emergency*)
 
 #### J: Job Board, Join the Carpentries
 
