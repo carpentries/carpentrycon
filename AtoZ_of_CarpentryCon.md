@@ -277,7 +277,7 @@ Explore Dublin by jogging or walking through the city and learn about its histor
 
 ##### *Xenophobia, racism, sexism and any forms of discrimination will not be tolerated*
 
-The Carpentries community respects diversity and inclusion, as expressed in our [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html). Any form of discrimination including nationality, ethnic, sexual, religious and cultural will not be tolerated. (see *Allies, Code of Conduct, Diversity, Inclusion*)
+The Carpentries community respects diversity and inclusion, as expressed in our [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html). Any form of discrimination including nationality, ethnicity, sexuality, religious and cultural belief will not be tolerated. (also see *Allies, Code of Conduct, Diversity, Inclusion*)
 
 #### Y: You!
 
