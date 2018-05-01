@@ -50,9 +50,9 @@ As a member and conference participant, you will be expected to follow the [Code
 
 Parent/Family traveling with child/children must inform the organizers if they would be attending the conference with their child/children so that we can provide you with all the necessary information and support from our end. For mothers who need a designated space at the conference for nursing, please look for the nursing signs upon arrival of the conference.
 
-##### Coffee
+##### Coffee and Catering
 
-Of course! one of the most important conference supplies, coffee, will be offered at the conference during the breaks. Here is a list of all the [coffee/food places in UCD](http://www.ucd.ie/students/guide/food.html), if you want to take a walk during and after the conference and find other non-conference coffee.
+Of course! one of the most important conference supplies, coffee, will be offered at the conference during the breaks. Here is a list of all the [coffee/food places in UCD](http://www.ucd.ie/students/guide/food.html), if you want to take a walk during and after the conference and find other non-conference coffee. Lunch will be provided at the conference for the registered participants. We will use the catering services of Restaurant Pi located in the same building as the venue. We will take care of the different dietry requirements if you have mentioned it in your registration. Please let the organisers know if you'd like to amend your specified dietry requirement.
 
 #### D: Dublin, Diversity, Data Carpentry
 
@@ -191,13 +191,27 @@ There are several ways to become a member of [The Carpentries community](https:/
 
 ##### Questions
 
+Get in touch with the organisers (carpentrycon@carpentries.org) if you have any specific question about the conference. Join the community call (May 3) to discuss with them in person ([see the notes](http://pad.software-carpentry.org/carpconcall)). At the conference you can approach organisers and volunteers (welcome-team) for any specific queries. Join our Slack channel for any recent discussion and updates.
+
 ##### Quiet Rooms
+
+If you need a quiet place while attending CarpentryCon, there will be space available. Please see the program or ask a volunteer where the room will be located. We ask that while you are in the room that you are mindful of others who may be sharing the space as well.
+
+There are following prayer rooms available on campus:
+ - UCD Muslim/Islamic Prayer Room
+- UCD Chaplaincy prayer room - St Stephens
 
 #### R: Registration, Restaurant suggestions
 
 ##### Registration
 
+The [online registration](https://www.eventbrite.com/e/carpentrycon-2018-tickets-42447719271) is open. We will have an opportunity for on-site registration but please let the organiser know in advanced. More information about the workshop registration will be added here.
+
+The registration desk will be available on site from May 28th (evening) to June 1. Please bring your registration confirmation which can be swapped for your name tag and badges.
+
 ##### Restaurant suggestions
+
+We will be using the catering service from Pi restaurant, which is located in the same builiding as the conference venue. More restaurant suggestions for you are available on the etherpad dedicated to the discussion on [social activities at CarpentryCon](http://pad.software-carpentry.org/social_events). If you have any recommendation please add them there.
 
 #### S: Speakers, Skill-up, Sticky Notes, Slack, Special requirements, Surveys, Sponsors, Sightseeing
 
@@ -263,6 +277,8 @@ Explore Dublin by jogging or walking through the city and learn about its histor
 
 ##### Weather
 
+The temperature during the conference, as per the accuweather-forecast, will be 8-16 Degree Celcius. Weather in Dublin changes a lot through the day. It is not unusual to have wind, short rain showers, and surprising sunshine, all in one day. Unfortunately, the city is also extremely windy so umbrellas will not be very useful! A good strategy is to resort to layered clothing and to bring waterproof shoes and jackets.
+
 ##### Workshop
 
 ##### Wireless
@@ -275,7 +291,7 @@ Explore Dublin by jogging or walking through the city and learn about its histor
 
 #### X
 
-##### *Xenophobia, racism, sexism and any forms of discrimination will not be tolerated*
+##### *Xenophobia, racism, sexism and any forms of discrimination will not be tolerated!*
 
 The Carpentries community respects diversity and inclusion, as expressed in our [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html). Any form of discrimination including nationality, ethnicity, sexuality, religious and cultural belief will not be tolerated. (also see *Allies, Code of Conduct, Diversity, Inclusion*)
 
