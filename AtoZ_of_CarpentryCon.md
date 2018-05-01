@@ -1,81 +1,76 @@
 ## A to Z of CarpentryCon
 
-Below you will find all the information that we thought might help you plan your trip to Dublin for CarpentryCon 2018. We took this challenge at one of our several meetings to find all the keywords starting A-Z to cover all the queries you might have about the conference. We are pretty confident that we have been able to do that, (except that we cheated for the letter X and Z and will be happy to give a special goodie to anyone who have a better idea!), but please don’t hesitate to reach out to us and let us know if something is missing. Please take a look at this so that you can plan your stay in Dublin ahead of time and have a best time during the conference. We are very excited to meet you at CarpentryCon 2018!
+Below you will find all the information that we thought might help you plan your trip to Dublin for CarpentryCon 2018. We took this challenge at one of our several meetings to find all the keywords starting A-Z to cover all the queries you might have about the conference. We are pretty confident that we have been able to do that, (except that we cheated for the letter X and Z and will be happy to give a special goodie to anyone who has a better idea!), but please don’t hesitate to reach out to us and let us know if something is missing. Please take a look at this so that you can plan your stay in Dublin ahead of time and have the best time during the conference. We are very excited to meet you at CarpentryCon 2018!
 
 #### A: Arrival, Access, Accommodation, Allies
 
 ##### Arrival and Access
 
-You can exchange your registration ticket for a name tag, badges and lunch tickets. The registration desk will be located at the conference site starting from Tuesday evening (night before the conference). We will have a designated welcome-team of organisers and volunteers who you can recognise by their T-shirts and name tag. You will have access to lecture hall and breakout rooms, look out for the signs at the venue. Do not hesitate to reach out to the welcome-team during the conference for any query or concern.
+You can exchange your registration ticket for a name tag, badges and lunch tickets. The registration desk will be located at the conference site starting from Tuesday evening (the night before the conference). We will have a designated welcome-team of organizers and volunteers who you can recognize by their T-shirts and name tag. You will have access to the lecture hall and breakout rooms, look out for the signs at the venue. Do not hesitate to reach out to the welcome-team during the conference for any query or concern.
 
 ##### Accommodation
 
-We have listed all the [accommodation options](http://www.carpentrycon.org/#accom) on the CarpentryCon website. The UCD on-site accommodation ([Summer at UCD](http://www.ucd.ie/summeratucd/accommodation/)] is located within walking distance to the conference venue and their  reception Office is open 24/7 from the 28th May onwards. The corrsponding accommodation provider will providing you with all the required information. Several of these sites are wheelchair accessible. You must make sure that you have made arrangements for your accommodation in one of these (or other) hotels.
+We have listed all the [accommodation options](http://www.carpentrycon.org/#accom) on the CarpentryCon website. The UCD on-site accommodation ([Summer at UCD](http://www.ucd.ie/summeratucd/accommodation/)] is located within walking distance to the conference venue and their reception Office is open 24/7 from the 28th May onwards. The corresponding accommodation provider will provide you with all the required information. Several of these sites are wheelchair accessible. You must make sure that you have made arrangements for your accommodation in one of these (or other) hotels.
 
 ##### Allies
 
-An ally is someone who uses her/his/their the societal privileges for supporting members of other identity groups. We would like to create an inclusive environment at CarpentryCon and invite you to extend your support to others at this conference and beyond. You can learn through [resources](https://frameshiftconsulting.com/ally-skills-workshop/#materials) made available by on of our Keynote speakers [Valerie Aurora](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/Speakers/ValerieAurora-bio.md). Additionally, Valerie will offer the [Ally workshop](https://github.com/carpentries/carpentrycon/tree/master/Sessions/2018-06-01/03-Workshop-3-Ally-Workshop-With-Valerie-Aurora) on June 1 in parallel to other great set of workshops.
+An ally is someone who uses her/his/their societal privileges for supporting members of other identity groups. We would like to create an inclusive environment at CarpentryCon and invite you to extend your support to others at this conference and beyond. You can learn through [resources](https://frameshiftconsulting.com/ally-skills-workshop/#materials) made available by one of our Keynote speakers [Valerie Aurora](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/Speakers/ValerieAurora-bio.md). Additionally, Valerie will offer the [Ally workshop](https://github.com/carpentries/carpentrycon/tree/master/Sessions/2018-06-01/03-Workshop-3-Ally-Workshop-With-Valerie-Aurora) on June 1 in parallel to other workshops.
 
 #### B: Badges, Break-out sessions, Bars
 
 ##### Badges
+
 We will offer you a range of badges (speakers, course maintainers, job seeker, new members etc.) to indicate your roles and interests in CarpentryCon and The Carpentries. These badges could be worn with your name tag to make the best of the social interaction at the conferences.
 
 ##### Break-out sessions
 
-There will be 12 breakout sessions during CarpentryCon (http://www.carpentrycon.org/#program). The abstracts of all the session can be found and stored in the [CarpentryCon GitHub pages](https://github.com/carpentries/carpentrycon/tree/master/Sessions) (separated by dates). There will be a limuted number of participation possible for each of these. Closer to the conference we will send out more information on how to register for those (look out for that).
+There will be 12 breakout sessions during CarpentryCon (http://www.carpentrycon.org/#program). The abstracts of all the session can be found and stored in the [CarpentryCon GitHub pages](https://github.com/carpentries/carpentrycon/tree/master/Sessions) (separated by dates). There will be a limited number of seat available for each of these. Closer to the conference we will send out more information on how to register for those (look out for that).
 
 ##### Bars
 
-Here is a list of Bars in Dublin (suggested by our Volunteers from UCD, Benjamin Roques and Chiara Cotroneo, who know what they are talking about):
-- [Alfie Byrne's](https://goo.gl/maps/5tjjhJ7w4EQ2)
-- [Against the Grain](https://goo.gl/maps/HwPYvmhe9H42)
-- [The Barge](https://goo.gl/maps/eA8m2AXYd7K2)
-- [Ashtons](https://goo.gl/maps/9FFS9XfG7Y52)
-- [Porterhouse Whiskey bar](https://goo.gl/maps/pFk9vds4akx)
-- [Temple Bar area](https://goo.gl/maps/sU8u1z2j52N2)
+Dublin is a city of Bar
 
-If you have any additional recommendations, head over to the etherpad dedicated for the discussion on [social activities at CarpentryCon](http://pad.software-carpentry.org/social_events).
+We have a list of bar suggestion on the etherpad dedicated to the discussion on [social activities at CarpentryCon](http://pad.software-carpentry.org/social_events). Please expand the list, if you have any additional recommendations.
 
 #### C: Carpentries, CarpentryCon, Code of Conduct, Child Care, Coffee
 
 ##### The Carpentries and *Code of Conduct*
 
-The Carpentries (https://carpentries.org/), brings Software, Data and Library Carpentries together under an umbrella to teach foundational computational, coding, and data science skills to researchers worldwide. We are a diverse, global community of volunteer Instructors, helpers, Trainers, Maintainers, champions, member organisations, supporters, and staffs.
+The Carpentries (https://carpentries.org/), brings Software, Data, and Library Carpentries together under an umbrella to teach foundational computational, coding, and data science skills to researchers worldwide. We are a diverse, global community of volunteer Instructors, helpers, Trainers, Maintainers, champions, member organizations, supporters, and staffs.
 
 ##### CarpentryCon 2018
 
-CarpentryCon 2018 (http://www.carpentrycon.org/) is the inaugural annual conference for all the members of the Carpentries. Under the theme “Building Locally, Connecting Globally”, we have planned a number of events and opportunities for you including keynote talks, skill-up sessions, breakout discussions, social events, lightning talks and workshop. This will provide a diverse and inclusive environment for learning, skill-building, and networking event for the participants interested in computational techniques to enhance the quality and efficiency of their work, and have a great time at the conference.
+CarpentryCon 2018 (http://www.carpentrycon.org/) is the inaugural annual conference for all the members of the Carpentries. Under the theme “Building Locally, Connecting Globally”, we have planned a number of events and opportunities for you including keynote talks, skill-up sessions, breakout discussions, social events, lightning talks, and workshop. This will provide a diverse and inclusive environment for learning, skill-building, and networking event for the participants interested in computational techniques to enhance the quality and efficiency of their work, and have a great time at the conference.
 
 ##### Code of Conduct
 
-As a member and conference participant you will be expected to follow the
+As a member and conference participant, you will be expected to follow the
+
 [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
 
 *Code of Conduct in Short*
 
-The Carpentries are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. Harassment is any form of behaviour intended to exclude, intimidate, or cause discomfort. Enforcement of the Code of Conduct will be respectful and not include any harassing behaviors. If you believe someone is violating the Code of Conduct we ask that you report it to the CarpentryCon TaskForce members in petson, by email or on slack. who can help you take the appropriate action at the conference. You can also reach out to The Carpentry Policy subcommittee by emailing policy@carpentries.org.
+The Carpentries are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. Enforcement of the Code of Conduct will be respectful and not include any harassing behaviors. Harassment in any form of behavior intended to exclude, intimidate, or cause discomfort is a violation of Code of Conduct. If you believe someone is violating the Code of Conduct we ask that you report it to the CarpentryCon TaskForce members in person, by email or on slack, who can help you take the appropriate action at the conference. You can also reach out to The Carpentry Policy subcommittee by emailing policy@carpentries.org.
 
 ##### Child Care
 
-Parent/Family traveling with child/children must inform the organisers if they would be attending the conference with their child/children, so that we can provide you with all the necessary information and support from our end. For mothers who need a designated space at the conference for nursing, please look for the nursing signs upon arrival of the conference.
+Parent/Family traveling with child/children must inform the organizers if they would be attending the conference with their child/children so that we can provide you with all the necessary information and support from our end. For mothers who need a designated space at the conference for nursing, please look for the nursing signs upon arrival of the conference.
 
 ##### Coffee
 
-Of course! one of the most important conference supply, coffee, will be offered at the conference during the breaks. Here is a list of all the [coffee/food places in UCD](http://www.ucd.ie/students/guide/food.html), if you want to take a walk during and after the conference and find other non-conferency coffee.
+Of course! one of the most important conference supplies, coffee, will be offered at the conference during the breaks. Here is a list of all the [coffee/food places in UCD](http://www.ucd.ie/students/guide/food.html), if you want to take a walk during and after the conference and find other non-conference coffee.
 
 #### D: Dublin, Diversity, Data Carpentry
 
 ##### Dublin
 
-Our host city [Dublin](https://en.wikipedia.org/wiki/Dublin) has a rich history, culture, and spectacular architecture. Find all the information we collected about city in context of CarpentryCon on the [venue/accessibility page](https://github.com/carpentries/carpentrycon/blob/master/venue.md). Make sure that you go out in the evening with other participants to explore the city and its wonderfull bustling restaurants and bars.
+Our host city [Dublin](https://en.wikipedia.org/wiki/Dublin) is known for its rich history, culture, and Georgian architecture. Find all the information we collected about the city in the context of CarpentryCon on the [venue/accessibility page](https://github.com/carpentries/carpentrycon/blob/master/venue.md). Make sure that you go out in the evening with other participants to explore the city and its wonderful bustling restaurants and bars.
 
 ##### Diversity
 
-
 ##### Data Carpentry at CarpentryCon
 
-[Data Carpentry (DC)](http://www.datacarpentry.org/) provides researchers high-quality, domain-specific training covering the full lifecycle of data-driven research. There will be an information desk where you can collect information on DC team, their work, workshops and various ways to get involved with their activities. Additionally, several DC members will be attending attending CarpentryCon (you can identify them with their badge), giving participants an opportunity for face-to-face networking.
+[Data Carpentry (DC)](http://www.datacarpentry.org/) provides researchers high-quality, domain-specific training covering the full lifecycle of data-driven research. There will be an information desk where you can collect information on DC team, their work, workshops and various ways to get involved with their activities. Additionally, several DC members will be attending CarpentryCon (you can identify them with their badge), giving participants an opportunity for face-to-face networking.
 
 #### E: Executives, Emergency, Entertainment, Events, Exhibition
 
@@ -85,42 +80,38 @@ The Carpentries is governed by the newly formed Executive Council, to whom the E
 
 ##### Emergency
 
-In case of emergency, please contact the welcome-team/organizers via phone (number to be added), email (carpentrycon@carpentries.org) or slack.
-Here is a list of few other emergency contacts:
-- Campus Services (for on campus emergencies): 01 716 7999
-- Ambulance/ Gardaí and Emergency Services: 999 or 112
-- Nearest pharmacy: [Procare Pharmacy UCD](https://goo.gl/maps/hoxNWogRPWE2), Phone: 01 7163840
+In case of emergency, please contact the welcome-team/organizers via phone (number to be added), email (carpentrycon@carpentries.org) or [slack](https://tinyurl.com/carpentrycon-slack).
 
-Check the list of all other important contact on [this page](https://github.com/carpentries/carpentrycon/blob/master/venue.md).
+Here is a list of few other emergency contacts:
+- Campus Services (for on-campus emergencies): 01 716 7999
+- Ambulance/ Gardaí and Emergency Services: 999 or 112
+- Nearest pharmacy: [Procare Pharmacy UCD](https://goo.gl/maps/hoxNWogRPWE2), Phone: 017163840
+
+Check the list of all other important contacts on [this page](https://github.com/carpentries/carpentrycon/blob/master/venue.md).
 
 ##### Entertainment and Events
 
-On the night before the conference, we will book a small pub so that you get a head start the social part of the conference. Please [fill this doodle](https://doodle.com/poll/37i357fyd8ard9d6) with your name and email to be notified. The conference dinner on the first night will allow you to ge to know other attendees in an informal setting and spend quality time with them at the conference. During the conference we have planned several opportunities for you (break-out, open-mic, coffee breaks) and platforms ([etherpad](http://pad.software-carpentry.org/social_events), [slack](https://tinyurl.com/carpentrycon-slack), [twitter](twitter.com/CarpentryCon)) to socialize with each other and make spontanous plan to explore the city and surrounding during the evening. Take a lead and organise sessions and social activities with others.
+On the night before the conference, we will book a small pub so that you get a head start the social part of the conference. Please [fill this doodle](https://doodle.com/poll/37i357fyd8ard9d6) with your name and email to be notified. The conference dinner on the first night will allow you to get to know other attendees in an informal setting and spend quality time with them at the conference. During the conference we have planned several opportunities for you (break-out, open-mic, coffee breaks) and platforms ([etherpad](http://pad.software-carpentry.org/social_events), [slack](https://tinyurl.com/carpentrycon-slack), [twitter](twitter.com/CarpentryCon)) to socialize with each other and make spontaneous plan to explore the city and surrounding during the evening. Take a lead and organize sessions and social activities with others.
 
 ##### Exhibition
 
 We will offer an opportunity to the exhibitors (commercial and non-commercial) to acquire a booth at CarpentryCon.
-We can place max 25 exhibitors at the conference site, therefore contact the organisers for possibility for you to have a booth there.
 
-#### F: Fitness, Friends and Family
+We can place max 25 exhibitors at the conference site, therefore contact the organizers for a possibility for you to have a booth there.
+
+#### F: Fitness, Friends, and Family
 
 ##### Fitness
 
-If you are in the city, you can check the [running trails](http://trailrunningireland.com/irish-trails-list/) to get your daily dose of fitness activity.
-
-You can also take a (sightseeing by jogging tour)[www.sightjoggingdublin.com] or follow different [UCD Woodland Trails](https://www.ucd.ie/t4cms/UCD%20Woodland%20Walk%20Map%20and%20Guide.pdf) depending on where in the city you are.
-
-Here is a list of swimming pools near [UCD](https://www.yelp.ie/search?cflt=swimmingpools&find_near=ucd-sport-and-fitness-dublin).
+If you are in the city, you can check the [running trails](http://trailrunningireland.com/irish-trails-list/) to get your daily dose of fitness activity. You can also take a (sightseeing by jogging tour)[www.sightjoggingdublin.com] or follow different [UCD Woodland Trails](https://www.ucd.ie/t4cms/UCD%20Woodland%20Walk%20Map%20and%20Guide.pdf) depending on where in the city you are. Here is a list of swimming pools near [UCD](https://www.yelp.ie/search?cflt=swimmingpools&find_near=ucd-sport-and-fitness-dublin).
 
 ##### Friends and Family
 
-Your partner, family members or guest are allowed to attend the keynote lectures. Here is a list of [on campus cafe and restaurants](http://www.ucd.ie/students/guide/food.html)) which will be accessible for them while they are in the UCD area. You can purchase a partner/friend (conference) dinner ticket through our [registration page](https://www.eventbrite.com/e/carpentrycon-2018-tickets-42447719271).
-
-Contact the organizers if we can help you in any way. See the related sections for *Childcare, Nursing, Medical, Events, Fitness* etc. for related information.
+Your partner, family members or guest are invited to attend the keynote lectures if they are on campus during the conference. However, the break-out, skill-up, and workshops will be limited to the conference participants for their participation. Here is a list of [on campus cafe and restaurants](http://www.ucd.ie/students/guide/food.html)) which will be accessible to them while they are in the UCD area. You can purchase a partner/friend (conference) dinner ticket through our [registration page](https://www.eventbrite.com/e/carpentrycon-2018-tickets-42447719271). Contact the organizers if we can help you in any way. See the related sections for *Childcare, Nursing, Medical, Events, Fitness* etc. for related information.
 
 #### G: Guinness
 
-The Guinness Storehouse, located at St. James’s Gate Brewery in Dublin is the number one tourist attraction in Dublin. In this seven storey tall building is a museum  featuring 250 years of history of Guinness advertising and interactive exhibit on responsible drinking. The top floor offers a beautifuk view to the city over drinks (both alcoholic and non-alcoholic) and food. It is open everyday from 09:30am to 19:00 and is wheelchair accessible. See [here](https://www.guinness-storehouse.com/) for information about visiting Guinness Storehouse.
+The Guinness Storehouse, located at St. James’s Gate Brewery in Dublin is the number one tourist attraction in Dublin. This seven-storied building is a museum featuring 250 years of history of Guinness advertising and interactive exhibit on responsible drinking. The top floor offers a beautiful view to the city over drinks (both alcoholic and non-alcoholic) and food from its Gravity Bar. It is open every day from 09:30 to 19:00 and is wheelchair accessible. See [here](https://www.guinness-storehouse.com/) for information about visiting Guinness Storehouse.
 
 #### H: Helpers and Helpdesk
 
@@ -154,20 +145,21 @@ The Guinness Storehouse, located at St. James’s Gate Brewery in Dublin is the 
 
 ##### Meet-ups
 
-#### N: Nursing, Name-tags+, New Members
+#### N: Nursing, Name Tags, New Members
 
 ##### Nursing
 
-##### Name-tags+
+##### Name Tags
+
   - (name tag idea w/ pronouns and icebreaker: https://github.com/DanielleQuinn/Miscellaneous/blob/master/nametag.jpg)
 
 ##### New Members
 
-#### O: Opportunities, O'Brien center, Orientation, Open mic
+#### O: Opportunities, O'Brien Centre, Orientation, Open mic
 
 ##### Opportunities
 
-##### O'Brien center
+##### O'Brien Centre
 
 ##### Orientation
 
@@ -197,10 +189,9 @@ The Guinness Storehouse, located at St. James’s Gate Brewery in Dublin is the 
 
 #### S: Speakers, Skill-up, Sticky Notes, Special requirements, Surveys, Sponsors, Sightseeing
 
-
 ##### Sightseeing
 
-Explore the city by jogging or walking through the city and learn about the history with the famous landmarks with Irish tour guides. See details please about the  [*Sight Jogging*] (www.sightjoggingdublin.com) and [Dublin Free Walking tour](http://www.dublinfreewalkingtour.ie/] for more information. We invite to lead such social activities to see the city together with the other participants at the meeting.
+Explore Dublin by jogging or walking through the city and learn about its history and famous landmarks with Irish tour guides. See details please about the [*Sight Jogging Dublin*] (www.sightjoggingdublin.com) and [Dublin Free Walking tour](http://www.dublinfreewalkingtour.ie/] for more information.
 
 ##### Speakers
 
@@ -254,8 +245,11 @@ Explore the city by jogging or walking through the city and learn about the hist
 
 #### X: eXtra information
 
-##### eXtra information (yes, we could't find a relevant word starting with X)
+##### eXtra information (yes, we couldn't find a relevant word starting with X)
 
 #### Y: You!
 
 #### Z: Zoom for TaskForce, Volunteers, and Community Calls
+
+
+
