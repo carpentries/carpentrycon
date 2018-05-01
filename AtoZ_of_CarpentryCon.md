@@ -1,6 +1,6 @@
 ## A to Z of CarpentryCon
 
-Below you will find all the information that we thought might help you plan your trip to Dublin for CarpentryCon 2018. We took this challenge at one of our several meetings to find all the keywords starting A-Z to cover all the queries you might have about the conference. We are pretty confident that we have been able to do that, (except that we cheated for the letter X and Z and will be happy to give a special goodie to anyone who has a better idea!), but please don’t hesitate to reach out to us and let us know if something is missing. Please take a look at this so that you can plan your stay in Dublin ahead of time and have the best time during the conference. We are very excited to meet you at CarpentryCon 2018!
+Below you will find all the information that we thought might help you plan your trip to Dublin for CarpentryCon 2018. We took this challenge at one of our several meetings to find all the keywords starting A-Z to address any query you might have about the conference. We are pretty confident that the following list covers everything, but reach out to us and let us know if something is missing. Please take a look at this so that you can plan your stay in Dublin ahead of time and have the best time during the conference. We are very excited to meet you at CarpentryCon 2018!
 
 #### A: Arrival, Access, Accommodation, Allies
 
@@ -10,7 +10,7 @@ You can exchange your registration ticket for a name tag, badges and lunch ticke
 
 ##### Accommodation
 
-We have listed all the [accommodation options](http://www.carpentrycon.org/#accom) on the CarpentryCon website. The UCD on-site accommodation ([Summer at UCD](http://www.ucd.ie/summeratucd/accommodation/)] is located within walking distance to the conference venue and their reception Office is open 24/7 from the 28th May onwards. The corresponding accommodation provider will provide you with all the required information. Several of these sites are wheelchair accessible. You must make sure that you have made arrangements for your accommodation in one of these (or other) hotels.
+We have listed all the [accommodation options](http://www.carpentrycon.org/#accom) on the CarpentryCon website. The UCD on-site accommodation ([Summer at UCD](http://www.ucd.ie/summeratucd/accommodation/)) is located within walking distance to the conference venue and their reception Office is open 24/7 from the 28th May onwards. The corresponding accommodation provider will provide you with all the required information. Several of these sites are wheelchair accessible. You must make sure that you have made arrangements for your accommodation in one of these (or other) hotels.
 
 ##### Allies
 
@@ -107,7 +107,7 @@ We will offer an opportunity to the exhibitors (commercial and non-commercial) t
 
 ##### Fitness
 
-If you are in the city, you can check the [running trails](http://trailrunningireland.com/irish-trails-list/) to get your daily dose of fitness activity. You can also take a (sightseeing by jogging tour)[www.sightjoggingdublin.com] or follow different [UCD Woodland Trails](https://www.ucd.ie/t4cms/UCD%20Woodland%20Walk%20Map%20and%20Guide.pdf) depending on where in the city you are. Here is a [list of swimming pools](https://www.yelp.ie/search?cflt=swimmingpools&find_near=ucd-sport-and-fitness-dublin) near UCD.
+If you are in the city, you can check the [running trails](http://trailrunningireland.com/irish-trails-list/) to get your daily dose of fitness activity. You can also take a [sightseeing by jogging tour](http://www.sightjoggingdublin.com) or follow different [UCD Woodland Trails](https://www.ucd.ie/t4cms/UCD%20Woodland%20Walk%20Map%20and%20Guide.pdf) depending on where in the city you are. Here is a [list of swimming pools](https://www.yelp.ie/search?cflt=swimmingpools&find_near=ucd-sport-and-fitness-dublin) near UCD.
 
 ##### Friends and Family
 
@@ -273,9 +273,11 @@ Explore Dublin by jogging or walking through the city and learn about its histor
 
 ##### Watercoolers
 
-#### X: eXtra information
+#### X: "Xenophobia, racism, sexism and any forms of discrimination will not be tolerated" 
 
-##### eXtra information (yes, we couldn't find a relevant word starting with X)
+##### Xenophobia, racism, sexism and all forms of intolerance
+
+The Carpentries community respects diversity and inclusion, as expressed in our [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html). Any form of discrimination including nationality, ethnic, sexual, religious and cultural will not be tolerated. (see *Allies, Code of Conduct, Diversity, Inclusion*)
 
 #### Y: You!
 
