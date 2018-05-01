@@ -281,6 +281,8 @@ Explore Dublin by jogging or walking through the city and learn about its histor
 
 #### Z: Zoom for TaskForce, Volunteers, and Community Calls
 
-We use [Zoom](https://zoom.us/) (not a sponsor!), for our calls to connect with community members. We have planned a CarpentryCon themed community call to help people get excited about what is coming, as well as answer any questions the community might have, we are going to have a CarpentryCon themed Community Call next week. See [this etherpad](http://pad.software-carpentry.org/carpconcall) for connection information and Zoom link. There will be two calls at the following times:
-*First call:* 13:00 GMT/UTC https://www.timeanddate.com/worldclock/fixedtime.html?msg=CarpentryCon+Call&iso=20180503T13&p1=%3A&ah=1
-*Second call:* 12 noon PDT https://www.timeanddate.com/worldclock/fixedtime.html?msg=CarpentryCon+Call&iso=20180503T12&p1=234&ah=1
+We use [Zoom](https://zoom.us/) (not a sponsor!), for our calls to connect with community members. We have planned a CarpentryCon themed community call to help people get excited about what is coming, as well as answer any questions the community might have, we are going to have a CarpentryCon themed Community Call on May 3rd. See [this etherpad](http://pad.software-carpentry.org/carpconcall) for connection information and Zoom link. 
+
+There will be two calls at the following times:
+*First call:* 13:00 GMT/UTC, [see your time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CarpentryCon+Call&iso=20180503T13&p1=%3A&ah=1)
+*Second call:* 12 noon PDT, [see your time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CarpentryCon+Call&iso=20180503T12&p1=234&ah=1)
