@@ -273,9 +273,9 @@ Explore Dublin by jogging or walking through the city and learn about its histor
 
 ##### Watercoolers
 
-#### X: "Xenophobia, racism, sexism and any forms of discrimination will not be tolerated" 
+#### X
 
-##### Xenophobia, racism, sexism and all forms of intolerance
+##### *Xenophobia, racism, sexism and any forms of discrimination will not be tolerated*
 
 The Carpentries community respects diversity and inclusion, as expressed in our [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html). Any form of discrimination including nationality, ethnic, sexual, religious and cultural will not be tolerated. (see *Allies, Code of Conduct, Diversity, Inclusion*)
 
