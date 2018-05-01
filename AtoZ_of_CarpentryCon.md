@@ -291,7 +291,7 @@ The temperature during the conference, as per the accuweather-forecast, will be 
 
 #### X: X-out Inequality
 
-The globally diverse community of The Carpentries provides an equal opportunities to everyone irrespective of their background (both technical and non-technical). We will maintain the same ethics at CarpentryCon and would like all our participants to follow [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html). 
+The globally diverse community of The Carpentries provides an equal opportunities to everyone irrespective of their background (both technical and non-technical). We will maintain the same ethics at CarpentryCon and would request all our participants to familiarize themselves with our [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html). 
 
 ***Discrimination in any form including behavious or remarks against any nationality, ethnicity, sexuality, religious and cultural belief will not be tolerated!*** (also see *Allies, Code of Conduct, Diversity, Inclusion*)
 
