@@ -34,11 +34,11 @@ We have a list of bar suggestion on the etherpad dedicated to the discussion on 
 
 #### C: Carpentries, CarpentryCon, Code of Conduct, Child Care, Coffee
 
-##### The Carpentries and *Code of Conduct*
+##### The Carpentries
 
 The Carpentries (https://carpentries.org/), brings Software, Data, and Library Carpentries together under an umbrella to teach foundational computational, coding, and data science skills to researchers worldwide. We are a diverse, global community of volunteer Instructors, helpers, Trainers, Maintainers, champions, member organizations, supporters, and staffs.
 
-##### CarpentryCon 2018 and *Code of Conduct*
+##### CarpentryCon 2018
 
 CarpentryCon 2018 (http://www.carpentrycon.org/) is the inaugural annual conference for all the members of the Carpentries. Under the theme “Building Locally, Connecting Globally”, we have planned a number of events and opportunities for you including keynote talks, skill-up sessions, breakout discussions, social events, lightning talks, and workshop. This will provide a diverse and inclusive environment for learning, skill-building, and networking event for the participants interested in computational techniques to enhance the quality and efficiency of their work, and have a great time at the conference.
 
@@ -64,6 +64,8 @@ Our host city [Dublin](https://en.wikipedia.org/wiki/Dublin) is known for its ri
 
 ##### Diversity
 
+The Carpentries is a community of volunteer instructors, helpers, Trainers, Maintainers, champions, member organisations, supporters, and staff of diverse background, nationality, ethnicity, gender and various identity groups. We are working hard to ensure that everyone feels welcome at CarpentryCon. Feel free to reach out to the organizers and staff if they can improve your experience as a member at The Carpentries and CarpentryCon. Attendees must be prepared to abide by our Code of Conduct (see *Code of Conduct, Emergency, Inclusion*).
+
 ##### Data Carpentry at CarpentryCon
 
 [Data Carpentry (DC)](http://www.datacarpentry.org/) provides researchers high-quality, domain-specific training covering the full lifecycle of data-driven research. There will be an information desk where you can collect information on DC team, their work, workshops and various ways to get involved with their activities. Additionally, several DC members will be attending CarpentryCon (you can identify them with their badge), giving participants an opportunity for face-to-face networking.
@@ -82,8 +84,7 @@ Here is a list of few other emergency contacts:
 - Campus Services (for on-campus emergencies): 01 716 7999
 - Ambulance/ Gardaí and Emergency Services: 999 or 112
 - Nearest pharmacy: [Procare Pharmacy UCD](https://goo.gl/maps/hoxNWogRPWE2), Phone: 017163840
-
-Check the list of all other important contacts on [this page](https://github.com/carpentries/carpentrycon/blob/master/venue.md).
+- Check the list of all other important contacts on [this page](https://github.com/carpentries/carpentrycon/blob/master/venue.md).
 
 ##### Entertainment and Events
 
@@ -111,19 +112,27 @@ The Guinness Storehouse, located at St. James’s Gate Brewery in Dublin is the 
 
 #### H: Helpers and Helpdesk
 
-#### I: Icebreaker, Inclusion, Ideas
+We will have a helpdesk at the venue where you can get all the information that you may need during the conference. We will also have a designated welcome-team, who will help you during the day to get orientated at the conference venue. For any request for special needs and help, get in touch with th organisers.
+
+#### I: Icebreaker, Inclusion
 
 ##### Icebreaker
 
+Many people coming to CarpentryCon 2018 will be new to our community. We know that coming into any big event for the first time can be a little intimidating. You may not know anyone but it seems like everyone else knows lots of people. We want to make sure that everyone who comes to CarpentryCon 2018 feels a sense of belonging right from the start. As the first activity at CarpentryCon, we (led by Belinda Weaver) have planned an icebreaker event for everyone to connect with a small group of people to swap stories about why they are here. See [here](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-30/00-Icebreaker-Story-Circles.md) for detail.
+
 ##### Inclusion
 
-##### Ideas
+We want to create an inclusive and welcoming environment at the conference. We are providing travel assistance to facilitate attendance from as wide a group as possible. We are collecting full details to identify needs for childcare and mobility, accessibility and dietary preferences during registeration. Feel free to reach out to the organizers and staff if they can improve your participation at CarpentryCon. (see *Carpentries, Diversity, Emergency, Code of Conduct*)
 
 #### J: Job Board, Join the Carpentries
 
-##### Job Board
+##### Job Board (Job Seekers & Job Providers)
+
+We will have a job board at the conference where you can post/advertise both interests in jobs and relevant jobs offers.
 
 ##### Join the Carpentries
+
+There are several ways to become a member of [The Carpentries community](https://carpentries.org/community/) and support its work. At the CarpentryCon, there will be different booths for The Carpentries and opportunities to meet the volunteer members to learn more about it. See [here](https://carpentries.org/join/) for more detail.
 
 #### K: Knowledge sharing
 
@@ -246,6 +255,3 @@ Explore Dublin by jogging or walking through the city and learn about its histor
 #### Y: You!
 
 #### Z: Zoom for TaskForce, Volunteers, and Community Calls
-
-
-
