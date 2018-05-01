@@ -6,7 +6,7 @@ Below you will find all the information that we thought might help you plan your
 
 ##### Arrival and Access
 
-You can exchange your registration ticket for a name tag, badges and lunch tickets. The registration desk will be located at the conference site starting from Tuesday evening (the night before the conference). We will have a designated welcome-team of organizers and volunteers who you can recognize by their T-shirts and name tag. You will have access to the lecture hall and breakout rooms, look out for the signs at the venue. Do not hesitate to reach out to the welcome-team during the conference for any query or concern.
+You can exchange your registration ticket for a name tag, badges and lunch tickets. The registration desk will be located at the conference site starting from Tuesday evening (the night before the conference). We will have a designated welcome-team of organizers and volunteers who you can recognize by their T-shirts and name tag. You will have access to the lecture hall and breakout rooms, look out for the signs at the venue. Do not hesitate to reach out to the welcome-team during the conference for any query or concern. The venue is wheelchair accessible. The welcome-team will be happy to provide you any additional support.
 
 ##### Accommodation
 
@@ -28,9 +28,7 @@ There will be 12 breakout sessions during CarpentryCon (http://www.carpentrycon.
 
 ##### Bars
 
-Dublin is a city of Bar
-
-We have a list of bar suggestion on the etherpad dedicated to the discussion on [social activities at CarpentryCon](http://pad.software-carpentry.org/social_events). Please expand the list, if you have any additional recommendations.
+Dublin is a city of Bars and pubs (but not only). We have a list of bar suggestions (by our UCD Volunteers Ben and Chiara) on the etherpad dedicated to the discussion on [social activities at CarpentryCon](http://pad.software-carpentry.org/social_events). Please expand the list, if you have any additional recommendations.
 
 #### C: Carpentries, CarpentryCon, Code of Conduct, Child Care, Coffee
 
@@ -70,7 +68,7 @@ The Carpentries is a community of volunteer instructors, helpers, Trainers, Main
 
 [Data Carpentry (DC)](http://www.datacarpentry.org/) provides researchers high-quality, domain-specific training covering the full lifecycle of data-driven research. There will be an information desk where you can collect information on DC team, their work, workshops and various ways to get involved with their activities. Additionally, several DC members will be attending CarpentryCon (you can identify them with their badge), giving participants an opportunity for face-to-face networking.
 
-#### E: Executives, Emergency, Entertainment, Events, Exhibition
+#### E: Executives, Emergency, Etherpads, Entertainment, Events, Exhibition
 
 ##### Executives
 
@@ -86,15 +84,24 @@ Here is a list of few other emergency contacts:
 - Nearest pharmacy: [Procare Pharmacy UCD](https://goo.gl/maps/hoxNWogRPWE2), Phone: 017163840
 - Check the list of all other important contacts on [this page](https://github.com/carpentries/carpentrycon/blob/master/venue.md).
 
+##### Etherpads
+
+We like to work collaboratively and use [Etherpad](http://pad.software-carpentry.org/pad-of-pads) for organising our communicationin differengt Carpentries channels. Here is a list of etherpads that are relevant for CarpentryCon.
+
+- *Main CarpentryCon*: http://pad.software-carpentry.org/carpentrycon
+- *Social Activities*: http://pad.software-carpentry.org/social_events
+- *CarpentryCon Community Call*: http://pad.software-carpentry.org/carpconcall
+- *CarpentryCon Volunteers*: http://pad.software-carpentry.org/carpentrycon_volunteers
+- *CarpentryCon TaskForce Meetings*: http://pad.software-carpentry.org/2018carpentrycontaskforce
+- *Pad-of-Pads for all other Carpentries etherpads*: http://pad.software-carpentry.org/pad-of-pads
+
 ##### Entertainment and Events
 
 On the night before the conference, we will book a small pub so that you get a head start the social part of the conference. Please [fill this doodle](https://doodle.com/poll/37i357fyd8ard9d6) with your name and email to be notified. The conference dinner on the first night will allow you to get to know other attendees in an informal setting and spend quality time with them at the conference. During the conference we have planned several opportunities for you (break-out, open-mic, coffee breaks) and platforms ([etherpad](http://pad.software-carpentry.org/social_events), [slack](https://tinyurl.com/carpentrycon-slack), [twitter](twitter.com/CarpentryCon)) to socialize with each other and make spontaneous plan to explore the city and surrounding during the evening. Take a lead and organize sessions and social activities with others.
 
 ##### Exhibition
 
-We will offer an opportunity to the exhibitors (commercial and non-commercial) to acquire a booth at CarpentryCon.
-
-We can place max 25 exhibitors at the conference site, therefore contact the organizers for a possibility for you to have a booth there.
+We will offer an opportunity to the exhibitors (commercial and non-commercial) to acquire a booth at CarpentryCon. We can place max 25 exhibitors at the conference site, therefore contact the organizers for a possibility for you to have a booth there.
 
 #### F: Fitness, Friends, and Family
 
@@ -192,25 +199,43 @@ There are several ways to become a member of [The Carpentries community](https:/
 
 ##### Restaurant suggestions
 
-#### S: Speakers, Skill-up, Sticky Notes, Special requirements, Surveys, Sponsors, Sightseeing
+#### S: Speakers, Skill-up, Sticky Notes, Slack, Special requirements, Surveys, Sponsors, Sightseeing
+
+##### Speakers
+
+We have fantastic keynote speakers lined up for you at CarpentryCon. Our 4 speakers are: *Valerie Aurora* (founder of FrameShift consulting for diversity & inclusion in tech), *Desmond Higgins* (professor of bioinformatics in UCD, and recipient of 2018 Benjamin Franklin Award for Open Access in the life sciences), *Anelda van der Walt* (founder of Talarify, and recipient of 2017 Carpentries Community Service Award for her work in South Africa), *Greg Wilson* (co-founder Software Carpentry. Head of Instructor Training for DataCamp). We are very excited to have these leaders from their field at CarpentryCon and looking forward to their talks. See the [official website](http://www.carpentrycon.org/#comp) for more detail.
+
+##### Skill-up
+
+There will be 6 skill-up sessions during CarpentryCon (http://www.carpentrycon.org/#program). The abstracts of all the session can be found and stored in the [CarpentryCon GitHub pages](https://github.com/carpentries/carpentrycon/tree/master/Sessions) (separated by dates). There will be a limited number of seat available for each of these. Closer to the conference we will send out more information on how to register for those (look out for that).
+
+##### Sticky Notes
+
+We love sticky notes! No Carpentries workshop is possible without the sticky notes. See [Greg's collection of tips and techniques for teaching with sticky notes](https://github.com/gvwilson/sticky-note-teaching) to learn the various reasons it makes learning and teaching easier. Therefore, we will be using (even overusing) it during the skill-up, workshops and wgerever possible.
+
+##### Slack
+
+We are on Slack: https://tinyurl.com/carpentrycon-slack. Join us there to connect and communicate with the organizers and participants of CarpentryCon. We will be actively using the various channels for continuing discussions and documenting them to summerise differnt aspects of the conference. Also, you can install Slack apps to have access to these channels through your phone.
+
+##### Special requirements
+
+We want to assist you in all possible ways to make your participation at CarpentryCon enjoyable and stressfree. Please contact the organisers with any request for special needs so that we can arrange it before your arrival. Do not hesitate to contact the welcome-team during the meeting for any help. (see *Arrival and Access, Childcare, Inclusion*)
+
+##### Surveys
+
+Please fill out the pre-conference survey before your arrival to help us organise everything you may need at the conference (e.g. any special needs, suggestions etc.). The post-conference survey will be to evaluate your overall experience at the conference, which will help us improve our efforts while organising next conferences and meetings.
+
+**Links to the surveys:**
+Pre-conference Survey: TBA
+Post-conference Survey: TBA
+
+##### Sponsors
+
+CarpentryCon 2018 will not be possible without the generous support of businesses and foundations who support our mission of teaching foundational computational and data science skills to researchers to safeguard the future of sound, open, reproducible science. Here is the [list of our sponsors](http://www.carpentrycon.org/#donor). Do you/your organisation want to support our event? See [details on our official website](http://www.carpentrycon.org/#portfolio) to learn all about it.
 
 ##### Sightseeing
 
 Explore Dublin by jogging or walking through the city and learn about its history and famous landmarks with Irish tour guides. See details please about the [*Sight Jogging Dublin*](www.sightjoggingdublin.com) and [Dublin Free Walking tour](http://www.dublinfreewalkingtour.ie/) for more information.
-
-##### Speakers
-
-##### Skill-up
-
-##### Sticky Notes
-
-##### Special requirements
-
-##### Subcommittee
-
-##### Surveys
-
-##### Sponsors
 
 #### T: Trainers, TaskForce, Travel/Transportation, Twitter, Technical Support
 
@@ -255,3 +280,7 @@ Explore Dublin by jogging or walking through the city and learn about its histor
 #### Y: You!
 
 #### Z: Zoom for TaskForce, Volunteers, and Community Calls
+
+We use [Zoom](https://zoom.us/) (not a sponsor!), for our calls to connect with community members. We have planned a CarpentryCon themed community call to help people get excited about what is coming, as well as answer any questions the community might have, we are going to have a CarpentryCon themed Community Call next week. See [this etherpad](http://pad.software-carpentry.org/carpconcall) for connection information and Zoom link. There will be two calls at the following times:
+*First call:* 13:00 GMT/UTC https://www.timeanddate.com/worldclock/fixedtime.html?msg=CarpentryCon+Call&iso=20180503T13&p1=%3A&ah=1
+*Second call:* 12 noon PDT https://www.timeanddate.com/worldclock/fixedtime.html?msg=CarpentryCon+Call&iso=20180503T12&p1=234&ah=1
