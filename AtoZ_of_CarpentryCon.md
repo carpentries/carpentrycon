@@ -203,7 +203,7 @@ There are several ways to become a member of [The Carpentries community](https:/
 
 ##### Speakers
 
-We have fantastic keynote speakers lined up for you at CarpentryCon. Our 4 speakers are: *Valerie Aurora* (founder of FrameShift consulting for diversity & inclusion in tech), *Desmond Higgins* (professor of bioinformatics in UCD, and recipient of 2018 Benjamin Franklin Award for Open Access in the life sciences), *Anelda van der Walt* (founder of Talarify, and recipient of 2017 Carpentries Community Service Award for her work in South Africa), *Greg Wilson* (co-founder Software Carpentry. Head of Instructor Training for DataCamp). We are very excited to have these leaders from their field at CarpentryCon and looking forward to their talks. See the [official website](http://www.carpentrycon.org/#comp) for more detail.
+We have fantastic keynote speakers lined up for you at CarpentryCon. Our 4 speakers are: **Valerie Aurora** (founder of FrameShift consulting for diversity & inclusion in tech), **Desmond Higgins** (professor of bioinformatics in UCD, and recipient of 2018 Benjamin Franklin Award for Open Access in the life sciences), **Anelda van der Walt** (founder of Talarify, and recipient of 2017 Carpentries Community Service Award for her work in South Africa), **Greg Wilson** (co-founder Software Carpentry. Head of Instructor Training for DataCamp). We are very excited to have these leaders from their field at CarpentryCon and looking forward to their talks. See the [official website](http://www.carpentrycon.org/#comp) for more detail.
 
 ##### Skill-up
 
@@ -226,8 +226,8 @@ We want to assist you in all possible ways to make your participation at Carpent
 Please fill out the pre-conference survey before your arrival to help us organise everything you may need at the conference (e.g. any special needs, suggestions etc.). The post-conference survey will be to evaluate your overall experience at the conference, which will help us improve our efforts while organising next conferences and meetings.
 
 **Links to the surveys:**
-Pre-conference Survey: TBA
-Post-conference Survey: TBA
+- Pre-conference Survey: TBA
+- Post-conference Survey: TBA
 
 ##### Sponsors
 
@@ -284,5 +284,5 @@ Explore Dublin by jogging or walking through the city and learn about its histor
 We use [Zoom](https://zoom.us/) (not a sponsor!), for our calls to connect with community members. We have planned a CarpentryCon themed community call to help people get excited about what is coming, as well as answer any questions the community might have, we are going to have a CarpentryCon themed Community Call on May 3rd. See [this etherpad](http://pad.software-carpentry.org/carpconcall) for connection information and Zoom link. 
 
 There will be two calls at the following times:
-*First call:* 13:00 GMT/UTC, [see your time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CarpentryCon+Call&iso=20180503T13&p1=%3A&ah=1)
-*Second call:* 12 noon PDT, [see your time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CarpentryCon+Call&iso=20180503T12&p1=234&ah=1)
+- *First call:* 13:00 GMT/UTC, [see your time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CarpentryCon+Call&iso=20180503T13&p1=%3A&ah=1)
+- *Second call:* 12 noon PDT, [see your time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CarpentryCon+Call&iso=20180503T12&p1=234&ah=1)
