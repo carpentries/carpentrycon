@@ -44,10 +44,9 @@ CarpentryCon 2018 (http://www.carpentrycon.org/) is the inaugural annual confere
 
 ##### Code of Conduct
 
-As a member and conference participant, you will be expected to follow the [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
+As a member and conference participant, you will be expected to follow the [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
 
-*Code of Conduct in Short*
-The Carpentries are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. Enforcement of the Code of Conduct will be respectful and not include any harassing behaviors. Harassment in any form of behavior intended to exclude, intimidate, or cause discomfort is a violation of Code of Conduct. If you believe someone is violating the Code of Conduct we ask that you report it to the CarpentryCon TaskForce members in person, by email or on slack, who can help you take the appropriate action at the conference. You can also reach out to The Carpentry Policy subcommittee by emailing policy@carpentries.org.
+*Code of Conduct in Short*: The Carpentries are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. Enforcement of the Code of Conduct will be respectful and not include any harassing behaviors. Harassment in any form of behavior intended to exclude, intimidate, or cause discomfort is a violation of Code of Conduct. If you believe someone is violating the Code of Conduct we ask that you report it to the CarpentryCon TaskForce members in person, by email or on slack, who can help you take the appropriate action at the conference. You can also reach out to The Carpentry Policy subcommittee by emailing policy@carpentries.org.
 
 ##### Child Care
 
