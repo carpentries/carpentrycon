@@ -44,7 +44,7 @@ CarpentryCon 2018 (http://www.carpentrycon.org/) is the inaugural annual confere
 
 As a member and conference participant, you will be expected to follow the [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
 
-*Code of Conduct in Short*: The Carpentries are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. Enforcement of the Code of Conduct will be respectful and not include any harassing behaviors. Harassment in any form of behavior intended to exclude, intimidate, or cause discomfort is a violation of Code of Conduct. If you believe someone is violating the Code of Conduct we ask that you report it to the CarpentryCon TaskForce members in person, by email or on slack, who can help you take the appropriate action at the conference. You can also reach out to The Carpentry Policy subcommittee by emailing policy@carpentries.org.
+*In Short*: The Carpentries are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. Enforcement of the Code of Conduct will be respectful and not include any harassing behaviors. Harassment in any form or behavior intended to exclude, intimidate, or cause discomfort is a violation of Code of Conduct. If you believe someone is violating the Code of Conduct we ask that you report it to the CarpentryCon TaskForce members in person, by email or on slack, who can help you take the appropriate action at the conference. You can also reach out to The Carpentry Policy subcommittee by emailing policy@carpentries.org.
 
 ##### Child Care
 
@@ -290,6 +290,8 @@ The temperature during the conference, as per the accuweather-forecast, will be 
 ##### Watercoolers
 
 #### X: X-out Inequality
+
+*We can't emphasize this enough*
 
 The globally diverse community of The Carpentries provides an equal opportunities to everyone irrespective of their background (both technical and non-technical). We will maintain the same ethics at CarpentryCon and would request all our participants to familiarize themselves with our [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html). 
 
