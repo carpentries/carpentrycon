@@ -289,11 +289,11 @@ The temperature during the conference, as per the accuweather-forecast, will be 
 
 ##### Watercoolers
 
-#### X
+#### X: X-out Inequality
 
-##### *Xenophobia, racism, sexism and any forms of discrimination will not be tolerated!*
+The globally diverse community of The Carpentries provides an equal opportunities to everyone irrespective of their background (both technical and non-technical). We will maintain the same ethics at CarpentryCon and would like all our participants to follow [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html). 
 
-The Carpentries community respects diversity and inclusion, as expressed in our [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html). Any form of discrimination including nationality, ethnicity, sexuality, religious and cultural belief will not be tolerated. (also see *Allies, Code of Conduct, Diversity, Inclusion*)
+***Discrimination in any form including behavious or remarks against any nationality, ethnicity, sexuality, religious and cultural belief will not be tolerated!*** (also see *Allies, Code of Conduct, Diversity, Inclusion*)
 
 #### Y: You!
 
