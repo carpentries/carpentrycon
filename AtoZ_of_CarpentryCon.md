@@ -10,7 +10,7 @@ You can exchange your registration ticket for a name tag, badges and lunch ticke
 
 ##### Accommodation
 
-We have listed all the [accommodation options](http://www.carpentrycon.org/#accom) on the CarpentryCon website. The UCD on-site accommodation ([Summer at UCD](http://www.ucd.ie/summeratucd/accommodation/)] is located within walking distance to the conference venue and their reception Office is open 24/7 from the 28th May onwards. The corresponding accommodation provider will provide you with all the required information. Several of these sites are wheelchair accessible. You must make sure that you have made arrangements for your accommodation in one of these (or other) hotels.
+We have listed all the [accommodation options](http://www.carpentrycon.org/#accom) on the CarpentryCon website. The UCD on-site accommodation ([Summer at UCD](http://www.ucd.ie/summeratucd/accommodation/)) is located within walking distance to the conference venue and their reception Office is open 24/7 from the 28th May onwards. The corresponding accommodation provider will provide you with all the required information. Several of these sites are wheelchair accessible. You must make sure that you have made arrangements for your accommodation in one of these (or other) hotels.
 
 ##### Allies
 
@@ -99,7 +99,7 @@ We can place max 25 exhibitors at the conference site, therefore contact the org
 
 ##### Fitness
 
-If you are in the city, you can check the [running trails](http://trailrunningireland.com/irish-trails-list/) to get your daily dose of fitness activity. You can also take a (sightseeing by jogging tour)[www.sightjoggingdublin.com] or follow different [UCD Woodland Trails](https://www.ucd.ie/t4cms/UCD%20Woodland%20Walk%20Map%20and%20Guide.pdf) depending on where in the city you are. Here is a list of swimming pools near [UCD](https://www.yelp.ie/search?cflt=swimmingpools&find_near=ucd-sport-and-fitness-dublin).
+If you are in the city, you can check the [running trails](http://trailrunningireland.com/irish-trails-list/) to get your daily dose of fitness activity. You can also take a [sightseeing by jogging tour](http://www.sightjoggingdublin.com) or follow different [UCD Woodland Trails](https://www.ucd.ie/t4cms/UCD%20Woodland%20Walk%20Map%20and%20Guide.pdf) depending on where in the city you are. Here is a list of swimming pools near [UCD](https://www.yelp.ie/search?cflt=swimmingpools&find_near=ucd-sport-and-fitness-dublin).
 
 ##### Friends and Family
 
@@ -187,7 +187,7 @@ The Guinness Storehouse, located at St. James’s Gate Brewery in Dublin is the 
 
 ##### Sightseeing
 
-Explore Dublin by jogging or walking through the city and learn about its history and famous landmarks with Irish tour guides. See details please about the [*Sight Jogging Dublin*] (www.sightjoggingdublin.com) and [Dublin Free Walking tour](http://www.dublinfreewalkingtour.ie/] for more information.
+Explore Dublin by jogging or walking through the city and learn about its history and famous landmarks with Irish tour guides. See details please about the [*Sight Jogging Dublin*] (www.sightjoggingdublin.com) and [Dublin Free Walking tour](http://www.dublinfreewalkingtour.ie/) for more information.
 
 ##### Speakers
 
@@ -239,7 +239,11 @@ Explore Dublin by jogging or walking through the city and learn about its histor
 
 ##### Watercoolers
 
-#### X: eXtra information
+#### X: Xenophobia, racism, sexism and all forms of intolerance, eXtra information
+
+##### Xenophobia, racism, sexism and all forms of intolerance
+
+The Carpentries community respects diversity and inclusion, as expressed in our [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html). Any form of intolerance including ethnic, sexual, religious and cultural discrimination will not be tolerated.
 
 ##### eXtra information (yes, we couldn't find a relevant word starting with X)
 
