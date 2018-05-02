@@ -6,7 +6,6 @@
 
 Also see:
 - [AtoZ of the CarpentryCon](https://github.com/carpentries/carpentrycon/blob/master/AtoZ_of_CarpentryCon.md).
-- CarpentryCon cheatsheet: [under preparation](https://github.com/carpentries/carpentrycon/blob/master/CarpentryCon_Cheetsheet.md).
 
 ## Conference Venue
 
