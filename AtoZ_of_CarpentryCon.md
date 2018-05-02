@@ -6,6 +6,7 @@
 Below you will find all the information that we thought might help you plan your trip to Dublin for CarpentryCon 2018. We took this challenge at one of our several meetings to find all the keywords starting A-Z to address any queries you might have about the conference. We are pretty confident that the following list covers everything, but please reach out to us and let us know if something is missing. Please take a look at this so that you can plan your stay in Dublin ahead of time and have the best time during the conference. We are very excited to meet you at CarpentryCon 2018!
 
 <img src="taskforce_misc/a-z-images/allies.jpeg" width=800>
+
 ##### *Screenshot of the official website: carpentrycon.org. Original background picture by Hugo Neves at EMBL Annual Software Carpentry Course 2017*
 
 ### A: Arrival, Access, Accommodation, Allies
@@ -42,6 +43,7 @@ Dublin is a city of bars and pubs (but not only). We have a list of bar suggesti
 <br><br>
 <img src="https://carpentries.org/assets/img/TheCarpentries.svg">
 <br><br>
+
 ##### *Official logo of The Carpentries*
 
 The Carpentries (https://carpentries.org/), brings Software, Data, and Library Carpentry together under an umbrella to teach foundational computational, coding, and data science skills to researchers worldwide. We are a diverse, global community of volunteer Instructors, helpers, Trainers, Maintainers, champions, member organizations, supporters, and staffs.
@@ -67,6 +69,7 @@ Of course! One of the most important conference supplies, coffee, will be offere
 ### D: Dublin, Diversity, Data Carpentry
 
 <img src="taskforce_misc/a-z-images/dublin1.jpeg" width=800>
+
 ##### *Samuel Beckett Bridge and the beer barrel shaped Convention Centre, provided by Norman Davey*
 
 #### Dublin
@@ -92,6 +95,7 @@ The Carpentries is governed by the newly formed Executive Council, to whom the E
 In case of emergency, please contact the Welcome Team/organizers via phone (number to be added), email (carpentrycon@carpentries.org) or [slack](https://tinyurl.com/carpentrycon-slack).
 
 <img src="http://img.pagecloud.com/Cm7zt07h7XWYD0Vk922I4X58ujU=/280x0/filters:no_upscale()/telcoswitch/images/call_features_2_11-ID-9fccdb65-a8df-4311-c1fa-8a69234dded6.png">
+
 ##### *Image source: http://img.pagecloud.com*
 
 Here is a list of few other emergency contacts:
@@ -132,7 +136,7 @@ Your partner, family members or guests are invited to attend the keynote lecture
 ### G: Guinness
 <br></br>
 <img src="https://i1.wp.com/thetaste.ie/wp/wp-content/uploads/2017/07/Guinness-Storehouse-Gravity-Bar-to-Double-its-Size-Thanks-to-%E2%82%AC16-Million-Investment.png?resize=650%2C340" width=800>
-<br></br>
+
 ##### *Image source: thetaste.ie*
 
 The Guinness Storehouse, located at St. James’s Gate Brewery in Dublin is the number one tourist attraction in Dublin. This seven-story building is a museum featuring 250 years of history of Guinness advertising and interactive exhibit on responsible drinking. The top floor offers a beautiful view of the city over drinks (both alcoholic and non-alcoholic) and food from its Gravity Bar. It is open every day from 09:30 to 19:00 and is wheelchair accessible. See [here](https://www.guinness-storehouse.com/) for information about visiting the Guinness Storehouse.
@@ -164,6 +168,7 @@ There are several ways to become a member of [The Carpentries community](https:/
 ### K: Keynote Speakers, Knowledge sharing
 
 <img src="taskforce_misc/a-z-images/CarpentryCon-April_poster-6.jpg" width=500>
+
 ##### *Official poster created by Malvika Sharan (TaskForce), Slack voting/suggestions by Greg Wilson, Mark Laufersweiler, Erin Becker and Maneesha Sane* :)
 
 #### Keynote Speakers
@@ -209,6 +214,7 @@ Are you new to The Carpentries? Do you want to learn more about the organization
 #### Name Tags
 
 <img src="https://images.mynamebadges.com/img/lg/L/my-name-preferred-pronouns-label-lb-2525.png" width=60%>
+
 ##### *[Image source: mynamebadges.com](https://images.mynamebadges.com/img/lg/L/my-name-preferred-pronouns-label-lb-2525.pn)*
 
 Name tags are a great way for participants to strike up conversations with other participants or volunteers. You can collect your name tag at the registration desk (don't forget to bring your registration ticket). We will be offering you a list of badges (e.g. speaker, trainer, task-force, volunteers, new members etc.) to add to you name tag to let others know your interests, roles and expertise, which will help you network more efficiently. Our name tags will have a section to add your pronoun preference. As a participant, be respectful to each other by using the correct name and pronoun. Ask! if you don't know how to pronounce someone's name, maybe they will share a nice story about what their name means.
@@ -225,6 +231,7 @@ The conference is being held at the [O'Brien Centre for Science](http://www.ucd.
 at [University College Dublin](http://www.ucd.ie/).
 
 <img src="taskforce_misc/a-z-images/dublin-ucd.jpeg" width=300> <img src="taskforce_misc/a-z-images/dublin-ucd2.jpeg" width=300>
+
 ##### *O'Brien Centre, by Norman Davey*
 
 The UCD O'Brien Centre for Science is located on UCD's Belfield campus, 4 km south of Dublin
@@ -293,6 +300,7 @@ The registration desk will be available on site from May 28th (evening) to June 
 We will be using the catering service from Pi Restaurant, which is located in the same builiding as the conference venue. More restaurant suggestions for you are available on the etherpad dedicated to the discussion on [social activities at CarpentryCon](http://pad.software-carpentry.org/social_events). If you have any recommendations please add them there.
 
 <img src="http://rosyandgrey.de/wp-content/uploads/2017/08/Dublin-Travelguide-Foodguide.png" width=305> <img src="taskforce_misc/a-z-images/dublin5.jpeg" width=300>
+
 ##### *Image source: Left - http://rosyandgrey.de/, Right - Temple Bar, by Norman Davey*
 
 ### S: Skill-up, Sticky Notes, Slack, Special requirements, Surveys, Sponsors, Sightseeing, Software Carpentry
@@ -331,6 +339,7 @@ Explore Dublin by jogging or walking through the city and learn about its histor
 
 <img src="taskforce_misc/a-z-images/dublin2.jpeg" width=800>
 <img src="taskforce_misc/a-z-images/dublin7.jpeg.jpg" width=800>
+
 ##### *Image Sources: Upper: Samuel Beckett Bridge, by Norman Davey, Lower: Dublin Castle, by Malvika Sharan*
 
 #### Software Carpentry
@@ -408,6 +417,7 @@ See *O'Brien Centre* to check out the conference venue at UCD. See our [Accessib
 Learn more about the university [here](http://www.ucd.ie/about-ucd/). UCD has its own [A-Z directory](https://www.ucd.ie/a-z/) to get specific information.
 
 <img src="taskforce_misc/a-z-images/dublin-ucd4.jpeg" width=800>
+
 ##### *UCD campus, by Norman Davey*
 
 ### V: Volunteers, Visa, Veg()an+
