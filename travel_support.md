@@ -4,7 +4,7 @@
 
 ## About CarpentryCon Travel Support
 
-We are providing travel assistance to facilitate attendance from as wide a group as possible. The request could be made for ful or partial travel support.
+We are providing travel assistance to facilitate attendance from as wide a group as possible. The request could be made for full or partial travel support.
 
 ## Application Process
 
