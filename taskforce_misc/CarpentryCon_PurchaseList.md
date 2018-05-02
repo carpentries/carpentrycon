@@ -1,12 +1,41 @@
+List: google file link
 
-|**item**|**to be purchased from**|**to be purchased by**|**send to UCD/or not**|**person responsible**|**status**|
---- | --- | --- | --- | --- | --- 
---- | --- | --- | --- | --- | --- 
---- | --- | --- | --- | --- | --- 
---- | --- | --- | --- | --- | --- 
---- | --- | --- | --- | --- | --- 
---- | --- | --- | --- | --- | --- 
---- | --- | --- | --- | --- | --- 
---- | --- | --- | --- | --- | --- 
---- | --- | --- | --- | --- | --- 
+- flipcharts
+- markers
+- lenyards in two colors for people want/don't want to be photographed
+- T-shirts in three colors (organizers, volunteers, participants)
+- Board pin, poster stickers (two sided tapes), cello tapes
+- pens, notebooks
+- The Carpentries stickers
+- Signage for the conference venue
+- A large world map for photobooth
+- Canvas: wish list!
+- Printed post session surveys: pencils
+- Inform th exhibitors
+- Cheat sheets
+- Pin for Code of Conduct
+- Name tag (with pronoun): https://github.com/DanielleQuinn/Miscellaneous/blob/master/nametag.jpg
+- Badges for Namtag categories
+  - TaskForce Members
+  - Code of Conduct
+  - Welcome Team
+  - SWC/DC Maintainer
+  - Learner
+  - Helper
+  - Task Force
+  - Executive Council
+  - Instructor
+  - Instructor Trainer
+  - Mentor
+  - Mentee
+  - Job Seeker
+  - Job Provider
+  - Staff
+  - Other: empty - writable by pen
+- USB sticks
+- color markers
+- sticky notes
+- white board/flipchart markers
+- 
+  
 
