@@ -180,7 +180,7 @@ There are several things planned for you at the conference, which includes break
 
 We will organize a pre-conference meet-up (more information will be added) and an official conference dinner. We will offer you opportunities to organise your own small meet-ups and invite the participants (see *Social Activities and Friends and Family*). If you have something in mind, please let the organizers know so that they can help you in setting it up. Check out [this etherpad](http://pad.software-carpentry.org/social_events) for existing ideas, and add your name under the relevant sections.
 
-#### N: Nursing, Name Tags, New Members
+#### N: New Members, Nursing, Name Tags
 
 ##### New Members
 
