@@ -379,7 +379,7 @@ Make sure that your passport/existing visa allows you to enter Ireland - check i
 
 We want to be able to provide catering for you, keeping your dietary restrictions into account. Make sure that you provide your preference while registering. If you forgot about it, contact the organizers with your request.
 
-#### W: Weather, Workshops, Wireless, Welcome, Wish board, Watercoolers
+#### W: Weather, Workshops, Wireless, Welcome Team, Wish board, Watercoolers
 
 ##### Weather
 
@@ -399,7 +399,7 @@ Two wireless networks are available in the UCD O'Brien Centre for Science:
 
 ##### Welcome Team
 
-The group of volunteers and organisers will be the part of this welcome group who will guide you and will be there to offer you any sort of assistance from the beginning to the end of the conference. Make yourself familiar with them (name tag, T-shirt etc.).
+The group of volunteers and organisers will be the part of this Welcome Team who will guide you and will be there to offer you any sort of assistance from the beginning to the end of the conference. Make yourself familiar with them (name tag, T-shirt etc.).
 
 ##### Wish board
 
