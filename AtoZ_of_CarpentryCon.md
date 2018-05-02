@@ -308,15 +308,15 @@ Like *Data Carpentry*, we will have a desk at the conference where you can learn
 
 ##### TaskForce 
 
-The CarpentryCon TaskForce, was created in 2017 by the volunteers from the community with an intention to organize the inaugural CarpentryCon conference. The team worked out the initial plan and idea for the conference (including its name), and kept recruiting the volunteers and passed over the role of organising the meeting. The current Organizing TaskForce comprises both volunteers and The Carpentries staff members. With the conference approaching, more community members from The Carpentries formed the 'Travel Support TaskForce' and 'Diversity and Inclusion TaskForce', and extended their help in addressing specific concerns related to the conference. Several of the TaskForce members will be at the conference, so stop by and say 'Hi' to us and let us know if you have any suggestions or interest in joining us for the next conference.
+The CarpentryCon TaskForce, was created in 2017 by the volunteers from the community with an intention to organize the inaugural CarpentryCon conference. The team worked out the initial plan and idea for the conference (including its name), and kept recruiting the volunteers and passed over the role of organising the meeting. The current Organizing TaskForce comprises both volunteers and The Carpentries staff members. With the conference approaching, more community members from The Carpentries formed the [Travel Support TaskForce](https://github.com/carpentries/carpentrycon/blob/master/travel_support.md) and [Diversity and Inclusion TaskForce](https://github.com/carpentries/carpentrycon/blob/master/venue.md), and extended their help in addressing specific concerns related to the conference. Several of the TaskForce members will be at the conference, so stop by and say 'Hi' to us and let us know if you have any suggestions or interest in joining us for the next conference.
 
 - Current members of the Organizing TaskForce: Fotis Psomopoulos (Chair), Malvika Sharan (Secretary), Belinda Weaver (The Carpentries), SherAaron Hurt (The Carpentries), Mark Laufersweiler (on-site facilitator), Danielle Quinn (Social media manager), Ivo Arrey (on site help)
 -- Common email: carpentrycon@carpentries.org, contact them for a specific topic: http://www.carpentrycon.org/#contact
 - Local host: Norman Davey
-- [Travel Support TaskForce](https://github.com/carpentries/carpentrycon/blob/master/travel_support.md): Erin Becker, Elizabeth Williams, Kari Jordan, Malvika Sharan, SherAaron Hurt
-- [Diversity and Inclusion TaskForce](https://github.com/carpentries/carpentrycon/blob/master/venue.md): Tracy Teal, Malvika Sharan, SherAaron Hurt, Kari Jordan
+- Travel Support TaskForce: Erin Becker, Elizabeth Williams, Kari Jordan, Malvika Sharan, SherAaron Hurt
+- Diversity and Inclusion TaskForce: Tracy Teal, Malvika Sharan, SherAaron Hurt, Kari Jordan
 - Past members and continuous supporters: Greg Wilson, Jason Williams, Mateusz Kuzak, Tracy Teal, Alix Keener, Jonah Duckles, Jamie Hadwin, Rayna Harris, Maneesha Sane
-- CarpentryCon 2018 Volunteers: They are very crucial for us to plan everything while we are not on site. A special shout out to each of them.
+- CarpentryCon 2018 Volunteers from UCD: They are very crucial for this event while we are not on site. A special shout out to each of them.
 
 ##### Travel/Transportation
 
