@@ -1,4 +1,4 @@
-## A to Z of CarpentryCon
+## A to Z of CarpentryCon (Under preparation...)
 
 Below you will find all the information that we thought might help you plan your trip to Dublin for CarpentryCon 2018. We took this challenge at one of our several meetings to find all the keywords starting A-Z to address any query you might have about the conference. We are pretty confident that the following list covers everything, but reach out to us and let us know if something is missing. Please take a look at this so that you can plan your stay in Dublin ahead of time and have the best time during the conference. We are very excited to meet you at CarpentryCon 2018!
 
