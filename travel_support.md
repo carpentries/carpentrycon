@@ -1,6 +1,6 @@
 ## CarpentryCon Travel Support
 
-#### Travel Support TaskForce: Erin Becker, Elizabeth Williams, SherAaron Hurt, Malvika Sharan, Fotis Psomopoulos
+#### Travel Support TaskForce: Erin Becker, Elizabeth Williams, Kari Jordan, SherAaron Hurt, Malvika Sharan, Fotis Psomopoulos
 
 ## About CarpentryCon Travel Support
 
