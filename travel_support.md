@@ -31,6 +31,6 @@ We will personally email the awardees on a rolling basis as the fund become avai
 
 ## Invitation and Visa Support Letter
 
-Make sure that your passport/existing-visa allows you to enter Ireland - check it [here](http://www.inis.gov.ie/en/INIS/Pages/check-irish-visa). In case you need to apply for a visa, you should do so minimum 2-3 weeks before the conference. We will make sure that you are contacted about your travel grant with sufficient time in hand so that you can apply for your visa. Please see the details about the application process here for a visa application to the Irish Naturalisation and Immigration Service : https://www.dfa.ie/travel/visas/visas-for-ireland/.
+Make sure that your passport/existing-visa allows you to enter Ireland - check it [here](http://www.inis.gov.ie/en/INIS/Pages/check-irish-visa). In case you need to apply for a visa, you should do so at minimum 2-3 weeks before the conference. We will make sure that you are contacted about your travel grant with sufficient time in hand so that you can apply for your visa. Please see the details about the application process here for a visa application to the Irish Naturalisation and Immigration Service : https://www.dfa.ie/travel/visas/visas-for-ireland/.
 
 You can receieve a visa support letter from the conference organisers, please [contact Fotis and Malvika](http://www.carpentrycon.org/#contact) with your request. 
