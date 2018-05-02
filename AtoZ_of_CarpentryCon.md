@@ -100,7 +100,7 @@ We like to work collaboratively and use [Etherpad](http://pad.software-carpentry
 
 ##### Entertainment and Events
 
-On the night before the conference, we will book a small pub so that you get a head start on the social part of the conference. Please [fill this doodle](https://doodle.com/poll/37i357fyd8ard9d6) with your name and email to be notified. The conference dinner on the night of Day 1 will allow you to get to know other attendees in an informal setting and spend quality time with them at the conference. During the conference we have planned several opportunities for you (break-out, open-mic, coffee breaks) and platforms ([etherpad](http://pad.software-carpentry.org/social_events), [slack](https://tinyurl.com/carpentrycon-slack), [twitter](twitter.com/CarpentryCon)) to socialize with each other and make spontaneous plans to explore the city and surroundings during the evening. Take a lead and organize sessions and social activities with others.
+The evening before the conference, we will book a small pub so that you get a head start on the social part of the conference. Please [fill this doodle](https://doodle.com/poll/37i357fyd8ard9d6) with your name and email to be notified. The conference dinner on the night of Day 1 will allow you to get to know other attendees in an informal setting and spend quality time with them at the conference. During the conference we have planned several opportunities for you (break-out, open-mic, coffee breaks) and platforms ([etherpad](http://pad.software-carpentry.org/social_events), [slack](https://tinyurl.com/carpentrycon-slack), [twitter](twitter.com/CarpentryCon)) to socialize with each other and make spontaneous plans to explore the city and surroundings during the evening. Take a lead and organize sessions and social activities with others.
 
 ##### Exhibition
 
@@ -184,7 +184,7 @@ We will organize a pre-conference meet-up (more information will be added) and a
 
 ##### New Members
 
-Are you new to The Carpentries? Do you want to learn more about the organization and how you can support it? CarpentryCon is the place for you. Actually a **_better_** start for you than the rest of us had, as you will have an opportunity for face-to-face networking and interaction. We understand that it could be very frightening if you don't know anyone, but the community has a history of being very friendly and inclusive, so don't be afraid to say 'Hi' and introduce yourself. You will be surprised how many friends you will leave the conference with. Join the ice-breaker session and, when in doubt, contact the welcome team.
+Are you new to The Carpentries? Do you want to learn more about the organization and how you can support it? CarpentryCon is the place for you. Actually a **_better_** start for you than the rest of us had, as you will have an opportunity for face-to-face networking and interaction. We understand that it could be frightening if you don't know anyone, but the community has a history of being very friendly and inclusive, so don't be afraid to say 'Hi' and introduce yourself. You will be surprised how many friends you will leave the conference with. Join the ice-breaker session and, when in doubt, contact the welcome team.
 
 ##### Name Tags
 
@@ -232,7 +232,7 @@ You are allowed to take photographs at the conference. Make sure that you do not
 
 ##### Posters
 
-We will have a poster session and a designated area for the display of posters. You should use the A0 poster size (vertical). We will add any other specifications if required. The deadline for the abstract submission is May 4th.
+We will have a poster session and a designated area for the display of posters. You should use the A0 poster size (vertical). Any other specifications will be added if required. The deadline for the abstract submission is May 4th.
 
 ##### Post-conference
 
@@ -311,7 +311,7 @@ Like *Data Carpentry*, we will have a desk at the conference where you can learn
 The CarpentryCon TaskForce, was created in 2017 by the volunteers from the community with an intention to organize the inaugural CarpentryCon conference. The team worked out the initial plan and idea for the conference (including its name), and kept recruiting the volunteers and passed over the role of organising the meeting. The current Organizing TaskForce comprises both volunteers and The Carpentries staff members. With the conference approaching, more community members from The Carpentries formed the [Travel Support TaskForce](https://github.com/carpentries/carpentrycon/blob/master/travel_support.md) and [Diversity and Inclusion TaskForce](https://github.com/carpentries/carpentrycon/blob/master/venue.md), and extended their help in addressing specific concerns related to the conference. Several of the TaskForce members will be at the conference, so stop by and say 'Hi' to us and let us know if you have any suggestions or interest in joining us for the next conference.
 
 - Current members of the Organizing TaskForce: Fotis Psomopoulos (Chair), Malvika Sharan (Secretary), Belinda Weaver (The Carpentries), SherAaron Hurt (The Carpentries), Mark Laufersweiler (on-site facilitator), Danielle Quinn (Social media manager), Ivo Arrey (on site help)
--- Common email: carpentrycon@carpentries.org, contact them for a specific topic: http://www.carpentrycon.org/#contact
+  - Common email: carpentrycon@carpentries.org, contact them for a specific topic: http://www.carpentrycon.org/#contact
 - Local host: Norman Davey
 - Travel Support TaskForce: Erin Becker, Elizabeth Williams, Kari Jordan, Malvika Sharan, SherAaron Hurt
 - Diversity and Inclusion TaskForce: Tracy Teal, Malvika Sharan, SherAaron Hurt, Kari Jordan
@@ -355,9 +355,9 @@ Here are a few tips to help you use your electronic devices in Ireland:
 
 University College Dublin (UCD) is our venue host, where we have been provided with an excellent facility to hold our inaugural CarpentryCon. 
 
-> "Founded one hundred and sixty years ago, University College Dublin has continued to make a unique and substantial contribution to the creation of modern Ireland" (-UCD Statement).
+> "Founded one hundred and sixty years ago, University College Dublin has continued to make a unique and substantial contribution to the creation of modern Ireland" - UCD Statement
 
-We are thankful to our conference host, for the constant support by the venue manager and several volunteers for helping us with everything we needed while not being on the site.
+We are thankful to our conference host, the venue manager, the 'Summer at UCD' staff, and several volunteers for their constant support and help with everything we needed while not being on the site.
 
 See *O'Brien Centre* to check out the conference venue at UCD. See our [Accessibility Page](https://github.com/carpentries/carpentrycon/blob/master/venue.md) for more imformation on what you can do while at UCD.
 
@@ -388,7 +388,7 @@ The temperature during the conference, as per the accuweather-forecast, will be 
 
 ##### Workshops
 
-On June 1, the last day of the conference, we will run several parallel workshop sessions. There will be a limited number of seats available for each of these workshops and you will receive an email from us stating how you can secure a place in the workshop of your choice. We are still discussing to offer some seats for the partcipants from UCD, who would be able to register on the spot with a minimal fee.
+On the last day of the conference, June 1, we will run several parallel workshop sessions. There will be a limited number of seats available for each of these workshops and you will receive an email from us stating how you can secure a place in the workshop of your choice. We are still discussing to offer some seats for the partcipants from UCD, who would be able to register on the spot with a minimal fee.
 
 ##### Wireless
 
@@ -410,7 +410,7 @@ At the conference site, we will put a wish-board for you, where you can add your
 
 Watercoolers will be available in several spots of the conference venue. Try to minimise the waste by avoiding packaged water bottles, and re-using your cups.
 
-#### X: X-out Inequality
+#### X: X out inequality
 
 *We can't emphasize this enough!*
 
@@ -420,7 +420,7 @@ The globally diverse community of The Carpentries provides an equal opportunitie
 
 #### Y: You!
 
-[Who Belongs at CarpentryCon 2018? You do.](https://carpentries.org/blog/2018/03/who-belongs-carpentrycon/) (- Blog by Belinda)
+> [Who Belongs at CarpentryCon 2018? You do.](https://carpentries.org/blog/2018/03/who-belongs-carpentrycon/) - Blog by Belinda Weaver
 
 This event is for **you**. The success of this conference will be measured by what you gain at the conference and afterwards in terms of skills, knowledge and networking.
 
