@@ -132,7 +132,7 @@ Weather in Dublin is very variable and it is not unusual to have short rain show
 
 Parent/Family traveling with child/children must inform the organisers if they would be attending the conference with their child/children.
 
-For mothers who need a designated space for nursing, please look for the nursing signs upon arrival of the conference.
+For mothers who need a designated space for nursing, please look for the nursing signs upon arrival at the conference.
 
 Please check Talbot hotel for their accommodation and child care support: (https://www.talbothotelstillorgan.com/). You must be a guest of this hotel to receive this service.
 
