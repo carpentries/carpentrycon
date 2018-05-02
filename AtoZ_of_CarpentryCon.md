@@ -154,7 +154,7 @@ We have fantastic keynote speakers lined up for you at CarpentryCon. Our 4 speak
 
 We, as organizers, have put a lot of efforts in making sure that you get several opportunities to learn new skills and ideas while expanding your network. In this 3-day high-intensive conference you will learn from: (1) the experts through keynote talks, skill-up session, and workshops, (2) share your ideas with each other in discussion/breakout sessions and get tips from the session leads and other attendees, (3) suggest, vote and lead a session on spot and share your own best practices and challenges. At the conference, you will be surrounded by the community leaders, trainers and everyone who is seeking to learn. We can assure you that you will get much more than 'just another conference experience' if you reach out to your neighbor during coffee breaks, at the watercoolers, while sharing charging stations, at lunches, in the breakout rooms, and at conference receptions.
 
-#### L: Library Carpentry, Lightning talks
+#### L: Lightning talks, Library Carpentry
 
 ##### Lightning talks
 
