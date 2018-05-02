@@ -169,7 +169,7 @@ There are several ways to become a member of [The Carpentries community](https:/
 
 <img src="taskforce_misc/a-z-images/CarpentryCon-April_poster-6.jpg" width=500>
 
-##### *Official poster created by Malvika Sharan (TaskForce), Slack voting/suggestions by Greg Wilson, Mark Laufersweiler, Erin Becker and Maneesha Sane* :)
+##### *Official poster created by Malvika Sharan - Slack voting/suggestions by Greg, Mark, Erin and Maneesha* :)
 
 #### Keynote Speakers
 
