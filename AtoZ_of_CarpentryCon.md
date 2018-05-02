@@ -5,8 +5,8 @@
 
 Below you will find all the information that we thought might help you plan your trip to Dublin for CarpentryCon 2018. We took this challenge at one of our several meetings to find all the keywords starting A-Z to address any queries you might have about the conference. We are pretty confident that the following list covers everything, but please reach out to us and let us know if something is missing. Please take a look at this so that you can plan your stay in Dublin ahead of time and have the best time during the conference. We are very excited to meet you at CarpentryCon 2018!
 
-![](taskforce_misc/a-z-images/allies.jpeg)
-[Image source](carpentrycon.org)
+<img src="taskforce_misc/a-z-images/allies.jpeg" width=800>
+(Image source: Official website, carpentrycon.org)
 
 #### A: Arrival, Access, Accommodation, Allies
 
@@ -64,8 +64,8 @@ Of course! One of the most important conference supplies, coffee, will be offere
 
 #### D: Dublin, Diversity, Data Carpentry
 
-![](taskforce_misc/a-z-images/dublin1.jpeg)
-(Image provided by Norman Davey)
+<img src="taskforce_misc/a-z-images/dublin1.jpeg" width=800>
+(Image: Samuel Beckett Bridge and the beer barrel shaped Convention Centre, image provided by Norman Davey)
 
 ##### Dublin
 
@@ -130,7 +130,7 @@ Your partners, family members or guests are invited to attend the keynote lectur
 
 #### G: Guinness
 <br></br>
-<img src="https://i1.wp.com/thetaste.ie/wp/wp-content/uploads/2017/07/Guinness-Storehouse-Gravity-Bar-to-Double-its-Size-Thanks-to-%E2%82%AC16-Million-Investment.png?resize=650%2C340">
+<img src="https://i1.wp.com/thetaste.ie/wp/wp-content/uploads/2017/07/Guinness-Storehouse-Gravity-Bar-to-Double-its-Size-Thanks-to-%E2%82%AC16-Million-Investment.png?resize=650%2C340" width=800>
 <br></br>
 (Image source: thetaste.ie)
 
@@ -207,7 +207,7 @@ Are you new to The Carpentries? Do you want to learn more about the organization
 
 ##### Name Tags
 
-<img src="https://images.mynamebadges.com/img/lg/L/my-name-preferred-pronouns-label-lb-2525.png" width=70%>
+<img src="https://images.mynamebadges.com/img/lg/L/my-name-preferred-pronouns-label-lb-2525.png" width=60%>
 
 [Image source: mynamebadges.com](https://images.mynamebadges.com/img/lg/L/my-name-preferred-pronouns-label-lb-2525.pn)
 
@@ -224,7 +224,7 @@ For mothers who need a designated space for nursing, please look for the nursing
 The conference is being held at the [O'Brien Centre for Science](http://www.ucd.ie/conferences/venues/classroom-and-theatres/)
 at [University College Dublin](http://www.ucd.ie/).
 
-<img src="taskforce_misc/a-z-images/dublin-ucd.jpeg" width=250> <img src="taskforce_misc/a-z-images/dublin-ucd2.jpeg" width=250>
+<img src="taskforce_misc/a-z-images/dublin-ucd.jpeg" width=300> <img src="taskforce_misc/a-z-images/dublin-ucd2.jpeg" width=300>
 
 (Image provided by Norman Davey)
 
@@ -293,10 +293,9 @@ The registration desk will be available on site from May 28th (evening) to June 
 
 We will be using the catering service from Pi Restaurant, which is located in the same builiding as the conference venue. More restaurant suggestions for you are available on the etherpad dedicated to the discussion on [social activities at CarpentryCon](http://pad.software-carpentry.org/social_events). If you have any recommendations please add them there.
 
-<img src="http://rosyandgrey.de/wp-content/uploads/2017/08/Dublin-Travelguide-Foodguide.png" width=240>
-<img src="taskforce_misc/a-z-images/dublin5.jpeg" width=240>
+<img src="http://rosyandgrey.de/wp-content/uploads/2017/08/Dublin-Travelguide-Foodguide.png" width=300> <img src="taskforce_misc/a-z-images/dublin5.jpeg" width=300>
 
-(Image source: Left - http://rosyandgrey.de/, Right - Temple Bar, image provided by Norman Davey)
+(Image source: Left - http://rosyandgrey.de/, Right - Temple Bar, Image provided by Norman Davey)
 
 #### S: Skill-up, Sticky Notes, Slack, Special requirements, Surveys, Sponsors, Sightseeing, Software Carpentry
 
@@ -335,7 +334,7 @@ Explore Dublin by jogging or walking through the city and learn about its histor
 <img src="taskforce_misc/a-z-images/dublin2.jpeg">
 <img src="taskforce_misc/a-z-images/dublin7.jpeg.jpg">
 
-(Image Source: Upper: provided by Norman Davey, Lower by Malvika Sharan)
+(Image Source: Upper: Samuel Beckett Bridge by Norman Davey, Lower: Dublin Castle by Malvika Sharan)
 
 ##### Software Carpentry
 
@@ -495,5 +494,7 @@ There will be two calls at the following times:
 **We are looking forward to welcoming you at CapentryCon 2018!**
 
 <img src="taskforce_misc/a-z-images/TF2.jpg">
+
+(Image: Screenshot of one of several Zoom meetings over the year.)
 
 Yours, CarpentryCon Taskforce (from different time zones :))!
