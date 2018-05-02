@@ -169,11 +169,15 @@ We, as organizers, have put a lot of efforts in making sure that you get several
 
 ##### New Members
 
+
+
 ##### Name Tags
 
   - (name tag idea w/ pronouns and icebreaker: https://github.com/DanielleQuinn/Miscellaneous/blob/master/nametag.jpg)
 
 ##### Nursing
+
+For mothers who need a designated space for nursing, please look for the nursing signs upon arrival of the conference. Please let the organisers know if you will be traveling with an infant and would like to place any special request. Please see *Childcare, Special Requirements, Friends and Family* for related information
 
 #### O: O'Brien Centre, Open mic
 
@@ -270,19 +274,17 @@ CarpentryCon 2018 will not be possible without the generous support of businesse
 
 Explore Dublin by jogging or walking through the city and learn about its history and famous landmarks with Irish tour guides. See details please about the [*Sight Jogging Dublin*](www.sightjoggingdublin.com) and [Dublin Free Walking tour](http://www.dublinfreewalkingtour.ie/) for more information.
 
-#### T: Taskforce, Trainers, Travel/Transportation, Twitter, Technical Support
+#### T: Taskforce, Travel/Transportation, Twitter, Technical Support
 
 ##### TaskForce 
 
-The CarpentryCon TaskForce, was created by the volunteers from the community with an intention to organize the inaugural CarpentryCon conference, initially in 2017. The current members of the TaskForce comprise of both volunteers and The Carpentries staff. With the conference approaching, several help joined in to constitute a 'Travel Support TaskForce' and 'Diversity and Inclusion TaskForce' to extend their help in addressing specific concerns related to the Carpentries. Several of the TaskForce members will be at the conference and will be happy to help you at CarpentryCon 2018.
+The CarpentryCon TaskForce, was created in 2017 by the volunteers from the community with an intention to organize the inaugural CarpentryCon conference. The team worked out the initial plan and idea for the conference (including its name), and kept recruiting the volunteers and passed over the role of organising the meeting. The current Organizing TaskForce comprises of both volunteers and The Carpentries staff members. With the conference approaching, several help joined in from The Carpentries to form 'Travel Support TaskForce' and 'Diversity and Inclusion TaskForce' and extended their help in addressing specific concerns related to the conference. Several of the TaskForce members will be at the conference, so stop by and say Hi to us and let us know if you have any suggestions or interest in joining us for the next conference.
 
 - Current members of the Organizing TaskForce: Fotis Psomopoulos (Chair), Malvika Sharan (Secretary), Belinda Weaver (The Carpentries), SherAaron Hurt (The Carpentries), Mark Laufersweiler (on-site facilitator), Danielle Quinn (Social media manager), Ivo Arrey (on site help)
 -- Common email: carpentrycon@carpentries.org, contact them for a specific topic: http://www.carpentrycon.org/#contact
 - Travel Support TaskForce: Erin Becker, Elizabeth Williams, Malvika Sharan, Kari Jordan
 - Diversity and Inclusion TaskForce: Malvika Sharan, SherAaron Hurt, Tracy Teal, Kari Jordan
 - Past members and continuous supporter: Greg Wilson, Jason Williams, Mateusz Kuzak, Tracy Teal, Alix Keener, Jonah Duckles, Jamie Hadwin, Rayna Harris, Maneesha Sane
-
-##### Trainers
 
 ##### Travel/Transportation
 
