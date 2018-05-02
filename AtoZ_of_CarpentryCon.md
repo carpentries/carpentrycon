@@ -271,7 +271,7 @@ We will have a poster session and a designated area for the display of posters. 
 
 #### Pre-conference
 
-This is a very crucial section. My personal list will have very basic reminders like: check you passport, visa, house keys, wallet, cash; take out the garbage; water your plant; lock your door. I didn't want to assume that everyone needs an exhaustive reminders like those, so like any other sesible adult, I asked twitter for advice. [Here is what I got](https://twitter.com/MalvikaSharan/status/990973533823078400):
+This is a crucial section. My personal list will have very basic reminders like: check you passport-visa-house keys-wallet-cash, take out the garbage, water your plant, lock your door, panic (*did I close the windows!*) - you get it. I didn't want to assume that everyone needs an exhaustive reminders like I do, so like any other sesible adult, I asked twitter for advice. [Here is what I got](https://twitter.com/MalvikaSharan/status/990973533823078400):
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">What do you have in your pre-conference list? Help me fill this list for the <a href="https://twitter.com/CarpentryCon?ref_src=twsrc%5Etfw">@CarpentryCon</a> participants who are coming to <a href="https://twitter.com/ucddublin?ref_src=twsrc%5Etfw">@ucddublin</a> <a href="https://twitter.com/hashtag/Dublin?src=hash&amp;ref_src=twsrc%5Etfw">#Dublin</a> to attend the <a href="https://twitter.com/hashtag/carpentrycon2018?src=hash&amp;ref_src=twsrc%5Etfw">#carpentrycon2018</a>. Pull requests are welcome on this <a href="https://twitter.com/github?ref_src=twsrc%5Etfw">@github</a> link: <a href="https://t.co/fL1uVvxwT1">https://t.co/fL1uVvxwT1</a></p>&mdash; Malvika Sharan (@MalvikaSharan) <a href="https://twitter.com/MalvikaSharan/status/989883041035276288?ref_src=twsrc%5Etfw">April 27, 2018</a></blockquote>
 
@@ -283,7 +283,7 @@ Also, someone has already written a blog on [What to Pack & Prepare Before Any B
 
 #### Post-conference
 
-The post-conference period will be very crucial for us to evaluate the success of the conference. We will send out a post-conference survey to learn about your experiences from this conference and suggestions for the next one. We will also organize a community call to discuss the survey results and the plans for our next conference: carpentryCon 2019.
+The post-conference period will be equally crucial for us to evaluate the success of the conference. We will send out a post-conference survey to learn about your experiences from this conference and suggestions for the next one. We will also organize a community call to discuss the survey results and the plans for the next conference: carpentryCon 2019.
 
 ### Q: Questions, Quiet Rooms
 
