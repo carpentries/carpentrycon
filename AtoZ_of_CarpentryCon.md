@@ -293,7 +293,7 @@ The registration desk will be available on site from May 28th (evening) to June 
 
 We will be using the catering service from Pi Restaurant, which is located in the same builiding as the conference venue. More restaurant suggestions for you are available on the etherpad dedicated to the discussion on [social activities at CarpentryCon](http://pad.software-carpentry.org/social_events). If you have any recommendations please add them there.
 
-<img src="http://rosyandgrey.de/wp-content/uploads/2017/08/Dublin-Travelguide-Foodguide.png" width=300> <img src="taskforce_misc/a-z-images/dublin5.jpeg" width=300>
+<img src="http://rosyandgrey.de/wp-content/uploads/2017/08/Dublin-Travelguide-Foodguide.png" width=305> <img src="taskforce_misc/a-z-images/dublin5.jpeg" width=300>
 
 (Image source: Left - http://rosyandgrey.de/, Right - Temple Bar, Image provided by Norman Davey)
 
