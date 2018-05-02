@@ -193,7 +193,7 @@ Library Carpentry, a part of The Carpentries, is made by librarians, for librari
 
 #### Medical
 
-We will have basic madication and first aid support at the venue. The closest pharmacy is within 5 minutes walking distance, on the UCD campus ([Procare Pharmacy UCD](https://goo.gl/maps/hoxNWogRPWE2), Phone: 017163840). If you have any specific medical needs, let the organizers know in advanced so that they make the neccessary arrangements for you. See *Emergency* for other relevant contact lists.
+We will have basic medication and first aid support at the venue. The closest pharmacy is within 5 minutes walking distance, on the UCD campus ([Procare Pharmacy UCD](https://goo.gl/maps/hoxNWogRPWE2), Phone: 017163840). If you have any specific medical needs, let the organizers know in advance so that they make the necessary arrangements for you. See *Emergency* for other relevant contact lists.
 
 #### Mentoring
 
