@@ -184,7 +184,7 @@ We will organize a pre-conference meet-up (more information will be added) and a
 
 ##### New Members
 
-Are you new to The Carpentries? Do you want to learn more about the organization and how you can support it? CarpentryCon is the place for you. Actually! a better start for you than the rest of us as you will have an opportunity for face-to-face networking and interaction. We understand that it could be very frightening if you don't know anyone, but the community has a history of being very friendly and inclusive so make a small effort of saying 'Hi' and introducing yourself. You will be surprised how many lasting friends you will make at the conference. Join the ice-breaker session, and when in doubt, contact the welcome team.
+Are you new to The Carpentries? Do you want to learn more about the organization and how you can support it? CarpentryCon is the place for you. Actually! a better start for you than the rest of us as you will have an opportunity for face-to-face networking and interaction. We understand that it could be very frightening if you don't know anyone, but the community has a history of being very friendly and inclusive so make a small effort of saying 'Hi' and introducing yourself. You will be surprised how many lasting friends you will make at the conference. Join the ice-breaking session to get a head start, and when in doubt, contact the welcome team.
 
 ##### Name Tags
 
