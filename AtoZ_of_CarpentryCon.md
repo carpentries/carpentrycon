@@ -1,4 +1,7 @@
-## A to Z of CarpentryCon (Under preparation...)
+## A to Z of CarpentryCon
+
+### Author: Malvika Sharan with the volunteers
+#### This page is under development. Your pull-requests are welcome.
 
 Below you will find all the information that we thought might help you plan your trip to Dublin for CarpentryCon 2018. We took this challenge at one of our several meetings to find all the keywords starting A-Z to address any query you might have about the conference. We are pretty confident that the following list covers everything, but reach out to us and let us know if something is missing. Please take a look at this so that you can plan your stay in Dublin ahead of time and have the best time during the conference. We are very excited to meet you at CarpentryCon 2018!
 
@@ -349,9 +352,11 @@ Here are few tips to help you use your electronic devices in Ireland:
 
 #### U: UCD and around
 
-University College Dublin (UCD) is our venue host.
+University College Dublin (UCD) is our venue host, where we have been provided with an excellent facility to hold our inaugural CarpentryCon. "Founded one hundred and sixty years ago, University College Dublin has continued to make a unique and substantial contribution to the creation of modern Ireland. (-UCD Statement)".
 
-UCD statement: "Founded one hundred and sixty years ago, University College Dublin has continued to make a unique and substantial contribution to the creation of modern Ireland."
+We are thankful to our conference host, constanat support by the venue manager and several volunteers for helping us with everything we needed while not being on site.
+
+See *O'Brien Centre* to check out the conference venue at UCD. See our [Accessibility Page](https://github.com/carpentries/carpentrycon/blob/master/venue.md) for more imformation on what you can do while at UCD.
 
 Learn more about the university [here](http://www.ucd.ie/about-ucd/). UCD has its own [A-Z directory](https://www.ucd.ie/a-z/) to get specific information.
 
