@@ -316,6 +316,7 @@ The CarpentryCon TaskForce, was created in 2017 by the volunteers from the commu
 - [Travel Support TaskForce](https://github.com/carpentries/carpentrycon/blob/master/travel_support.md): Erin Becker, Elizabeth Williams, Kari Jordan, Malvika Sharan, SherAaron Hurt
 - [Diversity and Inclusion TaskForce](https://github.com/carpentries/carpentrycon/blob/master/venue.md): Tracy Teal, Malvika Sharan, SherAaron Hurt, Kari Jordan
 - Past members and continuous supporters: Greg Wilson, Jason Williams, Mateusz Kuzak, Tracy Teal, Alix Keener, Jonah Duckles, Jamie Hadwin, Rayna Harris, Maneesha Sane
+- CarpentryCon 2018 Volunteers: They are very crucial for us to plan everything while we are not on site. A special shout out to each of them.
 
 ##### Travel/Transportation
 
