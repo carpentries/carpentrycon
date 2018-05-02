@@ -1,6 +1,6 @@
 # CarpentryCon Accessibility Information
 
-### Contact: Tracy teal, Malvika Sharan, SherAaron hurt, Kari Jordan
+### Contact: Tracy teal, Malvika Sharan, SherAaron Hurt, Kari Jordan
 
 Also see:
 - [AtoZ of the CarpentryCon](https://github.com/carpentries/carpentrycon/blob/master/AtoZ_of_CarpentryCon.md).
