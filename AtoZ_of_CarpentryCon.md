@@ -192,7 +192,7 @@ Name tags are a great way for participants to strike up conversations with other
 
 ##### Nursing
 
-For mothers who need a designated space for nursing, please look for the nursing signs upon arrival of the conference. Please let the organizers know if you will be traveling with an infant and would like to place any special request. Please see *Childcare, Special Requirements, Friends and Family* for related information
+For mothers who need a designated space for nursing, please look for the nursing signs upon arrival of the conference. Please let the organizers know if you will be traveling with an infant and would like to place any special request. Please see *Childcare, Special Requirements, Friends and, Family* for related information
 
 #### O: O'Brien Centre, Open mic
 
@@ -214,11 +214,11 @@ city centre.
 
 Link to [Google Map](https://goo.gl/maps/xpnddSdsZ8n) and [campus map](http://mdd.ucd.ie/wp-content/uploads/2015/05/UCD-Map-October-2014-Custom.pdf).
 
-The keynote lectures will take place in George Moore Auditorium, which can be found on the ground floor of the O'Brien Centre's East wing (#67 on the campus map, above) on the left hand side of the main foyer.Specific workshop, skill-up, and breakout rooms will be anounced as information becomes available.
+The keynote lectures will take place in George Moore Auditorium, which can be found on the ground floor of the O'Brien Centre's East wing (#67 on the campus map, above) on the left-hand side of the main foyer. The specific workshops, skill-up, and breakout rooms will be announced as information becomes available.
 
 ##### Open mic
 
-The large proportion of The Carpentries community is constituted by its volunteer trainers (who also go on to take up more roles in The Carpentries). If you are a new trainer, our 'Open Mic' sessions will be very useful for you. If you are a more experience trainer, its an opportunity for you to pass your knowledge to the session attendees. Please see our [program](http://www.carpentrycon.org/#program) and prepare yourself up to come up on the podium in one of these sessions.
+The large proportion of The Carpentries community is constituted by its volunteer trainers (who also go on to take up more roles in The Carpentries). If you are a new trainer, our 'Open Mic' sessions will be very useful for you. If you are a more experience trainer, it's an opportunity for you to pass your knowledge to the session attendees. Please see our [program](http://www.carpentrycon.org/#program) and prepare yourself up to come up on the podium in one of these sessions.
 
 #### P: Pronouns, Photography, Posters, Post-conference
 
@@ -228,21 +228,22 @@ It has become a general practice to share pronouns (He/She/They/Ze etc.) on conf
 
 ##### Photography
 
-You are allowed to take photographs at the conference. Make sure that you do not disturb any session or others in the process. We will offer a differently colored lenyard to those who **don't want to be photographed**. Be respectful of their decision and don't take/post their pictures on social media. A few volunteers will be taking pictures to be included to the official collection, you are welcome to join them. If you want to post pictures on social media, use the hastag #carpentrycon2018 to tag the conference.
+You are allowed to take photographs at the conference. Make sure that you do not disturb any session or others in the process. We will offer a differently colored lanyard to those who **don't want to be photographed**. Be respectful of their decision and don't take/post their pictures on social media. A few volunteers will be taking pictures to be included to the official collection, you are welcome to join them. If you want to post pictures on social media, use the hashtag #carpentrycon2018 to tag the conference.
 
 ##### Posters
 
-We will have a poster session and a designated area for the deplay of the posters. You can use the A0 poster size (verticle). We will add any other specification if required. The deadline for the abstract submission is May 4th.
+We will have a poster session and a designated area for the display of the posters. You can use the A0 poster size (verticle). We will add any other specification if required. The deadline for the abstract submission is May 4th.
 
 ##### Post-conference
 
-The post-conference will be very crucial for us to evaluate the success of the conference. We will send out a post-conference survey to learn about your experiences from this conference and suggestions for the next one. We will also organize a community call to discuss the survey result and discuss the plans for our next conference: carpentryCon 2019.
+The post-conference will be very crucial for us to evaluate the success of the conference. We will send out a post-conference survey to learn about your experiences from this conference and suggestions for the next one. We will also organize a community call to discuss the survey result and discuss the plans for our next conference: CarpentryCon 2019.
+
 
 #### Q: Questions, Quiet Rooms
 
 ##### Questions
 
-Get in touch with the organisers (carpentrycon@carpentries.org) if you have any specific question about the conference. Join the community call (May 3) to discuss with them in person ([see the notes](http://pad.software-carpentry.org/carpconcall)). At the conference you ,can approach organisers and volunteers (welcome-team) for any specific queries. Join our Slack channel for any recent discussion and updates.
+Get in touch with the organizers (carpentrycon@carpentries.org) if you have any specific question about the conference. Join the community call (May 3) to discuss with them in person ([see the notes](http://pad.software-carpentry.org/carpconcall)). At the conference, you can approach organizers and volunteers (welcome-team) for any specific queries. Join our Slack channel for any recent discussion and updates.
 
 ##### Quiet Rooms
 
@@ -256,13 +257,13 @@ There are following prayer rooms available on campus:
 
 ##### Registration
 
-The [online registration](https://www.eventbrite.com/e/carpentrycon-2018-tickets-42447719271) is open. We will have an opportunity for on-site registration but please let the organiser know in advanced. More information about the workshop registration will be added here.
+The [online registration](https://www.eventbrite.com/e/carpentrycon-2018-tickets-42447719271) is open. We will have an opportunity for on-site registration but please let the organizer know in advanced. More information about the workshop registration will be added here.
 
 The registration desk will be available on site from May 28th (evening) to June 1. Please bring your registration confirmation which can be swapped for your name tag and badges.
 
 ##### Restaurant suggestions
 
-We will be using the catering service from Pi restaurant, which is located in the same builiding as the conference venue. More restaurant suggestions for you are available on the etherpad dedicated to the discussion on [social activities at CarpentryCon](http://pad.software-carpentry.org/social_events). If you have any recommendation please add them there.
+We will be using the catering service from Pi restaurant, which is located in the same building as the conference venue. More restaurant suggestions for you are available on the etherpad dedicated to the discussion on [social activities at CarpentryCon](http://pad.software-carpentry.org/social_events). If you have any recommendation please add them there.
 
 #### S: Skill-up, Sticky Notes, Slack, Special requirements, Surveys, Sponsors, Sightseeing, Software Carpentry
 
@@ -272,19 +273,19 @@ There will be 6 skill-up sessions during CarpentryCon (http://www.carpentrycon.o
 
 ##### Sticky Notes
 
-We love sticky notes! No Carpentries workshop is possible without the sticky notes. See [Greg's collection of tips and techniques for teaching with sticky notes](https://github.com/gvwilson/sticky-note-teaching) to learn the various reasons it makes learning and teaching easier. Therefore, we will be using (even overusing) it during the skill-up, workshops and wgerever possible.
+We love sticky notes! No Carpentries workshop is possible without the sticky notes. See [Greg's collection of tips and techniques for teaching with sticky notes](https://github.com/gvwilson/sticky-note-teaching) for the various reasons it makes learning and teaching easier. Therefore, we will be using (even overusing) it during the skill-up, workshops and wherever possible.
 
 ##### Slack
 
-We are on Slack: https://tinyurl.com/carpentrycon-slack. Join us there to connect and communicate with the organizers and participants of CarpentryCon. We will be actively using the various channels for continuing discussions and documenting them to summerise differnt aspects of the conference. Also, you can install Slack apps to have access to these channels through your phone.
+We are on Slack: https://tinyurl.com/carpentrycon-slack. Join us there to connect and communicate with the organizers and participants of CarpentryCon. We will be actively using the various channels for continuing discussions and document them to summerise different aspects of the conference. Also, you can install Slack apps to have access to these channels through your phone.
 
 ##### Special requirements
 
-We want to assist you in all possible ways to make your participation at CarpentryCon enjoyable and stressfree. Please contact the organisers with any request for special needs so that we can arrange it before your arrival. Do not hesitate to contact the welcome-team during the meeting for any help. (see *Arrival and Access, Childcare, Inclusion*)
+We want to assist you in all possible ways to make your participation at CarpentryCon enjoyable and stressfree. Please contact the organizers with any request for special needs so that we can arrange it before your arrival. Do not hesitate to contact the welcome-team during the meeting for any help. (see *Arrival and Access, Childcare, Inclusion*)
 
 ##### Surveys
 
-Please fill out the pre-conference survey before your arrival to help us organise everything you may need at the conference (e.g. any special needs, suggestions etc.). The post-conference survey will be to evaluate your overall experience at the conference, which will help us improve our efforts while organising next conferences and meetings.
+Please fill out the pre-conference survey before your arrival to help us organize everything you may need at the conference (e.g. any special needs, suggestions etc.). The post-conference survey will be to evaluate your overall experience at the conference, which will help us improve our efforts while organizing next conferences and meetings.
 
 **Links to the surveys:**
 - Pre-conference Survey: TBA
@@ -292,7 +293,7 @@ Please fill out the pre-conference survey before your arrival to help us organis
 
 ##### Sponsors
 
-CarpentryCon 2018 will not be possible without the generous support of businesses and foundations who support our mission of teaching foundational computational and data science skills to researchers to safeguard the future of sound, open, reproducible science. Here is the [list of our sponsors](http://www.carpentrycon.org/#donor). Do you/your organisation want to support our event? See [details on our official website](http://www.carpentrycon.org/#portfolio) to learn all about it.
+CarpentryCon 2018 will not be possible without the generous support of businesses and foundations who support our mission of teaching foundational computational and data science skills to researchers to safeguard the future of sound, open, reproducible science. Here is the [list of our sponsors](http://www.carpentrycon.org/#donor). Do you/your organization want to support our event? See [details on our official website](http://www.carpentrycon.org/#portfolio) to learn all about it.
 
 ##### Sightseeing
 
@@ -308,7 +309,7 @@ Like *Data Carpentry*, we will have a desk at the conference where you can learn
 
 ##### TaskForce 
 
-The CarpentryCon TaskForce, was created in 2017 by the volunteers from the community with an intention to organize the inaugural CarpentryCon conference. The team worked out the initial plan and idea for the conference (including its name), and kept recruiting the volunteers and passed over the role of organising the meeting. The current Organizing TaskForce comprises of both volunteers and The Carpentries staff members. With the conference approaching, several help joined in from The Carpentries to form 'Travel Support TaskForce' and 'Diversity and Inclusion TaskForce' and extended their help in addressing specific concerns related to the conference. Several of the TaskForce members will be at the conference, so stop by and say Hi to us and let us know if you have any suggestions or interest in joining us for the next conference.
+The CarpentryCon TaskForce was created in 2017 by the volunteers from the community with an intention to organize the inaugural CarpentryCon conference. The team worked out the initial plan and idea for the conference (including its name), and kept recruiting the volunteers and passed over the role of organising the meeting. The current Organizing TaskForce comprises of both volunteers and The Carpentries staff members. With the conference approaching, several help joined in from The Carpentries to form 'Travel Support TaskForce' and 'Diversity and Inclusion TaskForce' and extended their help in addressing specific concerns related to the conference. Several of the TaskForce members will be at the conference, so stop by and say Hi to us and let us know if you have any suggestions or interest in joining us for the next conference.
 
 - Current members of the Organizing TaskForce: Fotis Psomopoulos (Chair), Malvika Sharan (Secretary), Belinda Weaver (The Carpentries), SherAaron Hurt (The Carpentries), Mark Laufersweiler (on-site facilitator), Danielle Quinn (Social media manager), Ivo Arrey (on site help)
 -- Common email: carpentrycon@carpentries.org, contact them for a specific topic: http://www.carpentrycon.org/#contact
@@ -407,7 +408,7 @@ At the conference site, we will put a wish-board for you where you can add your 
 
 Watercoolers will be available in several spots of the conference venue. Try to minimise the waste by avoiding to get more packaged water bottles and re-using your cups.
 
-#### X: X-out Inequality
+#### X: X out inequality
 
 *We can't emphasize this enough!*
 
