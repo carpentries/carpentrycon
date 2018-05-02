@@ -267,7 +267,12 @@ Explore Dublin by jogging or walking through the city and learn about its histor
 
 ##### Twitter
 
+We have a twitter account dedicated for CarpentryCon feed, [follow us](twitter.com/CarpentryCon)! 
+We would love to see your pictures and tweets about CarpentryCon. Use **#carpentrycon2018** hashtag to when you tweet something relevant to CarpentryCon. 
+
 #### U: UCD and around
+
+University College Dublin (UCD) 
 
 #### V: Volunteers, Visa, Veg()ns+
 
@@ -276,10 +281,7 @@ Explore Dublin by jogging or walking through the city and learn about its histor
 If you are at UCD already or coming to the conference, you can offer your help to us by volunteering at the CarpentryCon 2018.
 Sher has written a wonderful [blog on volunteering](http://www.datacarpentry.org/blog/volunteers-wanted/) summarizing what we have done so far in the CarpentryCon, and how you can contribute to it. Belinda has put the recent updates (April 2018) [here](https://carpentries.org/blog/2018/04/carpentrycon-update/). You can see our discussion on this [etherpad](http://pad.software-carpentry.org/carpentrycon_volunteers).
 
-How to become a CarpentryCon Volunteer? Contact one of us:
-  - Malvika Sharan: malvika.sharan@embl.de
-  - Danielle Quinn: danielle.quinn@acadiau.ca
-  -SherAaron Hurt: sheraaron@carpentries.org 
+How to become a CarpentryCon Volunteer? Contact one of us: Malvika Sharan (malvika.sharan@embl.de), Danielle Quinn (danielle.quinn@acadiau.ca), SherAaron Hurt (sheraaron@carpentries.org).
 
 #### Visa
 
@@ -307,7 +309,7 @@ The temperature during the conference, as per the accuweather-forecast, will be 
 
 #### X: X-out Inequality
 
-*We can't emphasize this enough*
+*We can't emphasize this enough!*
 
 The globally diverse community of The Carpentries provides an equal opportunities to everyone irrespective of their background (both technical and non-technical). We will maintain the same ethics at CarpentryCon and would request all our participants to familiarize themselves with our [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
 
