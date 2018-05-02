@@ -269,7 +269,7 @@ You are allowed to take photographs at the conference. Make sure that you do not
 
 We will have a poster session and a designated area for the display of posters. You should use the A0 poster size (vertical). Any other specifications will be added if required. The deadline for the abstract submission is May 4th.
 
-##### Pre-conference
+#### Pre-conference
 
 This is a very crucial section. My personal list will have very basic reminders like: check you passport, visa, house keys, wallet, cash; take out the garbage; water your plant; lock your door. I didn't want to assume that everyone needs an exhaustive reminders like those, so like any other sesible adult, I asked twitter for advice. [Here is what I got](https://twitter.com/MalvikaSharan/status/990973533823078400):
 
@@ -281,7 +281,7 @@ This is a very crucial section. My personal list will have very basic reminders 
 
 Also, someone has already written a blog on [What to Pack & Prepare Before Any Big Conference](https://blog.hubspot.com/marketing/pre-conference-packing-checklist).
 
-##### Post-conference
+#### Post-conference
 
 The post-conference period will be very crucial for us to evaluate the success of the conference. We will send out a post-conference survey to learn about your experiences from this conference and suggestions for the next one. We will also organize a community call to discuss the survey results and the plans for our next conference: carpentryCon 2019.
 
