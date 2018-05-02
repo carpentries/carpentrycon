@@ -207,7 +207,7 @@ Are you new to The Carpentries? Do you want to learn more about the organization
 
 ##### Name Tags
 
-<img src="https://images.mynamebadges.com/img/lg/L/my-name-preferred-pronouns-label-lb-2525.png" width=80%>
+<img src="https://images.mynamebadges.com/img/lg/L/my-name-preferred-pronouns-label-lb-2525.png" width=70%>
 
 [Image source: mynamebadges.com](https://images.mynamebadges.com/img/lg/L/my-name-preferred-pronouns-label-lb-2525.pn)
 
@@ -293,8 +293,8 @@ The registration desk will be available on site from May 28th (evening) to June 
 
 We will be using the catering service from Pi Restaurant, which is located in the same builiding as the conference venue. More restaurant suggestions for you are available on the etherpad dedicated to the discussion on [social activities at CarpentryCon](http://pad.software-carpentry.org/social_events). If you have any recommendations please add them there.
 
-<img src="http://rosyandgrey.de/wp-content/uploads/2017/08/Dublin-Travelguide-Foodguide.png" width=250>
-<img src="taskforce_misc/a-z-images/dublin5.jpeg" width=250>
+<img src="http://rosyandgrey.de/wp-content/uploads/2017/08/Dublin-Travelguide-Foodguide.png" width=240>
+<img src="taskforce_misc/a-z-images/dublin5.jpeg" width=240>
 
 (Image source: Left - http://rosyandgrey.de/, Right - Temple Bar, image provided by Norman Davey)
 
@@ -494,6 +494,6 @@ There will be two calls at the following times:
 
 **We are looking forward to welcoming you at CapentryCon 2018!**
 
-<img src="taskforce_misc/a-z-images/TF.png">
+<img src="taskforce_misc/a-z-images/TF2.jpg">
 
 Yours, CarpentryCon Taskforce (from different time zones :))!
