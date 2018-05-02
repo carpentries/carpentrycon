@@ -271,7 +271,11 @@ We will have a poster session and a designated area for the display of posters. 
 
 #### Pre-conference
 
-This is a crucial section. My personal list will have very basic reminders like: check you passport-visa-house keys-wallet-cash, take out the garbage, water your plant, lock your door, panic (*did I close the windows!*) - you get it. I didn't want to assume that everyone needs an exhaustive reminders like I do, so like any other sesible adult, I asked twitter for advice. [Here is what I got](https://twitter.com/MalvikaSharan/status/990973533823078400):
+We will send out an email to all the registered participants with all the information we think you must have before arriving to the conference (including this page). The email will have link to the pre-conference survey to allow you choose your sessions of preference and add any special need that you may have.
+
+##### Pre-conference Checklist
+
+My personal checklist will have very basic reminders like: check your flight_schedule-alarm-passport-visa-keys-wallet-cash-hotel_address-charger-headphones-book-clothes-phone-laptop, take out the garbage, water your plant, lock your door, panic (*did I close the windows!*) - you get it. I didn't want to assume that everyone needs an exhaustive list of reminders like I do, so like any other sesible adult, I asked twitter for advice. [Here is what I got](https://twitter.com/MalvikaSharan/status/990973533823078400):
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">What do you have in your pre-conference list? Help me fill this list for the <a href="https://twitter.com/CarpentryCon?ref_src=twsrc%5Etfw">@CarpentryCon</a> participants who are coming to <a href="https://twitter.com/ucddublin?ref_src=twsrc%5Etfw">@ucddublin</a> <a href="https://twitter.com/hashtag/Dublin?src=hash&amp;ref_src=twsrc%5Etfw">#Dublin</a> to attend the <a href="https://twitter.com/hashtag/carpentrycon2018?src=hash&amp;ref_src=twsrc%5Etfw">#carpentrycon2018</a>. Pull requests are welcome on this <a href="https://twitter.com/github?ref_src=twsrc%5Etfw">@github</a> link: <a href="https://t.co/fL1uVvxwT1">https://t.co/fL1uVvxwT1</a></p>&mdash; Malvika Sharan (@MalvikaSharan) <a href="https://twitter.com/MalvikaSharan/status/989883041035276288?ref_src=twsrc%5Etfw">April 27, 2018</a></blockquote>
 
