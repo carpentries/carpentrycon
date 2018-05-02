@@ -272,16 +272,20 @@ We would love to see your pictures and tweets about CarpentryCon. Use **#carpent
 
 #### U: UCD and around
 
-University College Dublin (UCD) 
+University College Dublin (UCD) is our venue host.
+
+UCD statement: "Founded one hundred and sixty years ago, University College Dublin has continued to make a unique and substantial contribution to the creation of modern Ireland."
+
+Learn more about the university [here](http://www.ucd.ie/about-ucd/). UCD has its own [A-Z directory](https://www.ucd.ie/a-z/) to get specific information.
 
 #### V: Volunteers, Visa, Veg()ns+
 
 #### Volunteers
 
-If you are at UCD already or coming to the conference, you can offer your help to us by volunteering at the CarpentryCon 2018.
-Sher has written a wonderful [blog on volunteering](http://www.datacarpentry.org/blog/volunteers-wanted/) summarizing what we have done so far in the CarpentryCon, and how you can contribute to it. Belinda has put the recent updates (April 2018) [here](https://carpentries.org/blog/2018/04/carpentrycon-update/). You can see our discussion on this [etherpad](http://pad.software-carpentry.org/carpentrycon_volunteers).
+A group of volunteers will always be present at the venue to help you coordinate with the organiser, session chairs, venue manager, and find your way to the different rooms at the venue. 
 
-How to become a CarpentryCon Volunteer? Contact one of us: Malvika Sharan (malvika.sharan@embl.de), Danielle Quinn (danielle.quinn@acadiau.ca), SherAaron Hurt (sheraaron@carpentries.org).
+If you are at UCD already or coming to the conference, you can offer your help to us by volunteering at the CarpentryCon 2018.
+Sher has written a wonderful [blog on volunteering](http://www.datacarpentry.org/blog/volunteers-wanted/) summarizing what we have done so far in the CarpentryCon, and how you can contribute to it. Belinda has put the recent updates (April 2018) [here](https://carpentries.org/blog/2018/04/carpentrycon-update/). You can see our discussion on this [etherpad](http://pad.software-carpentry.org/carpentrycon_volunteers). How to become a CarpentryCon Volunteer? Contact one of us: Malvika Sharan (malvika.sharan@embl.de), Danielle Quinn (danielle.quinn@acadiau.ca), SherAaron Hurt (sheraaron@carpentries.org).
 
 #### Visa
 
@@ -299,13 +303,27 @@ The temperature during the conference, as per the accuweather-forecast, will be 
 
 ##### Workshops
 
+On June 1, the last of conference, we will run several parallel workshop sessions. There will be a limited number of seats available for each of this workshop and you will receive an email from us stating how you can secure a place in the workshop of your choice. We are still discussing to offer some seats for the partcipants from UCD, who would be able to register on spot with a minimum fee.
+
 ##### Wireless
 
-##### Welcome
+Two wireless networks are available in the UCD O'Brien Centre for Science:
+
+|UCD Wireless|Eduroam (requires access via your home institution)|
+|--|--|
+|<table> <tr><td>**SSID**</td><td>UCD Wireless</td></tr> <tr><td>**Network type**</td><td>Access point</td></tr> <tr><td>**Security type**</td><td>No authentication</td></tr> <tr><td>**Encryption type**</td><td>None</td></tr></table>| <table> <tr><td>**SSID**</td><td>eduroam</td></tr> <tr><td>**Network type**</td><td>Access point</td></tr> <tr><td>**Security type**</td><td>WPA2-Enterprise</td></tr> <tr><td>**Encryption type**</td><td>AES</td></tr></table>|
+
+##### Welcome-Team
+
+The group of volunteers and organisers will be the part of this welcome group who will guide you and will be there to offer you any sort of assistance from the beginning to the end of the conference. Make yourself familiarised with them (name tag, T-shirt etc.).
 
 ##### Wish board
 
+At the conference site, we will put a wish-board for you where you can add your 'wish' for CarpentryCon, The Carpentries and its community. We will let you decide what this means to you! :)
+
 ##### Watercoolers
+
+Watercoolers will be available in several spots of the conference venue. Try to minimise the waste by avoiding to get more packaged water bottles and re-using your cups.
 
 #### X: X-out Inequality
 
@@ -316,6 +334,12 @@ The globally diverse community of The Carpentries provides an equal opportunitie
 ***Discrimination in any form including behavious or remarks against any nationality, ethnicity, sexuality, religious and cultural belief will not be tolerated!*** (also see *Allies, Code of Conduct, Diversity, Inclusion*)
 
 #### Y: You!
+
+[Who Belongs at CarpentryCon 2018? You do.](https://carpentries.org/blog/2018/03/who-belongs-carpentrycon/) (- Blog by Belinda)
+
+This event is for **you**. The success of this conference will be measured by what you gain at the conference and afterwards in terms of skills, knowledge and networking.
+
+Be mindful that the organizers are also volunteers who are organizing this for the community by working beyond their work. Therefore, we invite you to step in if you see that something at the conference is not working and you have the idea and capacity to *fix* it for others. We are looking forward to welcoming you at CapentryCon 2018.
 
 #### Z: Zoom for TaskForce, Volunteers, and Community Calls
 
