@@ -517,6 +517,6 @@ There will be two calls at the following times:
 
 ##### *Screenshot of one of many Zoom meetings over the year*
 
-Yours, CarpentryCon Taskforce - from different Time Zones!
+Yours,
 
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+CarpentryCon Taskforce - from different Time Zones.
