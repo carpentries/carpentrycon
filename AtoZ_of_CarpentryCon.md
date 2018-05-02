@@ -271,7 +271,7 @@ We will have a poster session and a designated area for the display of posters. 
 
 #### Pre-conference
 
-We will send out an email to all the registered participants with all the information we think you must have before arriving to the conference (including this page). The email will have link to the pre-conference survey to allow you choose your sessions of preference and add any special need that you may have.
+We will send out an email to all the registered participants with all the information we think you must have before arriving to the conference (including this page). The email will have link to the pre-conference survey to allow you choose your sessions of preference and add any special need that you may have. It's crucial that you respond to the survey (link will be added soon) to secure a place in the sessions of your choice.
 
 ##### Pre-conference Checklist
 
@@ -287,7 +287,7 @@ Also, someone has already written a blog on [What to Pack & Prepare Before Any B
 
 #### Post-conference
 
-The post-conference period will be equally crucial for us to evaluate the success of the conference. We will send out a post-conference survey to learn about your experiences from this conference and suggestions for the next one. We will also organize a community call to discuss the survey results and the plans for the next conference: carpentryCon 2019.
+The post-conference period will be equally crucial to evaluate the success of the conference. We will send out a post-conference survey to learn about your experiences from this conference and suggestions for the next one. We will also organize a community call to discuss the survey results and the plans for the next conference: carpentryCon 2019.
 
 ### Q: Questions, Quiet Rooms
 
