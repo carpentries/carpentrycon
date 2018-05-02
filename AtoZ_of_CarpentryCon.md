@@ -55,6 +55,8 @@ CarpentryCon 2018 (http://www.carpentrycon.org/) is the inaugural annual confere
 
 As a member and conference participant, you are requested to familiarize yourself with The Carpentries' [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
 
+*Code of Conduct in Short*: The Carpentries are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. Enforcement of the Code of Conduct will be respectful and not include any harassing behaviors. Harassment in any form or behavior intended to exclude, intimidate, or cause discomfort is a violation of Code of Conduct. If you believe someone is violating the Code of Conduct we ask that you report it to the members of the CarpentryCon TaskForce or the Code of Conduct subcommittee members (Tracy Teal, Kari Jordan and Malvika Sharan) at the conference in person, by email or on slack, who will take the appropriate action to address the situation. You can also reach out to The Carpentry Policy subcommittee by emailing policy@carpentries.org.
+
 ##### Child Care
 
 Parents/Families traveling with child/children must inform the organizers if they would be attending the conference with their child/children so that we can provide you with all the necessary information and support from our end. For mothers who need a designated space at the conference for nursing, please look for the nursing signs upon arrival of the conference.
@@ -468,11 +470,9 @@ Watercoolers will be available in several spots of the conference venue. Try to 
 
 ### X: _X out inequality_
 
-<img src="taskforce_misc/a-z-images/dublin6.jpeg.jpg" width=800)
-Dublin Pride Parade (Image provided by Norman Davey)
-<br></br>
+<img src="taskforce_misc/a-z-images/dublin6.jpeg.jpg" width=800>
 
-##### *Image source: Article - [Ireland is the first country to legalise gay marriage by popular vote.](https://www.theguardian.com/world/2015/may/23/gay-marriage-ireland-yes-vote)*
+##### *Picture of the Dublin Pride Parade, provided by Norman Davey* [Supporting Article](https://www.theguardian.com/world/2015/may/23/gay-marriage-ireland-yes-vote)
 
 *We can't emphasize this enough!*
 
