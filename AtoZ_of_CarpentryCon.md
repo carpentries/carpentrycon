@@ -134,7 +134,7 @@ If you are in the city, you can check the [running trails](http://trailrunningir
 Your partner, family members or guests are invited to attend the keynote lectures if they are on campus during the conference. However, the break-out, skill-up, and workshops will be limited to the conference attendees for their participation. Here is a list of [on-campus cafe and restaurants](http://www.ucd.ie/students/guide/food.html) which will be accessible to them while they are in the UCD area. You can purchase a conference dinner ticket for partner/family member/friends through our [registration page](https://www.eventbrite.com/e/carpentrycon-2018-tickets-42447719271). Contact the organizers if we can help you in any way. See the related sections for *Childcare, Nursing, Medical, Events, Fitness* etc. for related information.
 
 ### G: Guinness
-<br></br>
+
 <img src="https://i1.wp.com/thetaste.ie/wp/wp-content/uploads/2017/07/Guinness-Storehouse-Gravity-Bar-to-Double-its-Size-Thanks-to-%E2%82%AC16-Million-Investment.png?resize=650%2C340" width=800>
 
 ##### *Image source: thetaste.ie*
