@@ -42,7 +42,7 @@ CarpentryCon 2018 (http://www.carpentrycon.org/) is the inaugural annual confere
 
 ##### Code of Conduct
 
-As a member and conference participant, you are requested to familiarise yourself with The Carpentries' [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html). 
+As a member and conference participant, you are requested to familiarise yourself with The Carpentries' [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
 
 *Code of Conduct in Short*: The Carpentries are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. Enforcement of the Code of Conduct will be respectful and not include any harassing behaviors. Harassment in any form or behavior intended to exclude, intimidate, or cause discomfort is a violation of Code of Conduct. If you believe someone is violating the Code of Conduct we ask that you report it to the CarpentryCon TaskForce members and/or Code of Conduct subcommittee at the conference in person, by email or on slack, who will take the appropriate action to address the situation. You can also reach out to The Carpentry Policy subcommittee by emailing policy@carpentries.org.
 
@@ -141,7 +141,15 @@ We will have a job board at the conference where you can post/advertise both int
 
 There are several ways to become a member of [The Carpentries community](https://carpentries.org/community/) and support its work. At the CarpentryCon, there will be different booths for The Carpentries and opportunities to meet the volunteer members to learn more about it. See [here](https://carpentries.org/join/) for more detail.
 
-#### K: Knowledge sharing
+#### K: Keynote Speakers, Knowledge sharing
+
+##### Keynote Speakers
+
+We have fantastic keynote speakers lined up for you at CarpentryCon. Our 4 speakers are: **Valerie Aurora** (founder of FrameShift consulting for diversity & inclusion in tech), **Desmond Higgins** (professor of bioinformatics in UCD, and recipient of 2018 Benjamin Franklin Award for Open Access in the life sciences), **Anelda van der Walt** (founder of Talarify, and recipient of 2017 Carpentries Community Service Award for her work in South Africa), **Greg Wilson** (co-founder Software Carpentry. Head of Instructor Training for DataCamp). We are very excited to have these leaders from their field at CarpentryCon and looking forward to their talks. See the [official website](http://www.carpentrycon.org/#comp) for more detail.
+
+##### Knowledge sharing
+
+We as organizers have put a lot of efforts in making sure that you get several opportunities to learn about new skills and ideas while expanding your network. In this 3-dayhigh intensive conference you will learn from (1) the experts through keynote talks, skill-up session and workshops, (2) share your ideas with each other in discussion/breakout sessions and get tips from the session leads and other attendees, (3) suggest, vote and lead a session on spot and share your own best practices and challenges. At the conference you will be surrounded by the community leaders, trainers and everyone who is seeking to learn. We can assure you that you will get much more than 'just another conference experience' if you reach out to your neighbor during coffee breaks, at the watercoolers, while sharing a charging stations, at lunches, in the breakout rooms, and at conference receptions.
 
 #### L: Library Carpentry, Lightning talks
 
@@ -213,11 +221,7 @@ The registration desk will be available on site from May 28th (evening) to June 
 
 We will be using the catering service from Pi restaurant, which is located in the same builiding as the conference venue. More restaurant suggestions for you are available on the etherpad dedicated to the discussion on [social activities at CarpentryCon](http://pad.software-carpentry.org/social_events). If you have any recommendation please add them there.
 
-#### S: Speakers, Skill-up, Sticky Notes, Slack, Special requirements, Surveys, Sponsors, Sightseeing
-
-##### Speakers
-
-We have fantastic keynote speakers lined up for you at CarpentryCon. Our 4 speakers are: **Valerie Aurora** (founder of FrameShift consulting for diversity & inclusion in tech), **Desmond Higgins** (professor of bioinformatics in UCD, and recipient of 2018 Benjamin Franklin Award for Open Access in the life sciences), **Anelda van der Walt** (founder of Talarify, and recipient of 2017 Carpentries Community Service Award for her work in South Africa), **Greg Wilson** (co-founder Software Carpentry. Head of Instructor Training for DataCamp). We are very excited to have these leaders from their field at CarpentryCon and looking forward to their talks. See the [official website](http://www.carpentrycon.org/#comp) for more detail.
+#### S: Skill-up, Sticky Notes, Slack, Special requirements, Surveys, Sponsors, Sightseeing
 
 ##### Skill-up
 
@@ -293,7 +297,7 @@ The temperature during the conference, as per the accuweather-forecast, will be 
 
 *We can't emphasize this enough*
 
-The globally diverse community of The Carpentries provides an equal opportunities to everyone irrespective of their background (both technical and non-technical). We will maintain the same ethics at CarpentryCon and would request all our participants to familiarize themselves with our [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html). 
+The globally diverse community of The Carpentries provides an equal opportunities to everyone irrespective of their background (both technical and non-technical). We will maintain the same ethics at CarpentryCon and would request all our participants to familiarize themselves with our [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
 
 ***Discrimination in any form including behavious or remarks against any nationality, ethnicity, sexuality, religious and cultural belief will not be tolerated!*** (also see *Allies, Code of Conduct, Diversity, Inclusion*)
 
@@ -301,7 +305,7 @@ The globally diverse community of The Carpentries provides an equal opportunitie
 
 #### Z: Zoom for TaskForce, Volunteers, and Community Calls
 
-We use [Zoom](https://zoom.us/) (not a sponsor!), for our calls to connect with community members. See *Etherpads* for the all the relevant etherpads. We have planned a CarpentryCon themed community call to help people get excited about what is coming, as well as answer any questions the community might have, we are going to have a CarpentryCon themed Community Call on May 3rd. See [this etherpad](http://pad.software-carpentry.org/carpconcall) for connection information and Zoom link. 
+We use [Zoom](https://zoom.us/) (not a sponsor!), for our calls to connect with community members. See *Etherpads* for the all the relevant etherpads. We have planned a CarpentryCon themed community call to help people get excited about what is coming, as well as answer any questions the community might have, we are going to have a CarpentryCon themed Community Call on May 3rd. See [this etherpad](http://pad.software-carpentry.org/carpconcall) for connection information and Zoom link.
 
 There will be two calls at the following times:
 - *First call:* 13:00 GMT/UTC, [see your time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CarpentryCon+Call&iso=20180503T13&p1=%3A&ah=1)
