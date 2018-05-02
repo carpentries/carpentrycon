@@ -269,21 +269,33 @@ Explore Dublin by jogging or walking through the city and learn about its histor
 
 #### U: UCD and around
 
-#### V: Volunteers, Visa, Veg()ns
+#### V: Volunteers, Visa, Veg()ns+
 
 #### Volunteers
 
+If you are at UCD already or coming to the conference, you can offer your help to us by volunteering at the CarpentryCon 2018.
+Sher has written a wonderful [blog on volunteering](http://www.datacarpentry.org/blog/volunteers-wanted/) summarizing what we have done so far in the CarpentryCon, and how you can contribute to it. Belinda has put the recent updates (April 2018) [here](https://carpentries.org/blog/2018/04/carpentrycon-update/). You can see our discussion on this [etherpad](http://pad.software-carpentry.org/carpentrycon_volunteers).
+
+How to become a CarpentryCon Volunteer? Contact one of us:
+  - Malvika Sharan: malvika.sharan@embl.de
+  - Danielle Quinn: danielle.quinn@acadiau.ca
+  -SherAaron Hurt: sheraaron@carpentries.org 
+
 #### Visa
 
-#### Veg(a/itaria)ns
+Make sure that your passport/existing-visa allows you to ebter Ireland - check it [here](http://www.inis.gov.ie/en/INIS/Pages/check-irish-visa). In case you need to apply for a visa, you should do so minimum 2-3 weeks before the conference. You can receieve a visa support letter from the conference organisers, please contact Fotis and Malvika with your request. Please see the details about the application process here for a visa application to the Irish Naturalisation and Immigration Service : https://www.dfa.ie/travel/visas/visas-for-ireland/. 
 
-#### W: Weather, Workshop, Wireless, Welcome, Wish board, Watercoolers
+#### Veg(a/itaria)ns+
+
+We want to be able to provide you catering keeping your dietary restrictions into account. Make sure that you provide your preference while registering. If you forgot about it, contact the organizers with your request.
+
+#### W: Weather, Workshops, Wireless, Welcome, Wish board, Watercoolers
 
 ##### Weather
 
 The temperature during the conference, as per the accuweather-forecast, will be 8-16 Degree Celcius. Weather in Dublin changes a lot through the day. It is not unusual to have wind, short rain showers, and surprising sunshine, all in one day. Unfortunately, the city is also extremely windy so umbrellas will not be very useful! A good strategy is to resort to layered clothing and to bring waterproof shoes and jackets.
 
-##### Workshop
+##### Workshops
 
 ##### Wireless
 
