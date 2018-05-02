@@ -192,7 +192,7 @@ Name tags are a great way for participants to strike up conversations with other
 
 ##### Nursing
 
-For mothers who need a designated space for nursing, please look for the nursing signs upon arrival of the conference. Please let the organizers know if you will be traveling with an infant and would like to place any special request. Please see *Childcare, Special Requirements, Friends and, Family* for related information
+For mothers who need a designated space for nursing, please look for the nursing signs upon arrival at the conference. Please let the organizers know if you will be traveling with an infant and would like to place any special request. Please see *Childcare, Special Requirements, Friends and, Family* for related information
 
 #### O: O'Brien Centre, Open mic
 
