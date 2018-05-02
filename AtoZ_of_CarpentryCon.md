@@ -153,9 +153,13 @@ We, as organizers, have put a lot of efforts in making sure that you get several
 
 #### L: Library Carpentry, Lightning talks
 
+##### Lightning talks
+
+We have lightening talk sessions (divided by topics) on the first and second day of the conference, please see the [conference program](http://www.carpentrycon.org/#prog). You are welcome to submit abstracts, see [here](https://carpentries.typeform.com/to/AImKAG) for more detail.
+
 ##### Library Carpentry
 
-##### Lightning talks
+"Library Carpentry, a part of The Carpentries, is made by librarians, for librarians to help you automate repetitive, boring, error-prone tasks, create, maintain and analyse sustainable and reusable data, work effectively with IT and systems colleagues, better understand the use of software in research and much more. Library Carpentry introduces you to the fundamentals of computing and provides you with a platform for further self-directed learning." See [here](http://librarycarpentry.github.io/our-sponsors/) for more detail.
 
 #### M: Medical, Mentoring, Meet-ups
 
@@ -164,6 +168,10 @@ We, as organizers, have put a lot of efforts in making sure that you get several
 We will have basic madication and first aid support at the venue. The closest pharmacy is in 5 minutes walking distance in the UCD campus ([Procare Pharmacy UCD](https://goo.gl/maps/hoxNWogRPWE2), Phone: 017163840). If you have any specific madical need, let the organizers know in advanced so that they make the neccessary arrangements for you. See *Emergency* for other relevant contact lists.
 
 ##### Mentoring
+
+"Mentorship is an important part of the Carpentry experience. As Instructors, we both teach and mentor our Learners. We also mentor each other as Instructors, learning something new from each other every time we teach and interact with one another. The Mentoring Subcommittee offers guidance to new and continuing Instructors through weekly discussion sessions, where Instructors from the global Carpentry community gather to share their experiences and learn from each other. This is a fantastic opportunity to interact with other Carpentry Instructors from around the world." (Read more on the The Carpentries [Blog1](https://software-carpentry.org/blog/2017/10/mentoring-wrap-up.html) and [Blog2](https://software-carpentry.org/blog/2018/03/next-round-mentoring.html)).
+
+There are several things planned for you at the conference, which includes break-out session, social activities, badge to show your involvement and a desk where you can learn more about the existing mentoring program and its activities.
 
 ##### Meet-ups
 
@@ -207,11 +215,13 @@ The keynote lectures will take place in George Moore Auditorium, which can be fo
 
 ##### Open mic
 
+The large proportion of The Carpentries community is constituted by its volunteer trainers (who also go on to take up more roles in The Carpentries). If you are a new trainer, our 'Open Mic' sessions will be very useful for you. If you are a more experience trainer, its an opportunity for you to pass your knowledge to the session attendees. Please see our [program](http://www.carpentrycon.org/#program) and prepare yourself up to come up on the podium in one of these sessions.
+
 #### P: Pronouns, Photography, Posters, Post-conference
 
 ##### Pronouns
 
-
+It has become a general practice to share pronouns (He/She/They/Ze etc.) on conference name tag. For those unfamiliar with the practice of sharing pronouns at the conference, it goes something like this: “Name: Malvika Sharan. Pronouns: she/her”. This practice is important for making sure that we use correct pronouns, specifically for our trans, queer, and gender non-conforming community members you will meet at CarpentryCon.
 
 ##### Photography
 
@@ -251,7 +261,7 @@ The registration desk will be available on site from May 28th (evening) to June 
 
 We will be using the catering service from Pi restaurant, which is located in the same builiding as the conference venue. More restaurant suggestions for you are available on the etherpad dedicated to the discussion on [social activities at CarpentryCon](http://pad.software-carpentry.org/social_events). If you have any recommendation please add them there.
 
-#### S: Skill-up, Sticky Notes, Slack, Special requirements, Surveys, Sponsors, Sightseeing
+#### S: Skill-up, Sticky Notes, Slack, Special requirements, Surveys, Sponsors, Sightseeing, Software Carpentry
 
 ##### Skill-up
 
@@ -284,6 +294,12 @@ CarpentryCon 2018 will not be possible without the generous support of businesse
 ##### Sightseeing
 
 Explore Dublin by jogging or walking through the city and learn about its history and famous landmarks with Irish tour guides. See details please about the [*Sight Jogging Dublin*](www.sightjoggingdublin.com) and [Dublin Free Walking tour](http://www.dublinfreewalkingtour.ie/) for more information.
+
+##### Software Carpentry
+
+"The Software Carpentry Foundation and its sibling project, Data Carpentry, have merged to become The Carpentries. Since 1998, Software Carpentry has been teaching researchers the computing skills they need to get more done in less time and with less pain. Our volunteer instructors have run hundreds of events for more than 34,000 researchers since 2012. All of our lesson materials are freely reusable under the Creative Commons - Attribution license."
+
+Like *Data Carpentry*, we will have a desk at the conference where you can learn more about this project.
 
 #### T: Taskforce, Travel/Transportation, Twitter, Technical Support
 
