@@ -363,7 +363,7 @@ See *O'Brien Centre* to check out the conference venue at UCD. See our [Accessib
 
 Learn more about the university [here](http://www.ucd.ie/about-ucd/). UCD has its own [A-Z directory](https://www.ucd.ie/a-z/) to get specific information.
 
-#### V: Volunteers, Visa, Veg()ns+
+#### V: Volunteers, Visa, Veg()an+
 
 #### Volunteers
 
@@ -376,9 +376,10 @@ Sher has written a wonderful [blog on volunteering](http://www.datacarpentry.org
 
 Make sure that your passport/existing visa allows you to enter Ireland - check it [here](http://www.inis.gov.ie/en/INIS/Pages/check-irish-visa). In case you need to apply for a visa, you should do so at minimum 2-3 weeks before the conference. You can receieve a visa support letter from the conference organisers: please contact Fotis and Malvika with your request. Please see the details about the application process here for a visa application to the Irish Naturalisation and Immigration Service: https://www.dfa.ie/travel/visas/visas-for-ireland/. 
 
-#### Veg(a/itaria)ns+
+#### Veg()an+
 
-We want to be able to provide catering for you, keeping your dietary restrictions into account. Make sure that you provide your preference while registering. If you forgot about it, contact the organizers with your request.
+We want to be able to provide you catering keeping your dietary restrictions into account (e.g. Veg(itari)ans, Glutan-free, Nut-free etc). Make sure that you provide your preference while registering. If you forgot about it, contact the organizers with your request.
+
 
 #### W: Weather, Workshops, Wireless, Welcome Team, Wish board, Watercoolers
 
