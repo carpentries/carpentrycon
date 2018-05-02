@@ -33,7 +33,7 @@ There will be 12 breakout sessions during CarpentryCon (http://www.carpentrycon.
 
 Dublin is a city of Bars and pubs (but not only). We have a list of bar suggestions (by our UCD Volunteers Ben and Chiara) on the etherpad dedicated to the discussion on [social activities at CarpentryCon](http://pad.software-carpentry.org/social_events). Please expand the list, if you have any additional recommendations.
 
-#### C: Carpentries, CarpentryCon, Code of Conduct, Child Care, Coffee
+#### C: Carpentries, CarpentryCon, Code of Conduct, Child Care, Coffee and Catering
 
 ##### The Carpentries
 
@@ -55,7 +55,7 @@ Parent/Family traveling with child/children must inform the organizers if they w
 
 ##### Coffee and Catering
 
-Of course! one of the most important conference supplies, coffee, will be offered at the conference during the breaks. Here is a list of all the [coffee/food places in UCD](http://www.ucd.ie/students/guide/food.html), if you want to take a walk during and after the conference and find other non-conference coffee. Lunch will be provided at the conference for the registered participants. We will use the catering services of Restaurant Pi located in the same building as the venue. We will take care of the different dietry requirements if you have mentioned it in your registration. Please let the organisers know if you'd like to amend your specified dietry requirement.
+Of course! one of the most important conference supplies, coffee, will be offered at the conference during the breaks. Here is a list of all the [coffee/food places in UCD](http://www.ucd.ie/students/guide/food.html), if you want to take a walk during and after the conference and find other non-conference coffee. Lunch will be provided at the conference for the registered participants. We will use the catering services of Restaurant Pi located in the same building as the venue. We will take care of the different dietry requirements if you have mentioned it in your registration. Please let the organisers know if you'd like to amend your specified dietry requirement. (See *Veg()n+ and Special Requirements*)
 
 #### D: Dublin, Diversity, Data Carpentry
 
