@@ -204,6 +204,7 @@ at [University College Dublin](http://www.ucd.ie/).
 The UCD O'Brien Centre for Science is located on UCD's Belfield campus, 4 km south of Dublin
 city centre.
 
+```
   UCD O'Brien Centre for Science
   UCD Science Centre (East)
   University College Dublin
@@ -211,6 +212,7 @@ city centre.
   Roebuck, Dublin
   Ireland
   (01) 716 2120
+ ```
 
 Link to [Google Map](https://goo.gl/maps/xpnddSdsZ8n) and [campus map](http://mdd.ucd.ie/wp-content/uploads/2015/05/UCD-Map-October-2014-Custom.pdf).
 
