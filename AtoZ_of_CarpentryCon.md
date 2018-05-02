@@ -161,19 +161,23 @@ We, as organizers, have put a lot of efforts in making sure that you get several
 
 ##### Medical
 
+We will have basic madication and first aid support at the venue. The closest pharmacy is in 5 minutes walking distance in the UCD campus ([Procare Pharmacy UCD](https://goo.gl/maps/hoxNWogRPWE2), Phone: 017163840). If you have any specific madical need, let the organizers know in advanced so that they make the neccessary arrangements for you. See *Emergency* for other relevant contact lists.
+
 ##### Mentoring
 
 ##### Meet-ups
+
+We will organize a pre-conference meet-up (more information will be added) and an official conference dinner. We will offer you opportunities to organise your own small meet-ups and invite the participants (see *Social Activities and Friends and Family*). If you have something in mind, please let the organizers know so that they can help you in setting it up. Check out [this etherpad](http://pad.software-carpentry.org/social_events) for existing ideas, and add your name under the relevant sections.
 
 #### N: Nursing, Name Tags, New Members
 
 ##### New Members
 
-
+Are you new to The Carpentries? Do you want to learn more about the organization and how you can support it? CarpentryCon is the place for you. Actually! a better start for you than the rest of us as you will have an opportunity for face-to-face networking and interaction. We understand that it could be very frightening if you don't know anyone, but the community has a history of being very friendly and inclusive so make a small effort of saying 'Hi' and introducing yourself. You will be surprised how many friends you will leave the conference with. Join the ice-breaker session and when in doubt, contact the welcome team.
 
 ##### Name Tags
 
-  - (name tag idea w/ pronouns and icebreaker: https://github.com/DanielleQuinn/Miscellaneous/blob/master/nametag.jpg)
+Name tags are a great way for participants to strike up conversations with other participants or volunteers. You can collect your name tag at the registration desk (don't forget your registration ticket). We will be offering you a list of badges (e.g. speaker, trainer, taskforce, volunteers, new members etc.) to add to you name tag to let others know your interests, roles and expertise, which will help you network more efficiently. Our name tags will have a section to add you pronoun preference. As a participants, be respectful to each other by using the correct name and pronoun. Ask! if you don't know how to pronounce someone's name, maybe they share a nice story about what their name means.
 
 ##### Nursing
 
@@ -199,7 +203,6 @@ city centre.
 
 Link to [Google Map](https://goo.gl/maps/xpnddSdsZ8n) and [campus map](http://mdd.ucd.ie/wp-content/uploads/2015/05/UCD-Map-October-2014-Custom.pdf).
 
-
 The keynote lectures will take place in George Moore Auditorium, which can be found on the ground floor of the O'Brien Centre's East wing (#67 on the campus map, above) on the left hand side of the main foyer.Specific workshop, skill-up, and breakout rooms will be anounced as information becomes available.
 
 ##### Open mic
@@ -208,11 +211,19 @@ The keynote lectures will take place in George Moore Auditorium, which can be fo
 
 ##### Pronouns
 
+
+
 ##### Photography
+
+You are allowed to take photographs at the conference. Make sure that you do not disturb any session or others in the process. We will offer a differently colored lenyard to those who **don't want to be photographed**. Be respectful of their decision and don't take/post their pictures on social media. A few volunteers will be taking pictures to be included to the official collection, you are welcome to join them. If you want to post pictures on social media, use the hastag #carpentrycon2018 to tag the conference.
 
 ##### Posters
 
+We will have a poster session and a designated area for the deplay of the posters. You can use the A0 poster size (verticle). We will add any other specification if required. The deadline for the abstract submission is May 4th.
+
 ##### Post-conference
+
+The post-conference will be very crucial for us to evaluate the success of the conference. We will send out a post-conference survey to learn about your experiences from this conference and suggestions for the next one. We will also organize a community call to discuss the survey result and discuss the plans for our next conference: carpentryCon 2019.
 
 #### Q: Questions, Quiet Rooms
 
@@ -225,7 +236,7 @@ Get in touch with the organisers (carpentrycon@carpentries.org) if you have any 
 If you need a quiet place while attending CarpentryCon, there will be space available. Please see the program or ask a volunteer where the room will be located. We ask that while you are in the room that you are mindful of others who may be sharing the space as well.
 
 There are following prayer rooms available on campus:
- - UCD Muslim/Islamic Prayer Room
+- UCD Muslim/Islamic Prayer Room
 - UCD Chaplaincy prayer room - St Stephens
 
 #### R: Registration, Restaurant suggestions
@@ -282,6 +293,7 @@ The CarpentryCon TaskForce, was created in 2017 by the volunteers from the commu
 
 - Current members of the Organizing TaskForce: Fotis Psomopoulos (Chair), Malvika Sharan (Secretary), Belinda Weaver (The Carpentries), SherAaron Hurt (The Carpentries), Mark Laufersweiler (on-site facilitator), Danielle Quinn (Social media manager), Ivo Arrey (on site help)
 -- Common email: carpentrycon@carpentries.org, contact them for a specific topic: http://www.carpentrycon.org/#contact
+- Local host: Norman Davey
 - Travel Support TaskForce: Erin Becker, Elizabeth Williams, Malvika Sharan, Kari Jordan
 - Diversity and Inclusion TaskForce: Malvika Sharan, SherAaron Hurt, Tracy Teal, Kari Jordan
 - Past members and continuous supporter: Greg Wilson, Jason Williams, Mateusz Kuzak, Tracy Teal, Alix Keener, Jonah Duckles, Jamie Hadwin, Rayna Harris, Maneesha Sane
