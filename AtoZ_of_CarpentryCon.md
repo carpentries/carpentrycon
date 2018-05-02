@@ -37,7 +37,7 @@ There will be 12 breakout sessions during CarpentryCon (http://www.carpentrycon.
 
 Dublin is a city of bars and pubs (but not only). We have a list of bar suggestions (by our UCD Volunteers Ben and Chiara) on the etherpad dedicated to the discussion of [social activities at CarpentryCon](http://pad.software-carpentry.org/social_events). Please expand the list, if you have any additional recommendations.
 
-### C: Carpentries, CarpentryCon, Code of Conduct, Child Care, Coffee, and Catering
+### C: Carpentries, CarpentryCon, Code of Conduct, Child Care, Coffee, Catering
 
 #### The Carpentries
 <br><br>
@@ -255,7 +255,7 @@ The keynote lectures will take place in the George Moore Auditorium, which can b
 
 The majority of The Carpentries community is constituted by its volunteer trainers (who also go on to take up more roles in The Carpentries). If you are a new trainer, our 'Open Mic' sessions will be very useful for you. If you are a more experienced trainer, it's an opportunity for you to pass your knowledge to the session attendees. Please see our [program](http://www.carpentrycon.org/#program) and prepare yourself up to come up on the podium in one of these sessions.
 
-### P: Pronouns, Photography, Posters, Post-conference
+### P: Pronouns, Photography, Posters, Pre-conference, Post-conference
 
 #### Pronouns
 
@@ -268,6 +268,21 @@ You are allowed to take photographs at the conference. Make sure that you do not
 #### Posters
 
 We will have a poster session and a designated area for the display of posters. You should use the A0 poster size (vertical). Any other specifications will be added if required. The deadline for the abstract submission is May 4th.
+
+##### Pre-conference
+
+This is a very crucial section. My personal list will have very basic reminders like: check you passport, visa, house keys, wallet, cash; take out the garbage; water your plant; lock your door. I didn't want to assume that everyone needs an exhaustive reminders like those, so like any other sesible adult, I asked twitter for advice. [Here is what I got](https://twitter.com/MalvikaSharan/status/990973533823078400):
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">What do you have in your pre-conference list? Help me fill this list for the <a href="https://twitter.com/CarpentryCon?ref_src=twsrc%5Etfw">@CarpentryCon</a> participants who are coming to <a href="https://twitter.com/ucddublin?ref_src=twsrc%5Etfw">@ucddublin</a> <a href="https://twitter.com/hashtag/Dublin?src=hash&amp;ref_src=twsrc%5Etfw">#Dublin</a> to attend the <a href="https://twitter.com/hashtag/carpentrycon2018?src=hash&amp;ref_src=twsrc%5Etfw">#carpentrycon2018</a>. Pull requests are welcome on this <a href="https://twitter.com/github?ref_src=twsrc%5Etfw">@github</a> link: <a href="https://t.co/fL1uVvxwT1">https://t.co/fL1uVvxwT1</a></p>&mdash; Malvika Sharan (@MalvikaSharan) <a href="https://twitter.com/MalvikaSharan/status/989883041035276288?ref_src=twsrc%5Etfw">April 27, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Do you mean these kinds of things? Business cards. Stuff to read while traveling. Power adaptors (many non-UK will need one). Some local currency. A4/US letter printouts of your poster to hand out.</p>&mdash; Lex Nederbragt (@lexnederbragt) <a href="https://twitter.com/lexnederbragt/status/991010647025618944?ref_src=twsrc%5Etfw">April 30, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Do you mean these kinds of things? Business cards. Stuff to read while traveling. Power adaptors (many non-UK will need one). Some local currency. A4/US letter printouts of your poster to hand out.</p>&mdash; Lex Nederbragt (@lexnederbragt) <a href="https://twitter.com/lexnederbragt/status/991010647025618944?ref_src=twsrc%5Etfw">April 30, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Also, someone has already written a blog on [What to Pack & Prepare Before Any Big Conference](https://blog.hubspot.com/marketing/pre-conference-packing-checklist).
 
 ##### Post-conference
 
