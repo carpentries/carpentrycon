@@ -180,7 +180,7 @@ There are several things planned for you at the conference, which includes break
 
 We will organize a pre-conference meet-up (more information will be added) and an official conference dinner. We will offer you opportunities to organize your own small meet-ups and invite the participants (see *Social Activities and Friends and Family*). If you have something in mind, please let the organizers know so that they can help you in setting it up. Check out [this etherpad](http://pad.software-carpentry.org/social_events) for existing ideas, and add your name to the relevant sections.
 
-#### N: New Members, Nursing, Name Tags
+#### N: New Members, Name Tags, Nursing
 
 ##### New Members
 
@@ -188,7 +188,7 @@ Are you new to The Carpentries? Do you want to learn more about the organization
 
 ##### Name Tags
 
-Name tags are a great way for participants to strike up conversations with other participants or volunteers. You can collect your name tag at the registration desk (don't forget your registration ticket). We will be offering you a list of badges (e.g. speaker, trainer, taskforce, volunteers, new members etc.) to add to your name tag to let others know your interests, roles and, expertise, which will help you network more efficiently. Our name tags will have a section to add you pronoun preference. As a participant, be respectful to each other by using the correct name and pronoun. Ask! if you don't know how to pronounce someone's name, maybe they share a nice story about what their name means.
+Name tags are a great way for participants to strike up conversations with other participants or volunteers. You can collect your name tag at the registration desk (don't forget your registration ticket). We will be offering you a list of badges (e.g. speaker, trainer, taskforce, volunteers, new members etc.) to add to your name tag to let others know your interests, roles and, expertise, which will help you network more efficiently. Our name tags will have a section to add you pronoun preference. As a participant, be respectful to each other by using the correct name and pronoun. Ask! if you don't know how to pronounce someone's name, maybe they share a nice story behind their name means.
 
 ##### Nursing
 
