@@ -5,6 +5,9 @@
 
 Below you will find all the information that we thought might help you plan your trip to Dublin for CarpentryCon 2018. We took this challenge at one of our several meetings to find all the keywords starting A-Z to address any queries you might have about the conference. We are pretty confident that the following list covers everything, but please reach out to us and let us know if something is missing. Please take a look at this so that you can plan your stay in Dublin ahead of time and have the best time during the conference. We are very excited to meet you at CarpentryCon 2018!
 
+![](taskforce_misc/a-z-images/allies.jpeg)
+[Image source](carpentrycon.org)
+
 #### A: Arrival, Access, Accommodation, Allies
 
 ##### Arrival and Access
@@ -36,7 +39,9 @@ Dublin is a city of bars and pubs (but not only). We have a list of bar suggesti
 #### C: Carpentries, CarpentryCon, Code of Conduct, Child Care, Coffee and Catering
 
 ##### The Carpentries
-
+<br><br>
+<img src="https://carpentries.org/assets/img/TheCarpentries.svg">
+<br><br>
 The Carpentries (https://carpentries.org/), brings Software, Data, and Library Carpentry together under an umbrella to teach foundational computational, coding, and data science skills to researchers worldwide. We are a diverse, global community of volunteer Instructors, helpers, Trainers, Maintainers, champions, member organizations, supporters, and staffs.
 
 ##### CarpentryCon 2018
@@ -59,6 +64,9 @@ Of course! One of the most important conference supplies, coffee, will be offere
 
 #### D: Dublin, Diversity, Data Carpentry
 
+![](taskforce_misc/a-z-images/dublin1.jpeg)
+(Image provided by Norman Davey)
+
 ##### Dublin
 
 Our host city [Dublin](https://en.wikipedia.org/wiki/Dublin) is known for its rich history, culture, and Georgian architecture. Find all the information we collected about the city in the context of CarpentryCon on the [venue/accessibility page](https://github.com/carpentries/carpentrycon/blob/master/venue.md). Make sure that you go out in the evening with other participants to explore the city and its wonderful bustling restaurants and bars.
@@ -67,7 +75,7 @@ Our host city [Dublin](https://en.wikipedia.org/wiki/Dublin) is known for its ri
 
 The Carpentries is a community of volunteer instructors, helpers, Trainers, Maintainers, champions, member organisations, supporters, and staff, of diverse background, nationality, ethnicity, gender and various identity groups. We are working hard to ensure that everyone feels welcome at CarpentryCon. Feel free to reach out to the organizers and staff if they can improve your experience as a member at The Carpentries and CarpentryCon. Attendees must be prepared to abide by our Code of Conduct (see *Allies, Carpentries, Code of Conduct, Inclusion, Emergency*).
 
-##### Data Carpentry at CarpentryCon
+##### Data Carpentry
 
 [Data Carpentry (DC)](http://www.datacarpentry.org/) provides researchers high-quality, domain-specific training covering the full lifecycle of data-driven research. There will be an information desk where you can collect information on DC team, their work, workshops and various ways to get involved with their activities. Additionally, several DC members will be attending CarpentryCon (you can identify them with their badge), giving participants an opportunity for face-to-face networking.
 
@@ -80,6 +88,10 @@ The Carpentries is governed by the newly formed Executive Council, to whom the E
 ##### Emergency
 
 In case of emergency, please contact the welcome team/organizers via phone (number to be added), email (carpentrycon@carpentries.org) or [slack](https://tinyurl.com/carpentrycon-slack).
+
+<img src="http://img.pagecloud.com/Cm7zt07h7XWYD0Vk922I4X58ujU=/280x0/filters:no_upscale()/telcoswitch/images/call_features_2_11-ID-9fccdb65-a8df-4311-c1fa-8a69234dded6.png">
+
+(Image source: http://img.pagecloud.com)
 
 Here is a list of few other emergency contacts:
 - Campus Services (for on-campus emergencies): 01 716 7999
@@ -117,6 +129,10 @@ If you are in the city, you can check the [running trails](http://trailrunningir
 Your partners, family members or guests are invited to attend the keynote lectures if they are on campus during the conference. However, the break-out, skill-up, and workshops will be limited to the conference participants for their participation. Here is a list of [on-campus cafe and restaurants](http://www.ucd.ie/students/guide/food.html)) which will be accessible to them while they are in the UCD area. You can purchase a partner/friend (conference) dinner ticket through our [registration page](https://www.eventbrite.com/e/carpentrycon-2018-tickets-42447719271). Contact the organizers if we can help you in any way. See the related sections for *Childcare, Nursing, Medical, Events, Fitness* etc. for related information.
 
 #### G: Guinness
+<br></br>
+<img src="https://i1.wp.com/thetaste.ie/wp/wp-content/uploads/2017/07/Guinness-Storehouse-Gravity-Bar-to-Double-its-Size-Thanks-to-%E2%82%AC16-Million-Investment.png?resize=650%2C340">
+<br></br>
+(Image source: thetaste.ie)
 
 The Guinness Storehouse, located at St. James’s Gate Brewery in Dublin is the number one tourist attraction in Dublin. This seven-storey building is a museum featuring 250 years of history of Guinness advertising and interactive exhibit on responsible drinking. The top floor offers a beautiful view to the city over drinks (both alcoholic and non-alcoholic) and food from its Gravity Bar. It is open every day from 09:30 to 19:00 and is wheelchair accessible. See [here](https://www.guinness-storehouse.com/) for information about visiting the Guinness Storehouse.
 
@@ -145,6 +161,9 @@ We will have a job board at the conference where you can post/advertise both int
 There are several ways to become a member of [The Carpentries community](https://carpentries.org/community/) and support its work. At CarpentryCon, there will be different booths for The Carpentries and opportunities to meet the volunteer members to learn more about it. See [here](https://carpentries.org/join/) for more detail.
 
 #### K: Keynote Speakers, Knowledge sharing
+
+<img src="taskforce_misc/a-z-images/CarpentryCon-April_poster-6.jpg" width=500>
+
 
 ##### Keynote Speakers
 
@@ -188,6 +207,10 @@ Are you new to The Carpentries? Do you want to learn more about the organization
 
 ##### Name Tags
 
+<img src="https://images.mynamebadges.com/img/lg/L/my-name-preferred-pronouns-label-lb-2525.png" width=80%>
+
+[Image source: mynamebadges.com](https://images.mynamebadges.com/img/lg/L/my-name-preferred-pronouns-label-lb-2525.pn)
+
 Name tags are a great way for participants to strike up conversations with other participants or volunteers. You can collect your name tag at the registration desk (don't forget your registration ticket). We will be offering you a list of badges (e.g. speaker, trainer, taskforce, volunteers, new members etc.) to add to you name tag to let others know your interests, roles and expertise, which will help you network more efficiently. Our name tags will have a section to add your pronoun preference. As a participant, be respectful to each other by using the correct name and pronoun. Ask! if you don't know how to pronounce someone's name, maybe they will share a nice story about what their name means.
 
 ##### Nursing
@@ -200,6 +223,10 @@ For mothers who need a designated space for nursing, please look for the nursing
 
 The conference is being held at the [O'Brien Centre for Science](http://www.ucd.ie/conferences/venues/classroom-and-theatres/)
 at [University College Dublin](http://www.ucd.ie/).
+
+<img src="taskforce_misc/a-z-images/dublin-ucd.jpeg" width=250> <img src="taskforce_misc/a-z-images/dublin-ucd2.jpeg" width=250>
+
+(Image provided by Norman Davey)
 
 The UCD O'Brien Centre for Science is located on UCD's Belfield campus, 4 km south of Dublin
 city centre.
@@ -266,6 +293,11 @@ The registration desk will be available on site from May 28th (evening) to June 
 
 We will be using the catering service from Pi Restaurant, which is located in the same builiding as the conference venue. More restaurant suggestions for you are available on the etherpad dedicated to the discussion on [social activities at CarpentryCon](http://pad.software-carpentry.org/social_events). If you have any recommendations please add them there.
 
+<img src="http://rosyandgrey.de/wp-content/uploads/2017/08/Dublin-Travelguide-Foodguide.png" width=250>
+<img src="taskforce_misc/a-z-images/dublin5.jpeg" width=250>
+
+(Image source: Left - http://rosyandgrey.de/, Right - Temple Bar, image provided by Norman Davey)
+
 #### S: Skill-up, Sticky Notes, Slack, Special requirements, Surveys, Sponsors, Sightseeing, Software Carpentry
 
 ##### Skill-up
@@ -300,6 +332,11 @@ CarpentryCon 2018 will not be possible without the generous support of businesse
 
 Explore Dublin by jogging or walking through the city and learn about its history and famous landmarks with Irish tour guides. Please see details about the [*Sight Jogging Dublin*](www.sightjoggingdublin.com) and [Dublin Free Walking tour](http://www.dublinfreewalkingtour.ie/) for more information.
 
+<img src="taskforce_misc/a-z-images/dublin2.jpeg">
+<img src="taskforce_misc/a-z-images/dublin7.jpeg.jpg">
+
+(Image Source: Upper: provided by Norman Davey, Lower by Malvika Sharan)
+
 ##### Software Carpentry
 
 The Software Carpentry Foundation and its sibling project, Data Carpentry, have merged to become The Carpentries. Since 1998, Software Carpentry has been teaching researchers the computing skills they need to get more done in less time and with less pain. Our volunteer instructors have run hundreds of events for more than 34,000 researchers since 2012. All of our lesson materials are freely reusable under the Creative Commons - Attribution license.
@@ -308,7 +345,7 @@ Like *Data Carpentry*, we will have a desk at the conference where you can learn
 
 #### T: Taskforce, Travel/Transportation, Twitter, Technical Support
 
-##### TaskForce 
+##### TaskForce
 
 The CarpentryCon TaskForce, was created in 2017 by the volunteers from the community with an intention to organize the inaugural CarpentryCon conference. The team worked out the initial plan and idea for the conference (including its name), and kept recruiting the volunteers and passed over the role of organising the meeting. The current Organizing TaskForce comprises both volunteers and The Carpentries staff members. With the conference approaching, more community members from The Carpentries formed the [Travel Support TaskForce](https://github.com/carpentries/carpentrycon/blob/master/travel_support.md) and [Diversity and Inclusion TaskForce](https://github.com/carpentries/carpentrycon/blob/master/venue.md), and extended their help in addressing specific concerns related to the conference. Several of the TaskForce members will be at the conference, so stop by and say 'Hi' to us and let us know if you have any suggestions or interest in joining us for the next conference.
 
@@ -320,6 +357,21 @@ The CarpentryCon TaskForce, was created in 2017 by the volunteers from the commu
 - Past members and continuous supporters: Greg Wilson, Jason Williams, Mateusz Kuzak, Tracy Teal, Alix Keener, Jonah Duckles, Jamie Hadwin, Rayna Harris, Maneesha Sane
 - CarpentryCon 2018 Volunteers from UCD: They are very crucial for this event while we are not on site. A special shout out to each of them.
 
+##### Technical Support
+
+We will have technical support at the conference from the AVCOM AV services. A few volunteers will be willing to help you with any technical difficulties that you might face at the conference. You can inquire about this at the helpdesk or by directly approaching the members of the welcome team.
+
+Here are a few tips to help you use your electronic devices in Ireland:
+
+<img src="http://irishfireside.com/wp-content/uploads/2016/04/outlets-1.jpg" width=60%>
+
+[Image source: Adapters to keep your electronics charged in Ireland - irishfireside.com](http://irishfireside.com/2016/04/07/qa-kind-electrical-adapter-need-keep-electronics-charged-ireland/)
+
+1) Bring a Type-G (compatible) power adapter. Check the requirements [here](https://www.power-plugs-sockets.com/ireland/).
+2) If you are using your laptop for a presentation, bring your adapter to connect it with the projector (HDMI or VGA).
+3) You can take pictures at the conference. Check the sign on the participants badges to make sure if they have chosen to be photographed.
+4) If you have any errors while running your program, send a tweet or ask for help on the Slack channels.
+5)
 ##### Travel/Transportation
 
 **Dublin Bus** provide services from anywhere in the city to the Belfield campus. The
@@ -340,22 +392,16 @@ for any additional information on how to get to UCD. The
 
 ##### Twitter
 
-We have a Twitter account dedicated for CarpentryCon feed, [follow us](twitter.com/CarpentryCon)! 
-We would love to see your pictures and tweets about CarpentryCon. Use the **#carpentrycon2018** hashtag to tag CarpentryCon. 
-
-##### Technical Support
-
-We will have technical support at the conference from the AVCOM AV services. A few volunteers will be willing to help you with any technical difficulties that you might face at the conference. You can inquire about this at the helpdesk or by directly approaching the members of the welcome team.
-
-Here are a few tips to help you use your electronic devices in Ireland:
-1) Bring a Type-G (compatible) power adapter. Check the requirements [here](https://www.power-plugs-sockets.com/ireland/).
-2) If you are using your laptop for a presentation, bring your adapter to connect it with the projector (HDMI or VGA).
-3) You can take pictures at the conference. Check the sign on the participants badges to make sure if they have chosen to be photographed.
-4) If you have any errors while running your program, send a tweet or ask for help on the Slack channels.
+We have a Twitter account dedicated for CarpentryCon feed, [follow us](twitter.com/CarpentryCon)!
+We would love to see your pictures and tweets about CarpentryCon. Use the **#carpentrycon2018** hashtag to tag CarpentryCon.
 
 #### U: UCD and around
 
-University College Dublin (UCD) is our venue host, where we have been provided with an excellent facility to hold our inaugural CarpentryCon. 
+<img src="taskforce_misc/a-z-images/dublin-ucd3.jpeg">
+
+(Image provided by Norman Davey)
+
+University College Dublin (UCD) is our venue host, where we have been provided with an excellent facility to hold our inaugural CarpentryCon.
 
 > "Founded one hundred and sixty years ago, University College Dublin has continued to make a unique and substantial contribution to the creation of modern Ireland" - UCD Statement
 
@@ -365,18 +411,22 @@ See *O'Brien Centre* to check out the conference venue at UCD. See our [Accessib
 
 Learn more about the university [here](http://www.ucd.ie/about-ucd/). UCD has its own [A-Z directory](https://www.ucd.ie/a-z/) to get specific information.
 
+<img src="taskforce_misc/a-z-images/dublin-ucd4.jpeg">
+
+(Image provided by Norman Davey)
+
 #### V: Volunteers, Visa, Veg()an+
 
 #### Volunteers
 
-A group of volunteers will always be present at the venue to help you coordinate with the organiser, session chairs, venue manager, and find your way to the different rooms at the venue. 
+A group of volunteers will always be present at the venue to help you coordinate with the organiser, session chairs, venue manager, and find your way to the different rooms at the venue.
 
 If you are at UCD already, or coming to the conference, you can offer your help to us by volunteering at CarpentryCon 2018.
 Sher has written a wonderful [blog on volunteering](http://www.datacarpentry.org/blog/volunteers-wanted/) summarizing what we have done so far in the CarpentryCon, and how you can contribute to it. Belinda has put the recent updates (April 2018) [here](https://carpentries.org/blog/2018/04/carpentrycon-update/). You can see our discussion on this [etherpad](http://pad.software-carpentry.org/carpentrycon_volunteers). How to become a CarpentryCon Volunteer? Contact one of us: Malvika Sharan (malvika.sharan@embl.de), Danielle Quinn (danielle.quinn@acadiau.ca), SherAaron Hurt (sheraaron@carpentries.org).
 
 #### Visa
 
-Make sure that your passport/existing visa allows you to enter Ireland - check it [here](http://www.inis.gov.ie/en/INIS/Pages/check-irish-visa). In case you need to apply for a visa, you should do so at minimum 2-3 weeks before the conference. You can receieve a visa support letter from the conference organisers: please contact Fotis and Malvika with your request. Please see the details about the application process here for a visa application to the Irish Naturalisation and Immigration Service: https://www.dfa.ie/travel/visas/visas-for-ireland/. 
+Make sure that your passport/existing visa allows you to enter Ireland - check it [here](http://www.inis.gov.ie/en/INIS/Pages/check-irish-visa). In case you need to apply for a visa, you should do so at minimum 2-3 weeks before the conference. You can receieve a visa support letter from the conference organisers: please contact Fotis and Malvika with your request. Please see the details about the application process here for a visa application to the Irish Naturalisation and Immigration Service: https://www.dfa.ie/travel/visas/visas-for-ireland/.
 
 #### Veg()an+
 
@@ -415,6 +465,11 @@ Watercoolers will be available in several spots of the conference venue. Try to 
 
 #### X: X out inequality
 
+![](taskforce_misc/a-z-images/dublin6.jpeg.jpg)
+Dublin Pride Parade (Image provided by Norman Davey)
+<br></br>
+[Ireland is the first country to legalise gay marriage by popular vote.](https://www.theguardian.com/world/2015/may/23/gay-marriage-ireland-yes-vote)
+
 *We can't emphasize this enough!*
 
 The globally diverse community of The Carpentries provides an equal opportunities to everyone irrespective of their background (both technical and non-technical). We will maintain the same ethics at CarpentryCon and would request all our participants to familiarize themselves with our [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
@@ -427,7 +482,7 @@ The globally diverse community of The Carpentries provides an equal opportunitie
 
 This event is for **you**. The success of this conference will be measured by what you gain at the conference and afterwards in terms of skills, knowledge and networking.
 
-Be mindful that the organizers are also volunteers who are organizing this for the community by working beyond their work. Therefore, we invite you to step in if you see that something at the conference is not working and you have the idea and capacity to *fix* it for others. We are looking forward to welcoming you at CapentryCon 2018.
+Be mindful that the organizers are also volunteers who are organizing this for the community by working beyond their work. Therefore, we invite you to step in if you see that something at the conference is not working and you have the idea and capacity to *fix* it for others.
 
 #### Z: Zoom for TaskForce, Volunteers, and Community Calls
 
@@ -436,3 +491,9 @@ We use [Zoom](https://zoom.us/) (not a sponsor!), for our calls to connect with 
 There will be two calls at the following times:
 - *First call:* 13:00 GMT/UTC, [see your time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CarpentryCon+Call&iso=20180503T13&p1=%3A&ah=1)
 - *Second call:* 12 noon PDT, [see your time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CarpentryCon+Call&iso=20180503T12&p1=234&ah=1)
+
+**We are looking forward to welcoming you at CapentryCon 2018!**
+
+<img src="taskforce_misc/a-z-images/TF.png">
+
+Yours, CarpentryCon Taskforce (from different time zones :))!
