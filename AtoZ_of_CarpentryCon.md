@@ -331,8 +331,8 @@ CarpentryCon 2018 will not be possible without the generous support of businesse
 
 Explore Dublin by jogging or walking through the city and learn about its history and famous landmarks with Irish tour guides. Please see details about the [*Sight Jogging Dublin*](www.sightjoggingdublin.com) and [Dublin Free Walking tour](http://www.dublinfreewalkingtour.ie/) for more information.
 
-<img src="taskforce_misc/a-z-images/dublin2.jpeg">
-<img src="taskforce_misc/a-z-images/dublin7.jpeg.jpg">
+<img src="taskforce_misc/a-z-images/dublin2.jpeg" width=800>
+<img src="taskforce_misc/a-z-images/dublin7.jpeg.jpg" width=800>
 
 (Image Source: Upper: Samuel Beckett Bridge by Norman Davey, Lower: Dublin Castle by Malvika Sharan)
 
@@ -396,7 +396,7 @@ We would love to see your pictures and tweets about CarpentryCon. Use the **#car
 
 #### U: UCD and around
 
-<img src="taskforce_misc/a-z-images/dublin-ucd3.jpeg">
+<img src="taskforce_misc/a-z-images/dublin-ucd3.jpeg" width=800>
 
 (Image provided by Norman Davey)
 
@@ -410,7 +410,7 @@ See *O'Brien Centre* to check out the conference venue at UCD. See our [Accessib
 
 Learn more about the university [here](http://www.ucd.ie/about-ucd/). UCD has its own [A-Z directory](https://www.ucd.ie/a-z/) to get specific information.
 
-<img src="taskforce_misc/a-z-images/dublin-ucd4.jpeg">
+<img src="taskforce_misc/a-z-images/dublin-ucd4.jpeg" width=800>
 
 (Image provided by Norman Davey)
 
@@ -464,7 +464,7 @@ Watercoolers will be available in several spots of the conference venue. Try to 
 
 #### X: X out inequality
 
-![](taskforce_misc/a-z-images/dublin6.jpeg.jpg)
+<img src="taskforce_misc/a-z-images/dublin6.jpeg.jpg" width=800)
 Dublin Pride Parade (Image provided by Norman Davey)
 <br></br>
 [Ireland is the first country to legalise gay marriage by popular vote.](https://www.theguardian.com/world/2015/may/23/gay-marriage-ireland-yes-vote)
@@ -493,7 +493,7 @@ There will be two calls at the following times:
 
 **We are looking forward to welcoming you at CapentryCon 2018!**
 
-<img src="taskforce_misc/a-z-images/TF2.jpg">
+<img src="taskforce_misc/a-z-images/TF2.jpg" width=800>
 
 (Image: Screenshot of one of several Zoom meetings over the year.)
 
