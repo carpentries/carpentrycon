@@ -1,6 +1,8 @@
 # CarpentryCon Accessibility Information
 
-### Contact: Tracy teal, Malvika Sharan, SherAaron Hurt, Kari Jordan
+### Diversity and Inclusion taskForce: Tracy teal, Malvika Sharan, SherAaron Hurt, Kari Jordan
+
+#### This file is edited Diversity and Inclusion TaskForce with the several Volunteers
 
 Also see:
 - [AtoZ of the CarpentryCon](https://github.com/carpentries/carpentrycon/blob/master/AtoZ_of_CarpentryCon.md).
