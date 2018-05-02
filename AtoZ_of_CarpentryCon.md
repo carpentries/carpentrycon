@@ -167,21 +167,36 @@ We, as organizers, have put a lot of efforts in making sure that you get several
 
 #### N: Nursing, Name Tags, New Members
 
-##### Nursing
+##### New Members
 
 ##### Name Tags
 
   - (name tag idea w/ pronouns and icebreaker: https://github.com/DanielleQuinn/Miscellaneous/blob/master/nametag.jpg)
 
-##### New Members
+##### Nursing
 
-#### O: Opportunities, O'Brien Centre, Orientation, Open mic
-
-##### Opportunities
+#### O: O'Brien Centre, Open mic
 
 ##### O'Brien Centre
 
-##### Orientation
+The conference is being held at the [O'Brien Centre for Science](http://www.ucd.ie/conferences/venues/classroom-and-theatres/)
+at [University College Dublin](http://www.ucd.ie/).
+
+The UCD O'Brien Centre for Science is located on UCD's Belfield campus, 4 km south of Dublin
+city centre.
+
+  UCD O'Brien Centre for Science
+  UCD Science Centre (East)
+  University College Dublin
+  Belfield, Dublin 4
+  Roebuck, Dublin
+  Ireland
+  (01) 716 2120
+
+Link to [Google Map](https://goo.gl/maps/xpnddSdsZ8n) and [campus map](http://mdd.ucd.ie/wp-content/uploads/2015/05/UCD-Map-October-2014-Custom.pdf).
+
+
+The keynote lectures will take place in George Moore Auditorium, which can be found on the ground floor of the O'Brien Centre's East wing (#67 on the campus map, above) on the left hand side of the main foyer.Specific workshop, skill-up, and breakout rooms will be anounced as information becomes available.
 
 ##### Open mic
 
@@ -255,20 +270,52 @@ CarpentryCon 2018 will not be possible without the generous support of businesse
 
 Explore Dublin by jogging or walking through the city and learn about its history and famous landmarks with Irish tour guides. See details please about the [*Sight Jogging Dublin*](www.sightjoggingdublin.com) and [Dublin Free Walking tour](http://www.dublinfreewalkingtour.ie/) for more information.
 
-#### T: Trainers, TaskForce, Travel/Transportation, Twitter, Technical Support
+#### T: Taskforce, Trainers, Travel/Transportation, Twitter, Technical Support
+
+##### TaskForce 
+
+The CarpentryCon TaskForce, was created by the volunteers from the community with an intention to organize the inaugural CarpentryCon conference, initially in 2017. The current members of the TaskForce comprise of both volunteers and The Carpentries staff. With the conference approaching, several help joined in to constitute a 'Travel Support TaskForce' and 'Diversity and Inclusion TaskForce' to extend their help in addressing specific concerns related to the Carpentries. Several of the TaskForce members will be at the conference and will be happy to help you at CarpentryCon 2018.
+
+- Current members of the Organizing TaskForce: Fotis Psomopoulos (Chair), Malvika Sharan (Secretary), Belinda Weaver (The Carpentries), SherAaron Hurt (The Carpentries), Mark Laufersweiler (on-site facilitator), Danielle Quinn (Social media manager), Ivo Arrey (on site help)
+-- Common email: carpentrycon@carpentries.org, contact them for a specific topic: http://www.carpentrycon.org/#contact
+- Travel Support TaskForce: Erin Becker, Elizabeth Williams, Malvika Sharan, Kari Jordan
+- Diversity and Inclusion TaskForce: Malvika Sharan, SherAaron Hurt, Tracy Teal, Kari Jordan
+- Past members and continuous supporter: Greg Wilson, Jason Williams, Mateusz Kuzak, Tracy Teal, Alix Keener, Jonah Duckles, Jamie Hadwin, Rayna Harris, Maneesha Sane
 
 ##### Trainers
 
-##### TaskForce
-
 ##### Travel/Transportation
 
-##### Technical Support
+**Dublin Bus** provide services from anywhere in the city to the Belfield campus. The
+price of a ticket to/from Dublin's city center is €2.85, to be paid in exact change to the
+driver. Routes to/from the city centre are operated by several lines, that stop at different locations around the campus. We recommend using Google Maps to plan your trips with Dublin Bus. Bus lines operate from 5:15 until 23:30.
+
+**Aircoach** (http://www.aircoach.ie) operates a coach service from Dublin Airport
+to Leopardstown / Sandyford / Stillorgan which stops in front of UCD's main entrance.
+Ask the driver for a ticket to UCD’s Belfield Campus (a one-way ticket is €10, a two-way ticket is €16).
+
+**Taxis** and **Ubers** to UCD’s Belfield Campus can be booked with the MyTaxi and
+Uber smartphone apps, respectively. A taxi from the airport to the campus will cost
+approximately €30-50, depending on traffic. Please notice that all Uber drivers in Ireland are also required by law to be licensed taxi drivers.
+
+Please refer to the [UCD Commuting Guide](https://www.ucd.ie/t4cms/UCD-commuting-guide-2015.pdf)
+for any additional information on how to get to UCD. The
+[additional detail](http://www.ucd.ie/gettingtoucd.htm) page on UCD's website also provides additional information on how to get to UCD from the Dublin airport or train stations.
 
 ##### Twitter
 
 We have a twitter account dedicated for CarpentryCon feed, [follow us](twitter.com/CarpentryCon)! 
-We would love to see your pictures and tweets about CarpentryCon. Use **#carpentrycon2018** hashtag to when you tweet something relevant to CarpentryCon. 
+We would love to see your pictures and tweets about CarpentryCon. Use **#carpentrycon2018** hashtag to tag CarpentryCon. 
+
+##### Technical Support
+
+We will have technical support at the conference from the AVCOM AV services. A few volunteers will be willing to help you with an technical difficulties that you might face at the conference. You can inquire about this at the helpdesk or by directly approaching the members of the welcome-team.
+
+Here are few tips to help you use your electronic devices in Ireland:
+1) Bring a Type-G (compatible) power adapter. Check the requirements [here](https://www.power-plugs-sockets.com/ireland/).
+2) If you are using your laptop for a presentation, bring your adapter to connect it with the projector (HDMI or VGA).
+3) You can take pictures at the conference. Check the sign on the participants badges to make sure if they have chosen to be photographed.
+4) If you have any error while running your program, send a tweet or ask it on slack channels.
 
 #### U: UCD and around
 
