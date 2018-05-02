@@ -1,6 +1,9 @@
 # CarpentryCon Accessibility Information
 
-- AtoZ of the CarpentryCon: [under preparation](https://github.com/carpentries/carpentrycon/blob/master/AtoZ_of_CarpentryCon.md).
+### Contact: Tracy teal, Malvika Sharan, SherAaron hurt, Kari Jordan
+
+Also see:
+- [AtoZ of the CarpentryCon](https://github.com/carpentries/carpentrycon/blob/master/AtoZ_of_CarpentryCon.md).
 - CarpentryCon cheatsheet: [under preparation](https://github.com/carpentries/carpentrycon/blob/master/CarpentryCon_Cheetsheet.md).
 
 ## Conference Venue
