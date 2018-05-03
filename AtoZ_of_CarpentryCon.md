@@ -13,6 +13,9 @@ Below you will find all the information that we thought might help you plan your
 
 #### Arrival and Access
 
+The conference is being held at the [O'Brien Centre for Science](http://www.ucd.ie/conferences/venues/classroom-and-theatres/)
+at [University College Dublin](http://www.ucd.ie/).
+
 When you first arrive, you can exchange your registration ticket for a name tag, badges and lunch tickets. The registration desk will be located at the conference site starting from Tuesday evening (the night before the conference). We will have a designated Welcome Team of organizers and volunteers who you can recognize by their T-shirts and name tag. You will have access to the lecture hall and breakout rooms, look out for the signs at the venue. Do not hesitate to reach out to the Welcome Team during the conference for any query or concern. The venue is wheelchair accessible. The Welcome Team will be happy to provide you any additional support.
 
 #### Accommodation
