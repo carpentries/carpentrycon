@@ -133,7 +133,7 @@ We like to work collaboratively and use [Etherpad](http://pad.software-carpentry
 
 #### Entertainment and Events
 
-The evening before the conference, we will book a small pub so that you get a head start on the social part of the conference. Please [fill this doodle](https://doodle.com/poll/37i357fyd8ard9d6) with your name and email to be notified. The conference dinner on the night of Day 1 will allow you to get to know other attendees in an informal setting and spend quality time with them at the conference. During the conference we have planned several opportunities for you (break-out, open-mic, coffee breaks) and platforms ([etherpad](http://pad.software-carpentry.org/social_events), [slack](https://tinyurl.com/carpentrycon-slack), [twitter](twitter.com/CarpentryCon)) to socialize with each other and make spontaneous plans to explore the city and surroundings during the evening. Take a lead and organize sessions and social activities with others.
+The evening before the conference, we will book a small pub so that you get a head start on the social part of the conference. Please [fill this doodle](https://doodle.com/poll/37i357fyd8ard9d6) with your name and email to be notified. The poster reception on the 1st day and conference dinner on the 2nd day will allow you to get to know other attendees in informal settings and spend quality time with them at the conference. During the conference we have planned several opportunities for you (break-out, open-mic, coffee breaks) and platforms ([etherpad](http://pad.software-carpentry.org/social_events), [slack](https://tinyurl.com/carpentrycon-slack), [twitter](twitter.com/CarpentryCon)) to socialize with each other and make spontaneous plans to explore the city and surroundings during the evening. Take a lead and organize sessions and social activities with others.
 
 #### Exhibition
 
@@ -147,7 +147,7 @@ If you are in the city, you can check the [running trails](http://trailrunningir
 
 #### Friends and Family
 
-Your partner, family members or guests are invited to attend the keynote lectures if they are on campus during the conference. However, the break-out, skill-up, and workshops will be limited to the conference attendees for their participation. Here is a list of [on-campus cafe and restaurants](http://www.ucd.ie/students/guide/food.html) which will be accessible to them while they are in the UCD area. You can purchase a conference dinner ticket for partner/family member/friends through our [registration page](https://www.eventbrite.com/e/carpentrycon-2018-tickets-42447719271). Contact the organizers if we can help you in any way. See the related sections for *Childcare, Nursing, Medical, Events, Fitness* etc. for related information.
+Your partner, family members or guests are invited to attend the keynote lectures and poster session if they are on campus during the conference. However, the break-out, skill-up, and workshops will be limited to the conference attendees for their participation. Here is a list of [on-campus cafe and restaurants](http://www.ucd.ie/students/guide/food.html) which will be accessible to them while they are in the UCD area. You can purchase a conference dinner ticket for partner/family member/friends through our [registration page](https://www.eventbrite.com/e/carpentrycon-2018-tickets-42447719271). Contact the organizers if we can help you in any way. See the related sections for *Childcare, Nursing, Medical, Events, Fitness* etc. for related information.
 
 ### G: Guinness
 
