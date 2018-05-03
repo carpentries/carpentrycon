@@ -16,6 +16,18 @@ Below you will find all the information that we thought might help you plan your
 The conference is being held at the [O'Brien Centre for Science](http://www.ucd.ie/conferences/venues/classroom-and-theatres/)
 at [University College Dublin](http://www.ucd.ie/).
 
+```
+  UCD O'Brien Centre for Science
+  UCD Science Centre (East)
+  University College Dublin
+  Belfield, Dublin 4
+  Roebuck, Dublin
+  Ireland
+  (01) 716 2120
+ ```
+
+Link to [Google Map](https://goo.gl/maps/xpnddSdsZ8n) and [campus map](http://mdd.ucd.ie/wp-content/uploads/2015/05/UCD-Map-October-2014-Custom.pdf).
+
 When you first arrive, you can exchange your registration ticket for a name tag, badges and lunch tickets. The registration desk will be located at the conference site starting from Tuesday evening (the night before the conference). We will have a designated Welcome Team of organizers and volunteers who you can recognize by their T-shirts and name tag. You will have access to the lecture hall and breakout rooms, look out for the signs at the venue. Do not hesitate to reach out to the Welcome Team during the conference for any query or concern. The venue is wheelchair accessible. The Welcome Team will be happy to provide you any additional support.
 
 #### Accommodation
@@ -238,19 +250,7 @@ at [University College Dublin](http://www.ucd.ie/).
 ##### *O'Brien Centre, by Norman Davey*
 
 The UCD O'Brien Centre for Science is located on UCD's Belfield campus, 4 km south of Dublin
-city centre.
-
-```
-  UCD O'Brien Centre for Science
-  UCD Science Centre (East)
-  University College Dublin
-  Belfield, Dublin 4
-  Roebuck, Dublin
-  Ireland
-  (01) 716 2120
- ```
-
-Link to [Google Map](https://goo.gl/maps/xpnddSdsZ8n) and [campus map](http://mdd.ucd.ie/wp-content/uploads/2015/05/UCD-Map-October-2014-Custom.pdf).
+city centre. Link to [Google Map](https://goo.gl/maps/xpnddSdsZ8n) and [campus map](http://mdd.ucd.ie/wp-content/uploads/2015/05/UCD-Map-October-2014-Custom.pdf).
 
 The keynote lectures will take place in the George Moore Auditorium, which can be found on the ground floor of the O'Brien Centre's East wing (#67 on the campus map, above) on the left hand side of the main foyer. Specific workshop, skill-up, and breakout rooms will be anounced as information becomes available.
 
