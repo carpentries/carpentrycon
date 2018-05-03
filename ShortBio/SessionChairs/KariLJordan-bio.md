@@ -10,6 +10,7 @@ Instructor Trainer .
  
 **Session name(s) and link(s)**
 
+- [Day-1 Breakout 6: Diversity and Inclusion]()
 - [Day-2 Breakout 12: Mentoring]()
 
 
