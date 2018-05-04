@@ -307,13 +307,34 @@ The following prayer rooms are available on campus:
 - UCD Muslim/Islamic Prayer Room
 - UCD Chaplaincy prayer room - St Stephens
 
-### R: Registration, Restaurant suggestions
+### R: Registration, Ramadan Period, Restaurant suggestions
 
 #### Registration
 
 The [online registration](https://www.eventbrite.com/e/carpentrycon-2018-tickets-42447719271) is open. We will have an opportunity for on-site registration but please let the organisers know in advance. More information about the workshop registration will be added here.
 
 The registration desk will be available on site from May 28th (evening) to June 1. Please bring your registration confirmation, which can be swapped for your name tag and badges.
+
+#### Ramadan Period During CarpentryCon
+
+Ramadan is regarded as the holiest period of the year in the Muslim communities and takes place on the ninth month of the Muslim year. People with Islamic faith observe Ramadan by fasting from sunrise to sunset. 
+
+Since CarpentryCon is taking place in Ramadan period, we would like to offer support to our attendees in all the possible way we can.
+
+Here is a few information we collected for you:
+
+- [Ramadan prayer time in Dublin](https://hamariweb.com/islam/dublin_ramadan-timing168578.aspx)
+- Dedicated prayer rooms for Muslim students are located in [Woodview House on the Belfield campus](https://goo.gl/maps/b7M1Uj5jQXA2), which is 5 minutes by foot from the conference venue
+- [Dublin mosque](https://en.wikipedia.org/wiki/Dublin_Mosque) and [Islamic Cultural Centre of Ireland](https://islamireland.ie/), [google maps](https://tinyurl.com/y7bvzt9q)
+- [Ramadan in Dublin](https://colettecolfer.wordpress.com/tag/ramadan-in-dublin/)
+
+Please help us support you by supporting your peers at the CarpentryCon. Here is how you can do it:
+
+- Our Muslim participants can organize events for other Muslim participants. Please use Slack and/or [etherpad for social activities](http://pad.software-carpentry.org/social_events).
+- Our non-muslim participants can learn about Ramadan through these articles:
+  - [What is Ramadan?](https://www.livescience.com/61815-what-is-ramadan.html )
+  - [Ramadan 2018: All you need to know.](https://gulfnews.com/guides/life/ramadan/features/ramadan-2018-all-you-need-to-know-1.1528649)
+  - [Every awkward question you have about Ramadan answered.](https://www.joe.ie/life-style/a-beginners-guide-to-ramadan-548073)
 
 #### Restaurant suggestions
 
