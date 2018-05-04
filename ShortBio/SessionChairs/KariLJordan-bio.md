@@ -11,7 +11,7 @@ Instructor Trainer .
 **Session name(s) and link(s)**
 
 - [Day-1 Breakout 6: Diversity and Inclusion](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-30/12-Breakout-6-Diversity-And-Inclusion/Abstract.md)
-- [Day-2 Breakout 12: Mentoring]()
+- [Day-2 Breakout 12: Mentoring](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-31/12-Breakout-12-Mentoring/Abstract.md)
 
 
 ![](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/profile_picture/KariLJordan.jpg)
