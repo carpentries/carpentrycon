@@ -18,7 +18,7 @@
 
 ### **Part 1**: Sticky Notes: What do you hope to gain from this session?
 
-### **Part 2**: Icebreaker: How many of you know/think/beleived/experience 'diversity related question/statement/fact'?
+### **Part 2**: Icebreaker: How many of you know/think/beleive/experience 'diversity related question/statement/fact'?
 
 ### **Part 3**: Connections Activity (Diversity Bingo)
 
