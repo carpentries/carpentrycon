@@ -126,25 +126,39 @@ Please see the details about the application process here for a visa request fro
 
 You can receieve a visa support letter from the conference organisers, please contact Fotis and Malvika with your request.
 
-## Weather and Attire
+## Special Requirements
 
-The temperature during the conference, as per the [accuweather-forecast](https://www.accuweather.com/en/ie/dublin/207931/may-weather/207931?monyr=5/1/2018&view=table), will be 8-16 Degree Celcius.
-
-Weather in Dublin is very variable and it is not unusual to have short rain showers during the day. Unfortunately, the city is also extremely windy so umbrellas will not be very useful! A good strategy is to resort to layered clothing and to bring waterproof shoes and jackets.
+We want to be able to provide you all the support possible from our end to make your attendence at CarpentryCon comfortable and enjoayble. If you have any special requirements related to your health, diet, accommodations, medical or anything that is not listed on this page, please be sure to inform the organisers prior to arrival so that you will have what you need while attending the conference.
 
 ## Childcare and Nursing
 
-Parent/Family traveling with child/children must inform the organisers if they would be attending the conference with their child/children.
-
-For mothers who need a designated space for nursing, please look for the nursing signs upon arrival at the conference.
+Parent/Family traveling with child/children must inform the organisers if they would be attending the conference with their child/children. For mothers who need a designated space for nursing, please look for the nursing signs upon arrival at the conference.
 
 Please check Talbot hotel for their accommodation and child care support: (https://www.talbothotelstillorgan.com/). You must be a guest of this hotel to receive this service.
 
 For any related requests and suggestions please contact the organisers (Sher and Fotis).
 
-## Special Requirements
+## Ramadan Period During CarpentryCon
 
-We want to be able to provide you all the support possible from our end to make your attendence at CarpentryCon comfortable and enjoayble. If you have any special requirements related to your health, diet, accommodations, medical or anything that is not listed on this page, please be sure to inform the organisers prior to arrival so that you will have what you need while attending the conference.
+Ramadan is regarded as the holiest period of the year in the Muslim communities and takes place on the ninth month of the Muslim year. People with Islamic faith observe Ramadan by fasting from sunrise to sunset. 
+
+Since CarpentryCon is taking place in Ramadan period, we would like to offer support to our attendees in all the possible way we can.
+
+Here is a few information we collected for you:
+
+- [Ramadan prayer time in Dublin](https://hamariweb.com/islam/dublin_ramadan-timing168578.aspx)
+- Dedicated prayer rooms for Muslim students are located in [Woodview House on the Belfield campus](https://goo.gl/maps/b7M1Uj5jQXA2), which is 5 minutes by foot from the conference venue
+- [Dublin mosque](https://en.wikipedia.org/wiki/Dublin_Mosque) and [Islamic Cultural Centre of Ireland](https://islamireland.ie/), [google maps](https://tinyurl.com/y7bvzt9q)
+- [Ramadan in Dublin](https://colettecolfer.wordpress.com/tag/ramadan-in-dublin/)
+
+Please help us support you by supporting your peers at the CarpentryCon. Here is how you can do it:
+
+- Our Muslim participants can organize events for other Muslim participants. Please use Slack and/or [etherpad for social activities](http://pad.software-carpentry.org/social_events).
+- Our non-muslim participants can learn about Ramadan through these articles:
+  - [What is Ramadan?](https://www.livescience.com/61815-what-is-ramadan.html )
+  - [Ramadan 2018: All you need to know.](https://gulfnews.com/guides/life/ramadan/features/ramadan-2018-all-you-need-to-know-1.1528649)
+  - [Every awkward question you have about Ramadan answered.](https://www.joe.ie/life-style/a-beginners-guide-to-ramadan-548073)
+
 
 ## Quiet /Prayer Rooms
 
@@ -155,6 +169,12 @@ There are following prayer rooms available on campus:
  - [UCD Muslim/Islamic Prayer Room](http://map.ucdestates.ie/index.php?texto=Prayer+room&Category=0&Category1=0&Category2=0&Category3=0&Service)
 
   - [UCD Chaplaincy prayer room  - St Stephens](http://map.ucdestates.ie/index.php?texto=St+Stephen&Category=0&Category1=0&Category2=0&Category3=0&ServiceType=0)
+  
+## Weather and Attire
+
+The temperature during the conference, as per the [accuweather-forecast](https://www.accuweather.com/en/ie/dublin/207931/may-weather/207931?monyr=5/1/2018&view=table), will be 8-16 Degree Celcius.
+
+Weather in Dublin is very variable and it is not unusual to have short rain showers during the day. Unfortunately, the city is also extremely windy so umbrellas will not be very useful! A good strategy is to resort to layered clothing and to bring waterproof shoes and jackets.
 
 ## Dublin Area, Entertainment & Physical Activity
 
