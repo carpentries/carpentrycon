@@ -99,6 +99,8 @@ The Carpentries is a community of volunteer instructors, helpers, Trainers, Main
 
 [Data Carpentry (DC)](http://www.datacarpentry.org/) provides researchers high-quality, domain-specific training covering the full lifecycle of data-driven research. There will be an information desk where you can collect information on DC team, their work, workshops and various ways to get involved with their activities. Additionally, several DC members will be attending CarpentryCon (you can identify them by their badge), giving participants an opportunity for face-to-face networking.
 
+On May 27-28, right before the conference, we are offering a DC workshop (genomics module) at UCD, with a limited seat available for the external participants. You can find the course detail [here](https://malvikasharan.github.io/2018-05-28-Dublin/).
+
 ### E: Executives, Emergency, Etherpads, Entertainment, Events, Exhibition
 
 #### Executives
