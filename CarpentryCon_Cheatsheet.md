@@ -22,6 +22,8 @@ Main sections:
   - Bus stop at the university
   - UCD accommodation
 
+7. Program:
+
 - All the links for Day-0
 
 - All the links for Day-1
