@@ -21,3 +21,11 @@ Main sections:
   - Bus stop in the city
   - Bus stop at the university
   - UCD accommodation
+
+- All the links for Day-0
+
+- All the links for Day-1
+
+- All the links for Day-2
+
+- All the links for Day-3
