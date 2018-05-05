@@ -329,7 +329,7 @@ Here is a few information we collected for you:
 
 Please help us support you by supporting your peers at the CarpentryCon. Here is how you can do it:
 
-- Our Muslim participants can share relevant information with each other and organize their 'fast breaking' ceremony. Feel free to use Slack and/or [etherpad for social activities](http://pad.software-carpentry.org/social_events).
+- Our Muslim participants can share relevant information with each other and organize their 'Iftar'. Feel free to use Slack and/or [etherpad for social activities](http://pad.software-carpentry.org/social_events).
 - Our non-muslim participants can extend their support by learning about Ramadan through these articles:
   - [What is Ramadan?](https://www.livescience.com/61815-what-is-ramadan.html )
   - [Ramadan 2018: All you need to know.](https://gulfnews.com/guides/life/ramadan/features/ramadan-2018-all-you-need-to-know-1.1528649)
@@ -337,7 +337,7 @@ Please help us support you by supporting your peers at the CarpentryCon. Here is
 
 #### Restaurant suggestions
 
-We will be using the catering service from Pi Restaurant, which is located in the same builiding as the conference venue. More restaurant suggestions for you are available on the etherpad dedicated to the discussion on [social activities at CarpentryCon](http://pad.software-carpentry.org/social_events). If you have any recommendations please add them there.
+We will be using the catering service from Pi Restaurant, which is located in the same builiding as the conference venue. More restaurant suggestions including [restaurats for Iftar](https://colettecolfer.wordpress.com/2013/07/24/iftar-in-a-pakistani-restaurant-ramadan-day-15-half-way-there/) for you are available on the etherpad dedicated to the discussion on [social activities at CarpentryCon](http://pad.software-carpentry.org/social_events). If you have any recommendations please add them there. 
 
 <img src="http://rosyandgrey.de/wp-content/uploads/2017/08/Dublin-Travelguide-Foodguide.png" width=305> <img src="taskforce_misc/a-z-images/dublin5.jpeg" width=300>
 
