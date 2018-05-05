@@ -437,7 +437,7 @@ for any additional information on how to get to UCD. The
 
 #### Twitter
 
-We have a Twitter account dedicated to CarpentryCon feed, [follow us](twitter.com/CarpentryCon)!
+We have a Twitter account dedicated to CarpentryCon feed, [follow us](http://www.carpentrycon.org/)!
 We would love to see your pictures and tweets about CarpentryCon. Use the **#carpentrycon2018** hashtag to tag CarpentryCon.
 
 ### U: UCD and around
