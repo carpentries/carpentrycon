@@ -38,19 +38,21 @@ We have listed all the [accommodation options](http://www.carpentrycon.org/#acco
 
 An ally is someone who uses her/his/their societal privileges for supporting members of other identity groups. We would like to create an inclusive environment at CarpentryCon and invite you to extend your support to others at this conference and beyond. You can learn through [resources](https://frameshiftconsulting.com/ally-skills-workshop/#materials) made available by one of our Keynote speakers [Valerie Aurora](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/Speakers/ValerieAurora-bio.md). Additionally, Valerie will offer the [Ally workshop](https://github.com/carpentries/carpentrycon/tree/master/Sessions/2018-06-01/03-Workshop-3-Ally-Workshop-With-Valerie-Aurora) on June 1 in parallel to other workshops.
 
+<img src="taskforce_misc/a-z-images/allies.jpeg" width=800>
+
 ### B: Badges, Break-out sessions, Bars
 
 #### Badges
 
-We will offer you a range of badges (speakers, course maintainers, job seeker, new members etc.) to indicate your roles and interests in CarpentryCon and The Carpentries. These badges could be worn with your name tag to make the best of the social interaction at the conferences.
+We will offer you a range of badges (speakers, course maintainers, job seeker, new members etc.) to indicate your roles and interests in CarpentryCon and The Carpentries. These badges could be worn with your name tag to help you make the best of the social interaction at the conferences.
 
 #### Break-out sessions
 
-There will be 12 breakout sessions during CarpentryCon (http://www.carpentrycon.org/#program). The abstracts of all these sessions can be found in the [CarpentryCon GitHub pages](https://github.com/carpentries/carpentrycon/tree/master/Sessions) (separated by dates). There will be a limited number of seats available for each of these. Closer to the conference we will send out more information on how to register for those (look out for that).
+There will be 12 breakout sessions during CarpentryCon (http://www.carpentrycon.org/#program) including the sessions on [Carpentry Methods in University Courses](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-30/04-Breakout-1-Carpentry-Methods-In-University-Courses/Abstract.md), [Diversity and Inclusion](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-30/12-Breakout-6-Diversity-And-Inclusion/Abstract.md), [HPC carpentry](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-31/05-Breakout-8-HPC-Carpentry/Abstract.md), and [mentoring](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-31/12-Breakout-12-Mentoring/Abstract.md). The abstracts of all these sessions can be found in the [CarpentryCon GitHub pages](https://github.com/carpentries/carpentrycon/tree/master/Sessions) (separated by dates). There will be a limited number of seats available for each of these. Closer to the conference we will send out more information on how to register for those (look out for that).
 
 #### Bars
 
-Dublin is a city of bars and pubs (but not only). We have a list of bar suggestions (by our UCD Volunteers Ben and Chiara) on the etherpad dedicated to the discussion of [social activities at CarpentryCon](http://pad.software-carpentry.org/social_events). Please expand the list, if you have any additional recommendations.
+Dublin is a city of bars and pubs (but not only). We have a list of bar suggestions (by our UCD Volunteers Ben and Chiara) on the Etherpad dedicated to the discussion of [social activities at CarpentryCon](http://pad.software-carpentry.org/social_events). Please expand the list, if you have any additional recommendations.
 
 ### C: Carpentries, CarpentryCon, Code of Conduct, Child Care, Coffee, Catering
 
