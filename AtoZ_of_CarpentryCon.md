@@ -222,7 +222,7 @@ There are several things planned for you at the conference, which include break-
 
 We will organize a pre-conference meet-up (more information will be added) and an official conference dinner. We will offer you opportunities to organize your own small meet-ups and invite the participants (see *Social Activities and Friends and Family*). If you have some ideas or suggestions, please let the organizers know so that they can help you in setting it up. Check out [this etherpad](http://pad.software-carpentry.org/social_events) for existing ideas, and add your name under the relevant sections.
 
-### N: New Members, Nursing, Name Tags
+### N: New Members, Name Tags, Nursing
 
 #### New Members
 
@@ -318,9 +318,7 @@ The registration desk will be available on site from May 28th (evening) to June 
 
 #### Ramadan Period During CarpentryCon
 
-Ramadan is regarded as the holiest period of the year in the Muslim communities and takes place on the ninth month of the Muslim year. People with Islamic faith observe Ramadan by fasting from sunrise to sunset. 
-
-Since CarpentryCon is taking place in Ramadan period, we would like to offer support to our attendees in all the possible way we can.
+Ramadan is regarded as the holiest period of the year in the Muslim communities and takes place on the ninth month of the Muslim year. People with Islamic faith observe Ramadan by fasting from sunrise to sunset. Since CarpentryCon is taking place in Ramadan period, we would like to offer support to our attendees in way we can.
 
 Here is a few information we collected for you:
 
