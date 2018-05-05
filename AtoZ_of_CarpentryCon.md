@@ -38,8 +38,6 @@ We have listed all the [accommodation options](http://www.carpentrycon.org/#acco
 
 An ally is someone who uses her/his/their societal privileges for supporting members of other identity groups. We would like to create an inclusive environment at CarpentryCon and invite you to extend your support to others at this conference and beyond. You can learn through [resources](https://frameshiftconsulting.com/ally-skills-workshop/#materials) made available by one of our Keynote speakers [Valerie Aurora](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/Speakers/ValerieAurora-bio.md). Additionally, Valerie will offer the [Ally workshop](https://github.com/carpentries/carpentrycon/tree/master/Sessions/2018-06-01/03-Workshop-3-Ally-Workshop-With-Valerie-Aurora) on June 1 in parallel to other workshops.
 
-<img src="taskforce_misc/a-z-images/allies.jpeg" width=800>
-
 ### B: Badges, Break-out sessions, Bars
 
 #### Badges
