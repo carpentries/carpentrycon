@@ -329,8 +329,8 @@ Here is a few information we collected for you:
 
 Please help us support you by supporting your peers at the CarpentryCon. Here is how you can do it:
 
-- Our Muslim participants can organize events for other Muslim participants. Please use Slack and/or [etherpad for social activities](http://pad.software-carpentry.org/social_events).
-- Our non-muslim participants can learn about Ramadan through these articles:
+- Our Muslim participants can share relevant information with each other and organize their 'fast breaking' ceremony. Feel free to use Slack and/or [etherpad for social activities](http://pad.software-carpentry.org/social_events).
+- Our non-muslim participants can extend their support by learning about Ramadan through these articles:
   - [What is Ramadan?](https://www.livescience.com/61815-what-is-ramadan.html )
   - [Ramadan 2018: All you need to know.](https://gulfnews.com/guides/life/ramadan/features/ramadan-2018-all-you-need-to-know-1.1528649)
   - [Every awkward question you have about Ramadan answered.](https://www.joe.ie/life-style/a-beginners-guide-to-ramadan-548073)
