@@ -66,15 +66,15 @@ We like to work collaboratively and use [Etherpad](http://pad.software-carpentry
 
 [This form](https://goo.gl/forms/VUBMglv0qyRZp6aA2) has been shared with the conference participants via email, but if you missed to enter your response, please do so well before arriving at the conference.
 
-### 5. Program links (collected by day)
+### 5. [Program links](https://github.com/carpentries/carpentrycon/tree/master/program) (collected by day)
 
-- [Day-0: all the links to conference prograrm](https://github.com/carpentries/carpentrycon/blob/master/Day-0.md)
+- [Day-0: all the links to conference prograrm](https://github.com/carpentries/carpentrycon/blob/master/program/Day-0.md)
 
-- [Day-1: all the links to conference prograrm](https://github.com/carpentries/carpentrycon/blob/master/Day-1.md)
+- [Day-1: all the links to conference prograrm](https://github.com/carpentries/carpentrycon/blob/master/program/Day-1.md)
 
-- [Day-2: all the links to conference prograrm](https://github.com/carpentries/carpentrycon/blob/master/Day-2.md)
+- [Day-2: all the links to conference prograrm](https://github.com/carpentries/carpentrycon/blob/master/program/Day-2.md)
 
-- [Day-3: all the links to conference prograrm](https://github.com/carpentries/carpentrycon/blob/master/Day-3.md)
+- [Day-3: all the links to conference prograrm](https://github.com/carpentries/carpentrycon/blob/master/program/Day-3.md)
 
 ### 6. Post-conference survey: TBA
 
