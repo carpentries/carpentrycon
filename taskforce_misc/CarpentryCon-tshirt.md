@@ -4,7 +4,7 @@
 
 *The following information will be added in a few days. Sher is working on setting the virtual store up at the moment.*
 
-![](https://goo.gl/images/mX8FdN)
+<src img="https://goo.gl/images/mX8FdN")>
 
 - How can I purchase a CarpentryCon T-shirt?
 - Can I purchase more than 1 T-shirts? How?
