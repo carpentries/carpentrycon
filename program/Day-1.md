@@ -49,4 +49,4 @@ https://www.surveycrest.com/s/carpentrycon2018wednesday
 **Poster Reception: 6:00-8:00 pm**
 
 - Opening of the session including _The State of the Carpentries Address_ by Tracy Teal, Executive Director, The Carpentries at **George Moore Auditorium**
-- Poster session at the Foyer: See the [abstracts](https://github.com/carpentries/carpentrycon/tree/master/Sessions/poster_session)
+- Poster session at the Foyer: [poster abstracts](https://github.com/carpentries/carpentrycon/tree/master/Sessions/poster_session)
