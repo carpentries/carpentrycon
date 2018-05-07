@@ -2,7 +2,7 @@
 
 ### Diversity and Inclusion taskForce: Tracy Teal, Malvika Sharan, SherAaron Hurt, Kari Jordan
 
-#### This file is edited Diversity and Inclusion TaskForce with the several Volunteers
+#### This file is compiled by the Diversity and Inclusion TaskForce with the help of our CarpentryCon volunteers
 
 Also see:
 - [AtoZ of the CarpentryCon](https://github.com/carpentries/carpentrycon/blob/master/AtoZ_of_CarpentryCon.md).
@@ -37,30 +37,6 @@ Link to Google Map: https://goo.gl/maps/xpnddSdsZ8n
 A campus map can be found
 [here](http://mdd.ucd.ie/wp-content/uploads/2015/05/UCD-Map-October-2014-Custom.pdf).
 
-**Wheelchair Accessibility**
-
-The conference venue is wheelchair accessible. Please see the
-[floor plan](http://www.ucd.ie/t4cms/Con-Science-District.pdf) for detail.
-
-Please contact the organisers (email: carpentrycon@carpentries.org) if you would need any special assistance.
-
-**Wireless**
-
-Two wireless networks are available in the UCD O'Brien Centre for Science:
-
-|UCD Wireless|Eduroam (requires access via your home institution)|
-|--|--|
-|<table> <tr><td>**SSID**</td><td>UCD Wireless</td></tr> <tr><td>**Network type**</td><td>Access point</td></tr> <tr><td>**Security type**</td><td>No authentication</td></tr> <tr><td>**Encryption type**</td><td>None</td></tr></table>| <table> <tr><td>**SSID**</td><td>eduroam</td></tr> <tr><td>**Network type**</td><td>Access point</td></tr> <tr><td>**Security type**</td><td>WPA2-Enterprise</td></tr> <tr><td>**Encryption type**</td><td>AES</td></tr></table>|
-
-**Helpdesk**
-
-We will have a helpdesk at the venue where you can get all the information that you may need during the conference. We will also have a designated welcome-team, who will help you during the day to get orientated at the conference venue.
-
-**Volunteers and Volunteering**
-
-A group of volunteers will always be present at the venue to help you coordinate with the organiser, session chairs, venue manager, and find your way to the different rooms at the venue. 
-
-You are welcome to join us as a volunteer to extend your help to the other participants. You can find all the information on [this etherpad](http://pad.software-carpentry.org/carpentrycon_volunteers). Write an email to the organizers (Malvika, Sher and Danielle) for any related questions and concers.
 
 ## Important Contact List
 
@@ -91,6 +67,35 @@ You are welcome to join us as a volunteer to extend your help to the other parti
   - Tel: +353 1 716 2189
   - Email: marybeth.jennings@ucd.ie
   - More contact from the venue: http://www.ucd.ie/conferences/contactus/
+
+**Wheelchair Accessibility**
+
+The conference venue is wheelchair accessible. Please see the
+[floor plan](http://www.ucd.ie/t4cms/Con-Science-District.pdf) for detail.
+
+Please contact the organisers (email: carpentrycon@carpentries.org) if you would need any special assistance.
+
+**Wireless**
+
+Two wireless networks are available in the UCD O'Brien Centre for Science:
+
+|UCD Wireless|Eduroam (requires access via your home institution)|
+|--|--|
+|<table> <tr><td>**SSID**</td><td>UCD Wireless</td></tr> <tr><td>**Network type**</td><td>Access point</td></tr> <tr><td>**Security type**</td><td>No authentication</td></tr> <tr><td>**Encryption type**</td><td>None</td></tr></table>| <table> <tr><td>**SSID**</td><td>eduroam</td></tr> <tr><td>**Network type**</td><td>Access point</td></tr> <tr><td>**Security type**</td><td>WPA2-Enterprise</td></tr> <tr><td>**Encryption type**</td><td>AES</td></tr></table>|
+
+**Helpdesk**
+
+We will have a helpdesk at the venue where you can get all the information that you may need during the conference. We will also have a designated welcome-team, who will help you during the day to get orientated at the conference venue.
+
+**Conference Dinner**
+
+The conference dinner is planned for May 31, 2018. More information on the venue, and means of transportation will be added soon.
+
+**Volunteers and Volunteering**
+
+A group of volunteers will always be present at the venue to help you coordinate with the organiser, session chairs, venue manager, and find your way to the different rooms at the venue. 
+
+You are welcome to join us as a volunteer to extend your help to the other participants. You can find all the information on [this etherpad](http://pad.software-carpentry.org/carpentrycon_volunteers). Write an email to the organizers (Malvika, Sher and Danielle) for any related questions and concers.
 
 ## Travelling In Dublin / Getting to UCD Belfield Campus
 
@@ -140,9 +145,7 @@ For any related requests and suggestions please contact the organisers (Sher and
 
 ## Ramadan Period During CarpentryCon
 
-Ramadan is regarded as the holiest period of the year in the Muslim communities and takes place on the ninth month of the Muslim year. People with Islamic faith observe Ramadan by fasting from sunrise to sunset. 
-
-Since CarpentryCon is taking place in Ramadan period, we would like to offer support to our attendees in all the possible way we can.
+Ramadan is regarded as the holiest period of the year in the Muslim communities and takes place on the ninth month of the Muslim year. People with Islamic faith observe Ramadan by fasting from sunrise to sunset. Since CarpentryCon is taking place in Ramadan period, we would like to offer support to our attendees in way we can.
 
 Here is a few information we collected for you:
 
@@ -153,8 +156,8 @@ Here is a few information we collected for you:
 
 Please help us support you by supporting your peers at the CarpentryCon. Here is how you can do it:
 
-- Our Muslim participants can organize events for other Muslim participants. Please use Slack and/or [etherpad for social activities](http://pad.software-carpentry.org/social_events).
-- Our non-muslim participants can learn about Ramadan through these articles:
+- Our Muslim participants can share relevant information with each other and organize their 'Iftar'. Feel free to use Slack and/or [etherpad for social activities](http://pad.software-carpentry.org/social_events).
+- Our non-muslim participants can extend their support by learning about Ramadan through these articles:
   - [What is Ramadan?](https://www.livescience.com/61815-what-is-ramadan.html )
   - [Ramadan 2018: All you need to know.](https://gulfnews.com/guides/life/ramadan/features/ramadan-2018-all-you-need-to-know-1.1528649)
   - [Every awkward question you have about Ramadan answered.](https://www.joe.ie/life-style/a-beginners-guide-to-ramadan-548073)
