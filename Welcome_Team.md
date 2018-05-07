@@ -22,12 +22,20 @@ Current members of the Organizing TaskForce can be contacted for specific query 
 
 Reach out to them personally at the conference, on Slack, or by emailing to the Carpentries Policy Committee by email address: policy@carpentries.org.
 
-#### 3. CarpentryCon 2018 Volunteers from UCD
+#### 3. CarpentryCon 2018 Volunteers
+
+...from UCD
 
 - Chiara Cotroneo
 - Benjamin Roques
 - Jean Manguy
 - Leandro Simonetti
 - Nicolas Palopoli
+
+...and beyond
+
+- Berenice Batut (Volunteer Photographer)
+- Katrin Leinweber (AV Support)
+- Jason Williams (Entertainment and Unofficial Events)
 
 More information will be added. 
