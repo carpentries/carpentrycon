@@ -2,7 +2,7 @@
 
 We will arrange for you to pick up for welcome package from the conference venue on May 29, 16:00 - 18:00. You can then join us for a **pre-conference meet-up (optional social event)**.
 
-- Add your name and email to [the doodle](https://doodle.com/poll/37i357fyd8ard9d6) to send your RSVP to this meet-up.
+- Add your name and email to [this doodle](https://doodle.com/poll/37i357fyd8ard9d6) to send your RSVP to this meet-up.
 - Venue: [The Clubhouse](https://goo.gl/maps/kDyypb2bbmq)** located near the confrence venue.
 - Time: 18:30 onward
 - Note: We have reserved a room for the conference attendees and their friends/guests.
