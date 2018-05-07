@@ -64,7 +64,7 @@ We like to work collaboratively and use [Etherpad](http://pad.software-carpentry
 
 ### 4. Pre-conference Accessibility Assessment and Session Registration
 
-[This form](https://goo.gl/forms/VUBMglv0qyRZp6aA2) has been shared with the conference participants via email, but if you missed to enter your respond, please do so well before arriving at the conference.
+[This form](https://goo.gl/forms/VUBMglv0qyRZp6aA2) has been shared with the conference participants via email, but if you missed to enter your response, please do so well before arriving at the conference.
 
 ### 5. Program links (collected by day)
 
