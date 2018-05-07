@@ -390,6 +390,9 @@ Like *Data Carpentry*, we will have a desk at the conference where you can learn
 
 ### T: Taskforce, Travel/Transportation, Twitter, Technical Support
 
+#### T-shirts
+Would you like to have a keepsake of this momentus occasion for the Carpentries? Order yourself a t-shirt to show your pride. The link will be uploaded in a few days to ensure you have your shirt for CarpentryCon!
+
 #### TaskForce
 
 The CarpentryCon TaskForce was created in 2017 by the volunteers from the community with an intention to organize the inaugural CarpentryCon conference. The team worked out the initial plan for the conference (including its name), and kept recruiting the volunteers and passed over the role of organizing the meeting. The current Organizing TaskForce comprises both volunteers and The Carpentries staff members. With the conference approaching, more community members from The Carpentries formed the [Travel Support TaskForce](https://github.com/carpentries/carpentrycon/blob/master/travel_support.md) and [Diversity and Inclusion TaskForce](https://github.com/carpentries/carpentrycon/blob/master/venue.md) and extended their help in addressing specific concerns related to the conference. Several of the TaskForce members will be at the conference. Stop by and say 'Hi' to us and let us know if you have any suggestions or interest in joining us for the next conference.
