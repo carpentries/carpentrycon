@@ -24,6 +24,10 @@ Reach out to them personally at the conference, on Slack, or by emailing to the 
 
 #### 3. CarpentryCon 2018 Volunteers from UCD
 
-- They have been very crucial for this event while we are not on site and at the conference they will join the Welcome Team.
+- Chiara Cotroneo
+- Benjamin Roques
+- Jean Manguy
+- Leandro Simonetti
+- Nicolas Palopoli
 
 More information will be added. 
