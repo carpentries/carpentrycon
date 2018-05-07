@@ -22,7 +22,6 @@
   Belfield, Dublin 4
   Roebuck, Dublin
   Ireland
-  (01) 716 2120
  ```
  
  #### Links:
