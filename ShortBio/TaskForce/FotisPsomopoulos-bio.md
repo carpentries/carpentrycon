@@ -6,3 +6,5 @@ His research interests are mainly focused on Bioinformatics (Integrative NGS dat
 
 Twitter: **@fopsom**</br>
 **ORCID 0000-0002-0222-4273**
+
+![Fotis E. Psomopoulos](https://fpsom.github.io/images/fpsom.jpg)
