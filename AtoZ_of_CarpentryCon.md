@@ -110,6 +110,7 @@ The Carpentries is governed by the newly formed Executive Council, to whom the E
 #### Emergency
 
 In case of emergency, please contact the Welcome Team/organizers via phone (number to be added), email (carpentrycon@carpentries.org) or [slack](https://tinyurl.com/carpentrycon-slack).
+
 <img src="http://img.pagecloud.com/Cm7zt07h7XWYD0Vk922I4X58ujU=/280x0/filters:no_upscale()/telcoswitch/images/call_features_2_11-ID-9fccdb65-a8df-4311-c1fa-8a69234dded6.png">
 
 ##### *Image source: http://img.pagecloud.com*
