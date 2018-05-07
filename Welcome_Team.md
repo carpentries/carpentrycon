@@ -6,12 +6,12 @@ The CarpentryCon TaskForce was created in 2017 by the volunteers from the commun
 
 Current members of the Organizing TaskForce can be contacted for specific query ([see here](http://www.carpentrycon.org/#contact)) by email **carpentrycon@carpentries.org** or by phone **+353 (0) 833901891** (will be active only during the conference).
 
-- Fotis Psomopoulos (Chair)
-- Malvika Sharan (Secretary)
-- Belinda Weaver (The Carpentries)
-- SherAaron Hurt (The Carpentries)
-- Mark Laufersweiler (on-site facilitator)
-- Danielle Quinn (Social media manager)
+- [Fotis Psomopoulos](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/TaskForce/FotisPsomopoulos-bio.md) (Chair)
+- [Malvika Sharan](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/TaskForce/MalvikaSharan-bio.md) (Secretary)
+- [Belinda Weaver](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/TaskForce/BelindaWeaver-bio.md) (The Carpentries)
+- [SherAaron Hurt](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/TaskForce/SherAaronHurt-bio.md) (The Carpentries)
+- [Mark Laufersweiler](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/TaskForce/MarkLaufersweiler-bio.md) (on-site facilitator)
+- [Danielle Quinn](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/TaskForce/DanielleQuinn-bio.md) (Social media manager)
 - Ivo Arrey (on site help)
 
 - Local contact and venue host: [Norman Davey](http://slim.ucd.ie/index.php?page=contact)
