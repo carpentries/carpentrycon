@@ -14,7 +14,7 @@ Current members of the Organizing TaskForce can be contacted for specific query 
 - [Danielle Quinn](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/TaskForce/DanielleQuinn-bio.md) (Social media manager)
 - Ivo Arrey (on site help)
 
-- Local contact and venue host: [Norman Davey](http://slim.ucd.ie/index.php?page=contact)
+- Local contact and venue host: [Norman Davey](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/LocalOrganizers/NormanDavey-bio.md)
 
 #### 2. Code of Conduct Committee Members at the CarpentryCon
 
