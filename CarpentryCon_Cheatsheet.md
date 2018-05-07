@@ -24,18 +24,42 @@
 
 ### 2. Main contacts:
 
-  - Name and pictures of CarpentryCon TaskForce: Number, Email
-  - Name and pictures of Code of Conduct Subcommittee members: Email
-  - Emergency numbers from campus
+#### [CarpentryCon Taskforce and Welcome Team](https://github.com/carpentries/carpentrycon/blob/master/Welcome_Team.md)
+
+- Phone: **+353 (0) 833901891** (will be active only during the conference)
+- Email: carpentrycon@carpentries.org
+ 
+#### Emergency numbers from campus
+
+- Campus Services (for on-campus emergencies): 01 716 7999
+- Ambulance/ Gardaí and Emergency Services: 999 or 112
+- Nearest pharmacy: [Procare Pharmacy UCD](https://goo.gl/maps/hoxNWogRPWE2), Phone: 017163840
+- Check the list of all other important contacts on [this page](https://github.com/carpentries/carpentrycon/blob/master/venue.md).
+
+#### Code of Conduct Subcommittee members
+
+- Get in touch with these members of the Carpentries Policy Committee on site: Karin Lagesen, Kari Jordan and Malvika Sharan, or by emailing **policy@carpentries.org**.
   
-  - Etherpads
-  - Slack
-  - Twitter
+### 3. Social platforms
+
+#### [Slack on CarpentryCon](https://tinyurl.com/carpentrycon-slack)
+#### [CarpentryCon on Twitter](twitter.com/CarpentryCon) and official Hashtag #CarpentryCon2018
+  
+#### Etherpads
+
+We like to work collaboratively and use [Etherpad](http://pad.software-carpentry.org/pad-of-pads) for organizing our communication in different Carpentries channels. Here is a list of etherpads that are relevant for CarpentryCon.
+
+- *Main CarpentryCon*: http://pad.software-carpentry.org/carpentrycon
+- *Social Activities*: http://pad.software-carpentry.org/social_events
+- *CarpentryCon Community Call*: http://pad.software-carpentry.org/carpconcall
+- *CarpentryCon Volunteers*: http://pad.software-carpentry.org/carpentrycon_volunteers
+- *CarpentryCon TaskForce Meetings*: http://pad.software-carpentry.org/2018carpentrycontaskforce
+- *Pad-of-Pads for all other Carpentries etherpads*: http://pad.software-carpentry.org/pad-of-pads
 
 ### 3. Social events
 
   - Pre-conference meet-up: May 29, 2018, 18:30 onward at [**The Clubhouse**](https://goo.gl/maps/rGyT9RGH8C32)
-  - Poster Session: May 30, 2018: 18:00 - 20:30, at the conference venue.
+  - Poster Session: May 30, 2018: 18:00 - 20:30, at the **conference venue**
   - Conference dinner, May 31, 2018: 18:30 - 21:30, **Location TBA**
 
 ### 4. Program links collected by day
