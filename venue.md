@@ -143,7 +143,7 @@ For any related requests and suggestions please contact the organisers (Sher and
 
 ## Ramadan Period During CarpentryCon
 
-Ramadan is regarded as the holiest period of the year in the Muslim communities and takes place on the ninth month of the Muslim year. People with Islamic faith observe Ramadan by fasting from sunrise to sunset. Since CarpentryCon is taking place in Ramadan period, we would like to offer support to our attendees in way we can.
+Ramadan is regarded as the holiest period of the year in the Muslim communities and takes place on the ninth month of the Muslim year. People with Islamic faith observe Ramadan by fasting from sunrise to sunset. Since CarpentryCon is taking place in Ramadan period, we would like to offer support to our attendees in all possible ways.
 
 Here is a few information we collected for you:
 
