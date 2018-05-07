@@ -26,14 +26,14 @@
 
 #### [CarpentryCon Taskforce and Welcome Team](https://github.com/carpentries/carpentrycon/blob/master/Welcome_Team.md)
 
-- Phone: **+353 (0) 833901891** (will be active only during the conference)
+- Phone: **+353 (0) 8339 01891** (will be active only during the conference)
 - Email: carpentrycon@carpentries.org
  
 #### Emergency numbers from campus
 
-- Campus Services (for on-campus emergencies): 01 716 7999
+- Campus Services (for on-campus emergencies): +353 (0) 1716 7999
 - Ambulance/ Gardaí and Emergency Services: 999 or 112
-- Nearest pharmacy: [Procare Pharmacy UCD](https://goo.gl/maps/hoxNWogRPWE2), Phone: 017163840
+- Nearest pharmacy: [Procare Pharmacy UCD](https://goo.gl/maps/hoxNWogRPWE2), Phone: +353 (0) 1716 3840
 - Check the list of all other important contacts on [this page](https://github.com/carpentries/carpentrycon/blob/master/venue.md).
 
 #### Code of Conduct Subcommittee members
