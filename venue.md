@@ -35,25 +35,29 @@ A campus map can be found
 ## Important Contact List
 
 **Contact the CarpentryCon organisers:** 
+
   - Please see the complete list to find the specific contact person who could help you with your queries: http://www.carpentrycon.org/#contact
+  
+  - Common email **carpentrycon@carpentries.org** 
+  - Phone **+353 (0) 8339 01891** (will be active only during the conference)
+  
   - The direct emails can be sent to the following email addresses: 
-  - Common email: carpentrycon@carpentries.org
   - Fotis Psomopoulos: fpsom@issel.ee.auth.gr
   - Malvika Sharan: malvika.sharan@embl.de
   - Belinda Weaver: bweaver@carpentries.org
+  
   - Join our conference Slack channel for getting in touch with the organisers and other participants: https://tinyurl.com/carpentrycon-slack
-  - Phone number (only during the conference): TBD
 
 **Emergency:** http://mentalhealth.ucd.ie/emergency-contacts/
-  - Campus Services (for on campus emergencies): 01 716 7999
+  - Campus Services (for on campus emergencies): +353 (0) 1716 7999
   - Ambulance/ Gardaí and Emergency Services: 999 or 112
   - UCD Student Health Service: 01 716 3131
-  - East Doc (out of hours GP service): 01 209 4021
-  - Accident & Emergency (St Vincent’s): 01 221 4387
+  - East Doc (out of hours GP service): +353 (0)1209 4021
+  - Accident & Emergency (St Vincent’s): +353 (0) 1221 4387
   
 **Nearest pharmacy:** [Procare Pharmacy UCD](http://procarepharmacy.ie/)
   - Address: UCD Student Centre, Belfield, Dublin 4, D04 V1W8
-  - Phone: 01 7163840
+  - Phone: +353 (0) 1716 3840
   - Email: ucd@procarepharmacy.ie
   
 **UCD Conference & Events Manager:**
