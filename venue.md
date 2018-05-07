@@ -38,8 +38,8 @@ A campus map can be found
 
   - Please see the complete list to find the specific contact person who could help you with your queries: http://www.carpentrycon.org/#contact
   
-  - Common email **carpentrycon@carpentries.org** 
-  - Phone **+353 (0) 8339 01891** (will be active only during the conference)
+  - Common email: **carpentrycon@carpentries.org** 
+  - Phone: **+353 (0) 8339 01891** (will be active only during the conference)
   
   - The direct emails can be sent to the following email addresses: 
   - Fotis Psomopoulos: fpsom@issel.ee.auth.gr
