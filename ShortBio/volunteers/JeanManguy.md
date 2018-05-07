@@ -2,4 +2,4 @@
 
 [Jean Manguy](https://twitter.com/jeanmanguy) is a PhD student in Bioinformatics and Systems Biology at University College Dublin. 
 
-![](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/profile_picture/JeanManguy.png)
+![](https://avatars1.githubusercontent.com/u/12143588?s=400&v=4)
