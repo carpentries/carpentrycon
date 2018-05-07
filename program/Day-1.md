@@ -7,9 +7,9 @@ https://www.surveycrest.com/s/carpentrycon2018wednesday
 08:15-09:00 am: Registration at **[Foyer](https://goo.gl/maps/xpnddSdsZ8n)** (look for signs)
 09:00-09:20 am:	[Story Circle Icebreaker](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-30/00-Icebreaker-Story-Circles.md)	at **Foyer**
 
-**Keynote Session-1: 09:20-10:45 am at George Moore Auditorium.** *Session Chair: [Belinda Weaver](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/SessionChairs/BelindaWeaver-bio.md)*.
+**Keynote Session-1: 09:20-10:45 am at George Moore Auditorium.** *Session Chair: [Belinda Weaver](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/SessionChairs/BelindaWeaver-bio.md).*
 
-- 09:20-09:30 am: Welcome to Conference by [Tracy Teal](https://twitter.com/tracykteal)
+- 09:20-09:30 am: Welcome to Conference: TBA
 - 09:40-:10:45 am: Keynote by [Valerie Aurora](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/Speakers/ValerieAurora-bio.md): **_Focus on Allies_**
 
 **Morning Break and networking: 10:45-11:30 am at Foyer**
