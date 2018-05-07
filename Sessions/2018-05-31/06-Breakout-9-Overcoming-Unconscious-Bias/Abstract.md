@@ -1,4 +1,4 @@
-# Breakout 9: **Overcoming Unconscious Bias**
+# Breakout 9: **Voted Session-1**
 
 ## Lead(s)
 
