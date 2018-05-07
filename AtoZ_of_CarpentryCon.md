@@ -112,7 +112,6 @@ The Carpentries is governed by the newly formed Executive Council, to whom the E
 In case of emergency, please contact the Welcome Team/organizers via phone (number to be added), email (carpentrycon@carpentries.org) or [slack](https://tinyurl.com/carpentrycon-slack).
 
 <img src="http://img.pagecloud.com/Cm7zt07h7XWYD0Vk922I4X58ujU=/280x0/filters:no_upscale()/telcoswitch/images/call_features_2_11-ID-9fccdb65-a8df-4311-c1fa-8a69234dded6.png">
-
 ##### *Image source: http://img.pagecloud.com*
 
 Here is a list of few other emergency contacts:
@@ -388,10 +387,7 @@ The Software Carpentry Foundation and its sibling project, Data Carpentry, have 
 
 Like *Data Carpentry*, we will have a desk at the conference where you can learn more about this project.
 
-### T: Taskforce, Travel/Transportation, Twitter, Technical Support
-
-#### T-shirts
-Would you like to have a keepsake of this momentus occasion for the Carpentries? Order yourself a t-shirt to show your pride. The link will be uploaded in a few days to ensure you have your shirt for CarpentryCon!
+### T: Taskforce, Twitter, T-shirts, Technical Support, Travel/Transportation
 
 #### TaskForce
 
@@ -404,6 +400,14 @@ The CarpentryCon TaskForce was created in 2017 by the volunteers from the commun
 - Diversity and Inclusion TaskForce: Tracy Teal, Malvika Sharan, SherAaron Hurt, Kari Jordan
 - Past members and continuous supporters: Greg Wilson, Jason Williams, Mateusz Kuzak, Tracy Teal, Alix Keener, Jonah Duckles, Jamie Hadwin, Rayna Harris, Maneesha Sane
 - CarpentryCon 2018 Volunteers from UCD: They are very crucial for this event while we are not on site. A special shout out to each of them.
+
+#### Twitter
+
+We have a Twitter account dedicated to CarpentryCon feed, [follow us](https://twitter.com/CarpentryCon)!
+We would love to see your pictures and tweets about CarpentryCon. Use the **#carpentrycon2018** hashtag to tag CarpentryCon.
+
+#### T-shirts
+Would you like to have a keepsake of this momentus occasion for the Carpentries? Order yourself a t-shirt to show your pride. More information will be added [here](https://github.com/carpentries/carpentrycon/blob/master/taskforce_misc/CarpentryCon-tshirt.md) in a few days to ensure you have your shirt for CarpentryCon!
 
 #### Technical Support
 
@@ -437,11 +441,6 @@ approximately €30-50, depending on traffic. Please notice that all Uber driver
 Please refer to the [UCD Commuting Guide](https://www.ucd.ie/t4cms/UCD-commuting-guide-2015.pdf)
 for any additional information on how to get to UCD. The
 [additional detail](http://www.ucd.ie/gettingtoucd.htm) page on UCD's website also provides additional information on how to get to UCD from the Dublin airport or train stations.
-
-#### Twitter
-
-We have a Twitter account dedicated to CarpentryCon feed, [follow us](https://twitter.com/CarpentryCon)!
-We would love to see your pictures and tweets about CarpentryCon. Use the **#carpentrycon2018** hashtag to tag CarpentryCon.
 
 ### U: UCD and around
 
