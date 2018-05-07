@@ -52,7 +52,7 @@ There will be 12 breakout sessions during CarpentryCon (http://www.carpentrycon.
 
 Dublin is a city of bars and pubs (but not only). We have a list of bar suggestions (by our UCD Volunteers Ben and Chiara) on the Etherpad dedicated to the discussion of [social activities at CarpentryCon](http://pad.software-carpentry.org/social_events). Please expand the list, if you have any additional recommendations.
 
-### C: Carpentries, CarpentryCon, Code of Conduct, Child Care, Coffee, Catering
+### C: Carpentries, CarpentryCon and Cheatsheet, Code of Conduct, Child Care, Coffee, Catering
 
 #### The Carpentries
 <br><br>
@@ -63,9 +63,11 @@ Dublin is a city of bars and pubs (but not only). We have a list of bar suggesti
 
 The Carpentries (https://carpentries.org/), brings Software, Data, and Library Carpentry together under an umbrella to teach foundational computational, coding, and data science skills to researchers worldwide. We are a diverse, global community of volunteer Instructors, helpers, Trainers, Maintainers, champions, member organizations, supporters, and staffs.
 
-#### CarpentryCon 2018
+#### CarpentryCon 2018 and Conference Cheatsheet
 
 CarpentryCon 2018 (http://www.carpentrycon.org/) is the inaugural annual conference for all the members of the Carpentries. Under the theme “Building Locally, Connecting Globally”, we have planned a number of events and opportunities for you including keynote talks, skill-up sessions, breakout discussions, social events, lightning talks, and workshop. This will provide a diverse and inclusive environment for learning, skill-building, and networking event for the participants interested in computational techniques to enhance the quality and efficiency of their work, and have a great time at the conference.
+
+See this [conference cheatsheet](https://github.com/carpentries/carpentrycon/blob/master/CarpentryCon_Cheatsheet.md) for all the relevant links to our resources and program.
 
 ##### Code of Conduct
 
@@ -109,7 +111,7 @@ The Carpentries is governed by the newly formed Executive Council, to whom the E
 
 #### Emergency
 
-In case of emergency, please contact the Welcome Team/organizers via phone (number to be added), email (carpentrycon@carpentries.org) or [slack](https://tinyurl.com/carpentrycon-slack).
+In case of emergency, please contact the Welcome Team/organizers via phone **+353 (0) 8339 01891** (will be active only during the conference), email (carpentrycon@carpentries.org) or [slack](https://tinyurl.com/carpentrycon-slack).
 
 <img src="http://img.pagecloud.com/Cm7zt07h7XWYD0Vk922I4X58ujU=/280x0/filters:no_upscale()/telcoswitch/images/call_features_2_11-ID-9fccdb65-a8df-4311-c1fa-8a69234dded6.png">
 
@@ -276,7 +278,7 @@ We will have a poster session and a designated area for the display of posters. 
 
 #### Pre-conference
 
-We will send out an email to all the registered participants with all the information we think you must have before arriving to the conference (including this page). The email will have link to the pre-conference survey to allow you choose your sessions of preference and add any special need that you may have. It's crucial that you respond to the survey (link will be added soon) to secure a place in the sessions of your choice.
+We will send out an email to all the registered participants with all the information we think you must have before arriving to the conference including the [CarpentryCon cheatcheet](https://github.com/carpentries/carpentrycon/blob/master/CarpentryCon_Cheatsheet.md). The email will have link to the pre-conference survey to allow you choose your sessions of preference and add any special need that you may have. It's crucial that you respond to the survey to secure a place in the sessions of your choice. We invite you to our optional Social Event at the **Clubhouse** on May 29, 18:00 onward.
 
 ##### Pre-conference Checklist
 
