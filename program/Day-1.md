@@ -9,7 +9,7 @@ https://www.surveycrest.com/s/carpentrycon2018wednesday
 
 **Keynote Session-1: 09:20-10:45 am at George Moore Auditorium.** *Session Chair: [Belinda Weaver](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/SessionChairs/BelindaWeaver-bio.md).*
 
-- 09:20-09:30 am: Welcome to Conference: TBA
+- 09:20-09:30 am: Welcome to Conference: TaskForce Members
 - 09:40-:10:45 am: Keynote by [Valerie Aurora](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/Speakers/ValerieAurora-bio.md): **_Focus on Allies_**
 
 **Morning Break and networking: 10:45-11:30 am at Foyer**
