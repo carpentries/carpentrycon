@@ -85,7 +85,7 @@ Of course! One of the most important conference supplies, coffee, will be offere
 
 <img src="taskforce_misc/a-z-images/dublin1.jpeg" width=800>
 
-##### *Samuel Beckett Bridge and the beer barrel shaped Convention Centre, provided by Norman Davey*
+##### *Samuel Beckett Bridge and the beer barrel shaped Convention Centre, image by Norman Davey*
 
 #### Dublin
 
@@ -110,7 +110,6 @@ The Carpentries is governed by the newly formed Executive Council, to whom the E
 #### Emergency
 
 In case of emergency, please contact the Welcome Team/organizers via phone (number to be added), email (carpentrycon@carpentries.org) or [slack](https://tinyurl.com/carpentrycon-slack).
-
 <img src="http://img.pagecloud.com/Cm7zt07h7XWYD0Vk922I4X58ujU=/280x0/filters:no_upscale()/telcoswitch/images/call_features_2_11-ID-9fccdb65-a8df-4311-c1fa-8a69234dded6.png">
 
 ##### *Image source: http://img.pagecloud.com*
@@ -249,7 +248,7 @@ at [University College Dublin](http://www.ucd.ie/).
 
 <img src="taskforce_misc/a-z-images/dublin-ucd.jpeg" width=300> <img src="taskforce_misc/a-z-images/dublin-ucd2.jpeg" width=300>
 
-##### *O'Brien Centre, by Norman Davey*
+##### *O'Brien Centre, images by Norman Davey*
 
 The UCD O'Brien Centre for Science is located on UCD's Belfield campus, 4 km south of Dublin
 city centre. Link to [Google Map](https://goo.gl/maps/xpnddSdsZ8n) and [campus map](http://mdd.ucd.ie/wp-content/uploads/2015/05/UCD-Map-October-2014-Custom.pdf).
@@ -341,7 +340,7 @@ We will be using the catering service from Pi Restaurant, which is located in th
 
 <img src="http://rosyandgrey.de/wp-content/uploads/2017/08/Dublin-Travelguide-Foodguide.png" width=305> <img src="taskforce_misc/a-z-images/dublin5.jpeg" width=300>
 
-##### *Image source: Left - http://rosyandgrey.de/, Right - Temple Bar, by Norman Davey*
+##### *Image source: Left - http://rosyandgrey.de/, Right - Temple Bar, image by Norman Davey*
 
 ### S: Skill-up, Sticky Notes, Slack, Special requirements, Surveys, Sponsors, Sightseeing, Software Carpentry
 
@@ -380,7 +379,7 @@ Explore Dublin by jogging or walking through the city and learn about its histor
 <img src="taskforce_misc/a-z-images/dublin2.jpeg" width=800>
 <img src="taskforce_misc/a-z-images/dublin7.jpeg.jpg" width=800>
 
-##### *Image Sources: Upper: Samuel Beckett Bridge, by Norman Davey, Lower: Dublin Castle, by Malvika Sharan*
+##### *Image Sources: Upper: Samuel Beckett Bridge, image by Norman Davey, Lower: Dublin Castle, image by Malvika Sharan*
 
 #### Software Carpentry
 
@@ -447,7 +446,7 @@ We would love to see your pictures and tweets about CarpentryCon. Use the **#car
 
 <img src="taskforce_misc/a-z-images/dublin-ucd3.jpeg" width=800>
 
-##### *UCD campus, by Norman Davey*
+##### *UCD campus, image by Norman Davey*
 
 University College Dublin (UCD) is our venue host, where we have been provided with an excellent facility to hold our inaugural CarpentryCon.
 
@@ -461,7 +460,7 @@ Learn more about the university [here](http://www.ucd.ie/about-ucd/). UCD has it
 
 <img src="taskforce_misc/a-z-images/dublin-ucd4.jpeg" width=800>
 
-##### *UCD campus, by Norman Davey*
+##### *UCD campus, image by Norman Davey*
 
 ### V: Volunteers, Visa, Veg()an+
 
@@ -514,7 +513,7 @@ Watercoolers will be available in several spots of the conference venue. Try to 
 
 <img src="taskforce_misc/a-z-images/dublin6.jpeg.jpg" width=800>
 
-##### *Dublin Pride Parade, by Norman Davey*, [Supporting Article](https://www.theguardian.com/world/2015/may/23/gay-marriage-ireland-yes-vote)
+##### *Dublin Pride Parade, image by Norman Davey*, [Supporting Article](https://www.theguardian.com/world/2015/may/23/gay-marriage-ireland-yes-vote)
 
 *We can't emphasize this enough!*
 
