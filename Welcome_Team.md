@@ -4,17 +4,26 @@ The CarpentryCon TaskForce was created in 2017 by the volunteers from the commun
 
 #### 1. CarpentryCon TaskForce
 
-- Current members of the Organizing TaskForce: Fotis Psomopoulos (Chair), Malvika Sharan (Secretary), Belinda Weaver (The Carpentries), SherAaron Hurt (The Carpentries), Mark Laufersweiler (on-site facilitator), Danielle Quinn (Social media manager), Ivo Arrey (on site help)
-  - Common email: carpentrycon@carpentries.org, contact them for a specific topic: http://www.carpentrycon.org/#contact
-- Local host: Norman Davey
+Current members of the Organizing TaskForce can be contacted for specific query ([see here](http://www.carpentrycon.org/#contact)) by email **carpentrycon@carpentries.org** or by phone **+353 (0) 833901891** (will be active only during the conference).
+
+- Fotis Psomopoulos (Chair)
+- Malvika Sharan (Secretary)
+- Belinda Weaver (The Carpentries)
+- SherAaron Hurt (The Carpentries)
+- Mark Laufersweiler (on-site facilitator)
+- Danielle Quinn (Social media manager)
+- Ivo Arrey (on site help)
+
+- Local contact and venue host: [Norman Davey](http://slim.ucd.ie/index.php?page=contact)
 
 #### 2. Code of Conduct Committee Members at the CarpentryCon
 
 - Karin Lagesen, Kari Jordan and Malvika Sharan
-    - Reach out to them personally at the conference, on Slack, or by emailing to the Carpentries Policy Committee by email address: policy@carpentries.org.
+
+Reach out to them personally at the conference, on Slack, or by emailing to the Carpentries Policy Committee by email address: policy@carpentries.org.
 
 #### 3. CarpentryCon 2018 Volunteers from UCD
 
-- They have been very crucial for this event while we are not on site. They will be the official part of the welcome team.
+- They have been very crucial for this event while we are not on site and at the conference they will join the Welcome Team.
 
-More information will be updated, 
+More information will be added. 
