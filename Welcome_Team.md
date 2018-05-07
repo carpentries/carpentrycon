@@ -16,7 +16,7 @@ Current members of the Organizing TaskForce can be contacted for specific query 
 
 - Local contact and venue host: [Norman Davey](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/LocalOrganizers/NormanDavey-bio.md)
 
-#### 2. Code of Conduct Committee Members at the CarpentryCon
+#### 2. Code of Conduct Committee Members at CarpentryCon
 
 - Karin Lagesen, Kari Jordan and Malvika Sharan
 
