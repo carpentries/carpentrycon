@@ -69,7 +69,7 @@ We like to work collaboratively and use [Etherpad](http://pad.software-carpentry
 
 ### Social events
 
-  - Pre-conference meet-up: May 29, 2018, 18:30 onward at [**The Clubhouse**](https://goo.gl/maps/rGyT9RGH8C32) - for detail see [Day-0 plan](https://github.com/carpentries/carpentrycon/blob/master/Day-0.md).
+  - Pre-conference meet-up: May 29, 2018, 18:30 onward at [**The Clubhouse**](https://goo.gl/maps/rGyT9RGH8C32) - for detail see [Day-0 plan](https://github.com/carpentries/carpentrycon/blob/master/program/Day-0.md).
   - Poster Session: May 30, 2018: 18:00 - 20:30, at the **conference venue**
   - Conference dinner, May 31, 2018: 18:30 - 21:30, **Location TBA**
 
