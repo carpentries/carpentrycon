@@ -1,6 +1,7 @@
 
 ## Essential links for CarpentryCon 2018
 
+- [Venue and Accessibility Page](https://github.com/carpentries/carpentrycon/blob/master/venue.md)
 - [AtoZ of CarpentryCon](https://github.com/carpentries/carpentrycon/blob/master/AtoZ_of_CarpentryCon.md)
 
 ### [Conference Program](https://github.com/carpentries/carpentrycon/tree/master/program) (links collected by day)
@@ -47,9 +48,9 @@
 - Nearest pharmacy: [Procare Pharmacy UCD](https://goo.gl/maps/hoxNWogRPWE2), Phone: +353 (0) 1716 3840
 - Check the list of all other important contacts on [this page](https://github.com/carpentries/carpentrycon/blob/master/venue.md).
 
-#### Code of Conduct Subcommittee members
+#### Code of Conduct Facilitators
 
-- Get in touch with these members of the Carpentries Policy Committee on site: Karin Lagesen, Kari Jordan and Malvika Sharan, or by emailing **policy@carpentries.org**.
+- Reach out to these members of the Carpentries Policy Committee on site: Karin Lagesen, Kari Jordan and Malvika Sharan, or by emailing **policy@carpentries.org**.
   
 ### Social platforms
 
@@ -58,14 +59,8 @@
   
 #### Etherpads
 
-We like to work collaboratively and use [Etherpad](http://pad.software-carpentry.org/pad-of-pads) for organizing our communication in different Carpentries channels. Here is a list of etherpads that are relevant for CarpentryCon.
-
 - *Main CarpentryCon*: http://pad.software-carpentry.org/carpentrycon
 - *Social Activities*: http://pad.software-carpentry.org/social_events
-- *CarpentryCon Community Call*: http://pad.software-carpentry.org/carpconcall
-- *CarpentryCon Volunteers*: http://pad.software-carpentry.org/carpentrycon_volunteers
-- *CarpentryCon TaskForce Meetings*: http://pad.software-carpentry.org/2018carpentrycontaskforce
-- *Pad-of-Pads for all other Carpentries etherpads*: http://pad.software-carpentry.org/pad-of-pads
 
 ### Social events
 
@@ -73,7 +68,7 @@ We like to work collaboratively and use [Etherpad](http://pad.software-carpentry
   - Poster Session: May 30, 2018: 18:00 - 20:30, at the **conference venue**
   - Conference dinner, May 31, 2018: 18:30 - 21:30, **Location TBA**
 
-### Pre-conference Accessibility Assessment and Session Registration
+### Pre-conference Accessibility Survey and Session Registration
 
 [This form](https://goo.gl/forms/VUBMglv0qyRZp6aA2) has been shared with the conference participants via email, but if you missed to enter your response, please do so well before arriving at the conference.
 
