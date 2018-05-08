@@ -17,9 +17,9 @@ https://www.surveycrest.com/s/carpentrycon2018wednesday
 
 **Skill-up Session: 11:30-12:30 am (various rooms).**
 
-- Skill-Up 1: [_Project Leadership_](https://github.com/carpentries/carpentrycon/tree/master/Sessions/2018-05-30/01-Skill-Up-1-Project-Leadership) by [Fotis Psomopoulos](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/SessionChairs/FotisPsomopoulos-bio.md)
-- Skill-Up 2: [_Speaking Effectively_](https://github.com/carpentries/carpentrycon/tree/master/Sessions/2018-05-30/02-Skill-Up-2-Speaking-Effectively) by [Belinda Weaver](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/SessionChairs/BelindaWeaver-bio.md)
-- Skill-Up 3: [_Contributing on GitHub_](https://github.com/carpentries/carpentrycon/tree/master/Sessions/2018-05-30/03-Skill-Up-3-Contributing-On-GitHub) by [Raniere Silva](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/SessionChairs/RaniereSilva-bio.md) & [François Michonneau](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/SessionChairs/FrancoisMichonneau.md)
+- Skill-Up 1: [_Project Leadership_](https://github.com/carpentries/carpentrycon/tree/master/Sessions/2018-05-30/01-Skill-Up-1-Project-Leadership) by [Fotis Psomopoulos](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/SessionChairs/FotisPsomopoulos-bio.md) at **Room 1 (Active learning)**
+- Skill-Up 2: [_Speaking Effectively_](https://github.com/carpentries/carpentrycon/tree/master/Sessions/2018-05-30/02-Skill-Up-2-Speaking-Effectively) by [Belinda Weaver](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/SessionChairs/BelindaWeaver-bio.md) at **Room 2 (Active learning)**
+- Skill-Up 3: [_Contributing on GitHub_](https://github.com/carpentries/carpentrycon/tree/master/Sessions/2018-05-30/03-Skill-Up-3-Contributing-On-GitHub) by [Raniere Silva](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/SessionChairs/RaniereSilva-bio.md) & [François Michonneau](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/SessionChairs/FrancoisMichonneau.md) at **Room 3 (Classroom)**
 
 **Lunch Break: 12:30-1:30 pm at Foyer**
 
@@ -29,23 +29,23 @@ https://www.surveycrest.com/s/carpentrycon2018wednesday
 
 **Breakout Session-1: 02:35-03:35 pm (various rooms).**
 
-- Breakout 1: [_Carpentry Methods in University Courses_](https://github.com/carpentries/carpentrycon/tree/master/Sessions/2018-05-30/04-Breakout-1-Carpentry-Methods-In-University-Courses) by [Elizabeth Wickes](), [Lex Nederbragt](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/SessionChairs/LexNederbragt-bio.md)
-- Breakout 2: [_Chasing Funding for Workshops_](https://github.com/carpentries/carpentrycon/tree/master/Sessions/2018-05-30/05-Breakout-2-Chasing-Funding-For-Workshops) by [SherAaron Hurt](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/TaskForce/SherAaronHurt-bio.md)
-- Breakout 3: [_Lesson Infrastructure: how can we make it easier to develop and contribute to lessons?_](https://github.com/carpentries/carpentrycon/tree/master/Sessions/2018-05-30/06-Breakout-3-Lesson-Infrastructure) by [François Michonneau](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/SessionChairs/FrancoisMichonneau.md)
+- Breakout 1: [_Carpentry Methods in University Courses_](https://github.com/carpentries/carpentrycon/tree/master/Sessions/2018-05-30/04-Breakout-1-Carpentry-Methods-In-University-Courses) by [Elizabeth Wickes](), [Lex Nederbragt](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/SessionChairs/LexNederbragt-bio.md) at **Room 1 (Active learning)**
+- Breakout 2: [_Chasing Funding for Workshops_](https://github.com/carpentries/carpentrycon/tree/master/Sessions/2018-05-30/05-Breakout-2-Chasing-Funding-For-Workshops) by [SherAaron Hurt](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/TaskForce/SherAaronHurt-bio.md) at **Room 2 (Active learning)**
+- Breakout 3: [_Lesson Infrastructure: how can we make it easier to develop and contribute to lessons?_](https://github.com/carpentries/carpentrycon/tree/master/Sessions/2018-05-30/06-Breakout-3-Lesson-Infrastructure) by [François Michonneau](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/SessionChairs/FrancoisMichonneau.md) at **Room 3 (Classroom)**
 
 **Afternoon Break and networking: 03:35-04:05 pm at Foyer**
 
 **Lightning Talk Session: 04:05-04:30 pm (various rooms).**
 
-- [Lightning Talk 1](https://github.com/carpentries/carpentrycon/tree/master/Sessions/2018-05-30/07-Lightning-Talks-Session-1):	Moderator: [Danielle Quinn](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/TaskForce/DanielleQuinn-bio.md)
-- [Lightning Talk 2](https://github.com/carpentries/carpentrycon/tree/master/Sessions/2018-05-30/08-Lightning-Talks-Session-2):	Moderator: [Mark LaufersWeiler](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/TaskForce/MarkLaufersweiler-bio.md)
-- [Lightning Talk 3](https://github.com/carpentries/carpentrycon/tree/master/Sessions/2018-05-30/09-Lightning-Talks-Session-3):	Moderator: [Ivo Array](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/TaskForce/IvoArrey-bio.md)
+- [Lightning Talk 1](https://github.com/carpentries/carpentrycon/tree/master/Sessions/2018-05-30/07-Lightning-Talks-Session-1):	Moderator: [Danielle Quinn](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/TaskForce/DanielleQuinn-bio.md) at **Room 1 (Active learning)**
+- [Lightning Talk 2](https://github.com/carpentries/carpentrycon/tree/master/Sessions/2018-05-30/08-Lightning-Talks-Session-2):	Moderator: [Mark LaufersWeiler](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/TaskForce/MarkLaufersweiler-bio.md) at **Room 2 (Active learning)**
+- [Lightning Talk 3](https://github.com/carpentries/carpentrycon/tree/master/Sessions/2018-05-30/09-Lightning-Talks-Session-3):	Moderator: [Ivo Array](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/TaskForce/IvoArrey-bio.md) at **Room 3 (Classroom)**
 
 **Breakout Session-2: 04:30-05:30 pm (various rooms).**
 
-- Breakout 4: [_Incubating a Carpentry: Library Carpentry_](https://github.com/carpentries/carpentrycon/tree/master/Sessions/2018-05-30/10-Breakout-4-Incubating-A-Carpentry) by [Tim Dennis](), [Belinda Weaver](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/SessionChairs/BelindaWeaver-bio.md), [Mark Laufersweiler](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/TaskForce/MarkLaufersweiler-bio.md)
-- Breakout 5: [_Making the Case for Membership_](https://github.com/carpentries/carpentrycon/tree/master/Sessions/2018-05-30/11-Breakout-5-Making-The-Case-For-Membership) by [Jonah Duckles](), [Elizabeth Williams]()
-- Breakout 6: [_Diversity and Inclusion_](https://github.com/carpentries/carpentrycon/tree/master/Sessions/2018-05-30/12-Breakout-6-Diversity-And-Inclusion) by [Malvika Sharan](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/SessionChairs/MalvikaSharan-Bio.md), [Kari Jordan](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/SessionChairs/KariLJordan-bio.md)
+- Breakout 4: [_Incubating a Carpentry: Library Carpentry_](https://github.com/carpentries/carpentrycon/tree/master/Sessions/2018-05-30/10-Breakout-4-Incubating-A-Carpentry) by [Tim Dennis](), [Belinda Weaver](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/SessionChairs/BelindaWeaver-bio.md), [Mark Laufersweiler](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/TaskForce/MarkLaufersweiler-bio.md) at **Room 3 (Classroom)**
+- Breakout 5: [_Making the Case for Membership_](https://github.com/carpentries/carpentrycon/tree/master/Sessions/2018-05-30/11-Breakout-5-Making-The-Case-For-Membership) by [Jonah Duckles](), [Elizabeth Williams]() at **Room 1 (Active learning)**
+- Breakout 6: [_Diversity and Inclusion_](https://github.com/carpentries/carpentrycon/tree/master/Sessions/2018-05-30/12-Breakout-6-Diversity-And-Inclusion) by [Malvika Sharan](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/SessionChairs/MalvikaSharan-Bio.md), [Kari Jordan](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/SessionChairs/KariLJordan-bio.md) at **Room 2 (Active learning)**
 
 **Poster Reception: 6:00-8:00 pm**
 
