@@ -26,15 +26,15 @@ Reach out to them personally at the conference, on Slack, or by emailing to the 
 
 ...from UCD
 
-- Chiara Cotroneo
-- Benjamin Roques
-- Jean Manguy
-- Leandro Simonetti
-- Nicolas Palopoli
+- [Chiara Cotroneo](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/volunteers/ChiaraCotroneo.md)
+- [Benjamin Roques](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/volunteers/BenjaminRoques.md)
+- [Jean Manguy](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/volunteers/JeanManguy.md)
+- [Leandro Simonetti](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/volunteers/LeandroSimonetti.md)
+- [Nicolas Palopoli](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/volunteers/NicolasPalopoli.md)
 
 ...and beyond
 
-- Berenice Batut (Volunteer Photographer)
-- Katrin Leinweber (AV Support)
+- [Berenice Batut](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/SessionChairs/BereniceBatut-bio.md) (Volunteer Photographer)
+- [Katrin Leinweber](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/SessionChairs/KatrinLeinweber-bio.md) (AV Support)
 - Jason Williams (Entertainment and Unofficial Events)
-- Toby Hodges
+- [Toby Hodges](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/SessionChairs/TobyHodges-bio.md)
