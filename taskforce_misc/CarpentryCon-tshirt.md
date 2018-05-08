@@ -1,4 +1,4 @@
-### Purchase CaroentryCon T-shirts
+### Purchase CarpentryCon T-shirts
 
 #### Contact person: SherAaron Hurt (email: sheraaron@carpentries.org)
 
