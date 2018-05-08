@@ -37,3 +37,4 @@ Reach out to them personally at the conference, on Slack, or by emailing to the 
 - Berenice Batut (Volunteer Photographer)
 - Katrin Leinweber (AV Support)
 - Jason Williams (Entertainment and Unofficial Events)
+- Toby Hodges
