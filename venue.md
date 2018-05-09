@@ -50,6 +50,7 @@ A campus map can be found
   - Join our conference Slack channel for getting in touch with the organisers and other participants: https://tinyurl.com/carpentrycon-slack
 
 **Emergency:** http://mentalhealth.ucd.ie/emergency-contacts/
+  - CarpentryCon members: **+353 (0) 8339 01891** (will be active only during the conference)
   - Campus Services (for on campus emergencies): +353 (0) 1716 7999
   - Ambulance/ Gardaí and Emergency Services: 999 or 112
   - UCD Student Health Service: 01 716 3131
