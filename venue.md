@@ -2,7 +2,7 @@
 
 ### Diversity and Inclusion taskForce: Tracy Teal, Malvika Sharan, SherAaron Hurt, Kari Jordan
 
-#### This file is compiled by the Diversity and Inclusion TaskForce with the help of our CarpentryCon volunteers
+#### Compiled by the Diversity and Inclusion TaskForce with the help of our CarpentryCon volunteers
 
 Also see:
 - [AtoZ of the CarpentryCon](https://github.com/carpentries/carpentrycon/blob/master/AtoZ_of_CarpentryCon.md).
