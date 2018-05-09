@@ -19,13 +19,14 @@ Specific room numbers for workshop, skill-up, and breakout rooms will be anounce
 The UCD O'Brien Centre for Science is located on UCD's Belfield campus, 4 km south of Dublin
 city centre.
 
+```
   UCD O'Brien Centre for Science
   UCD Science Centre (East)
   University College Dublin
   Belfield, Dublin 4
   Roebuck, Dublin
   Ireland
-  (01) 716 2120
+```
 
 Link to Google Map: https://goo.gl/maps/xpnddSdsZ8n
 
