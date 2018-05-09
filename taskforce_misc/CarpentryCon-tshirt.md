@@ -2,17 +2,20 @@
 
 #### Contact person: SherAaron Hurt (email: sheraaron@carpentries.org)
 
-*The following information will be added in a few days. Sher is working on setting the virtual store up at the moment.*
+1. How can I purchase a CarpentryCon T-shirt?
 
-<img src="http://images.all-free-download.com/images/graphiclarge/under_construction_sign_311865.jpg">
+- Visit our [online store](https://www.cafepress.com/carpentrycon2018) to order t-shirt. There are various types and colors. You can order shirts for the entire family.
 
-- How can I purchase a CarpentryCon T-shirt?
-Visit our (online store)[https://www.cafepress.com/carpentrycon2018] to order t-shirt. There are various types and colors. You can order shirts for the entire family
-- Can I purchase more than 1 T-shirts? How?
-Yes, you can purchase as many shirts you would like by visiting our (online store)[https://www.cafepress.com/carpentrycon2018] 
-- What are the available T-shirt sizes and their cost?
-There are men, women, kids and infant shirts availble to order. The cost vary by type and size. For more information please visit the CarpentryCon (online store)[https://www.cafepress.com/carpentrycon2018] 
-- What is the mode of payment?
-The online store accepts all major credit cards and Paypal. 
-- Where will I recieve my T-Shirt?
-Most shirts are shipped within 24 hours. You can decide where to have your shirt shipped too. 
+1. Can I purchase more than 1 T-shirts? How?
+
+- Yes, you can purchase as many shirts you would like by visiting our [online store](https://www.cafepress.com/carpentrycon2018).
+
+3. What are the available T-shirt sizes and their cost?
+
+- There are men, women, kids and infant shirts availble to order. The cost vary by type and size. For more information please visit the CarpentryCon [online store](https://www.cafepress.com/carpentrycon2018).
+
+4. What is the mode of payment?
+- The online store accepts all major credit cards and Paypal. 
+
+5. Where will I recieve my T-Shirt?
+- Most shirts are shipped within 24 hours. You can decide where to have your shirt shipped too. 
