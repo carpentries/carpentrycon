@@ -28,7 +28,7 @@ at [University College Dublin](http://www.ucd.ie/).
 
 Link to [Google Map](https://goo.gl/maps/xpnddSdsZ8n) and [campus map](http://mdd.ucd.ie/wp-content/uploads/2015/05/UCD-Map-October-2014-Custom.pdf).
 
-When you first arrive, you can exchange your registration ticket for a name tag, badges and lunch tickets. The registration desk will be located at the conference site starting from Tuesday evening (the night before the conference). We will have a designated Welcome Team of organizers and volunteers who you can recognize by their T-shirts and name tag. You will have access to the lecture hall and breakout rooms, look out for the signs at the venue. Do not hesitate to reach out to the Welcome Team during the conference for any query or concern. The venue is wheelchair accessible. The Welcome Team will be happy to provide you any additional support.
+When you first arrive, you can exchange your registration ticket for a name tag, badges and lunch tickets. The registration desk will be located at the conference site from May 30 - June. We will have a designated Welcome Team of organizers and volunteers who you can recognize by their T-shirts and name tag. You will have access to the lecture hall and breakout rooms, look out for the signs at the venue. Do not hesitate to reach out to the Welcome Team during the conference for any query or concern. The venue is wheelchair accessible. The Welcome Team will be happy to provide you any additional support.
 
 #### Accommodation
 
@@ -316,7 +316,7 @@ The following prayer rooms are available on campus:
 
 The [online registration](https://www.eventbrite.com/e/carpentrycon-2018-tickets-42447719271) is open. We will have an opportunity for on-site registration but please let the organisers know in advance. More information about the workshop registration will be added here.
 
-The registration desk will be available on site from May 28th (evening) to June 1. Please bring your registration confirmation, which can be swapped for your name tag and badges.
+The registration desk will be available on site from May 30 to June 1. Please bring your registration confirmation, which can be swapped for your name tag and badges.
 
 #### Ramadan Period During CarpentryCon
 
