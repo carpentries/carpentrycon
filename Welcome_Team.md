@@ -35,6 +35,4 @@ Reach out to them personally at the conference, on Slack, or by emailing to the 
 ...and beyond
 
 - [Berenice Batut](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/SessionChairs/BereniceBatut-bio.md) (Volunteer Photographer)
-- [Katrin Leinweber](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/SessionChairs/KatrinLeinweber-bio.md) (AV Support)
 - Jason Williams (Entertainment and Unofficial Events)
-- [Toby Hodges](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/SessionChairs/TobyHodges-bio.md)
