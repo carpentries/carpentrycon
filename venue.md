@@ -10,9 +10,15 @@ Also see:
 ## Conference Venue
 
 The conference is being held at the [O'Brien Centre for Science](http://www.ucd.ie/conferences/venues/classroom-and-theatres/)
-at [University College Dublin](http://www.ucd.ie/). The O’Brien Centre for Science (East) is numbered 67 on the map. It is a short walk from the main UCD entrance on the N11. The main conference sessions will be held in the George Moore Auditorium on the Ground Floor of the building, on the left-hand side of the main foyer, beside the elevators. Coffee breaks and lunch will take place in the Ground Floor Atrium, beside the George Moore Auditorium. 
+at [University College Dublin](http://www.ucd.ie/). The O’Brien Centre for Science (East) is numbered 67 on the map. It is a short walk from the main UCD entrance on the N11. The main conference sessions will be held in the George Moore Auditorium (E0.08) on the Ground Floor of the building, on the left-hand side of the main foyer, beside the elevators. Coffee breaks and lunch will take place in the Ground Floor Atrium, beside the George Moore Auditorium. 
 
-Specific room numbers for workshop, skill-up, and breakout rooms will be anounced as information becomes available. We have indicated the rooms to maintain the order in our program as **Room 1 (Active Learning), Room 2 (Active Learning) and Room 3 (Classroom)**.
+The workshops, skill-ups, and breakouts will take place as three parallel sessions in the following rooms. Please see the [program files](https://github.com/carpentries/carpentrycon/tree/master/program) (separated by day) for details.
+
+Indicated Name|Room Number
+--|--
+**Room 1 (Active Learning)**|**E1.17/18**
+**Room 2 (Active Learning)**|**E2.16/17**
+**Room 3 (Classroom)**|**H1,51**
 
 **Location Address**
 
