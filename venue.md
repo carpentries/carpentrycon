@@ -179,7 +179,7 @@ The temperature during the conference, as per the [accuweather-forecast](https:/
 
 Weather in Dublin is very variable and it is not unusual to have short rain showers during the day. Unfortunately, the city is also extremely windy so umbrellas will not be very useful! A good strategy is to resort to layered clothing and to bring waterproof shoes and jackets.
 
-## Dublin Area, Entertainment & Physical Activity
+## Dublin Area, Entertainment & Activities
 
 *Interested in Culture and History?* [Explore UCD](http://www.ucd.ie/exploreucd/) is a
 self-guided walking tour of approximately 2.5 km, and takes 75 to 90 minutes.
