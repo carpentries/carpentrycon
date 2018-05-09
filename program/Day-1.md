@@ -2,6 +2,15 @@
 
 https://www.surveycrest.com/s/carpentrycon2018wednesday
 
+## Main Locations and Room Numbers
+
+Indicated Name|Room Number
+--|--
+**George Moore Auditorium**|**E0.08**
+**Room 1 (Active Learning)**|**E1.17/18**
+**Room 2 (Active Learning)**|**E2.16/17**
+**Room 3 (Classroom)**|**H1,51**
+
 ## Official Program
 
 08:15-09:00 am: Registration at **[Foyer](https://goo.gl/maps/xpnddSdsZ8n)** (look for signs)
