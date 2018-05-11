@@ -72,5 +72,6 @@
 
 [This form](https://goo.gl/forms/VUBMglv0qyRZp6aA2) has been shared with the conference participants via email, but if you missed to enter your response, please do so well before arriving at the conference.
 
-### Post-conference survey: TBA
+### Post-conference survey: 
+https://www.surveycrest.com/s/2018carpentryconfeedback
 
