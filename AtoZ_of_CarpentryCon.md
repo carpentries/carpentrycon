@@ -294,7 +294,7 @@ Also, someone has already written a blog on [What to Pack & Prepare Before Any B
 
 #### Post-conference
 
-The post-conference period will be equally crucial to evaluate the success of the conference. We will send out a post-conference survey to learn about your experiences from this conference and suggestions for the next one. We will also organize a community call to discuss the survey results and the plans for the next conference: carpentryCon 2019.
+The post-conference period will be equally crucial to evaluate the success of the conference. Please fill the [post-conference survey](https://www.surveycrest.com/s/2018carpentryconfeedback) after the conference to learn about your experiences from this conference and suggestions for the next one. We will also organize a community call to discuss the survey results and the plans for the next conference: carpentryCon 2019.
 
 ### Q: Questions, Quiet Rooms
 
