@@ -24,8 +24,8 @@ All progress on above items is reported here, within this repository.
 We have occasional [meetings][meetings].  Minutes of past meetings are available [here](minutes).
 
 ### Current Task Force Members
-* Fotis Psomopoulos (Chair)
-* Malvika Sharan (Secretary)
+* Fotis Psomopoulos (Co-Chair)
+* Malvika Sharan (Co-Chair)
 * Mark Laufersweiler
 * Mateusz Kuzak (Steering Committee Liaison)
 * Alix Keener
