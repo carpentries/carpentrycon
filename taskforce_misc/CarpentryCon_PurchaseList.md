@@ -11,7 +11,7 @@ List: google file link
 - A large world map for photobooth
 - Canvas: wish list!
 - Printed post session surveys: pencils
-- Inform th exhibitors
+- Inform the exhibitors
 - Cheat sheets
 - Pin for Code of Conduct
 - Name tag (with pronoun): https://github.com/DanielleQuinn/Miscellaneous/blob/master/nametag.jpg
