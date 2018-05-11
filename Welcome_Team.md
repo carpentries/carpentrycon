@@ -1,4 +1,4 @@
-## The members of Welcome team and ways to contact them
+## The members of Welcome Team and ways to contact them
 
 The CarpentryCon TaskForce was created in 2017 by the volunteers from the community with an intention to organize the inaugural CarpentryCon conference. The team worked out the initial plan for the conference (including its name), and kept recruiting the volunteers and passed over the role of organizing the meeting. The current Organizing TaskForce comprises both volunteers and The Carpentries staff members. With the conference approaching, more community members from The Carpentries formed the [Travel Support TaskForce](https://github.com/carpentries/carpentrycon/blob/master/travel_support.md) and [Diversity and Inclusion TaskForce](https://github.com/carpentries/carpentrycon/blob/master/venue.md) and extended their help in addressing specific concerns related to the conference. Several of the TaskForce members will be at the conference. Find us at the conference and let us know if you have any suggestions or interest in joining us for the next conference.
 
