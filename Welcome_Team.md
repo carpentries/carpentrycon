@@ -24,7 +24,7 @@ Reach out to them personally at the conference, on Slack, or by emailing to the 
 
 #### 3. CarpentryCon 2018 Volunteers
 
-Several conference will have volunteering opportunities at the event site, however the following volunteers will be the part of Welcome team to help you with any specific queries.
+Several conference will have volunteering opportunities at the event site, however the following volunteers will serve as a part of the Welcome Team to help you with any specific queries.
 
 ...from UCD
 
