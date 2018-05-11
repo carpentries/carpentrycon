@@ -59,4 +59,4 @@ Indicated Name|Room Number
 **Poster Reception: 6:00-8:00 pm**
 
 - Opening of the session including _The State of the Carpentries Address_ by Tracy Teal, Executive Director, The Carpentries at **_George Moore Auditorium_**
-- Poster session at **_the Foyer_**: [poster abstracts](https://github.com/carpentries/carpentrycon/tree/master/Sessions/poster_session)
+- Poster session at **_the Foyer_**: [poster abstracts](https://github.com/carpentries/carpentrycon/tree/master/Sessions/2018-05-30/13-Poster_Session)
