@@ -2,7 +2,8 @@
 
 - [Malvika Sharan](https://twitter.com/MalvikaSharan) is a computational biologist at the EMBL, Heidelberg, Germany, where she is involved in [Bio-IT project](https://www.embl.de/research/interdisciplinary_research/bioinformatics/community/bio-it/) and HD-HuB in [de.NBI/ELIXIR Germany](https://www.denbi.de/). She engages with several training activities including the Carpentries Workshops and is interested in community building through her work.
 - Tags: 
-  - [CarpentryCon Taskforce](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/TaskForce/MalvikaSharan-bio.md)
+  - [CarpentryCon Taskforce](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/TaskForce/MalvikaSharan-bio.md) (co-chair/secretary)
+  - [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) committee member
   - [DC Lesson Maintainer](http://www.datacarpentry.org/lessons/)
 
 **Session name(s) and link(s)**
