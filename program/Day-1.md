@@ -46,8 +46,8 @@ Indicated Name|Room Number
 
 **Lightning Talk Session: 04:05-04:30 pm (various rooms).**
 
-- [Lightning Talk 1](https://github.com/carpentries/carpentrycon/tree/master/Sessions/2018-05-30/07-Lightning-Talks-Session-1):	Moderator: [Danielle Quinn](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/TaskForce/DanielleQuinn-bio.md) at **_Room 1 (Active learning)_**
-- [Lightning Talk 2](https://github.com/carpentries/carpentrycon/tree/master/Sessions/2018-05-30/08-Lightning-Talks-Session-2):	Moderator: [Mark LaufersWeiler](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/TaskForce/MarkLaufersweiler-bio.md) at **_Room 2 (Active learning)_**
+- [Lightning Talk 1](https://github.com/carpentries/carpentrycon/tree/master/Sessions/2018-05-30/07-Lightning-Talks-Session-1):	Moderator: [Mark LaufersWeiler](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/TaskForce/MarkLaufersweiler-bio.md) at **_Room 1 (Active learning)_**
+- [Lightning Talk 2](https://github.com/carpentries/carpentrycon/tree/master/Sessions/2018-05-30/08-Lightning-Talks-Session-2):	Moderator: [Danielle Quinn](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/TaskForce/DanielleQuinn-bio.md) at **_Room 2 (Active learning)_**
 - [Lightning Talk 3](https://github.com/carpentries/carpentrycon/tree/master/Sessions/2018-05-30/09-Lightning-Talks-Session-3):	Moderator: [Ivo Array](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/TaskForce/IvoArrey-bio.md) at **_Room 3 (Classroom)_**
 
 **Breakout Session-2: 04:30-05:30 pm (various rooms).**
@@ -59,4 +59,4 @@ Indicated Name|Room Number
 **Poster Reception: 6:00-8:00 pm**
 
 - Opening of the session including _The State of the Carpentries Address_ by Tracy Teal, Executive Director, The Carpentries at **_George Moore Auditorium_**
-- Poster session at **_the Foyer_**: [poster abstracts](https://github.com/carpentries/carpentrycon/tree/master/Sessions/poster_session)
+- Poster session at **_the Foyer_**: [poster abstracts](https://github.com/carpentries/carpentrycon/tree/master/Sessions/2018-05-30/13-Poster_Session)
