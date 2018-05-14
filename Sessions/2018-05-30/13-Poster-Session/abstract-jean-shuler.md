@@ -3,10 +3,10 @@
 ## **Training Methodologies to Improve Extreme-Scale Computing**
 
 ## Lead(s)
-Jean Shuler^1^ and David Bernholdt^2^
+Jean Shuler<sup>1</sup> and David Bernholdt<sup>2</sup>
 
 ## Affiliation(s)
-^1^Lawrence Livermore National Lab, ^2^Oak Ridge National Lab
+<sup>1</sup>Lawrence Livermore National Lab, <sup>2</sup>Oak Ridge National Lab
 
 ## Contact(s)
 shuler1@llnl.gov
