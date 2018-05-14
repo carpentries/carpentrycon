@@ -48,8 +48,8 @@ Indicated Name|Room Number
 
 **Lightning Talk Session: 04:05-04:30 pm (various rooms).**
 
-- [Lightning Talk 4](https://github.com/carpentries/carpentrycon/tree/master/Sessions/2018-05-31/07-Lightning-Talks-Session-4): Moderator [Danielle Quinn](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/TaskForce/DanielleQuinn-bio.md) at **_Room 1 (Active learning)_**
-- [Lightning Talk 5](https://github.com/carpentries/carpentrycon/tree/master/Sessions/2018-05-31/08-Lightning-Talks-Session-5): Moderator [Malvika Sharan](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/SessionChairs/MalvikaSharan-Bio.md) at **_Room 2 (Active learning)_**
+- [Lightning Talk 4](https://github.com/carpentries/carpentrycon/tree/master/Sessions/2018-05-31/07-Lightning-Talks-Session-4): Moderator [Malvika Sharan](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/SessionChairs/MalvikaSharan-Bio.md) at **_Room 1 (Active learning)_**
+- [Lightning Talk 5](https://github.com/carpentries/carpentrycon/tree/master/Sessions/2018-05-31/08-Lightning-Talks-Session-5): Moderator [Danielle Quinn](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/TaskForce/DanielleQuinn-bio.md) at **_Room 2 (Active learning)_**
 - [Lightning Talk 6](https://github.com/carpentries/carpentrycon/tree/master/Sessions/2018-05-31/09-Lightning-Talks-Session-6): Moderator [Fotis Psomopoulos](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/SessionChairs/FotisPsomopoulos-bio.md) at **_Room 3 (Classroom)_**
 
 **Breakout Session-2: 04:30-05:30 pm (various rooms).**
