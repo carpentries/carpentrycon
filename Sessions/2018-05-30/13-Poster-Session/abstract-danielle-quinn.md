@@ -3,10 +3,10 @@
 ## **Mount Saint Elias to Cape Spear: Large Scale Community Building Across Canada**
 
 ## Lead(s)
-Danielle Quinn^1^, Catalina Anghel^2^, John Simpson^3^
+Danielle Quinn<sup>1</sup>, Catalina Anghel<sup>2</sup>, John Simpson<sup>3</sup>
 
 ## Affiliation(s)
-^1^Memorial University of Newfoundland, ^2^Canadian Nuclear Laboratories, ^3^Compute Canada
+<sup>1</sup>Memorial University of Newfoundland, <sup>2</sup>Canadian Nuclear Laboratories, <sup>3</sup>Compute Canada
 
 ## Contact(s)
 danielle.quinn@mun.ca
