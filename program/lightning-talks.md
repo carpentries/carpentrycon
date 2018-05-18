@@ -48,7 +48,7 @@
 
 [Growing the Carpentry Movement in the UK and Europe](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-31/08-Lightning-Talks-Session-5/1-abstract-aleksandra-nenadic.md) - Aleksandra Nenadic
 
-[ELIXIR Training and The Carpentries](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-31/08-Lightning-Talks-Session-5/2-abstract-paula-andrea-martinez.md) - Paula Andrea Martinez
+[ELIXIR Training and The Carpentries](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-31/08-Lightning-Talks-Session-5/2-abstract-paula-andrea-martinez.md) - Allegra Via
 
 [A Brief History of the RSE Community and its Role in Training](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-31/08-Lightning-Talks-Session-5/3-abstract-aleksandra-nenadic.md) - Aleksandra Nenadic
 
