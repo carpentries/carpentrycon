@@ -3,7 +3,7 @@
 ## **ELIXIR Training and The Carpentries**
 
 ## Lead(s)
-Paula Andrea Martinez
+Paula Andrea Martinez, Allegra Via, Mateusz Kuzak, Fotis Psomopoulos
 
 ## Affiliation(s)
 ELIXIR
