@@ -3,6 +3,8 @@
 - Job board
 - Wish list
 - Carpentries info board
+- Volunteer board
+- Event board
 
 ## Signage
 
