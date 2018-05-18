@@ -6,7 +6,7 @@
 
 ## Lead(s)
 
-Toby Hodges
+[Toby Hodges](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/SessionChairs/TobyHodges-bio.md)
 
 [Kari L. Jordan](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/SessionChairs/KariLJordan-bio.md)
 
