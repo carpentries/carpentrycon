@@ -1,4 +1,6 @@
-# Lightning Talks
+## Lightning Talks
+
+#### The length of the talks: 5 minutes +1 minutes for the Q&A
 
 ## [Day One](https://github.com/carpentries/carpentrycon/blob/master/program/Day-1.md) (4:05 - 4:30 pm)
 
