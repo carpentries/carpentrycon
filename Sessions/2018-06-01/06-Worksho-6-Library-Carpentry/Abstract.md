@@ -1,6 +1,6 @@
 ## Leads
 
-Tim Dennis, Mark Laufersweiler, Belinda Weaver
+Tim Dennis, Mark Laufersweiler, Belinda Weaver, Chris Erdmann
 
 ## Abstract
 
