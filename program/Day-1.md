@@ -17,7 +17,7 @@ Indicated Name|Room Number
 
 **Keynote Session-1: 09:20-10:45 am at _George Moore Auditorium_.** *Session Chair: [Belinda Weaver](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/SessionChairs/BelindaWeaver-bio.md).*
 
-- 09:00-09:10 am: Welcome to Conference: Introduction to the [TaskForce Members](https://github.com/carpentries/carpentrycon/tree/master/ShortBio/TaskForce), [Welcome Team](https://github.com/carpentries/carpentrycon/blob/master/Welcome_Team.md), [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html), sponsors and other relevant resources.
+- 09:00-09:10 am: Welcome to Conference: Introduction to the [TaskForce Members](https://github.com/carpentries/carpentrycon/tree/master/ShortBio/TaskForce), [Welcome Team](https://github.com/carpentries/carpentrycon/blob/master/Welcome_Team.md), [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html), sponsors, twitter hastag and other relevant resources.
 
 - 09:15-10:20 am:	Keynote by [Valerie Aurora](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/Speakers/ValerieAurora-bio.md): **_Focus on Allies_**
 
