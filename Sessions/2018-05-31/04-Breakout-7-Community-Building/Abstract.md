@@ -5,7 +5,11 @@
 
 Belinda Weaver
 
+## Facilitator 
+
+Malvika Sharan
+
 
 ## Abstract
 
-Come and share ideas for local communtiy building.
+Come and share ideas for local community building, and becoming a Carpentries champion. 
