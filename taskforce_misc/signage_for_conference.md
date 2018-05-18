@@ -5,6 +5,7 @@
 - Carpentries info board
 - Volunteer board
 - Event board
+- World Map
 
 ## Signage
 
