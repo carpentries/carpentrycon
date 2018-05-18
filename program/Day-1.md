@@ -19,9 +19,9 @@ Indicated Name|Room Number
 
 - 09:00-09:10 am: Welcome to Conference: Introduction to the [TaskForce Members](https://github.com/carpentries/carpentrycon/tree/master/ShortBio/TaskForce), [Welcome Team](https://github.com/carpentries/carpentrycon/blob/master/Welcome_Team.md), [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html), sponsors and other relevant resources.
 
-- 09:10-09:30 am:	[Story Circle Icebreaker](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-30/00-Icebreaker-Story-Circles.md)	at **Foyer**
+- 09:15-10:20 am:	Keynote by [Valerie Aurora](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/Speakers/ValerieAurora-bio.md): **_Focus on Allies_**
 
-- 09:40-:10:45 am: Keynote by [Valerie Aurora](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/Speakers/ValerieAurora-bio.md): **_Focus on Allies_**
+09:40-:10:45 am: [Story Circle Icebreaker](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-30/00-Icebreaker-Story-Circles.md)	at **Foyer**
 
 **Morning Break and networking: 10:45-11:30 am at Foyer**
 
