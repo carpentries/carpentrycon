@@ -1,7 +1,7 @@
 # Skill-Up 2: **Speaking Effectively**
 
 ## Lead
-![Belinda Weaver](http://carpentries.org/img/team/5.jpg)
+![Belinda Weaver](http://librarycarpentry.org/img/team/belindaweaver.jpg)
 
 [Belinda Weaver](https://twitter.com/cloudaus), *Community and Communications Lead, The Carpentries*
 
