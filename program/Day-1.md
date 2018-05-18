@@ -21,7 +21,7 @@ Indicated Name|Room Number
 
 - 09:15-10:20 am:	Keynote by [Valerie Aurora](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/Speakers/ValerieAurora-bio.md): **_Focus on Allies_**
 
-09:40-:10:45 am: [Story Circle Icebreaker](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-30/00-Icebreaker-Story-Circles.md)	at **Foyer**
+10:20-:10:45 am: [Story Circle Icebreaker](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-30/00-Icebreaker-Story-Circles.md)	at **Foyer**
 
 **Morning Break and networking: 10:45-11:30 am at Foyer**
 
