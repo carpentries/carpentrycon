@@ -3,8 +3,8 @@
 
 ### Poster Session: 
 
-- Schedule: [Day One](https://github.com/carpentries/carpentrycon/blob/master/program/Day-1.md) (6:00 - 8:00 pm)
-- Dimension of the poster: A0
+#### Schedule: [Day One](https://github.com/carpentries/carpentrycon/blob/master/program/Day-1.md) (6:00 - 8:00 pm)
+#### Dimension of the poster: A0
 
 1. [Growing the Carpentry Movement in the UK and Europe](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-30/13-Poster-Session/abstract-aleksandra-nenadic-1.md) - Aleksandra Nenadic
 
