@@ -52,6 +52,7 @@
 
 [A Brief History of the RSE Community and its Role in Training](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-31/08-Lightning-Talks-Session-5/3-abstract-aleksandra-nenadic.md) - Aleksandra Nenadic
 
+[4OSS lesson development, an ELIXIR and The Carpentries collaboration](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-30/13-Poster-Session/4-abstract-mateusz-kuzak.md) - Mateusz Kuzak
 
 ### Session 6
 
@@ -62,5 +63,3 @@
 [Natural Science Collections: Matching Lessons to Community](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-31/09-Lightning-Talks-Session-6/3-abstract-deborah-paul.md) - Deborah Paul
 
 [Cryptographic Essentials for Carpentries Curriculum](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-31/09-Lightning-Talks-Session-6/4-abstract-francisco-palm.md) - Francisco Palm
-
-
