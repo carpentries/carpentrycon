@@ -70,7 +70,7 @@
 
 ### Pre-conference Accessibility Survey and Session Registration
 
-[This form](https://goo.gl/forms/VUBMglv0qyRZp6aA2) has been shared with the conference participants via email, but if you missed to enter your response, please do so well before arriving at the conference.
+To select your sessions for the conference and to let us know your special requirements we have shared a pre-conference survey (https://goo.gl/forms/VUBMglv0qyRZp6aA2) via email. If you missed to enter your response, please do so well before arriving at the conference. 
 
 ### Post-conference survey: 
 https://www.surveycrest.com/s/2018carpentryconfeedback
