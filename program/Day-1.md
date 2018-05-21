@@ -15,7 +15,7 @@ Indicated Name|Room Number
 
 08:15-09:00 am: Registration at **[Foyer](https://goo.gl/maps/xpnddSdsZ8n)** (look for signs)
 
-**Keynote Session-1: 09:20-10:45 am at _George Moore Auditorium_.** *Session Chair: [Belinda Weaver](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/SessionChairs/BelindaWeaver-bio.md).*
+**Keynote Session-1: 09:00-10:25 am at _George Moore Auditorium_.** *Session Chair: [Belinda Weaver](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/SessionChairs/BelindaWeaver-bio.md).*
 
 - 09:00-09:10 am: Welcome to Conference: Introduction to the [TaskForce Members](https://github.com/carpentries/carpentrycon/tree/master/ShortBio/TaskForce), [Welcome Team](https://github.com/carpentries/carpentrycon/blob/master/Welcome_Team.md), [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html), sponsors, twitter hastag and other relevant resources.
 
