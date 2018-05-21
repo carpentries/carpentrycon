@@ -33,3 +33,4 @@ Session Lead [Notes](https://docs.google.com/document/d/1_0818v7bJYY_9sEVVMgZvkN
 ### **Part 4**: Wrap-up & Discussion
 - What resources can we as a community provide to address the questions we have as a group?
 - What advice or resources do we have in general for mentors?
+- Session leads go around the room and ask individuals what they are comfortable helping people with. Add information to [this etherpad](http://pad.software-carpentry.org/carpentrycon2018-mentoring)
