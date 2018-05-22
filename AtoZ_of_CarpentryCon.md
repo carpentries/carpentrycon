@@ -368,8 +368,8 @@ We want to assist you in all possible ways to make your participation at Carpent
 Please fill out the pre-conference survey before your arrival to help us organise everything you may need at the conference (e.g. any special needs, suggestions etc.). The post-conference survey will be used to evaluate your overall experience at the conference, which will help us to improve our efforts while organising future conferences and meetings.
 
 **Links to the surveys:**
-- Pre-conference Survey: TBA
-- Post-conference Survey: TBA
+- Pre-conference Survey: https://goo.gl/forms/VUBMglv0qyRZp6aA2
+- Post-conference Survey: https://www.surveycrest.com/s/2018carpentryconfeedback
 
 #### Sponsors
 
