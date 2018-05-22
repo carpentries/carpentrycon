@@ -31,6 +31,8 @@ Please contact Malvika Sharan (malvika.sharan@embl.de), SherAaron Hurt or Daniel
 
 - Entertainment/social activities
   - Lead informal social activities
+  - Guide people to the conference dinner
+  - Be inclusive in social activities
 
 - Social Media
   - Keep the slack channel engaged
