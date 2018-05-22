@@ -26,7 +26,7 @@ at [University College Dublin](http://www.ucd.ie/).
   (01) 716 2120
  ```
 
-Link to [Google Map](https://goo.gl/maps/xpnddSdsZ8n) and [campus map](http://mdd.ucd.ie/wp-content/uploads/2015/05/UCD-Map-October-2014-Custom.pdf).
+Link to [Google Map](https://goo.gl/maps/xpnddSdsZ8n) and [campus map](http://mdd.ucd.ie/wp-content/uploads/2015/05/UCD-Map-October-2014-Custom.pdf). There is also a useful [commuters'guide](http://ucdestates.ie/commuting/) that can be [downloaded as a PDF](http://ucdestates.ie/commuting/wp-content/uploads/sites/3/2016/08/Campus-Commuting-Guide-2016.pdf). 
 
 When you first arrive, you can exchange your registration ticket for a name tag, badges and lunch tickets. The registration desk will be located at the conference site from May 30 - June. We will have a designated Welcome Team of organizers and volunteers who you can recognize by their T-shirts and name tag. You will have access to the lecture hall and breakout rooms, look out for the signs at the venue. Do not hesitate to reach out to the Welcome Team during the conference for any query or concern. The venue is wheelchair accessible. The Welcome Team will be happy to provide you any additional support.
 
