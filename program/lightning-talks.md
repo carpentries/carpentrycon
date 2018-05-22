@@ -8,7 +8,7 @@
 
 [Applying the Carpentries Community Building Approach in RDA](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-30/07-Lightning-Talks-Session-1/1-abstract-fotis-psomopoulos.md) - Fotis E. Psomopoulos
 
-[Do You RezBaz?](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-30/07-Lightning-Talks-Session-1/2-abstract-belinda-weaver.md) - Belinda Weaver
+[Do You ResBaz?](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-30/07-Lightning-Talks-Session-1/2-abstract-belinda-weaver.md) - Belinda Weaver
 
 [Carpentry Lessons and Workshops in Spanish](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-30/07-Lightning-Talks-Session-1/3-abstract-paula-andrea-martinez.md) - Paula Andrea Martinez
 
