@@ -34,3 +34,5 @@
 - Dinner plan (dietary requirements)
 - Drawing stuff for the kids
 - Books for the kids as recommended by Greg ()
+- Volunteer sheet:
+    - Session sheet: https://docs.google.com/spreadsheets/d/1G80RPvP8DMPZ89i2vfStdT_6ComP4qsI8ioEvUep2Vw/edit#gid=1822300231
