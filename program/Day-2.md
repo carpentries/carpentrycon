@@ -60,4 +60,4 @@ Indicated Name|Room Number
 
 **Conference Dinner: 6:30-9:30 pm**
 
-Location **TBA**
+Location **[Dada Restaurant](http://www.dadarestaurant.ie/about.html)**
