@@ -18,6 +18,13 @@ Please contact Malvika Sharan (malvika.sharan@embl.de), SherAaron Hurt or Daniel
 
 ### Volunteers' Responsibilities
 
+- Help at a Workshop/Session
+  - Help session lead in setting up the room (if required)
+  - Note-taking
+  - Float microphone during Q&A session
+  - Summarizing different sessions (compiling notes, tweets, pictures etc)
+  - Share it with the co-volunteers and send the note summary to the taskforce members by emailing carpentrycon@carpentries.org
+
 - Pre-Conference set up
   - Arrangements at the venue
   - Putting up the signage/posts
@@ -38,11 +45,6 @@ Please contact Malvika Sharan (malvika.sharan@embl.de), SherAaron Hurt or Daniel
   - Keep the slack channel engaged
   - Tweet during the conference (talk/session highlights) from tehir account
   - Manage the official CarpentryCon Twitter account
-
-- Help at a Workshop/Session
-  - Note-taking
-  - Summarizing different sessions (compiling notes, tweets etc)
-    - For each session there is a specific git folder with summary files. Please send a pull request once you have compiled all the information.
 
 - Photography
   - We will not have any official photographer at the conference, so you are welcome to take the role of taking pictures of a few sessions and share it with us
