@@ -24,6 +24,7 @@
 - Balloon fillers
 - Canvas boards
 - Signage printing
+- Also check the [purchase list](https://github.com/carpentries/carpentrycon/blob/master/taskforce_misc/CarpentryCon_PurchaseList.md) (check with Sher! if something else is needed locally)
 
 ## Documents (printed)
 
@@ -34,5 +35,5 @@
 - Dinner plan (dietary requirements)
 - Drawing stuff for the kids
 - Books for the kids as recommended by Greg ()
-- Volunteer sheet:
+- Volunteer sheet: https://docs.google.com/spreadsheets/d/1zs8rV8wUAUEN_-NnbgBjFmS3H-FjyvHoVTv9Cf3JVVo/edit#gid=0
     - Session sheet: https://docs.google.com/spreadsheets/d/1G80RPvP8DMPZ89i2vfStdT_6ComP4qsI8ioEvUep2Vw/edit#gid=1822300231
