@@ -34,6 +34,6 @@
 - Conference Program (Belinda will print them)
 - Dinner plan (dietary requirements)
 - Drawing stuff for the kids
-- Books for the kids as recommended by Greg ()
+- Books for the kids as recommended by Greg ("Mortal Engines")
 - Volunteer sheet: https://docs.google.com/spreadsheets/d/1zs8rV8wUAUEN_-NnbgBjFmS3H-FjyvHoVTv9Cf3JVVo/edit#gid=0
     - Session sheet: https://docs.google.com/spreadsheets/d/1G80RPvP8DMPZ89i2vfStdT_6ComP4qsI8ioEvUep2Vw/edit#gid=1822300231
