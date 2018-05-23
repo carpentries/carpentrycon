@@ -13,7 +13,7 @@ Please contact Malvika Sharan (malvika.sharan@embl.de), SherAaron Hurt or Daniel
 
 ### Signup to Volunteer at the conference
 
-- Add your name: [Google sheet](https://docs.google.com/spreadsheets/d/1zs8rV8wUAUEN_-NnbgBjFmS3H-FjyvHoVTv9Cf3JVVo/edit#gid=0) and select the tasks of your interests (see the responsibilties below)
+- Add your name to this [spreadsheet](https://docs.google.com/spreadsheets/d/1zs8rV8wUAUEN_-NnbgBjFmS3H-FjyvHoVTv9Cf3JVVo/edit#gid=0) and select the tasks of your interests (see the responsibilties below)
 - Introduce yourself to at least one member of the [Welcome Team](https://github.com/carpentries/carpentrycon/blob/master/Welcome_Team.md) during registration so that they can help you select a volunteer task
 
 ### Volunteers' Responsibilities
