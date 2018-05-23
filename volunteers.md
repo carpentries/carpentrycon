@@ -5,7 +5,7 @@ Please contact Malvika Sharan (malvika.sharan@embl.de), SherAaron Hurt or Daniel
 ### Resources you should check
 
 - [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
-- [CarpentryCOn Cheetsheet](https://github.com/carpentries/carpentrycon/blob/master/CarpentryCon_Cheatsheet.md)
+- [CarpentryCon Cheetsheet](https://github.com/carpentries/carpentrycon/blob/master/CarpentryCon_Cheatsheet.md)
 - [Program handout](https://github.com/carpentries/carpentrycon/blob/master/program/CarpentryCon%202018%20Program.pdf)
 - [Accessibility Information](https://github.com/carpentries/carpentrycon/blob/master/venue.md)
 - You should be able to contact the Taskforce or Code of Conduct [committee members](https://github.com/carpentries/carpentrycon/blob/master/Welcome_Team.md) in case of emergency
