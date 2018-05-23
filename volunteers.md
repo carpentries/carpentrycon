@@ -2,7 +2,7 @@
 
 Please contact Malvika Sharan (malvika.sharan@embl.de), SherAaron Hurt or Danielle Quinn from the [CarpentryCon Taskforce](https://github.com/carpentries/carpentrycon/blob/master/Welcome_Team.md).
 
-### Resources you should checkout
+### Resources you should check
 
 - [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
 - [CarpentryCOn Cheetsheet](https://github.com/carpentries/carpentrycon/blob/master/CarpentryCon_Cheatsheet.md)
