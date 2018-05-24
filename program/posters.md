@@ -40,3 +40,5 @@
 17. [Developing a Data Wrangling Community in the Southwest](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-30/13-Poster-Session/abstract-uwe-hilgert.md) - Uwe Hilgert
 
 18. [4OSS lesson development, an ELIXIR and The Carpentries collaboration](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-30/13-Poster-Session/abstract-mateusz-kuzak.md) - Mateusz Kuzak
+
+19. [ELIXIR Training and The Carpentries](https://github.com/mkuzak/carpentrycon/blob/master/Sessions/2018-05-30/13-Poster-Session/abstract-poster-allegra-via.md) - Allegra Via
