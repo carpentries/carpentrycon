@@ -66,7 +66,9 @@
 
   - Pre-conference meet-up: May 29, 2018, 18:30 onward at [**The Clubhouse**](https://goo.gl/maps/rGyT9RGH8C32) - for detail see [Day-0 plan](https://github.com/carpentries/carpentrycon/blob/master/program/Day-0.md).
   - Poster Session: May 30, 2018: 18:00 - 20:30, at the **conference venue**
-  - Conference dinner, May 31, 2018: 18:30 - 21:30, **Location TBA**
+  - Conference dinner, May 31, 2018: 18:30 - 21:30, [**Dada Moroccan Restaurant**](http://www.dadarestaurant.ie/location.html)
+  
+  We will make special arrangements in all our catering for our participants who are observing Ramadan. 
 
 ### Pre-conference Accessibility Survey and Session Registration
 
