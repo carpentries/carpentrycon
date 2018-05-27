@@ -3,10 +3,10 @@
 ## **Building a Local Bioinformatics Community: Challenges and Efforts**
 
 ## Lead(s)
-Malvika Sharan<sup>12</sup>, Toby Hodges<sup>1</sup>, and Georg Zellar<sup>13</sup>
+Malvika Sharan<sup>1,2</sup>, Toby Hodges<sup>1</sup>, and Georg Zellar<sup>1,2</sup>
 
 ## Affiliation(s)
-<sup>1</sup>European Molecular Biology Laboratory, <sup>2</sup>Heidelberg Center for Human Bioinformatics, <sup>3</sup>German Cancer Research Institute
+<sup>1</sup>European Molecular Biology Laboratory, <sup>2</sup>Heidelberg Center for Human Bioinformatics
 
 ## Contact(s)
 malvika.sharan@embl.de
