@@ -516,7 +516,7 @@ Watercoolers will be available in several spots of the conference venue. Try to 
 
 <img src="taskforce_misc/a-z-images/dublin6.jpeg.jpg" width=800>
 
-##### *Dublin Pride Parade, image by Norman Davey*, [Supporting Article](https://www.theguardian.com/world/2015/may/23/gay-marriage-ireland-yes-vote)
+##### *Rainbow Road from Mario Cart Recreated at the Dublin Pride Parade, image by Norman Davey*
 
 *We can't emphasize this enough!*
 
