@@ -52,7 +52,7 @@ There will be 12 breakout sessions during CarpentryCon (http://www.carpentrycon.
 
 Dublin is a city of bars and pubs (but not only). We have a list of bar suggestions (by our UCD Volunteers Ben and Chiara) on the Etherpad dedicated to the discussion of [social activities at CarpentryCon](http://pad.software-carpentry.org/social_events). Please expand the list, if you have any additional recommendations.
 
-### C: Carpentries, CarpentryCon and Cheatsheet, Code of Conduct, Child Care, Coffee, Catering
+### C: Carpentries, CarpentryCon and Cheatsheet, Code of Conduct, Child Care, Coffee, Catering, Currency
 
 #### The Carpentries
 <br><br>
@@ -82,6 +82,12 @@ Parents/Families traveling with child/children must inform the organizers if the
 ##### Coffee and Catering
 
 Of course! One of the most important conference supplies, coffee, will be offered at the conference during the breaks. Here is a list of all the [coffee/food places in UCD](http://www.ucd.ie/students/guide/food.html), if you want to take a walk during and after the conference and find other non-conference coffee. Lunch will be provided at the conference for the registered participants. We will use the catering services of the Pi Restaurant located in the same building as the venue. We will take care of the different dietary requirements if you have mentioned it in your registration. Please let the organizers know if you'd like to amend your specified dietary requirements. (See *Veg()an+ and Special Requirements*)
+
+##### Currency
+
+The currency used in the Republic of Ireland is Euros.
+
+See this article for everything you need to know about currency exchange in Dublin: https://transferwise.com/us/blog/currency-exchange-dublin
 
 ### D: Dublin, Diversity, Data Carpentry
 
