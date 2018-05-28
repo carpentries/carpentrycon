@@ -1,6 +1,6 @@
 # Lightning Talks: Session 6
 
-## **Cryptographic Essentials for Carpentries Curriculum**
+## **Cryptography Essentials for Carpentries Curriculum**
 
 ## Lead(s)
 Francisco Palm
