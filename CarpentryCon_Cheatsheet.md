@@ -31,8 +31,8 @@
  
  #### Links:
  
-- [Online guide to getting to UCD](http://ucdestates.ie/commuting/)
 - [Google Map](https://goo.gl/maps/xpnddSdsZ8n)
+- [Online guide to getting to UCD](http://ucdestates.ie/commuting/)
 - [Campus map](http://mdd.ucd.ie/wp-content/uploads/2015/05/UCD-Map-October-2014-Custom.pdf)
 - [Campus Commuting Guide for UCD](http://ucdestates.ie/commuting/wp-content/uploads/sites/3/2016/08/Campus-Commuting-Guide-2016.pdf)
 
