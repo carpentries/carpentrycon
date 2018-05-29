@@ -306,7 +306,7 @@ The post-conference period will be equally crucial to evaluate the success of th
 
 #### Questions
 
-Get in touch with the organisers (carpentrycon@carpentries.org) if you have any specific questions about the conference. Join the community call (May 3) to discuss with them in person ([see the notes](http://pad.software-carpentry.org/carpconcall)). At the conference, you can approach the Welcome Team for any specific queries. Join our Slack channel for any recent discussion and updates.
+Get in touch with the organisers (carpentrycon@carpentries.org) if you have any specific questions about the conference. Join the community call (May 3) to discuss with them in person ([see the notes](http://pad.software-carpentry.org/carpconcall)). At the conference, you can approach the Welcome Team for any specific queries. Join our [Slack channel](https://tinyurl.com/carpentrycon-slack1) for any recent discussion and updates.
 
 #### Quiet Rooms
 
@@ -363,7 +363,7 @@ We love sticky notes! No Carpentries workshop is possible without the sticky not
 
 #### Slack
 
-We are on Slack: https://tinyurl.com/carpentrycon-slack. Join us there to connect and communicate with the organizers and participants of CarpentryCon. We will be actively using the various channels for continuing discussions, and documenting them to summerise different aspects of the conference. Also, you can install Slack apps to have access to these channels through your phone.
+We are on Slack: https://tinyurl.com/carpentrycon-slack1. Join us there to connect and communicate with the organizers and participants of CarpentryCon. We will be actively using the various channels for continuing discussions, and documenting them to summerise different aspects of the conference. Also, you can install Slack apps to have access to these channels through your phone.
 
 #### Special requirements
 
