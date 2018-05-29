@@ -2,7 +2,7 @@
 
 ## Lead
 
-![SherAaron Hurt](http://carpentries.org/img/team/8.jpg)
+![SherAaron Hurt](https://carpentries.org/files/team/sheraaronhurt.jpg)
 
 [SherAaron Hurt](https://twitter.com/SherAaronHurt)
 

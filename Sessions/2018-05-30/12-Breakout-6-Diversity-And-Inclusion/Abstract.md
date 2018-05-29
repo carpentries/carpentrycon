@@ -11,7 +11,7 @@
 [Kari L. Jordan](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/SessionChairs/KariLJordan-bio.md)
 
 ## Abstract
-*It’s all about making real connections!* During this session you will make real connections by asking real questions through a fun and interactive bingo game. This "no-judgement zone" will help us explore how alike we are, what it means to be globally inclusive and culturally competent, and how this ties into the sense of commuinity in Carpentries and the way we teach.
+*It’s all about making real connections!* During this session you will make real connections by asking real questions through a fun and interactive bingo game. This "no-judgement zone" will help us explore how alike we are, what it means to be globally inclusive and culturally competent, and how this ties into the sense of community in Carpentries and the way we teach.
 
 
 ## The Plan

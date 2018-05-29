@@ -1,6 +1,6 @@
 **Short Bio**
 
-- [Dr Peter Steinbach](https://twitter.com/psteinb_) is an IT specialist and Scientific Software Engineer at the Max Planck Institute of Molecular Cell Biology and Genetics (as a client of Scionics Computer Innovation GmbH). His role their entails supporting the HPC infrastrucuture, training new users, developing performance critical software for HPC clusters, multi-core workstations, laptops and GPUs.
+- [Dr Peter Steinbach](https://twitter.com/psteinb_) is an IT specialist and Scientific Software Engineer at the Max Planck Institute of Molecular Cell Biology and Genetics (as a client of Scionics Computer Innovation GmbH). His role there entails supporting the HPC infrastrucuture, training new users, developing performance critical software for HPC clusters, multi-core workstations, laptops and GPUs.
 
 
 - Tags: 
