@@ -54,7 +54,7 @@
   
 ### Social platforms
 
-#### [CarpentryCon on Slack](https://tinyurl.com/carpentrycon-slack)
+#### [CarpentryCon on Slack](https://tinyurl.com/carpentrycon-slack1)
 #### [CarpentryCon on Twitter](twitter.com/CarpentryCon) and official Hashtag #CarpentryCon2018
   
 #### Etherpads
