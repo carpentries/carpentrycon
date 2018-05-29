@@ -8,7 +8,7 @@
 
 [Applying the Carpentries Community Building Approach in RDA](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-30/07-Lightning-Talks-Session-1/1-abstract-fotis-psomopoulos.md) - Fotis E. Psomopoulos
 
-[Do You RezBaz?](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-30/07-Lightning-Talks-Session-1/2-abstract-belinda-weaver.md) - Belinda Weaver
+[Do You ResBaz?](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-30/07-Lightning-Talks-Session-1/2-abstract-belinda-weaver.md) - Belinda Weaver
 
 [Carpentry Lessons and Workshops in Spanish](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-30/07-Lightning-Talks-Session-1/3-abstract-paula-andrea-martinez.md) - Paula Andrea Martinez
 
@@ -54,7 +54,8 @@
 
 [A Brief History of the RSE Community and its Role in Training](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-31/08-Lightning-Talks-Session-5/3-abstract-aleksandra-nenadic.md) - Aleksandra Nenadic
 
-[4OSS lesson development, an ELIXIR and The Carpentries collaboration](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-30/13-Poster-Session/4-abstract-mateusz-kuzak.md) - Mateusz Kuzak
+[4OSS lesson development, an ELIXIR and The Carpentries collaboration](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-30/13-Poster-Session/abstract-mateusz-kuzak.md) - Mateusz Kuzak
+
 
 ### Session 6
 

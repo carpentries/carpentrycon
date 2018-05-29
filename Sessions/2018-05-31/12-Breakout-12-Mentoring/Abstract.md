@@ -28,8 +28,9 @@ Split the room into topical round tables to discuss mentoring strategies for ind
 - Self-organizing workshops
 - Maintain Carpentries lessons
 
-Discuss a prepared a series of questions, and share in an Etherpad.
+Session Lead [Notes](https://docs.google.com/document/d/1_0818v7bJYY_9sEVVMgZvkNqjggISA-MGVb5poQyjaY/edit) 
 
 ### **Part 4**: Wrap-up & Discussion
 - What resources can we as a community provide to address the questions we have as a group?
 - What advice or resources do we have in general for mentors?
+- Session leads go around the room and ask individuals what they are comfortable helping people with. Add information to [this etherpad](http://pad.software-carpentry.org/carpentrycon2018-mentoring)

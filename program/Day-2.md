@@ -29,14 +29,14 @@ Indicated Name|Room Number
 
 **12:00-12:30 pm: parallel sessions**
 
-1. Skill- Up 6 will continue as ***Open Mic - Bring Your Ideas for Breakout 9 and 10*** co-led by [Mark Laufersweiler](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/TaskForce/MarkLaufersweiler-bio.md) and [Ivo Array]() at **_Room 3 (Classroom)_**
+1. Skill- Up 6 will continue as ***Open Mic - Bring Your Ideas for Breakout 9 and 10*** co-led by [Mark Laufersweiler](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/TaskForce/MarkLaufersweiler-bio.md) and [Ivo Arrey]() at **_Room 3 (Classroom)_**
 2. **_Q&A on The State of the Carpentries address with Executive Directors_**, led by Tracy Teal at **_George Moore Auditorium_**
 
 **Lunch Break: 12:30-1:30 pm at Foyer**
 
 **Keynote Session-2: 01:30-02:35 pm at _George Moore Auditorium_.** *Session Chair: [SherAaron Hurt](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/TaskForce/SherAaronHurt-bio.md)*.
 
-- 01:30-02:35 pm: Keynote by [Anelda van der Waal](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/Speakers/AneldavanderWalt-bio.md): ***It Takes a Village***.
+- 01:30-02:35 pm: Keynote by [Anelda van der Walt](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/Speakers/AneldavanderWalt-bio.md): ***It Takes a Village***.
 
 **Breakout Session-1: 02:35-03:35 pm (various rooms).**
 
@@ -60,4 +60,4 @@ Indicated Name|Room Number
 
 **Conference Dinner: 6:30-9:30 pm**
 
-Location **TBA**
+Location **[Dada Restaurant](http://www.dadarestaurant.ie/about.html)**

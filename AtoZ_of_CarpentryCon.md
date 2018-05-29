@@ -26,7 +26,7 @@ at [University College Dublin](http://www.ucd.ie/).
   (01) 716 2120
  ```
 
-Link to [Google Map](https://goo.gl/maps/xpnddSdsZ8n) and [campus map](http://mdd.ucd.ie/wp-content/uploads/2015/05/UCD-Map-October-2014-Custom.pdf).
+Link to [Google Map](https://goo.gl/maps/xpnddSdsZ8n) and [campus map](http://mdd.ucd.ie/wp-content/uploads/2015/05/UCD-Map-October-2014-Custom.pdf). There is also a useful [commuters' guide](http://ucdestates.ie/commuting/) that can be [downloaded as a PDF](http://ucdestates.ie/commuting/wp-content/uploads/sites/3/2016/08/Campus-Commuting-Guide-2016.pdf). 
 
 When you first arrive, you can exchange your registration ticket for a name tag, badges and lunch tickets. The registration desk will be located at the conference site from May 30 - June. We will have a designated Welcome Team of organizers and volunteers who you can recognize by their T-shirts and name tag. You will have access to the lecture hall and breakout rooms, look out for the signs at the venue. Do not hesitate to reach out to the Welcome Team during the conference for any query or concern. The venue is wheelchair accessible. The Welcome Team will be happy to provide you any additional support.
 
@@ -52,7 +52,7 @@ There will be 12 breakout sessions during CarpentryCon (http://www.carpentrycon.
 
 Dublin is a city of bars and pubs (but not only). We have a list of bar suggestions (by our UCD Volunteers Ben and Chiara) on the Etherpad dedicated to the discussion of [social activities at CarpentryCon](http://pad.software-carpentry.org/social_events). Please expand the list, if you have any additional recommendations.
 
-### C: Carpentries, CarpentryCon and Cheatsheet, Code of Conduct, Child Care, Coffee, Catering
+### C: Carpentries, CarpentryCon and Cheatsheet, Code of Conduct, Child Care, Coffee, Catering, Currency
 
 #### The Carpentries
 <br><br>
@@ -82,6 +82,12 @@ Parents/Families traveling with child/children must inform the organizers if the
 ##### Coffee and Catering
 
 Of course! One of the most important conference supplies, coffee, will be offered at the conference during the breaks. Here is a list of all the [coffee/food places in UCD](http://www.ucd.ie/students/guide/food.html), if you want to take a walk during and after the conference and find other non-conference coffee. Lunch will be provided at the conference for the registered participants. We will use the catering services of the Pi Restaurant located in the same building as the venue. We will take care of the different dietary requirements if you have mentioned it in your registration. Please let the organizers know if you'd like to amend your specified dietary requirements. (See *Veg()an+ and Special Requirements*)
+
+##### Currency
+
+The currency used in the Republic of Ireland is Euros.
+
+See this article for everything you need to know about currency exchange in Dublin: https://transferwise.com/us/blog/currency-exchange-dublin
 
 ### D: Dublin, Diversity, Data Carpentry
 
@@ -282,7 +288,7 @@ We will send out an email to all the registered participants with all the inform
 
 ##### Pre-conference Checklist
 
-My personal checklist will have very basic reminders like: check your flight_schedule-alarm-passport-visa-keys-wallet-cash-hotel_address-charger-headphones-book-clothes-phone-laptop, take out the garbage, water your plant, lock your door, panic (*did I close the windows!*) - you get it. I didn't want to assume that everyone needs an exhaustive list of reminders like I do, so like any other sesible adult, I asked twitter for advice. [Here is what I got](https://twitter.com/MalvikaSharan/status/990973533823078400):
+My personal checklist will have very basic reminders like: check your flight_schedule-alarm-passport-visa-keys-wallet-cash-hotel_address-charger-headphones-book-clothes-phone-laptop, take out the garbage, water your plant, lock your door, panic (*did I close the windows!*) - you get it. I didn't want to assume that everyone needs an exhaustive list of reminders like I do, so like any other sensible adult, I asked twitter for advice. [Here is what I got](https://twitter.com/MalvikaSharan/status/990973533823078400):
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">What do you have in your pre-conference list? Help me fill this list for the <a href="https://twitter.com/CarpentryCon?ref_src=twsrc%5Etfw">@CarpentryCon</a> participants who are coming to <a href="https://twitter.com/ucddublin?ref_src=twsrc%5Etfw">@ucddublin</a> <a href="https://twitter.com/hashtag/Dublin?src=hash&amp;ref_src=twsrc%5Etfw">#Dublin</a> to attend the <a href="https://twitter.com/hashtag/carpentrycon2018?src=hash&amp;ref_src=twsrc%5Etfw">#carpentrycon2018</a>. Pull requests are welcome on this <a href="https://twitter.com/github?ref_src=twsrc%5Etfw">@github</a> link: <a href="https://t.co/fL1uVvxwT1">https://t.co/fL1uVvxwT1</a></p>&mdash; Malvika Sharan (@MalvikaSharan) <a href="https://twitter.com/MalvikaSharan/status/989883041035276288?ref_src=twsrc%5Etfw">April 27, 2018</a></blockquote>
 
@@ -300,7 +306,7 @@ The post-conference period will be equally crucial to evaluate the success of th
 
 #### Questions
 
-Get in touch with the organisers (carpentrycon@carpentries.org) if you have any specific questions about the conference. Join the community call (May 3) to discuss with them in person ([see the notes](http://pad.software-carpentry.org/carpconcall)). At the conference, you can approach the Welcome Team for any specific queries. Join our Slack channel for any recent discussion and updates.
+Get in touch with the organisers (carpentrycon@carpentries.org) if you have any specific questions about the conference. Join the community call (May 3) to discuss with them in person ([see the notes](http://pad.software-carpentry.org/carpconcall)). At the conference, you can approach the Welcome Team for any specific queries. Join our [Slack channel](https://tinyurl.com/carpentrycon-slack1) for any recent discussion and updates.
 
 #### Quiet Rooms
 
@@ -339,7 +345,7 @@ Please help us support you by supporting your peers at the CarpentryCon. Here is
 
 #### Restaurant suggestions
 
-We will be using the catering service from Pi Restaurant, which is located in the same builiding as the conference venue. More restaurant suggestions including [restaurats for Iftar](https://colettecolfer.wordpress.com/2013/07/24/iftar-in-a-pakistani-restaurant-ramadan-day-15-half-way-there/) for you are available on the etherpad dedicated to the discussion on [social activities at CarpentryCon](http://pad.software-carpentry.org/social_events). If you have any recommendations please add them there. 
+We will be using the catering service from Pi Restaurant, which is located in the same builiding as the conference venue. More restaurant suggestions including [restaurants for Iftar](https://colettecolfer.wordpress.com/2013/07/24/iftar-in-a-pakistani-restaurant-ramadan-day-15-half-way-there/) for you are available on the etherpad dedicated to the discussion on [social activities at CarpentryCon](http://pad.software-carpentry.org/social_events). If you have any recommendations please add them there. 
 
 <img src="http://rosyandgrey.de/wp-content/uploads/2017/08/Dublin-Travelguide-Foodguide.png" width=305> <img src="taskforce_misc/a-z-images/dublin5.jpeg" width=300>
 
@@ -357,7 +363,7 @@ We love sticky notes! No Carpentries workshop is possible without the sticky not
 
 #### Slack
 
-We are on Slack: https://tinyurl.com/carpentrycon-slack. Join us there to connect and communicate with the organizers and participants of CarpentryCon. We will be actively using the various channels for continuing discussions, and documenting them to summerise different aspects of the conference. Also, you can install Slack apps to have access to these channels through your phone.
+We are on Slack: https://tinyurl.com/carpentrycon-slack1. Join us there to connect and communicate with the organizers and participants of CarpentryCon. We will be actively using the various channels for continuing discussions, and documenting them to summerise different aspects of the conference. Also, you can install Slack apps to have access to these channels through your phone.
 
 #### Special requirements
 
@@ -368,8 +374,8 @@ We want to assist you in all possible ways to make your participation at Carpent
 Please fill out the pre-conference survey before your arrival to help us organise everything you may need at the conference (e.g. any special needs, suggestions etc.). The post-conference survey will be used to evaluate your overall experience at the conference, which will help us to improve our efforts while organising future conferences and meetings.
 
 **Links to the surveys:**
-- Pre-conference Survey: TBA
-- Post-conference Survey: TBA
+- Pre-conference Survey: https://goo.gl/forms/VUBMglv0qyRZp6aA2
+- Post-conference Survey: https://www.surveycrest.com/s/2018carpentryconfeedback
 
 #### Sponsors
 
@@ -516,7 +522,7 @@ Watercoolers will be available in several spots of the conference venue. Try to 
 
 <img src="taskforce_misc/a-z-images/dublin6.jpeg.jpg" width=800>
 
-##### *Dublin Pride Parade, image by Norman Davey*, [Supporting Article](https://www.theguardian.com/world/2015/may/23/gay-marriage-ireland-yes-vote)
+##### *Rainbow Road from Mario Cart Recreated at the Dublin Pride Parade, image by Norman Davey*
 
 *We can't emphasize this enough!*
 
