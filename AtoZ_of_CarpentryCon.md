@@ -86,8 +86,9 @@ Of course! One of the most important conference supplies, coffee, will be offere
 ##### Currency
 
 The currency used in the Republic of Ireland is Euros.
-
 See this article for everything you need to know about currency exchange in Dublin: https://transferwise.com/us/blog/currency-exchange-dublin
+
+TIP: if you are paying with a foreign bankcard/creditcard/debitcard and get asked whether you want to pay in Euro or your own currency, choose EURO - it will save you money in the end (see [this article]( https://www.forbes.com/sites/geoffreymorrison/2014/07/30/pay-in-local-or-home-currency/#5bb059723307)).
 
 ### D: Dublin, Diversity, Data Carpentry
 
