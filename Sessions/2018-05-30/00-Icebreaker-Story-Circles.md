@@ -15,7 +15,7 @@ Your Story Circle group can then be the 'safe' group of people to turn to during
 
 The format of story circles is this:
 
-- Everyone will be assigned to a group - your group's name will be on your registration.
+- Everyone will be assigned to a an animal group - lists have been posted outside.
 - Find your group - there will be designated places set aside with group names marked.
 - Join your group.
 - Choose a timekeeper, and decide who will go first.
