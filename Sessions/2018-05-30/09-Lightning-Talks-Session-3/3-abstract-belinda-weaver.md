@@ -1,4 +1,4 @@
-# Lightning Talks: Session 1
+# Lightning Talks: Session 3
 
 ## **Do You ResBaz?**
 
