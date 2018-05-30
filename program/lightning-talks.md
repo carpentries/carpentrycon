@@ -8,8 +8,6 @@
 
 [Applying the Carpentries Community Building Approach in RDA](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-30/07-Lightning-Talks-Session-1/1-abstract-fotis-psomopoulos.md) - Fotis E. Psomopoulos
 
-[Do You ResBaz?](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-30/07-Lightning-Talks-Session-1/2-abstract-belinda-weaver.md) - Belinda Weaver
-
 [Carpentry Lessons and Workshops in Spanish](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-30/07-Lightning-Talks-Session-1/3-abstract-paula-andrea-martinez.md) - Paula Andrea Martinez
 
 [A Sustainable Way to Translate the Carpentries Lessons](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-30/07-Lightning-Talks-Session-1/4-abstract-david-perez-suarez.md) - David Perez-Suarez
@@ -28,10 +26,9 @@
 
 [Load Magic for More Fluid Activities](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-30/09-Lightning-Talks-Session-3/1-abstract-sarah-brown.md)- Sarah M. Brown
 
-[Creating Reproducible Experimentation Pipelines with Popper](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-30/09-Lightning-Talks-Session-3/2-abstract-ivo-jimenez.md) - Ivo Jimenez
+[Community-Driven Training for Biological Data Analysis with the Galaxy Training Network](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-30/09-Lightning-Talks-Session-3/2-abstract-berenice-batut.md) - Bérénice Batut
 
-[Community-Driven Training for Biological Data Analysis with the Galaxy Training Network](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-30/09-Lightning-Talks-Session-3/3-abstract-berenice-batut.md) - Bérénice Batut
-
+[Do You ResBaz?](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-30/07-Lightning-Talks-Session-3/3-abstract-belinda-weaver.md) - Belinda Weaver
 
 ## [Day Two](https://github.com/carpentries/carpentrycon/blob/master/program/Day-2.md) (4:05 - 4:30 pm)
 

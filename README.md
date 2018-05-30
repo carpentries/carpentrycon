@@ -37,6 +37,7 @@ We have occasional [meetings][meetings].  Minutes of past meetings are available
 * Ivo Arrey
 * Jonah Duckles
 * Belinda Weaver
+* Danielle Quinn
 
 ## Useful Links
 
