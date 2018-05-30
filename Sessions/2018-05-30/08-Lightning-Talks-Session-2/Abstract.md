@@ -1,4 +1,4 @@
-# Lightning Talk 2
+# Lightning Talk 3
 
 ## Lead(s)
 
