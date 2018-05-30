@@ -61,7 +61,7 @@ Dublin is a city of bars and pubs (but not only). We have a list of bar suggesti
 
 ##### *Official logo of The Carpentries*
 
-The Carpentries (https://carpentries.org/), brings Software, Data, and Library Carpentry together under an umbrella to teach foundational computational, coding, and data science skills to researchers worldwide. We are a diverse, global community of volunteer Instructors, helpers, Trainers, Maintainers, champions, member organizations, supporters, and staffs.
+The Carpentries (https://carpentries.org/), brings Software and Data Carpentry together under an umbrella to teach foundational computational, coding, and data science skills to researchers worldwide. We are a diverse, global community of volunteer Instructors, helpers, Trainers, Maintainers, champions, member organizations, supporters, and staffs.
 
 #### CarpentryCon 2018 and Conference Cheatsheet
 
@@ -213,7 +213,7 @@ We have lightening talk sessions (divided by topics) on the first and second day
 
 #### Library Carpentry
 
-Library Carpentry, a part of The Carpentries, is made by librarians, for librarians to help you automate repetitive, boring, error-prone tasks, create, maintain and analyse sustainable and reusable data, work effectively with IT and systems colleagues, better understand the use of software in research and much more. Library Carpentry introduces you to the fundamentals of computing and provides you with a platform for further self-directed learning. See [here](http://librarycarpentry.github.io/our-sponsors/) for more detail.
+Library Carpentry, is made by librarians, for librarians to help you automate repetitive, boring, error-prone tasks, create, maintain and analyse sustainable and reusable data, work effectively with IT and systems colleagues, better understand the use of software in research and much more. Library Carpentry introduces you to the fundamentals of computing and provides you with a platform for further self-directed learning. See [here](http://librarycarpentry.github.io/our-sponsors/) for more detail. Shortly before CarpentryCon, Library Carpentry and The Carpentries mutually decided to enter into a conversation with each other about incorporating Library Carpentry as a Carpentries lesson program.
 
 ### M: Medical, Mentoring, Meet-ups
 
