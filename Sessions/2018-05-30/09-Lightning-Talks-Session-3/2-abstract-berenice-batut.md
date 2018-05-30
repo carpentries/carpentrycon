@@ -3,7 +3,7 @@
 ## **Community-Driven Training for Biological Data Analysis with the Galaxy Training Network**
 
 ## Lead(s)
-Bérénice Batut
+BÃ©rÃ©nice Batut
 
 ## Affiliation(s)
 University of Freiburg
