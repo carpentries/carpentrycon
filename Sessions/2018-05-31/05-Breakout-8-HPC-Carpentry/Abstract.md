@@ -4,6 +4,8 @@
 
 **Time**: 2:35-3:35 pm (1 hour)
 
+[Slides](HPC_Breakout.pdf) are available
+
 ## Lead(s)
 
 [Alan O'Cais](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/SessionChairs/AlanOCais-bio.md)
