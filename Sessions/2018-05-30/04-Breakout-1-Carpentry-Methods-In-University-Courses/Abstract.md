@@ -35,7 +35,7 @@ Split the room into topical round tables of need:
 - Perspectives
 - Content
 
-Work on a prepared a series of questions and activities, and share in an Etherpad or Google Doc.
+Work on a prepared series of questions and activities, and share them in an Etherpad or Google Doc.
 
 ### **Part 3**: wrap up
 

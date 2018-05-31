@@ -14,6 +14,8 @@
 
 - [Day-3: all the links to conference prograrm](https://github.com/carpentries/carpentrycon/blob/master/program/Day-3.md)
 
+- Single pdf file of the [conference program](https://github.com/carpentries/carpentrycon/blob/master/program/CarpentryCon2018Program.pdf) with clickable links.
+
 ### Conference Venue: 
 
 #### Address:
@@ -29,8 +31,8 @@
  
  #### Links:
  
-- [Online guide to getting to UCD](http://ucdestates.ie/commuting/)
 - [Google Map](https://goo.gl/maps/xpnddSdsZ8n)
+- [Online guide to getting to UCD](http://ucdestates.ie/commuting/)
 - [Campus map](http://mdd.ucd.ie/wp-content/uploads/2015/05/UCD-Map-October-2014-Custom.pdf)
 - [Campus Commuting Guide for UCD](http://ucdestates.ie/commuting/wp-content/uploads/sites/3/2016/08/Campus-Commuting-Guide-2016.pdf)
 
@@ -54,7 +56,7 @@
   
 ### Social platforms
 
-#### [CarpentryCon on Slack](https://tinyurl.com/carpentrycon-slack)
+#### [CarpentryCon on Slack](https://tinyurl.com/carpentrycon-slack1)
 #### [CarpentryCon on Twitter](twitter.com/CarpentryCon) and official Hashtag #CarpentryCon2018
   
 #### Etherpads

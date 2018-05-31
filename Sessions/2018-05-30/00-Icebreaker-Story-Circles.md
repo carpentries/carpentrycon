@@ -15,13 +15,13 @@ Your Story Circle group can then be the 'safe' group of people to turn to during
 
 The format of story circles is this:
 
-- Everyone will be assigned to a group - your group's name will be on your registration.
+- Everyone will be assigned to a an animal group - lists have been posted outside.
 - Find your group - there will be designated places set aside with group names marked.
 - Join your group.
 - Choose a timekeeper, and decide who will go first.
-- Everyone in the group then spends five completely uninterrupted minutes talking about who they are, and how they came to attend CarpentryCon.
+- Everyone in the group then spends four completely uninterrupted minutes talking about who they are, and how they came to attend CarpentryCon.
 - The others listen.
-- The format is freeform - people can choose what information they are willing to share - as long as the five minute format is observed. If you need longer to tell your tale, you have the whole three days ahead to keep talking to your group. 
+- The format is freeform - people can choose what information they are willing to share - as long as the four-minute format is observed. If you need longer to tell your tale, you have the whole three days ahead to keep talking to your group. 
 
 The key thing is everyone in the circle has a turn, and other people in the group listen without interrupting.
 

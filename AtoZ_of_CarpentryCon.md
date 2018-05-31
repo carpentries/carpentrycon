@@ -61,7 +61,7 @@ Dublin is a city of bars and pubs (but not only). We have a list of bar suggesti
 
 ##### *Official logo of The Carpentries*
 
-The Carpentries (https://carpentries.org/), brings Software, Data, and Library Carpentry together under an umbrella to teach foundational computational, coding, and data science skills to researchers worldwide. We are a diverse, global community of volunteer Instructors, helpers, Trainers, Maintainers, champions, member organizations, supporters, and staffs.
+The Carpentries (https://carpentries.org/), brings Software and Data Carpentry together under an umbrella to teach foundational computational, coding, and data science skills to researchers worldwide. We are a diverse, global community of volunteer Instructors, helpers, Trainers, Maintainers, champions, member organizations, supporters, and staffs.
 
 #### CarpentryCon 2018 and Conference Cheatsheet
 
@@ -86,8 +86,9 @@ Of course! One of the most important conference supplies, coffee, will be offere
 ##### Currency
 
 The currency used in the Republic of Ireland is Euros.
-
 See this article for everything you need to know about currency exchange in Dublin: https://transferwise.com/us/blog/currency-exchange-dublin
+
+TIP: if you are paying with a foreign bankcard/creditcard/debitcard and get asked whether you want to pay in Euro or your own currency, choose EURO - it will save you money in the end (see [this article]( https://www.forbes.com/sites/geoffreymorrison/2014/07/30/pay-in-local-or-home-currency/#5bb059723307)).
 
 ### D: Dublin, Diversity, Data Carpentry
 
@@ -212,7 +213,7 @@ We have lightening talk sessions (divided by topics) on the first and second day
 
 #### Library Carpentry
 
-Library Carpentry, a part of The Carpentries, is made by librarians, for librarians to help you automate repetitive, boring, error-prone tasks, create, maintain and analyse sustainable and reusable data, work effectively with IT and systems colleagues, better understand the use of software in research and much more. Library Carpentry introduces you to the fundamentals of computing and provides you with a platform for further self-directed learning. See [here](http://librarycarpentry.github.io/our-sponsors/) for more detail.
+Library Carpentry, is made by librarians, for librarians to help you automate repetitive, boring, error-prone tasks, create, maintain and analyse sustainable and reusable data, work effectively with IT and systems colleagues, better understand the use of software in research and much more. Library Carpentry introduces you to the fundamentals of computing and provides you with a platform for further self-directed learning. See [here](http://librarycarpentry.github.io/our-sponsors/) for more detail. Shortly before CarpentryCon, Library Carpentry and The Carpentries mutually decided to enter into a conversation with each other about incorporating Library Carpentry as a Carpentries lesson program.
 
 ### M: Medical, Mentoring, Meet-ups
 
@@ -306,7 +307,7 @@ The post-conference period will be equally crucial to evaluate the success of th
 
 #### Questions
 
-Get in touch with the organisers (carpentrycon@carpentries.org) if you have any specific questions about the conference. Join the community call (May 3) to discuss with them in person ([see the notes](http://pad.software-carpentry.org/carpconcall)). At the conference, you can approach the Welcome Team for any specific queries. Join our Slack channel for any recent discussion and updates.
+Get in touch with the organisers (carpentrycon@carpentries.org) if you have any specific questions about the conference. Join the community call (May 3) to discuss with them in person ([see the notes](http://pad.software-carpentry.org/carpconcall)). At the conference, you can approach the Welcome Team for any specific queries. Join our [Slack channel](https://tinyurl.com/carpentrycon-slack1) for any recent discussion and updates.
 
 #### Quiet Rooms
 
@@ -363,7 +364,7 @@ We love sticky notes! No Carpentries workshop is possible without the sticky not
 
 #### Slack
 
-We are on Slack: https://tinyurl.com/carpentrycon-slack. Join us there to connect and communicate with the organizers and participants of CarpentryCon. We will be actively using the various channels for continuing discussions, and documenting them to summerise different aspects of the conference. Also, you can install Slack apps to have access to these channels through your phone.
+We are on Slack: https://tinyurl.com/carpentrycon-slack1. Join us there to connect and communicate with the organizers and participants of CarpentryCon. We will be actively using the various channels for continuing discussions, and documenting them to summerise different aspects of the conference. Also, you can install Slack apps to have access to these channels through your phone.
 
 #### Special requirements
 
