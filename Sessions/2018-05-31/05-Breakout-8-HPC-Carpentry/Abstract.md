@@ -4,7 +4,7 @@
 
 **Time**: 2:35-3:35 pm (1 hour)
 
-[Slides](HPC_Breakout.pdf) are available
+[Slides](HPC_Breakout.pdf) from the session are available, as well as [session notes](session_notes.pdf) and the [responses to questions asked of the attendees](Question_05_31_2018__15_07_QZ_carpentryconhpc.pdf)
 
 ## Lead(s)
 
