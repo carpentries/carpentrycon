@@ -14,3 +14,5 @@ The workshop will be divided into two streams:
 
 - For certified instructors, we will focus on the lesson material and the challenges of teaching this audience.
 - For non-certified people, we will focus on Carpentries teaching practices and how to motivate the audience to learn new skills.
+
+## [Notes](https://docs.google.com/presentation/d/1Tv7LiJAzsn8CkfS-KDjwxDppiBhr6SHmI1HEa2czNrY/)
