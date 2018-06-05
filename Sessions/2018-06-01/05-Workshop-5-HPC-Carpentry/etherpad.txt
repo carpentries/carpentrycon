@@ -1,0 +1,389 @@
+Breakout: HPC targetted Carpentry lessons
+--------------------------------------------------------------
+
+May 31st, 2018, Dublin (IR)
+
+Leads: Alan O'Cais and Daniel G. A. Smith
+
+Agenda
+======
+1) 30 Minutes - discussion on current material
+2) 20 Minutes - Getting to hpc-novice v1.0
+3) 10 Minutes -  Beyond hpc-novice v1.0
+
+Summary: https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-31/05-Breakout-8-HPC-Carpentry/Abstract.md
+
+http://pad.software-carpentry.org/carpentrycon2018-hpccarpentry-workshop
+
+Workshop on HPC targetted Carpentry lessons
+--------------------------------------------------------------
+
+June 1st, 2018, Dublin (IR)
+
+Leads: Christina Koch, Peter Steinbach
+
+Agenda
+======
+
+    1. Technical Introduction to existing Materials
+    2. working groups + wrap-up
+    3. Planning for the future
+
+1. Technical Introduction to existing Materials (15-20')
+
+- hpc-carpentry.github.io/hpc-intro
+- psteinb.github.io/hpc-in-a-day
+
+2. Work Packages (70-80' + 15' wrap up)
+
+We have lot of different work themes!  
+	1) Integrating the current materials on core topics
+	2) Improving additional topics
+	3) Add 3-4 learner profiles + prerequisites to the instructor notes
+We will put up post-it notes around the room with different topics.  
+Congregate around your topic and then once everyone has a topic, find a space to work.  
+All contributions from 1) and 3) should be submitted as PRs into https://github.com/swcarpentry/hpc-novice
+
+	1) Integrating current materials
+Don't write *any* new material!  Pick material from the following lessons:
+- https://github.com/hpc-carpentry/hpc-intro // https://hpc-carpentry.github.io/hpc-intro
+- Repo: https://github.com/psteinb/hpc-in-a-day // https://psteinb.github.io/hpc-in-a-day/
+
+Major topics
+	* 00-why-hpc
+		* Why a researcher would want to use an HPC/remote/cloud system
+			* Laptop/Desktop does not offer enough resources (want to get more done)
+			* What HPC resources should *not* do (run word processing)
+			* Help build learner profiles!
+		* Relevant pages: 
+			* https://hpc-carpentry.github.io/hpc-intro/00-hpc-intro/
+			* https://psteinb.github.io/hpc-in-a-day/01-01-taking-the-space-shuttle/
+			* https://christinalk.github.io/hpc-novice-1/00-intro/index.html
+	* 10-login-transfer
+		* Objective
+			* The basic concept of what it means to not be on *local* resources
+		* Relevant pages: 
+			* https://hpc-carpentry.github.io/hpc-intro/01-connecting
+			* https://hpc-carpentry.github.io/hpc-intro/14-transferring-files/
+		* Pull request - https://github.com/swcarpentry/hpc-novice/pull/49
+	* 20-architecture
+		* Objective
+			* Provide a general mind map of how HPC resources are connected together (head node, compute node, NAS)
+		* Relevant pages: 
+			* https://hpc-carpentry.github.io/hpc-intro/00-hpc-intro/
+			* https://hpc-carpentry.github.io/hpc-intro/11-cluster/
+			* https://psteinb.github.io/hpc-in-a-day/02-01-batch-systems-101/
+			* Image from: http://www.archer.ac.uk/training/course-material/2018/03/intro-hw/slides/L01_WhyHPC.pdf to give an overview of common HPC architecture.
+	* 30-batch-system
+		* Objective
+			* The use of shared resources, multiple possible analogies "why must you wait in line at starbucks" (needs a more general analogy)
+		* Relevant pages: 
+			* https://psteinb.github.io/hpc-in-a-day/02-01-batch-systems-101/
+			* https://psteinb.github.io/hpc-in-a-day/02-02-advanced-job-scheduling/
+			* https://hpc-carpentry.github.io/hpc-intro/12-scheduler/
+	* 35-filesystem
+		* Objective
+			* General data structure, the idea that there is "local" and "global" data.
+			* If my data is on the head node how can I access it from a compute node?
+			* A few items of operations to avoid (transfering many small files)
+		* Relevant pages: 
+			* https://psteinb.github.io/hpc-in-a-day/02-03-shared-filesystem/
+	* 40-modules
+		* Objective
+			* What problem does modules solve, and how?
+			* How do I get my software to work?
+		* Relevant pages: 
+			* https://psteinb.github.io/hpc-in-a-day/03-00-environment-modules/
+			* https://hpc-carpentry.github.io/hpc-intro/13-modules/
+
+	2) Review and improve additional topics
+
+Choose from any of the following at your table:
+    - Alternatives to demonstrating local versus shared filesystem
+    https://psteinb.github.io/hpc-in-a-day/02-03-shared-filesystem/
+    from a teachers standpoint, this lessons needs to be improved as it throws learners into a situation which doesn't work, i.e. where the script I give them doesn't produce anything (which is something they are asked to fix)
+    
+    - Adding the Reduce after the map step
+    https://psteinb.github.io/hpc-in-a-day/03-03-mapreduce-for-pi/
+    This material does array jobs as a means for bulk processing where one job is mapped onto one file in a set of files. Add the reduction step (average_pi_estimates.py) as a job that waits for the job array mentioned above.
+    
+    - Find an alternative task for "Parallel word count" where parallelisation with multiprocessing has a benefit
+    https://psteinb.github.io/hpc-in-a-day/03-02-parallel-estimate/ (challenge at bottom of the page)
+    Even though word count can be parallelized, it doesn't show big speed-ups as the computational load is quite low.
+    
+    - try a dask multi-node version as an alternative to the mpi4py implementation
+    https://psteinb.github.io/hpc-in-a-day/03-04-bonus-mpi-for-pi/
+    Note, it must show a runtime improvement over the shared memory parallel version for 2 to 4 nodes.
+    
+    √ add an exercise on environment-modules
+    https://psteinb.github.io/hpc-in-a-day/03-00-environment-modules/
+    https://github.com/swcarpentry/hpc-novice/pull/42
+
+	3) Add learner profiles + prereqs to teaching notes
+
+Use own experience to write 3-4 learner profiles and how you would use this material to help them and add to the instructor's notes
+
+Learner profiles from Software Carpentry: https://software-carpentry.org/audience/
+
+Learner profiles have three parts: the person’s general background, the problem they face, and how the course will help them. (from https://carpentries.github.io/instructor-training/14-lesson-study/#learner-profiles)
+
+Our job: write a few 
+    - learner profiles
+    - with a list of prerequisites for that learner
+    - and a list of what is missing from the current materials
+
+Breakdown of user types
+Novice:
+    -wants to know what HPC is, how it works, how can it be beneficial for their use case
+    -wants to know how to use a remote computer
+    -wants to know how to transfer files to remote computer, analyze it, and transfer results back to personal computer
+    -wants to know how to help other novices
+    -currently outsourcing some analyses and not satisfied with how the analysis is being done; wants to do it themselves
+
+One-time/occasional user:
+	-normally works on local computer
+	-has a particular analysis that is too complex and needs to be done with HPC (large dataset and/or long execution time)
+	-needs to know what HPC is, how to use it, but not necessarily for long-term use
+	-transfer data, run analysis, transfer data back to local
+	
+New user:
+    -joined a new research group that regularly makes use of HPC
+    -will need to know what HPC is, how to use it
+    -needs to used data shared with other users
+    -needs to know how to do analyses
+    -would benefit from learning how to do multiple things at once (schedule many jobs)
+
+Potential users that don't have access to resources:
+    -research group doesn't have access to HPC
+    -has access to HPC but it isn't sufficient
+    -want or need to use cloud resources
+
+
+Modify SWC learner profiles?
+ex. Bhadra Basepair - needs to redo scripts for submission to journal and needs the results fast
+
+
+Discussion Points
+-biologists, engineers, mathematicians are often new to using HPC
+-some with absolutely no background/experience with computing
+-some with some computing experience and need some help with accessing the cluster
+-using data that's too big
+-some starting in groups that use cluster but don't have anyone to ask for help with HPC
+-need to know how to use software on cluster and do analyses but don't necessarily do programming
+-need to know how to install software that isn't on the cluster they are using
+-new to using with shell (recently learned)
+-need to transfer data between computers
+-need to download data from urls
+-would benefit from using docker containers (probably another lesson)
+-some people want to use cloud because HPC IT won't install the software they want to use, or it will take them too long to do so
+-need to know proper way to use HPC optimally (don't want to slow down HPC, how much memory to request, etc)
+-some people are happy with working on their personal computers but could benefit from working on HPC, but don't realize it
+-some people only need to run a script, others have a pipeline and need to know how to connect the components
+-some need to visually examine data before finishing with HPC session, need to know how to share data with supervisor or collaborators
+-how to talk to IT for troubleshooting/questions (how to word problems, how much detail to give, etc)
+-how to find job details, error outputs, etc
+-what an array is and how to use it
+- considering dependencies between jobs
+- dedicated vs shared resource
+
+Possible research use cases:
+-running simulations (lots of parameters, combinations of parameters, many iterations) benefits: more accurate results, exploring larger search space
+-assembling large genomes (lots of sequencing data, analysis is complex)
+-doing machine learning and needs to scale up to train model on larger dataset for publication, needs GPUs
+
+Things to consider:
+-it's not usually the software that takes a lot of memory, but the data
+-confusion between terms (ex. docker vs HPC, HPC vs cloud vs cluster vs super computer)
+-explaining the scheduling system (jobs need to be submitted, need to declare how much memory and sometimes time, jobs are queued 
+		and might not run immediately because HPC is a shared resource)
+-learners would have different access to help after the workshop (some have HPC available and can ask IT, some don't)
+-new concept: computing on a remote machine
+
+Prerequisites:
+-shell exposure very important (assume knowledge of software carpentry shell lesson?)
+-script writing would be useful, but not necessary
+
+
+Draft profiles:
+    
+X is a molecular biologist that soon will receive a large DNA sequence dataset. 
+Her adviser has told her she will need to use the university's HPC cluster to analyze them. 
+A colleague that is supposed to teach her how has left her a set of written instructions, but is on parental leave and thus cannot help her at the moment.
+
+An email from the sequencing centre arrives with a set of download links for X to obtain the datasets. 
+X's adviser asks her to quickly investigate the quality of the data using an appropriate software available on the cluster, 
+so decision can be made to pay for the cost of data generation.
+
+The workshop will teach X how to transfer the data to an appropriate place on the cluster and access and schedule and run jobs.
+ Afterwards, X will understand enough of the written instructions to be able to start the correct analyses for her data.
+(By Lex Nederbragt)
+
+------
+
+Y is an environmental biologist that uses DNA signatures obtained from soils to study species diversity in the environment. 
+She need to compare DNA sequences to large databases. So far, she has been able to use web-based tools for her limited datasets.
+
+Recently, Y has started working with much larger datasets, and discovered that the online tool he uses has a limit of 50 entries on the online server. 
+He has heard it should be possible to run the same tool through the commandline, and managed to install it on his local Laptop. 
+Now, however, it takes several days before each of the analyses are finished.
+
+The workshop will teach Y to move his data to and from the university's computer cluster, and submit jobs using pre-installed software on the cluster. 
+Afterwards, Y will be able to analyze her own data and pre-installed command-line based versions of the tool
+to spread the analysis over several dozen cores so it finishes in a few hours.
+(By Lex Nederbragt)
+ 
+-------
+
+Z is a skilled bioinformatician running analysis pipelines on the computer cluster. 
+A new tool has been published and Z has decided it she wants to see whether it could be replace an existing tool. 
+She submits a request to the HPC IT support staff to have the new tool installed in the cluster's environment module system. 
+The response is that support is swamped with requests and for now has to prioritize issues with already installed tools. 
+Support suggests that Z installs the tool herself.
+
+Z has never installed software before and quickly realizes the instructions given are way above her head. 
+Meanwhile, more and more researchers report on Twitter how good the new tool is working relative to the one she uses now.
+
+This workshop will enable Z to make a local installation of the new tool and test it out in her pipeline. 
+(By Lex Nederbragt)
+
+--------
+
+New PhD student is given a task to select parameters for their simulation.  They need to run a set of calculations on several thousand
+  combinations of parameters.  One calculation takes several minutes.  They set up the problem on their laptop but quickly realise 
+  that it would take more than one month to complete the task. 
+  They are told to use local HPC but they are not sure how this would help them.
+
+
+################
+
+
+
+
+
+    
+This section is wrapped up with a report by each group.
+    
+
+3. Planning for the Future
+
+Who would be willing to teach this material?  
+	* Name // email
+		* Daniel Smith / dgasmith@vt.edu
+		* Andy Turner / a.turner@epcc.ed.ac.uk / Planned for July 2018
+		* Thor Wikfeldt / kthw@kth.se / Planned for sept-oct 2018
+		* Heather Gibling // heathergibling@gmail.com
+		* Will Furnass / w.furnass@sheffield.ac.uk.  NB I need to prepare some kind of HPC training workshop for a specific audience in Sept-Oct 2018. 
+		* Neal Davis, davis68@illinois.edu
+		* Lex Nederbragt / lex.nederbragt@ibv.uio.no (with others at Univ. of Oslo)
+		* Kevin Jorissen (jorissen@amazon.com) (AWS)
+		* David Pérez-Suárez (d.perez-suarez@ucl.ac.uk / UCL)
+		* Sabry Razick(sabry.razick@usit.uio.no, University of Oslo)
+		* Peter Steinbach // steinbach@scionics.de
+		* Karin Lagesen // karin.lagesen@gmail.com
+
+
+Who would like to keep contributing?  What else do you need from us to do this?  
+	* Name // email // comments
+		* Heather Gibling // heathergibling@gmail.com
+		* Evgenij Belikov // eb120@hw.ac.uk
+		* Will Furnass / w.furnass@sheffield.ac.uk
+		* Neal Davis, davis68@illinois.edu
+		* Thor Wikfeldt // kthw@kth.se
+		* Kevin Jorissen (jorissen@amazon.com AWS)
+		* David Bernholdt // bernholdtde@ornl.gov
+		* Olav Vahtras // vahtras@kth.se
+		* Rhoda Aremu // ainarhoda@gmail.com
+		* Sabry Razick//sabry.razick@usit.uio.no, University of Oslo//NA
+		* Marc Gouw // marc.gouw@embl.de
+		* Peter Steinbach // steinbach@scionics.de
+		* Karin Lagesen // karin.lagesen@gmail.com
+
+
+We propose the following: 
+
+	* Collecting feedback from people teaching
+		* Collect this information in the 'extras' section of the swcarpentry/hpc-novice repository
+		* Template notes format
+	* Governance
+		* Formalize a small "coordinating" group
+		* Volunteer or nominate someone below // Add +1 if someone you want to nominate is already nominated
+			* Neal Davis (volunteering), U. Illinois, davis68@illinois.edu
+			* Maxim Belkin (nominating, in SWC but not at CC), U. Illinois, mbelkin@illinois.edu
+	* Future communication amidst this group
+		* Repository: swcarpentry/hpc-novice
+		* HPC-Discuss: discuss-hpc@lists.carpentries.org // https://carpentries.topicbox.com/groups/discuss-hpc
+		* slack channel
+	* Determine where core material will live
+		* swcarpentry/hpc-novice
+		* Rename? Provide suggestions here!
+			* cluster-novice/Cluster Carpentry
+			* parallel-novice/Parallel Carpentry
+			* powertool carpentry
+	* Continue developing
+		* Add to core lesson at swcarpentry/hpc-novice
+		* Work on additional modules
+
+We will send the finalized proposal + results around to discuss-hpc + on the repo in the next few days. 
+
+
+Useful Info
+
+Topics and links to existing material
+        
+Why use HPC?
+      
+	* hpc-intro 00:00 What is HPC? https://hpc-carpentry.github.io/hpc-intro/00-hpc-intro/   
+	* hpc-in-a-day 00:00 Taking the space shuttle https://psteinb.github.io/hpc-in-a-day/01-01-taking-the-space-shuttle/ 
+	* EPCC, Intro to HPC: http://www.archer.ac.uk/training/course-material/2018/03/intro-hw/slides/L01_WhyHPC.pdf
+        
+Login, interactive access; transferring data
+  
+	* hpc-intro 00:20 Connecting to the cluster https://hpc-carpentry.github.io/hpc-intro/01-connecting/ 
+	* hpc-intro 03:35 Working on a Cluster https://hpc-carpentry.github.io/hpc-intro/11-cluster/  
+	* hpc-intro 06:00 Transferring Files https://hpc-carpentry.github.io/hpc-intro/14-transferring-files/    
+	* hpc-in-a-day 00:00 Taking the space shuttle https://psteinb.github.io/hpc-in-a-day/01-01-taking-the-space-shuttle/
+        
+Basic understanding of HPC architectures
+      
+	* hpc-intro 03:35 Working on a cluster https://hpc-carpentry.github.io/hpc-intro/11-cluster/ 
+	* hpc-in-a-day 01:20 Batch systems and schedulers 101 https://psteinb.github.io/hpc-in-a-day/02-01-batch-systems-101/ 
+	* hpc-in-a-day 05:25 Bonus session: Distributing computations among  computers https://psteinb.github.io/hpc-in-a-day/03-04-bonus-mpi-for-pi/ 
+	* EPCC Intro to HPC http://www.archer.ac.uk/training/course-material/2018/03/intro-hw/slides/L04_CPUMemAcc.pdf
+	* EPCC Intro To HPC: http://www.archer.ac.uk/training/course-material/2018/03/intro-hw/slides/L08_HPCArch.pdf
+        
+File systems on HPC systems
+      
+	* hpc-intro 00:40 Moving around and looking at  things https://hpc-carpentry.github.io/hpc-intro/02-navigation/ 
+	* hpc-intro 01:00 Writing and reading files https://hpc-carpentry.github.io/hpc-intro/03-files/ 
+	* hpc-in-a-day 00:50 Navigating files and  directories https://psteinb.github.io/hpc-in-a-day/01-02-filesystems/ 
+	* hpc-in-a-day 02:35 Working with the shared file  system https://psteinb.github.io/hpc-in-a-day/02-03-shared-filesystem/ 
+        
+Modules and Environment
+  
+	* hpc-intro 05:15 Accessing software https://hpc-carpentry.github.io/hpc-intro/13-modules/ 
+        
+The batch system
+      
+	* hpc-intro 04:00 Scheduling jobs https://hpc-carpentry.github.io/hpc-intro/12-schedul
+	* er/ 
+	* hpc-intro 06:40 Using resources effectively https://hpc-carpentry.github.io/hpc-intro/15-resources/ 
+	* hpc-in-a-day 01:20 Batch systems and schedulers 101 https://psteinb.github.io/hpc-in-a-day/02-01-batch-systems-101/ 
+	* hpc-in-a-day 02:05 Working with the scheduler https://psteinb.github.io/hpc-in-a-day/02-02-advanced-job-scheduling/ 
+	* EPCC, Intro to HPC: http://www.archer.ac.uk/training/course-material/2018/03/intro-hw/slides/L09_Batch_Execution.pdf
+        
+Shared system etiquette
+      
+	* hpc-intro 07:05 Using resources effectively https://hpc-carpentry.github.io/hpc-intro/16-responsiblity/ 
+      
+
+re: figures : tikz may work and is plain text- so version controllable, at least somewhat. these example pages may have things that are a good starting point
+
+http://www.texample.net/tikz/examples/area/computer-science/
+http://www.texample.net/tikz/examples/area/networking/
+
+Inkscape is vector graphic and easy to install on any system https://inkscape.org/en/
+Dia is still developed http://dia-installer.de/
+yEd is in Java https://www.yworks.com/products/yed
+Concept maps https://cmap.ihmc.us/
+
+re Buffon's needle:  https://www.smbc-comics.com/comic/math-and-war
