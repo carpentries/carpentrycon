@@ -2,6 +2,9 @@
 
 ## **Carpentry Principles in Undergraduate Peer to Peer Instruction**
 
+[Carpentry Principles in Undergraduate Peer to Peer Instruction](https://drive.google.com/open?id=1KkcUKqy7kYMoLFlpJsuQ9ShgbaVPhjHA)
+
+
 ## Lead(s)
 Josh Quan
 
@@ -16,3 +19,5 @@ joshua.quan@berkeley.edu
  
 ## Abstract
 While the Carpentries provide a range of lessons to an ever-expanding range of audiences, use of Carpentry pedagogical principles in peer to peer education at the undergraduate level has potential to further democratize data science education and empower young data scientists to be experts and facilitators of knowledge in their own discourse communities. This poster will share the experiences of a library undergraduate fellowship program at UC Berkeley Library launched in Spring 2018.
+
+
