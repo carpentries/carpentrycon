@@ -69,7 +69,7 @@ If you find yourself hyperventilating, slow down your breath.)
 * If you are using a laptop, make sure you have everything you need – power cable, adapters for the projector, and so on. 
 Have you got your glasses if you need them for reading?
 No-one wants to watch you stumble through technical glitches. Check out the microphone if there is one and use it. 
-It saves your voice and keeps you audible if you adrenaline goes low. 
+It saves your voice and keeps you audible if your adrenaline levels drop. 
 * Drink water the night before, and before and during your talk. Voices need a LOT of hydration, but pausing to sip will 
 also allow you to take a calm breather during your talk. Don’t clear your throat - this is damaging. If you feel the urge 
 to clear your throat, swallow instead.
