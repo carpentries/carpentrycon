@@ -89,7 +89,7 @@ This helps people focus on the topic.
 
 Architect Mies van der Rohe is famous for saying “Less is More”. In talks this is usually right. 
 Most people go on too long, or provide too much detail. Be short, crisp and succinct. Leave your audience 
-keen to hear more rather than overwhelmed with word and information. 
+keen to hear more rather than overwhelmed with words and information. 
 
 When you are finished, **STOP!** A lot of people don’t know how to stop talking. They keep going until they are interrupted. I always stop with a final “Thank you” or “That’s all I have” so people know I have finished.
 
