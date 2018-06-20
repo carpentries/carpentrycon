@@ -24,7 +24,7 @@ Here are some don’ts.
 
 1) Don’t try to be perfect. 
 
-A lot of people strive for perfection and put a lot of pressure on themselves for this very reason. Perfection is not desirable! It is important to try to be good enough, but if you are obsessing about getting everything perfectly right, you will come across as anxious and uptight instead of relaxed, and this is anxiety-producing for your listeners. Try to SEEM relaxed even if you don’t feel it. If things go wrong, take it in your stride and don’t stress about it. Have a laugh! I do. Perfection is rather an icy and cold divinity – people respond much better to people who appear human and relatable. 
+A lot of people strive for perfection and put a lot of pressure on themselves for this very reason. Perfection is not desirable! It is important to try to be *good enough*, but if you are obsessing about getting everything perfectly right, you will come across as anxious and uptight instead of relaxed, and this is anxiety-producing for your listeners. Try to SEEM relaxed even if you don’t feel it. If things go wrong, take it in your stride and don’t stress about it. Have a laugh! I do. Perfection is rather an icy and cold divinity – people respond much better to people who appear human and relatable. 
 
 2) Don’t apologise for or undercut yourself. 
 
