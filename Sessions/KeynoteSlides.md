@@ -8,5 +8,3 @@ Slides from our keynote speakers and main talks:
 - KEYNOTE-4: It Takes a (Global) Village [Slides will be available soon] by [Anelda van der Walt](https://twitter.com/aneldavdw)
 
 - The State of The Carpentries [[Slides](https://docs.google.com/presentation/d/1HTh3e9DYuYWYkG985KxweWExFnB6ZZWd4iq3htKZpBY/edit?usp=sharing)] Talk by [Tracy Teal](https://twitter.com/tracykteal)
-
-Videos will be made available in coming weeks and links will be added soon.
