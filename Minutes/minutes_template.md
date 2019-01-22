@@ -1,3 +1,5 @@
+DELETE THIS LINE BEFORE UPLOADING THE NOTES: Name your file: `YYYY-MM-DD.md` and save them in the GitHub repo: https://github.com/carpentries/carpentrycon/edit/master/Minutes
+
 ### Date of the meeting: Date
 
 _**Call #1 Time**: 9 am GMT (San Francisco Tue 01:00, Thessaloniki Tue 11:00, Melbourne, Tue 18:00)_
