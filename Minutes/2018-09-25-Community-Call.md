@@ -84,7 +84,7 @@ Connection info:  http://carpentries.zoom.us/j/709356843
   Training managers as well as reaserchers. Hoping people from Europe interested in this too. Have instructors but need a push to take this new places. Lack of knowledge or funds. Need to talk to people who are running workshops, and institutions who are running these events, and connect with each other.
   Thinking a 3 day event. Emphasis on creating or improving materials. Some Bug BBQs or individual sessions on a domain.
 
-- Mark: How did we figure out for CarpentryCon. Started with figuring out length, then put things into a calendar and see what could fit where and what the priorties are. Having a list of goals, and bringing people on board, and thinking about what are the most important things. Also helped with picking the venue. Need breakout rooms, big spaces? Wanted to fill the program type than the topic areas. BOF, workshops, skill building
+- Mark: How did we figure out for CarpentryCon. Started with figuring out length, then put things into a calendar and see what could fit where and what the priorities are. Having a list of goals, and bringing people on board, and thinking about what are the most important things. Also helped with picking the venue. Need breakout rooms, big spaces? Wanted to fill the program type than the topic areas. BOF, workshops, skill building
 
 - Fotis: Basically created the skeleton / placeholder agenda first, and filled in the actual sessions/content after "consulting" with the community as well
 
