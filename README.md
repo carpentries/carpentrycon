@@ -72,6 +72,7 @@ Minutes of past meetings are available [here](minutes).
   - Sarah Stevens
   - Aleks Nenadic
   - Mina Zamani
+  - Mark Laufersweiler
 
 **5. Content development**
 
