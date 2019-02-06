@@ -2,15 +2,12 @@ DELETE THIS LINE BEFORE UPLOADING THE NOTES: Name your file: `YYYY-MM-DD.md` and
 
 ### Date of the meeting: Date
 
-_**Call #1 Time**: 9 am GMT (San Francisco Tue 01:00, Thessaloniki Tue 11:00, Melbourne, Tue 18:00)_
-_[to local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CarpentryCon&iso=20181218T11&p1=1428&ah=1))_
-
-_**Call #2 Time**: 5 pm GMT (San Francisco Tue 09:00, Thessaloniki Tue 19:00, Melbourne, Wed 02:00)_
+_**Call Time**: 5 pm GMT (San Francisco Tue 09:00, Thessaloniki Tue 19:00, Melbourne, Wed 02:00)_
 _[to local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CarpentryCon&iso=20181218T19&p1=1428&ah=1)_
 
 Connection info: https://zoom.us/my/sheraaronhurt
 
-### Attendees (_Call #2_)
+### Attendees
 1. 
 2.
 
@@ -41,12 +38,13 @@ Connection info: https://zoom.us/my/sheraaronhurt
 **General notes**
 
 
-#### Action points
+### Action points
 
   - person name: point 1
   - person name: point 2
 
 ### Next call
 
-Our next call, currently planned for Data, Time
-Please see the connection information on the etherpad: https://pad.carpentries.org/2018carpentrycontaskforce
+Our next call, currently planned for Date, Time
+
+Please see the connection information on the etherpad: https://pad.carpentries.org/2020carpentrycontaskforce
