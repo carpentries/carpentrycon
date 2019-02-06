@@ -29,7 +29,7 @@ Minutes of past meetings are available [here](minutes).
 * Malvika Sharan (Conference Chair)
 * Sher! (The Carepentry Liaison)
 
-#### Members still to decide
+#### Members still to select areas
 
 - Mark Laufersweiler
 - Christina Koch
