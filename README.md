@@ -21,28 +21,75 @@ Right now, we are working on
 All progress on above items is reported here, within this repository.
 
 ### Meetings
-We have occasional [meetings][meetings].  Minutes of past meetings are available [here](minutes).
+Minutes of past meetings are available [here](minutes).
 
 ### Current Task Force Members
-* Fotis Psomopoulos (Co-Chair)
-* Malvika Sharan (Co-Chair)
-* Mark Laufersweiler
-* Mateusz Kuzak (Steering Committee Liaison)
-* Alix Keener
-* Greg Wilson
-* Rayna Harris
-* Jason Williams
-* Tracy Teal
-* Jamie Hadwin
-* Ivo Arrey
-* Jonah Duckles
-* Belinda Weaver
-* Danielle Quinn
+* Fotis Psomopoulos (Conference Chair)
+* Malvika Sharan (Conference Chair)
+* Sher! (The Carepentry Liaison)
+
+#### Areas of Responsibility**
+
+**1. Website and Outreach**
+
+  - Anne Fouilloux (Co-chair)
+  - Aleks Nenadic (Co-chair)
+  - Bianca Peterson
+  - Malvika Sharan
+  - Sarah Stevens
+  - Marco Chiapello
+  - Ana Costa Conrado
+  - Mina Zamani
+
+**2. Communication**
+
+  - Sarah Stevens (Co-chair)
+  - Ouso (Co-chair)
+  - Bianca Peterson 
+  - Malvika Sharan
+  - Sateesh Peri
+  - Mina Zamani
+
+**3. Budget**
+
+  - Silvia Di Giorgio (Co-chair)
+  - Marc Laufersweiler (Co-chair)
+  - Anne Fouilloux
+  - Ouso
+
+**4. Program**
+
+  - Bianca Peterson (Co-chair)
+  - Marc Laufersweiler (Co-chair)
+  - Sateesh Peri (Co-chair)
+  - Marco Chiapello
+  - Silvia Di Giorgio
+  - Sarah Stevens
+  - Aleks Nenadic
+  - Mina Zamani
+
+**5. Content development**
+
+  - Ana Costa Conrado (Co-chair)
+  - Sher! (Co-chair)
+  - Marco Chiapello
+  - Silvia Di Giorgio
+  - Aleks Nenadic
+  - Anne Fouilloux
+ 
+**6. Accessibility**
+
+  - Malvika Sharan (Chair)
+  - Silvia Di Giorgio
+  - Ouso
+  - Mina zamani
 
 ## Useful Links
 
-[meetings](http://pad.software-carpentry.org/2018carpentrycontaskforce)
+[meetings](http://pad.software-carpentry.org/2020carpentrycontaskforce)
 
 [minutes](https://github.com/carpentries/carpentrycon/tree/master/Minutes)
 
 [official website](http://www.carpentrycon.org/)
+
+[Twitter](https://twitter.com/carpentrycon)
