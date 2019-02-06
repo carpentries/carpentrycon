@@ -29,6 +29,11 @@ Minutes of past meetings are available [here](minutes).
 * Malvika Sharan (Conference Chair)
 * Sher! (The Carepentry Liaison)
 
+#### Members still to decide
+
+- Mark Laufersweiler
+- Christina Koch
+
 #### Areas of Responsibility
 
 **1. Website and Outreach**
@@ -61,7 +66,6 @@ Minutes of past meetings are available [here](minutes).
 **4. Program**
 
   - Bianca Peterson (Co-chair)
-  - Marc Laufersweiler (Co-chair)
   - Sateesh Peri (Co-chair)
   - Marco Chiapello
   - Silvia Di Giorgio
