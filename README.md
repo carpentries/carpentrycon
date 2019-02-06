@@ -8,7 +8,7 @@
 - **Networking:** Opportunities will be provided for participants to come together informally to share stories about challenges and successes.
 - **Contributed talks/posters:** There will be at least one session where attendees can share how they have incorporated Carpentry techniques into their own research and teaching, and/or how they have grown their local Carpentry community. This is crucial as presenting will be a requirement if attendees are seeking travel support from their home institution.
 
-## The CarpentryCon Task Force
+## The CarpentryCon Task Force (TF)
 
 The [CarpentryCon Task Force](https://github.com/swcarpentry/board/tree/master/TaskForces/2018-CarpentryCon) has been created within the carpentries to help organize and coordinate the CarpentryCon 2018.
 
@@ -23,7 +23,7 @@ All progress on above items is reported here, within this repository.
 ### Meetings
 Minutes of past meetings are available [here](minutes).
 
-### Current Task Force Members by "Area of Responsibilities"
+### Current TF Members by "Area of Responsibilities"
 
 * Fotis Psomopoulos (TF Coordinator)
 * Malvika Sharan (TF Coordinator)
