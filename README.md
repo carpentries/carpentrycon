@@ -23,7 +23,8 @@ All progress on above items is reported here, within this repository.
 ### Meetings
 Minutes of past meetings are available [here](minutes).
 
-### Current Task Force Members
+### Current Task Force Members by "Area of Responsibilities"
+
 * Fotis Psomopoulos (Conference Chair)
 * Malvika Sharan (Conference Chair)
 * Sher! (The Carepentry Liaison)
