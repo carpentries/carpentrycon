@@ -25,9 +25,9 @@ Minutes of past meetings are available [here](minutes).
 
 ### Current Task Force Members by "Area of Responsibilities"
 
-* Fotis Psomopoulos (Conference Chair)
-* Malvika Sharan (Conference Chair)
-* Sher! (The Carepentry Liaison)
+* Fotis Psomopoulos (TF Coordinator)
+* Malvika Sharan (TF Coordinator)
+* Sher! (The Carepentry Liaison for TF)
 
 #### Members still to select areas
 
