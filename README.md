@@ -28,7 +28,7 @@ Minutes of past meetings are available [here](minutes).
 * Malvika Sharan (Conference Chair)
 * Sher! (The Carepentry Liaison)
 
-#### Areas of Responsibility**
+#### Areas of Responsibility
 
 **1. Website and Outreach**
 
