@@ -33,7 +33,7 @@ Minutes of past meetings are available [here](minutes).
 * Malvika Sharan
 * Mark Laufersweiler
 
-#### The Carpntries Liaison
+#### The Carpentries Liaison
 
 * Sher!
 
