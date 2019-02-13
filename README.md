@@ -1,7 +1,5 @@
 # [CarpentryCon](http://www.carpentrycon.org/)
 
-*Building Locally, Connecting Globally*
-
 ## Purpose and Scope
 - **Community Building:** bring together members of the Carpentry community, including instructors, partners, advocates, and staff, together with people sharing similar interests from around the globe. We will have a “come and learn” format that is different from most conferences.
 - **Sharing Knowledge:** The event will include sessions on teaching methods, curriculum development, community organization, and leadership skills. (As noted in the preamble, the final list of sessions will be determined by the program committee in consultation with the community, balancing “who wants to learn what?” with “who’s willing to teach what?”.)
