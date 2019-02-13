@@ -67,7 +67,7 @@ Other members of this team are Marco Chiapello, Silvia Di Giorgio, Sarah Stevens
   
 Other members of this team are Silvia Di Giorgio, Aleks Nenadic and Anne Fouilloux.
  
-*6. Accessibility*
+*6. Accessibility and Code of Conduct*
 
   - Malvika Sharan (taking this role as a Code of Conduct Committee member)
  
