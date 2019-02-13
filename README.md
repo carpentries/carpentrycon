@@ -33,35 +33,35 @@ Minutes of past meetings are available [here](minutes).
 
 #### Area Chairs and members
 
-**1. Website and Outreach**
+*1. Website and Outreach*
 
   - Anne Fouilloux
   - Aleks Nenadic
  
  Other members of this team are Bianca Peterson, Sarah Stevens, Marco Chiapello, Ana Costa Conrado and Mina Zamani.
 
-**2. Communication**
+*2. Communication*
 
   - Sarah Stevens
   - Ouso
   
 Other members of this team are  Bianca Peterson, Sateesh Peri and Mina Zamani.
 
-**3. Budget**
+*3. Budget*
 
   - Silvia Di Giorgio
   - Sher! (will communicate internally with The Carpentries as a liaison)
 
 Other members of this team are Anne Fouilloux and Ouso.
 
-**4. Program**
+*4. Program*
 
   - Bianca Peterson
   - Sateesh Peri
 
 Other members of this team are Marco Chiapello, Silvia Di Giorgio, Sarah Stevens, Aleks Nenadic and Mina Zamani.
 
-**5. Content development**
+*5. Content development*
 
   - Ana Costa Conrado
   - Marco Chiapello
@@ -69,13 +69,13 @@ Other members of this team are Marco Chiapello, Silvia Di Giorgio, Sarah Stevens
   
 Other members of this team are Silvia Di Giorgio, Aleks Nenadic and Anne Fouilloux.
  
-**6. Accessibility**
+*6. Accessibility*
 
   - Malvika Sharan (taking this role as a Code of Conduct Committee member)
  
 Other members of this team are Silvia Di Giorgio, Ouso and Mina Zamani.
 
-#### Members still to select area
+*Members still to select area*
 
 - Christina Koch
 
