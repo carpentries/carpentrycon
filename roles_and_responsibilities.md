@@ -35,7 +35,7 @@ The TaskForce includes the CarpentryCon liaison, coordinators, area-chairs and l
 
 ### Code of Conduct (CoC) Duty Officer
 
-The carpentry CoC will apply to this conference including all the social events organized under this conference. The taskForce will appoint a duty officer in order to establish and uphold the Carpentries CoC at the conference. They will act as a point of contact for the attendees, answer any queries and report related to CoC, and address any situation regarding CoC violation. If a member of the Carpentries Code of Conduct committee plans to attend the conference, they will be requested by the TaskForce to take this role. Any other member from the TaskForce can take this role by contacting the CoC committee and receiving all the required information to serve at this role.
+The carpentry CoC will apply to this conference including all the social events organized under this conference. The TaskForce will appoint a duty officer in order to establish and uphold the Carpentries CoC at the conference. They will act as a point of contact for the attendees, answer any queries and report related to CoC, and address any situation regarding CoC violation. If a member of the Carpentries Code of Conduct committee plans to attend the conference, they will be requested by the TaskForce to take this role. Any other member from the TaskForce can take this role by contacting the CoC committee and receiving all the required information to serve at this role.
 
 ### CarpentryCon Volunteers
 
