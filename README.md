@@ -23,72 +23,66 @@ All progress on above items is reported here, within this repository.
 ### Meetings
 Minutes of past meetings are available [here](minutes).
 
-### Current TF Members by "Area of Responsibilities"
+### Current TF Members
+
+#### Coordinators 
+
+*(Chairs and members of previous CarpentryCon will act as point of reference and will keep the team on track)*
 
 * Fotis Psomopoulos (TF Coordinator)
 * Malvika Sharan (TF Coordinator)
-* Sher! (The Carepentry Liaison for TF)
+* Mark Laufersweiler (TF coordinator)
 
-#### Members still to select areas
+#### The Carpntries Liaison
 
-- Mark Laufersweiler
-- Christina Koch
+* Sher!
 
-#### Areas of Responsibility
+#### TF members by areas of responsibility
 
 **1. Website and Outreach**
 
   - Anne Fouilloux (Co-chair)
   - Aleks Nenadic (Co-chair)
-  - Bianca Peterson
-  - Malvika Sharan
-  - Sarah Stevens
-  - Marco Chiapello
-  - Ana Costa Conrado
-  - Mina Zamani
+ 
+ Other members of this team are Bianca Peterson, Sarah Stevens, Marco Chiapello, Ana Costa Conrado and Mina Zamani.
 
 **2. Communication**
 
   - Sarah Stevens (Co-chair)
   - Ouso (Co-chair)
-  - Bianca Peterson 
-  - Malvika Sharan
-  - Sateesh Peri
-  - Mina Zamani
+  
+Other members of this team are  Bianca Peterson, Sateesh Peri and Mina Zamani.
 
 **3. Budget**
 
   - Silvia Di Giorgio (Co-chair)
   - Marc Laufersweiler (Co-chair)
-  - Anne Fouilloux
-  - Ouso
+
+Other members of this team are Anne Fouilloux and Ouso.
 
 **4. Program**
 
   - Bianca Peterson (Co-chair)
   - Sateesh Peri (Co-chair)
-  - Marco Chiapello
-  - Silvia Di Giorgio
-  - Sarah Stevens
-  - Aleks Nenadic
-  - Mina Zamani
-  - Mark Laufersweiler
+
+Other members of this team are Marco Chiapello, Silvia Di Giorgio, Sarah Stevens, Aleks Nenadic and Mina Zamani.
 
 **5. Content development**
 
   - Ana Costa Conrado (Co-chair)
   - Sher! (Co-chair)
-  - Marco Chiapello
-  - Silvia Di Giorgio
-  - Aleks Nenadic
-  - Anne Fouilloux
+  
+Other members of this team are Marco Chiapello, Silvia Di Giorgio, Aleks Nenadic and Anne Fouilloux.
  
 **6. Accessibility**
 
   - Malvika Sharan (Chair)
-  - Silvia Di Giorgio
-  - Ouso
-  - Mina zamani
+ 
+Other members of this team are Silvia Di Giorgio, Ouso and Mina Zamani.
+
+#### Members still to select area
+
+- Christina Koch
 
 ## Useful Links
 
