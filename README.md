@@ -25,7 +25,7 @@ Minutes of past meetings are available [here](minutes).
 
 #### Coordinators 
 
-*(Chairs and members of previous CarpentryCon will act as point of reference and will keep the team on track)*
+*(Chairs and members of previous CarpentryCon will act as point of reference and will keep the work of TF on track)*
 
 * Fotis Psomopoulos
 * Malvika Sharan
