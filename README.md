@@ -10,20 +10,12 @@
 
 ## The CarpentryCon Task Force (TF)
 
-The [CarpentryCon Task Force](https://github.com/swcarpentry/board/tree/master/TaskForces/2018-CarpentryCon) has been created within the carpentries to help organize and coordinate the CarpentryCon 2018.
+The CarpentryCon Task Force has been created within the carpentries to help organize and coordinate the CarpentryCon. All the roles and responsibilities of the TF member is described [here](https://github.com/carpentries/carpentrycon/blob/master/roles_and_responsibilities.md).
 
-### What members of the task force do
-Right now, we are working on
-- drafting the CarpentryCon program
-- recruiting local and global participants to help organize and promote the event
-- getting feedback and estimating the attendance
-
-All progress on above items is reported here, within this repository.
+All the plans, progress and resources of TF are reported within this repository.
 
 ### Meetings
 Minutes of past meetings are available [here](minutes).
-
-### Current TF Members
 
 #### Coordinators 
 
@@ -33,11 +25,11 @@ Minutes of past meetings are available [here](minutes).
 * Malvika Sharan
 * Mark Laufersweiler
 
-#### The Carpentries Liaison
+#### Liaison
 
 * Sher!
 
-#### TF members by areas of responsibility
+#### Area Chairs and members
 
 **1. Website and Outreach**
 
