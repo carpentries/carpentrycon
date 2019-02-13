@@ -41,42 +41,42 @@ Minutes of past meetings are available [here](minutes).
 
 **1. Website and Outreach**
 
-  - Anne Fouilloux (Co-chair)
-  - Aleks Nenadic (Co-chair)
+  - Anne Fouilloux
+  - Aleks Nenadic
  
  Other members of this team are Bianca Peterson, Sarah Stevens, Marco Chiapello, Ana Costa Conrado and Mina Zamani.
 
 **2. Communication**
 
-  - Sarah Stevens (Co-chair)
-  - Ouso (Co-chair)
+  - Sarah Stevens
+  - Ouso
   
 Other members of this team are  Bianca Peterson, Sateesh Peri and Mina Zamani.
 
 **3. Budget**
 
-  - Silvia Di Giorgio (Co-chair)
-  - Marc Laufersweiler (Co-chair)
+  - Silvia Di Giorgio
+  - Marc Laufersweiler
 
 Other members of this team are Anne Fouilloux and Ouso.
 
 **4. Program**
 
-  - Bianca Peterson (Co-chair)
-  - Sateesh Peri (Co-chair)
+  - Bianca Peterson
+  - Sateesh Peri
 
 Other members of this team are Marco Chiapello, Silvia Di Giorgio, Sarah Stevens, Aleks Nenadic and Mina Zamani.
 
 **5. Content development**
 
-  - Ana Costa Conrado (Co-chair)
-  - Sher! (Co-chair)
+  - Ana Costa Conrado
+  - Sher!
   
 Other members of this team are Marco Chiapello, Silvia Di Giorgio, Aleks Nenadic and Anne Fouilloux.
  
 **6. Accessibility**
 
-  - Malvika Sharan (Chair)
+  - Malvika Sharan (taking this role as a Code of Conduct Committee member)
  
 Other members of this team are Silvia Di Giorgio, Ouso and Mina Zamani.
 
