@@ -29,9 +29,9 @@ Minutes of past meetings are available [here](minutes).
 
 *(Chairs and members of previous CarpentryCon will act as point of reference and will keep the team on track)*
 
-* Fotis Psomopoulos (TF Coordinator)
-* Malvika Sharan (TF Coordinator)
-* Mark Laufersweiler (TF coordinator)
+* Fotis Psomopoulos
+* Malvika Sharan
+* Mark Laufersweiler
 
 #### The Carpntries Liaison
 
