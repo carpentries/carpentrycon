@@ -56,7 +56,7 @@ Other members of this team are  Bianca Peterson, Sateesh Peri and Mina Zamani.
 **3. Budget**
 
   - Silvia Di Giorgio
-  - Marc Laufersweiler
+  - Sher! (will communicate internally with The Carpentries as a liaison)
 
 Other members of this team are Anne Fouilloux and Ouso.
 
