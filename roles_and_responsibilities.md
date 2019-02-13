@@ -1,7 +1,6 @@
 ## Your Role in CarpentryCon
 
 *- Post by Malvika Sharan*
-*- Contributions: (please send a pull request and add your name)*
 
 [The Carpentries](https://carpentries.org/) teaches foundational computational, coding, and data science skills to researchers worldwide with the help of its **diverse and global community** of volunteer Instructors, helpers, Trainers, Maintainers, champions, member organizations, supporters, and staffs. 
 
