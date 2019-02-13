@@ -39,7 +39,7 @@ The carpentry CoC will apply to this conference including all the social events 
 
 ### CarpentryCon Volunteers
 
-Any member of the community who is not already involved in one of the aforementioned organization roles can choose to become conference volunteers. You can see a few [responsibilities listed here (from 2018)](https://github.com/carpentries/carpentrycon/edit/master/CarpentryCon-2018/volunteers.md) that you can take up closer to the event or during the event.
+Members of the community who are not already involved in one of the aforementioned organization roles can choose to become conference volunteers. You can see a few [responsibilities listed here (from 2018)](https://github.com/carpentries/carpentrycon/edit/master/CarpentryCon-2018/volunteers.md) that you can take up closer to the event or during the event.
 
 ### Welcome Team
 
