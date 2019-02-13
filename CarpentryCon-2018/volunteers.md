@@ -1,8 +1,8 @@
-## Guidelines for Volunteers
+## Guidelines for Volunteers for CarpentryCon 2018
 
-Please contact Malvika Sharan (malvika.sharan@embl.de), SherAaron Hurt or Danielle Quinn from the [CarpentryCon Taskforce](https://github.com/carpentries/carpentrycon/blob/master/Welcome_Team.md).
+Please contact Malvika, Sher! or Danielle to become a CarpentryCon volunteer [CarpentryCon Taskforce](https://github.com/carpentries/carpentrycon/blob/master/Welcome_Team.md).
 
-### Resources you should check
+### Resources you must familiarize yourself with
 
 - [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
 - [CarpentryCon Cheetsheet](https://github.com/carpentries/carpentrycon/blob/master/CarpentryCon_Cheatsheet.md)
