@@ -1,20 +1,20 @@
 ## Guidelines for Volunteers for CarpentryCon 2018
 
-Please contact Malvika, Sher! or Danielle to become a CarpentryCon volunteer [CarpentryCon Taskforce](https://github.com/carpentries/carpentrycon/blob/master/Welcome_Team.md).
+Please contact Malvika, Sher! or Danielle to become a CarpentryCon volunteer [CarpentryCon Taskforce](./Welcome_Team.md).
 
 ### Resources you must familiarize yourself with
 
 - [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
-- [CarpentryCon Cheetsheet](https://github.com/carpentries/carpentrycon/blob/master/CarpentryCon_Cheatsheet.md)
-- [Program handout](https://github.com/carpentries/carpentrycon/blob/master/program/CarpentryCon%202018%20Program.pdf)
+- [CarpentryCon Cheetsheet](./CarpentryCon_Cheatsheet.md)
+- [Program handout](./program/CarpentryCon%202018%20Program.pdf)
 - [Accessibility Information](https://github.com/carpentries/carpentrycon/blob/master/venue.md)
-- Members of the Taskforce and Code of Conduct [committee members](https://github.com/carpentries/carpentrycon/blob/master/Welcome_Team.md) - to cantact for any question or in case of emergency
+- Members of the Taskforce and Code of Conduct [committee members](./Welcome_Team.md) - to cantact for any question or in case of emergency
 
 
 ### Sign-up to Volunteer at the conference
 
 - Add your name to this [spreadsheet](https://docs.google.com/spreadsheets/d/1zs8rV8wUAUEN_-NnbgBjFmS3H-FjyvHoVTv9Cf3JVVo/edit#gid=0) and select the tasks of your interests (see the responsibilties below)
-- Introduce yourself to at least one member of the [Welcome Team](https://github.com/carpentries/carpentrycon/blob/master/Welcome_Team.md) during registration so that they can help you select a volunteer task
+- Introduce yourself to at least one member of the [Welcome Team](./Welcome_Team.md) during registration so that they can help you select a volunteer task
 
 ### Volunteer Responsibilities
 
