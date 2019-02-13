@@ -70,9 +70,10 @@ Other members of this team are Marco Chiapello, Silvia Di Giorgio, Sarah Stevens
 **5. Content development**
 
   - Ana Costa Conrado
-  - Sher!
+  - Marco Chiapello
+  - Sher! (will approve final content as a liaison)
   
-Other members of this team are Marco Chiapello, Silvia Di Giorgio, Aleks Nenadic and Anne Fouilloux.
+Other members of this team are Silvia Di Giorgio, Aleks Nenadic and Anne Fouilloux.
  
 **6. Accessibility**
 
