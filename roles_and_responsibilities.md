@@ -11,7 +11,7 @@ Each member of The Carpentries plays an important role in making this event happ
 
 ### The Carpentries Organization and Staff
 
-The Carpentries organization supports and values the importance of bringing its members together at the in-person conference of CarpentryCon. The Executive Director had contributed significantly to the planning of its inaugural event and have constantly provided support to both the TaskForce members and the participants. The Staff members have generously offered us their expertise whenever the members of the TaskForce members and participants have sought their guidance.
+The Carpentries organization supports and values the importance of bringing its members together at the in-person conference of CarpentryCon. The Executive Director had contributed significantly to the planning of its inaugural event and have constantly provided support to both the TaskForce members and the participants. The Staff members have generously offered their expertise whenever the members of the TaskForce members and participants have sought their guidance.
 
 ### CarpentryCon Liaison
 
