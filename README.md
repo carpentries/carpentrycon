@@ -17,6 +17,12 @@ All the plans, progress and resources of TF are reported within this repository.
 ### Meetings
 Minutes of past meetings are available [here](minutes).
 
+### Members of current TF
+
+#### Liaison
+
+* Sher!
+
 #### Coordinators 
 
 *(Chairs and members of previous CarpentryCon will act as point of reference and will keep the team on track)*
@@ -24,10 +30,6 @@ Minutes of past meetings are available [here](minutes).
 * Fotis Psomopoulos
 * Malvika Sharan
 * Mark Laufersweiler
-
-#### Liaison
-
-* Sher!
 
 #### Area Chairs and members
 
