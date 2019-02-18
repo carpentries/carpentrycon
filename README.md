@@ -67,15 +67,15 @@ Other members of this team are Marco Chiapello, Silvia Di Giorgio, Sarah Stevens
   
 Other members of this team are Silvia Di Giorgio, Aleks Nenadic and Anne Fouilloux.
  
-*6. Accessibility and Code of Conduct*
+*6. Accessibility*
 
-  - Malvika Sharan (taking this role as a Code of Conduct Committee member)
+  - Christina Koch (placeholder - ask for confirmation)
  
 Other members of this team are Silvia Di Giorgio, Ouso and Mina Zamani.
 
-*Members still to select area*
+#### Code of Conduct Duty officer
 
-- Christina Koch
+- Malvika Sharan (taking this role as a Code of Conduct Committee member)
 
 ## Useful Links
 
