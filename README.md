@@ -21,7 +21,7 @@ Minutes of past meetings are available [here](minutes).
 
 * Sher!
 
-#### Coordinators 
+#### Coordinators/Advisors 
 
 *(Chairs and members of previous CarpentryCon will act as point of reference and will keep the work of TF on track)*
 
