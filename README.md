@@ -19,7 +19,8 @@ Minutes of past meetings are available [here](minutes).
 
 #### Liaison
 
-* Sher!
+* SherAaron Hurt (Sher!)
+* Serah Njambi Rono
 
 #### Coordinators/Advisors 
 
@@ -49,7 +50,7 @@ Other members of this team are  Bianca Peterson, Sateesh Peri and Mina Zamani.
 
   - Silvia Di Giorgio
   - Jessica Upani (confirm?)
-  - Sher! (will communicate internally with The Carpentries as a liaison)
+  - Serah (will communicate internally with The Carpentries as a liaison)
 
 Other members of this team are Anne Fouilloux and Ouso.
 
