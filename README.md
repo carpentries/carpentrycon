@@ -44,12 +44,12 @@ Minutes of past meetings are available [here](minutes).
   - Sarah Stevens
   - Ouso
   
-Other members of this team are  Bianca Peterson, Sateesh Peri and Mina Zamani.
+Other members of this team are  Bianca Peterson, Sateesh Peri, Mina Zamani and Gabriel Salubi.
 
 *3. Budget*
 
   - Silvia Di Giorgio
-  - Jessica Upani (confirm?)
+  - Jessica Upani
   - Serah (will communicate internally with The Carpentries as a liaison)
 
 Other members of this team are Anne Fouilloux and Ouso.
@@ -59,7 +59,7 @@ Other members of this team are Anne Fouilloux and Ouso.
   - Bianca Peterson
   - Sateesh Peri
 
-Other members of this team are Marco Chiapello, Silvia Di Giorgio, Sarah Stevens, Aleks Nenadic and Mina Zamani.
+Other members of this team are Marco Chiapello, Silvia Di Giorgio, Sarah Stevens, Aleks Nenadic, Mina Zamani and Jessica Upani.
 
 *5. Content development*
 
@@ -72,7 +72,7 @@ Other members of this team are Silvia Di Giorgio, Aleks Nenadic and Anne Fouillo
 *6. Accessibility*
 
   - Christina Koch
-  - Gabriel Salubi (confirm?)
+  - Gabriel Salubi
  
 Other members of this team are Silvia Di Giorgio, Ouso and Mina Zamani.
 
