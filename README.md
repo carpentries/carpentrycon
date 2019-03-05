@@ -48,6 +48,7 @@ Other members of this team are  Bianca Peterson, Sateesh Peri and Mina Zamani.
 *3. Budget*
 
   - Silvia Di Giorgio
+  - Jessica Upani (confirm?)
   - Sher! (will communicate internally with The Carpentries as a liaison)
 
 Other members of this team are Anne Fouilloux and Ouso.
@@ -69,7 +70,8 @@ Other members of this team are Silvia Di Giorgio, Aleks Nenadic and Anne Fouillo
  
 *6. Accessibility*
 
-  - Christina Koch (placeholder - ask for confirmation)
+  - Christina Koch
+  - Gabriel Salubi (confirm?)
  
 Other members of this team are Silvia Di Giorgio, Ouso and Mina Zamani.
 
