@@ -19,9 +19,10 @@ Minutes of past meetings are available [here](minutes).
 
 #### Liaison
 
-* Sher!
+* SherAaron Hurt (Sher!)
+* Serah Njambi Rono
 
-#### Coordinators 
+#### Coordinators/Advisors 
 
 *(Chairs and members of previous CarpentryCon will act as point of reference and will keep the work of TF on track)*
 
@@ -43,12 +44,13 @@ Minutes of past meetings are available [here](minutes).
   - Sarah Stevens
   - Ouso
   
-Other members of this team are  Bianca Peterson, Sateesh Peri and Mina Zamani.
+Other members of this team are  Bianca Peterson, Sateesh Peri, Mina Zamani and Gabriel Salubi.
 
 *3. Budget*
 
   - Silvia Di Giorgio
-  - Sher! (will communicate internally with The Carpentries as a liaison)
+  - Jessica Upani
+  - Serah (will communicate internally with The Carpentries as a liaison)
 
 Other members of this team are Anne Fouilloux and Ouso.
 
@@ -57,7 +59,7 @@ Other members of this team are Anne Fouilloux and Ouso.
   - Bianca Peterson
   - Sateesh Peri
 
-Other members of this team are Marco Chiapello, Silvia Di Giorgio, Sarah Stevens, Aleks Nenadic and Mina Zamani.
+Other members of this team are Marco Chiapello, Silvia Di Giorgio, Sarah Stevens, Aleks Nenadic, Mina Zamani and Jessica Upani.
 
 *5. Content development*
 
@@ -67,15 +69,16 @@ Other members of this team are Marco Chiapello, Silvia Di Giorgio, Sarah Stevens
   
 Other members of this team are Silvia Di Giorgio, Aleks Nenadic and Anne Fouilloux.
  
-*6. Accessibility and Code of Conduct*
+*6. Accessibility*
 
-  - Malvika Sharan (taking this role as a Code of Conduct Committee member)
+  - Christina Koch
+  - Gabriel Salubi
  
 Other members of this team are Silvia Di Giorgio, Ouso and Mina Zamani.
 
-*Members still to select area*
+#### Code of Conduct Duty officer
 
-- Christina Koch
+- Malvika Sharan (taking this role as a Code of Conduct Committee member)
 
 ## Useful Links
 
