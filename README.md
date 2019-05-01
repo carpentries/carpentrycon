@@ -29,6 +29,7 @@ Minutes of past meetings are available [here](minutes).
 * Fotis Psomopoulos
 * Malvika Sharan
 * Mark Laufersweiler
+* Danielle Quinn
 
 #### Area Chairs and members
 
