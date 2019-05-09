@@ -54,7 +54,7 @@ If you believe someone is violating the Code of Conduct, we ask that you report 
 
 #### Childcare
 
-Childcare has been arranged in the [Dryden St Nursery](https://dryden-street-nursery.co.uk/). The cost per day is £55.35 per child up to the age of 5. The child care request had been made for upto 4 toddlers for this event, so please let the organiser know if you can’t secure a place. The reservation can be made by emailing (Enquiries@bertramuk.com) or calling the service provider (+44 (0)161 272 7121). More information about the logistics at the venue location will be added as soon as they are available to the organisers.
+If you are traveling with infants and children, please contact the conference chair, Aleksandra Nenadic (a.nenadic@manchester.ac.uk) for information on the various resources that are available for childcare and planning your participation at the event with your children. 
 
 #### CarpentryConnect
 
