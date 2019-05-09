@@ -94,13 +94,11 @@ In case of emergency, please contact the Welcome Team/organisers via phone **XX*
 
 Here is a list of few other emergency contacts:
 - Manchester Taxi service: +44 161 270 8701 (Uber is also available in the city)
-- Emergency number: **999**
-- Non-emergency number: **101**
-- Ambulance and Emergency Services: +44 (0)161 276 1234
-- [Manchester Royal Infirmary (MRI) Accidents and Emergency (A & E) Department](https://www.nhs.uk/Services/hospitals/Services/Service/DefaultView.aspx?id=324943 )
-- Nearest Hospital: +44 (0)161 276 1234
-- [Manchester Royal Infirmary](https://mft.nhs.uk/mri/), Oxford Road, Manchester, M13 9WL
-
+- Emergency number: **999** (this is the main emergency number for police, ambulance, fire brigade, coastguard, etc.)
+- Non-emergency police number: **101**
+- Non-emergency medical number: **111**
+- Nearest Ambulance and Emergency Services: [Manchester Royal Infirmary (MRI) Accidents and Emergency (A & E) Department](https://www.nhs.uk/Services/hospitals/Services/Service/DefaultView.aspx?id=324943), +44 (0)161 276 1234 (the best thing to do if you require an ambulance is to ring **999**)
+- Nearest Hospital: [Manchester Royal Infirmary](https://mft.nhs.uk/mri/), Oxford Road, Manchester, M13 9WL, +44 (0)161 276 1234
 - Other mode of contact for Police: https://www.gmp.police.uk/contact/af/contact-us/
 - Nearest pharmacy: 
 - [Pharmacy & Chemists close to The Studio, Northern Quarter](https://www.google.com/maps/search/pharmacy/@53.4829293,-2.2355877,17z/data=!3m1!4b1!4m8!2m7!3m6!1spharmacy!2sthestudio...,+51+Lever+St,+Manchester+M1+1FN!3s0x487bb1b94d472d93:0xea0f644b32333902!4m2!1d-2.2333829!2d53.4829198), Superdrug, 7-9 Piccadilly, Northern Quarter, Phone: +44 (0) 161 834 6091
