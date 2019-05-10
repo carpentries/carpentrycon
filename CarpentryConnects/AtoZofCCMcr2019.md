@@ -18,11 +18,11 @@ We are looking forward to meeting you at the CarpentryConnect 2019 in Manchester
 
 The conference is organised by the [Software Sustainability Institute (SSI)](https://software.ac.uk) and hosted at [The Studio Manchester](http://studiovenues.co.uk/venues/manchester) on 25th and 26th of June. On 27th June the workshop will take place in the [Kilburn Building](http://www.cs.manchester.ac.uk/about-us/find-us/) at the School of Computer Science (University of Manchester).
 
-When you arrive at The Studio Manchester, you can locate the registration/information desk at the conference site. Please collect your name tag and relevant information at the desk, which will give you access to the lecture hall and breakout rooms. Please take a look at this [site map](link of the sitemap) to locate different rooms at the venue. Do not hesitate to reach out to the organisers during the conference for any query or concern. The designated Welcome Team of organisers and volunteers could be recognized by their T-shirts who will be very happy to provide you with any additional support and address any query you may have. The locations are wheelchair accessible and the access guides are available [here](https://www.accessable.co.uk/organisations/the-university-of-manchester/).
+When you arrive at The Studio Manchester, you can locate the registration/information desk at the conference site. Please collect your name tag and relevant information at the desk, which will give you access to the lecture hall and breakout rooms. Please take a look at this [site map](link of the sitemap) to locate different rooms at the venue. Do not hesitate to reach out to the organisers during the conference for any query or concern. The designated Welcome Team of organisers and volunteers could be recognized by their T-shirts (with CCMcr2019 logo) who will be very happy to provide you with any additional support and address any query you may have. The locations are wheelchair accessible and the access guides are available [here](https://www.accessable.co.uk/organisations/the-university-of-manchester/).
 
 #### Accommodation
 
-We have listed all the [accommodation options](https://software.ac.uk/ccmcr19/accommodation) on the conference page. You must make sure that you have made arrangements for your accommodation. For example, you can use one of these providers: [Airbnb](https://www.airbnb.com/s/Manchester--NH/homes?adults=1&children=0&checkin=2019-06-24&checkout=2019-06-28&place_id=ChIJo2xmaNZO4okReXE1H0YyBGs&refinement_paths%5B%5D=%2Fhomes&allow_override%5B%5D=&s_tag=gZMo7cbp), [booking.com](https://bit.ly/2X6hgFT), [hotels.com](https://www.hotels.com/search.do?resolved-location=CITY%3A544578%3AUNKNOWN%3AUNKNOWN&destination-id=544578&q-destination=Manchester,%20England,%20United%20Kingdom&q-check-in=2019-06-24&q-check-out=2019-06-28&q-rooms=1&q-room-0-adults=1&q-room-0-children=0). The corresponding accommodation provider will give you the required information related to accessibility and availability.
+We have listed all the [accommodation options](https://software.ac.uk/ccmcr19/accommodation) on the conference page. Please make sure that you have made arrangements for your accommodation. You can also use one of these services: [Airbnb](https://www.airbnb.com/s/Manchester--NH/homes?adults=1&children=0&checkin=2019-06-24&checkout=2019-06-28&place_id=ChIJo2xmaNZO4okReXE1H0YyBGs&refinement_paths%5B%5D=%2Fhomes&allow_override%5B%5D=&s_tag=gZMo7cbp), [booking.com](https://bit.ly/2X6hgFT), [hotels.com](https://www.hotels.com/search.do?resolved-location=CITY%3A544578%3AUNKNOWN%3AUNKNOWN&destination-id=544578&q-destination=Manchester,%20England,%20United%20Kingdom&q-check-in=2019-06-24&q-check-out=2019-06-28&q-rooms=1&q-room-0-adults=1&q-room-0-children=0). The corresponding accommodation provider will give you the required information related to accessibility and availability.
 
 #### Allies
 
@@ -90,7 +90,7 @@ Image by: Jason Leung @ninjason [on Unsplash](https://unsplash.com/photos/N2JUQt
 
 #### Emergency
 
-In case of emergency, please contact the Welcome Team/organisers via phone **XX** (will be active only during the conference), email (XX) or [slack](https://ccmcr19.slack.com).
+In case of emergency, please contact the Welcome Team/organisers via phone **+44 (0) 7850 895 256** (will be active only during the conference), email([ccmcr19@googlegroups.com](mailto:ccmcr19@googlegroups.com)) or [slack](https://ccmcr19.slack.com).
 
 Here is a list of few other emergency contacts:
 - Manchester Taxi service: +44 161 270 8701 (Uber is also available in the city)
@@ -99,11 +99,11 @@ Here is a list of few other emergency contacts:
 - Non-emergency medical number: **111**
 - Nearest Ambulance and Emergency Services: [Manchester Royal Infirmary (MRI) Accidents and Emergency (A & E) Department](https://www.nhs.uk/Services/hospitals/Services/Service/DefaultView.aspx?id=324943), +44 (0)161 276 1234 (the best thing to do if you require an ambulance is to ring **999**)
 - Nearest Hospital: [Manchester Royal Infirmary](https://mft.nhs.uk/mri/), Oxford Road, Manchester, M13 9WL, +44 (0)161 276 1234
-- Other mode of contact for Police: https://www.gmp.police.uk/contact/af/contact-us/
+- Other ways to contact Police: https://www.gmp.police.uk/contact/af/contact-us/
 - Nearest pharmacy: 
-- [Pharmacy & Chemists close to The Studio, Northern Quarter](https://www.google.com/maps/search/pharmacy/@53.4829293,-2.2355877,17z/data=!3m1!4b1!4m8!2m7!3m6!1spharmacy!2sthestudio...,+51+Lever+St,+Manchester+M1+1FN!3s0x487bb1b94d472d93:0xea0f644b32333902!4m2!1d-2.2333829!2d53.4829198), Superdrug, 7-9 Piccadilly, Northern Quarter, Phone: +44 (0) 161 834 6091
-- [Pharmacy & Chemists close to University of Manchester](https://www.google.com/maps/search/pharmacy/@53.4670861,-2.2429677,15z/data=!3m1!4b1!4m8!2m7!3m6!1spharmacy!2sKilburn+Building,+Kilburn+Building+University+of+Manchester,+Oxford+Rd,+Manchester+M13+9PL!3s0x487bb192808a387b:0x9a2896298908a5f2!4m2!1d-2.2341808!2d53.4670673), Faith Pharmacy, 59 Booth St West, Manchester M15 6PQ, Phone: +44 (0) 161 232 8044
--Pharmacies with basic supplies are also available is various supermarkets around the city, e.g. Boots, Tesco and Sainsbury’s
+  - [Pharmacy & Chemists close to The Studio, Northern Quarter](https://www.google.com/maps/search/pharmacy/@53.4829293,-2.2355877,17z/data=!3m1!4b1!4m8!2m7!3m6!1spharmacy!2sthestudio...,+51+Lever+St,+Manchester+M1+1FN!3s0x487bb1b94d472d93:0xea0f644b32333902!4m2!1d-2.2333829!2d53.4829198), Superdrug, 7-9 Piccadilly, Northern Quarter, Phone: +44 (0) 161 834 6091
+  - [Pharmacy & Chemists close to University of Manchester](https://www.google.com/maps/search/pharmacy/@53.4670861,-2.2429677,15z/data=!3m1!4b1!4m8!2m7!3m6!1spharmacy!2sKilburn+Building,+Kilburn+Building+University+of+Manchester,+Oxford+Rd,+Manchester+M13+9PL!3s0x487bb192808a387b:0x9a2896298908a5f2!4m2!1d-2.2341808!2d53.4670673), Faith Pharmacy, 59 Booth St West, Manchester M15 6PQ, Phone: +44 (0) 161 232 8044
+  -Pharmacies with basic supplies are also available is various supermarkets around the city, e.g. Boots, Tesco and Sainsbury’s
 
 #### Etherpads
 
@@ -125,11 +125,12 @@ We will be unable to offer individual spaces for the non-sponsoring exhibitors (
 
 #### Fitness
 
-If you are in the city, you can check the [running trails](https://www.plotaroute.com/routes/running/popular/1?Locality=Manchester) to get your daily dose of fitness activity. You can also take a [sightseeing tour](LINK) offered by our organiser NAME. Find more detail [here](LINK).
+If you are in the city, you can check the [running trails](https://www.plotaroute.com/routes/running/popular/1?Locality=Manchester) to get your daily dose of fitness activity. You can also take a walking tour offered by our local volunteer Niall Beard on the evening of Day-1 and morning of Day-2. Sign up [here](https://forms.gle/Q8BykBAgTDRRGaKHA) to join the tour.
 
 #### Friends and Family
 
-Your partner, family members or guests are invited to attend the social events and conference dinner. Please contact the main organizer, Aleksandra Nenadic, to purchase your tickets. Children can attend the conference dinner for free of change. Please note that the break-out, skill-up, and workshops will be limited to the registered participants. Contact the organisers if we can help you in any way. (See related sections: *Childcare, Medical, Events, Fitness*)
+Your partner, family members or guests are invited to attend a number of social events organised during the conference ([sign up](https://forms.gle/Q8BykBAgTDRRGaKHA)). Extra tickets for the conference dinner can be purchased on the [registration site](https://www.eventbrite.co.uk/e/carpentryconnect-manchester-2019-tickets-48832239543). Children can attend the conference dinner for free of cost. Please note that the break-out, skill-up, and workshop sessions will be limited to the registered participants only. Contact the organisers for any additional information.
+ (See related sections: *Childcare, Medical, Events, Fitness*)
 
 ### G: Greater Manchester
 
@@ -143,7 +144,7 @@ We will have a helpdesk at the venue where you can get all the information that 
 
 #### Icebreaker
 
-Many people coming to CarpentryConnect will be meeting for the first time. We know that coming into any big event for the first time can be a little intimidating. You may not know anyone but it seems like everyone else knows lots of people. We want to make sure that everyone who comes to CarpentryConnect feels a sense of belonging right from the start. As the first activity at the conference, we have planned an icebreaker event for everyone to connect with a small group of people to swap stories about why they are here.
+Many people coming to CarpentryConnect will be meeting for the first time. We want to make sure that everyone who comes to CarpentryConnect feels a sense of belonging right from the start. To get a head start to networking, we have planned an icebreaker event for everyone to connect with a small group of people to swap stories about themselves. You will also have several opportunities for face-to-face networking and interaction with other members during the conference.
 
 #### Inclusion
 
@@ -161,7 +162,7 @@ Image by:  Mathew Schwartz @cadop [on Unsplash](https://unsplash.com/photos/PgNE
 
 #### Keynote Speakers
 
-We have fantastic keynote speakers lined up for you at CarpentryCon. Our 4 speakers are: **Tracy Teal** (Executive Director, The Carpentries), **Marta Taperek** (Data Stewardship Coordinator at TU Delft, The Netherlands), **Lex Nederbragt** (Head of Education and Training for the Centre for Bioinformatics, University of Oslo), **Mine Çetinkaya-Rundel** (Associate Professor of the Practice in the Department of Statistical Science at Duke University and a professional educator at RStudio). We are very excited to have these leaders from their field at CarpentryConnect and are looking forward to their talks. See the [official website](https://software.ac.uk/ccmcr19) for more detail.
+We have [fantastic keynote speakers](https://software.ac.uk/ccmcr19/keynotes) lined up for you at CarpentryCon. Our 4 speakers are: **Tracy Teal** (Executive Director, The Carpentries), **Marta Taperek** (Data Stewardship Coordinator at TU Delft, The Netherlands), **Lex Nederbragt** (Head of Education and Training for the Centre for Bioinformatics, University of Oslo), **Mine Çetinkaya-Rundel** (Associate Professor of the Practice in the Department of Statistical Science at Duke University and a professional educator at RStudio). We are very excited to have these leaders from their field at CarpentryConnect and are looking forward to their talks. See the [official website](https://software.ac.uk/ccmcr19) for more detail.
 
 #### Knowledge sharing
 
@@ -171,7 +172,7 @@ We, as organisers, have put a lot of efforts into making sure that you get sever
 
 #### Lightning talks
 
-We have lightning talk sessions on the first and second day of the conference. Each lightning talk presenter will get 3 minutes to present their topics. Please see the [conference program](https://software.ac.uk/ccmcr19/programme) for the complete schedule. The abstract submission for this session is closed.
+The lightning talk session will take place on the first day of the conference from 12:00 - 12:30 pm. Each lightning talk presenter will get 2 minutes to present their topics. Please see the [conference program](https://software.ac.uk/ccmcr19/programme) for the complete schedule. The presenters will be asked to submit their presentations before the conference. Submissions for this session is closed.
 
 #### Library Carpentry
 
@@ -185,7 +186,7 @@ Photo credit: Michael D Beckwith @michael_david_beckwith [on Unsplash](https://u
 
 #### Manchester
 
-Manchester city in Greater Manchester, England is home to over 545,500 ethnically and linguistically diverse people. This city started the industrial revolution, claims to be the birthplace for vegetarianism in Britain, this is where the “splitting of atom” was defined, and boasts about being first in several occasions in history (see [this blog](http://www.wow247.co.uk/2016/01/22/bizarre-facts-manchester/) for bizarre facts!). Clearly, Manchester has a lot to offer to the conference participants during their visit to this lovely city. See [this post by University of Manchester](https://www.intostudy.com/en/universities/the-university-of-manchester/living-in-manchester) for useful information about Manchester.
+Manchester city in Greater Manchester, England is home to over 545,500 ethnically and linguistically diverse people. This city started the industrial revolution, claims to be the birthplace for vegetarianism in Britain, it’s where the “splitting of atom” was defined, and boasts about being “the first” in several occasions in history (see [this blog](http://www.wow247.co.uk/2016/01/22/bizarre-facts-manchester/) for bizarre facts!). Clearly, Manchester has a lot to offer to the conference participants during their visit to this lovely city. See [this post by University of Manchester](https://www.intostudy.com/en/universities/the-university-of-manchester/living-in-manchester) for useful information about the city.
 
 #### Medical
 
@@ -199,21 +200,26 @@ Mentorship is an important part of the Carpentry experience. As Instructors, we 
 
 #### New Members
 
-Are you new to The Carpentries? Do you want to learn more about the organisation and how you can support it? CarpentryConnect is the place for you. You will have an opportunity for face-to-face networking and interaction with other members. We understand that it could be frightening if you don't know anyone, but the community has a history of being very friendly and inclusive, so don't be afraid to say 'Hi' and introduce yourself. You will be surprised how many lasting collaborations you will make at the conference. Join the social events and ice-breaking session to get a head start to networking, and when in doubt, contact the organisers.
+Are you new to The Carpentries? ? Do you want to learn more about the organisation and how you can support it? CarpentryConnect is the place for you. It can be quite daunting if you don't know anyone, but the community has a history of being very friendly and inclusive, so don't be afraid to introduce yourself. You will be surprised how many lasting collaborations you will make at the conference. Take advantage of the social events and ice-breaking session, and when in doubt, contact the organisers.
 
 #### Name Tags
 
-Name tags are a great way for participants to strike up conversations with other participants or volunteers. You can collect your name tag at the registration desk. Don't forget to bring your registration ticket, and if possible a lanyards and badges from a previous conference to recycle ([see detail](https://software.ac.uk/blog/2019-04-24-can-we-increase-our-impact-reducing-it-thoughts-environmental-sustainability)). Our name tags will have a section to add your pronoun preference and add a sticker if you prefer not to be photographed at the event. As a participant, be respectful to each other by using the correct name and pronoun. Ask! if you don't know how to pronounce someone's name, maybe they will share a nice story about what their name means.
+Name tags are a great way for participants to strike up conversations with other participants or volunteers. You can collect your name tag at the registration desk. Don't forget to bring your registration ticket, and if possible a lanyard or badge from a previous conference to recycle ([see detail](https://software.ac.uk/blog/2019-04-24-can-we-increase-our-impact-reducing-it-thoughts-environmental-sustainability)). Our name tags will have a section to add your preferred pronoun(s) and add a sticker to indicate if you don’t want to be photographed at the event. As a participant, be respectful to each other by using the correct name and pronouns. Ask – if you don't know how to pronounce someone's name, maybe they will share an interesting story behind their name.
 
 ### O: Organising Committee
 
-The organisers of this event is the ([Software Sustainability Institute (SSI)](https://software.ac.uk)). Aleksandra Nenadic, the training lead, is the chair of the conference, who is working with SSI staff and community members to make this conference a success with your participation. The other members of the organisation committee are Selina Aragon-Camarasa, Tania Allard, Ana Costa Conrado, Jez Cope, Clementine Hadfield, Michael Heeremans, Toby Hodges. Vasilis Lenis, Aleksandra Nenadic, Giacomo Peru, Fotis Psomopoulos, Malvika Sharan, Graeme Smith and Peter Smyth. Don’t forget to say ‘Hi’ to them!
+The organiser of this event is ([Software Sustainability Institute (SSI)](https://software.ac.uk)). Aleksandra Nenadic, the training lead, is the chair of the conference, who is working with Institute staff and community members to make this conference a success with your participation. The other members of the organisation committee are Selina Aragon, Tania Allard, Ana Costa Conrado, Jez Cope, Clementine Hadfield, Michael Heeremans, Toby Hodges, Vasilis Lenis, Aleksandra Nenadic, Giacomo Peru, Fotis Psomopoulos, Malvika Sharan, Graeme Smith and Peter Smyth. They’ll be wearing a t-shirt with the conference logo. Don’t forget to say ‘Hello’ to them!
 
-### P: Pronouns, Photography, Posters, Power adapters, Post-conference
+### P: Pronouns, Pacman Rule, Photography, Posters, Power adapters, Post-conference
 
 #### Pronouns
 
 It has become a general practice to share pronouns (He/She/They/Ze etc.) on conference name tags. For those unfamiliar with the practice of sharing pronouns at the conference, it goes something like this: “Name: Malvika Sharan. Pronouns: she/her”. This practice is important for making sure that we use correct pronouns, specifically for our trans, queer, and gender non-conforming community members you will meet at CarpentryConnect.
+
+#### Pacman Rule
+
+We know that coming into a conference alone or for the first time can be a little intimidating. You may not know anyone but it seems like everyone else knows lots of people. To ensure that everyone feels welcome and gets an opportunity to get to know other participants, we invite you to ‘stand like a Pacman’. Known as [Pacman rule(https://www.ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/), this idea suggests that “when standing as a group of people [during social breaks], always leave room for 1 person to join your group”. So, stand like a pacman, or maybe create the largest pacman circle of the CarpentryCon Manchester. 
+
 
 #### Photography
 
@@ -241,9 +247,9 @@ The post-conference period will be equally crucial to evaluate the success of th
 
 Get in touch with the organisers if you have any specific questions about the conference. Take note of our communication channels for queries and updates (email, slack, twitter and phone). For any CoC related queries and concern, please get in touch with the CoC contact people (Malvika Sharan and Tania Allard), or directly contact the CoC committee by email (coc@carpentries.org)
 
-#### Quiet Rooms
+#### Quiet Rooms and Prayer Venues
 
-If you need a quiet place while attending the event, there will be space available. Please look for the signage at the venue. We ask that while you are in the room that you are mindful of others who may be sharing the space as well.
+If you need a quiet place while attending the event, there will be a designated area for you to chill out. Please look for the signage at the venue. We ask that while you are in the quiet room you are mindful of others who may be sharing the space as well. We have also collected information on the prayer venues in and around the conference locations, which will be added here soon.
 
 ### R: Registration
 
@@ -263,7 +269,7 @@ We love sticky notes! No Carpentries even is ever complete without the sticky no
 
 #### Slack
 
-We are on Slack: [https://ccmcr19.slack.com](https://ccmcr19.slack.com). Join us there to connect and communicate with the organisers and participants of CarpentryConnect Manchester. We will be actively using the various channels for continuing discussions, and documenting them to summerise different aspects of the conference. Also, you can install Slack apps to have access to these channels through your phone.
+We are on Slack: [https://ccmcr19.slack.com](https://ccmcr19.slack.com). Join us there to connect and communicate with the organisers and participants of CarpentryConnect Manchester. We will be actively using the various channels for continuing discussions and documenting them to summarise different aspects of the conference. Also, you can install Slack apps to have access to these channels through your phone.
 
 #### Special requirements
 
