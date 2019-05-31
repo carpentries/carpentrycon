@@ -249,11 +249,25 @@ Get in touch with the organisers if you have any specific questions about the co
 
 #### Quiet Rooms and Prayer Venues
 
-If you need a quiet place while attending the event, there will be a designated area for you to chill out. Please look for the signage at the venue. We ask that while you are in the quiet room you are mindful of others who may be sharing the space as well. We have also collected information on the prayer venues in and around the conference locations, which will be added here soon.
+If you need a quiet place while attending the event, there will be a designated area for you to chill out. Please look for the signage at the venue. We ask that while you are in the quiet room you are mindful of others who may be sharing the space as well. We have also collected information on the prayer venues in and around the conference locations, 
+
+- Prayer locations near [The Studio Manchester](http://studiovenues.co.uk/venues/manchester/directions/):
+
+  - [City Church Manchester](https://goo.gl/maps/RtNExCd4zvuC7UWF6), Central Hall, Oldham St, Manchester M1 1JQ, (0.2 miles)
+  - [Muslim Youth Foundation](https://goo.gl/maps/G5kMg9FpVhu4kirQ8), 25 Turner St, Manchester M4 1DY, (0.3 miles)
+  - [Audacious Church](https://goo.gl/maps/mPrf2HpLXiPr1gE99), Trinity Way, Manchester, Salford M3 7BD, (1.1 miles)
+  - [Cavendish Prayer Room](https://goo.gl/maps/DmFJ9WGiMjET6LEp9), Manchester M15 6BX, (1.2 miles)
+  - [Interactive map](https://www.google.com/maps/search/prayer/@53.4747686,-2.2483135,14z/data=!4m7!2m6!3m5!1sprayer!2s53.4832478,-2.2328639!4m2!1d-2.2328639!2d53.4832478) for more options
+
+- Prayer locations near [Kilburn Building](https://goo.gl/maps/QYYT6Yk3XGYMq3Wk8):
+  - [St. Peter’s House Church And Chaplaincy](St Peter's House, Precinct Centre, Oxford Road, Manchester M13 9GH): Precinct Centre, The University of Manchester, Oxford Road, Manchester, M13 9GH
+  - Walkway Quiet Room (located in St Peter's House and Chaplaincy)
+  - [Muslim Prayer Hall South](https://goo.gl/maps/LLeNJ3pSpDtWbD5Q7), McDougall Centre, Burlington St, Manchester M15 6WP
+  - [Avila House RC Chaplaincy](https://goo.gl/maps/TTxSjXshdZuHS3Ly9), 339 Oxford Rd, Manchester M13 9PG
+  - [Holy Name Church](https://goo.gl/maps/gdEjuSwgT23AzdR67), 339 Oxford Rd, Manchester M13 9PG
+  - [Interactive map](https://www.manchester.ac.uk/discover/maps/interactive-map/) for more options (click **places of worship**)
 
 ### R: Registration
-
-#### Registration
 
 The [online registration](https://www.eventbrite.co.uk/e/carpentryconnect-manchester-2019-tickets-48832239543) is open. We will have an opportunity for on-site registration but please let the organisers know in advance. The registration desk will be available on site for the entire period of the conference. 
 
