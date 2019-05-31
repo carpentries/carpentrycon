@@ -241,7 +241,7 @@ We will have on-site technical support at the conference. A few volunteers will 
 
 The post-conference period will be equally crucial to evaluate the success of the conference. The organisers will send out a post-conference survey to learn about your experiences from this conference and suggestions for the next one. The organisers will also publish a post conference report and accept blog submission from the conference participants.
 
-### Q: Queries, Quiet Rooms
+### Q: Queries, Quiet and Prayer Venues
 
 #### Questions
 
