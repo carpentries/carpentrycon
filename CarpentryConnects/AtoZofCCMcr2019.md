@@ -260,7 +260,7 @@ If you need a quiet place while attending the event, there will be a designated 
   - [Interactive map](https://www.google.com/maps/search/prayer/@53.4747686,-2.2483135,14z/data=!4m7!2m6!3m5!1sprayer!2s53.4832478,-2.2328639!4m2!1d-2.2328639!2d53.4832478) for more options
 
 - Prayer locations near [Kilburn Building](https://goo.gl/maps/QYYT6Yk3XGYMq3Wk8):
-  - [St. Peter’s House Church And Chaplaincy](St Peter's House, Precinct Centre, Oxford Road, Manchester M13 9GH): Precinct Centre, The University of Manchester, Oxford Road, Manchester, M13 9GH
+  - [St. Peter’s House Church And Chaplaincy](https://goo.gl/maps/xADDJcJ8kWLdv4Cr8): Precinct Centre, The University of Manchester, Oxford Road, Manchester, M13 9GH
   - Walkway Quiet Room (located in St Peter's House and Chaplaincy)
   - [Muslim Prayer Hall South](https://goo.gl/maps/LLeNJ3pSpDtWbD5Q7), McDougall Centre, Burlington St, Manchester M15 6WP
   - [Avila House RC Chaplaincy](https://goo.gl/maps/TTxSjXshdZuHS3Ly9), 339 Oxford Rd, Manchester M13 9PG
