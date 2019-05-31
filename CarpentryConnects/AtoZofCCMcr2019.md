@@ -266,6 +266,11 @@ If you need a quiet place while attending the event, there will be a designated 
   - [Avila House RC Chaplaincy](https://goo.gl/maps/TTxSjXshdZuHS3Ly9), 339 Oxford Rd, Manchester M13 9PG
   - [Holy Name Church](https://goo.gl/maps/gdEjuSwgT23AzdR67), 339 Oxford Rd, Manchester M13 9PG
   - [Interactive map](https://www.manchester.ac.uk/discover/maps/interactive-map/) for more options (click **places of worship**)
+  
+More options:
+
+- [Muslim Youth Foundation](http://myf.org.uk/about-us/)
+- [Manchester Reform Synagogue](http://jacksonsrow.org/) 
 
 ### R: Registration
 
