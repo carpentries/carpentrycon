@@ -223,7 +223,7 @@ We know that coming into a conference alone or for the first time can be a littl
 
 #### Photography
 
-You are allowed to take photographs at the conference. Make sure that you do not disturb any session or others in the process. We will offer a specific stickers for the badges for those who **don't want to be photographed**. Be respectful of their decision and don't take/post their pictures on social media. A few volunteers will be taking pictures to be included to the official collection, you are welcome to join them. If you want to post pictures on social media, use the hastag #ccmcr2019 to tag the conference, so that other attendees and those who couldn't join the conference can find your posts.
+You are allowed to take photographs at the conference. Make sure that you do not disturb any session or others in the process. We will offer a specific stickers for the badges for those who **don't want to be photographed**. Be respectful of their decision and don't take/post their pictures on social media. A few volunteers will be taking pictures to be included to the official collection, you are welcome to join them. If you want to post pictures on social media, use the hastag #ccmcr19 to tag the conference, so that other attendees and those who couldn't join the conference can find your posts.
 
 #### Posters
 
@@ -308,7 +308,7 @@ The [Software Carpentry Foundation](https://software-carpentry.org/) and its sib
 
 #### Twitter
 
-The official Twitter hastag for this event is #ccmcr2019, and official tweets will be shared from the account [@SoftwareSaved](https://twitter.com/SoftwareSaved). 
+The official Twitter hastag for this event is #ccmcr19, and official tweets will be shared from the account [@SoftwareSaved](https://twitter.com/SoftwareSaved). 
 
 #### Travel/Transportation
 
