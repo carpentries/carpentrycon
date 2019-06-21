@@ -77,7 +77,7 @@ Other members of this team are Silvia Di Giorgio, Aleks Nenadic and Anne Fouillo
  
 Other members of this team are Silvia Di Giorgio, Ouso and Mina Zamani.
 
-#### Code of Conduct Duty officer
+#### Code of Conduct main contact
 
 - Malvika Sharan (taking this role as a Code of Conduct Committee member)
 
