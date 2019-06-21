@@ -22,7 +22,7 @@ Minutes of past meetings are available [here](minutes).
 * SherAaron Hurt (Sher!)
 * Serah Njambi Rono
 
-#### Coordinators/Advisors 
+#### Advisors 
 
 *(Chairs and members of previous CarpentryCon will act as point of reference and will keep the work of TF on track)*
 
