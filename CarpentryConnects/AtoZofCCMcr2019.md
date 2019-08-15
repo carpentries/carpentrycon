@@ -44,7 +44,7 @@ There will be 22 breakout sessions taking place over the first 2 days of the con
 
 The Carpentries (https://carpentries.org), brings Software, Data and Library Carpentry together under an umbrella to teach foundational computational, coding, and data science skills to people worldwide. We are a diverse, global community of volunteer Instructors, helpers, Trainers, Maintainers, champions, member organisations, supporters, and staffs.
 
-##### Code of Conduct
+#### Code of Conduct
 
 As a member and conference participant, you are requested to familiarize yourself with The Carpentries' [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
 
@@ -62,11 +62,11 @@ CarpentryConnect Manchester 2019 is being organised as the first European Carpen
 
 CarpentryConnect events are the regional conferences, organised to strengthen local communities by creating opportunities for their member to exchange knowledge and build computational skills. These in-person events allow people to discuss topics of local interest and get to know about each other's work in an informal setup. The organisers of such events aim to provide a diverse and inclusive environment for learning, skill-building, and networking for the members interested in computational techniques to enhance the quality and efficiency of research. 
 
-##### Catering
+#### Catering
 
 One of the most important conference supplies, food and beverages, has been arranged for the conference during the breaks for the registered participants. We will take care of the different dietary requirements if you have mentioned it in your registration. Please let the organisers know if you'd like to amend your specific dietary requirements. Here is a list of all the [coffee/food places in the conference area](http://www.explore.manchester.ac.uk/campus/food-and-drink/), if you want to take a walk during and after the conference and find other non-conference coffee. (also see *Veg()an+, Special Requirements and Waste minimisation*)
 
-##### Currency
+#### Currency
 
 The currency used in the United Kingdom is Pound sterling. See this article for everything you need to know about [payment techniques in the UK](https://www.internations.org/go/moving-to-the-uk/banks-taxes/payment-methods-in-the-uk).
 
@@ -90,7 +90,7 @@ Image by: Jason Leung @ninjason [on Unsplash](https://unsplash.com/photos/N2JUQt
 
 #### Emergency
 
-In case of emergency, please contact the Welcome Team/organisers via phone **+44 (0) 7850 895 256** (will be active only during the conference), email([ccmcr19@googlegroups.com](mailto:ccmcr19@googlegroups.com)) or [slack](https://ccmcr19.slack.com).
+In case of emergency, please contact the Welcome Team/organisers via phone **REMOVED** (will be active only during the conference), email([ccmcr19@googlegroups.com](mailto:ccmcr19@googlegroups.com)) or [slack](https://ccmcr19.slack.com).
 
 Here is a list of few other emergency contacts:
 - Manchester Taxi service: +44 161 270 8701 (Uber is also available in the city)
