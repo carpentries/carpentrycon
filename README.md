@@ -33,49 +33,7 @@ Minutes of past meetings are available [here](minutes).
 
 #### Area Chairs and members
 
-*1. Website and Outreach*
-
-  - Anne Fouilloux
-  - Aleks Nenadic
- 
- Other members of this team are Bianca Peterson, Sarah Stevens, Marco Chiapello, Ana Costa Conrado and Mina Zamani.
-
-*2. Communication*
-
-  - Sarah Stevens
-  - Ouso
-  
-Other members of this team are  Bianca Peterson, Sateesh Peri, Mina Zamani and Gabriel Salubi.
-
-*3. Budget*
-
-  - Silvia Di Giorgio
-  - Jessica Upani
-  - Serah (will communicate internally with The Carpentries as a liaison)
-
-Other members of this team are Anne Fouilloux and Ouso.
-
-*4. Program*
-
-  - Bianca Peterson
-  - Sateesh Peri
-
-Other members of this team are Marco Chiapello, Silvia Di Giorgio, Sarah Stevens, Aleks Nenadic, Mina Zamani and Jessica Upani.
-
-*5. Content development*
-
-  - Ana Costa Conrado
-  - Marco Chiapello
-  - Sher! (will approve final content as a liaison)
-  
-Other members of this team are Silvia Di Giorgio, Aleks Nenadic and Anne Fouilloux.
- 
-*6. Accessibility*
-
-  - Christina Koch
-  - Gabriel Salubi
- 
-Other members of this team are Silvia Di Giorgio, Ouso and Mina Zamani.
+See the [Carpentry Con 2020 website](https://2020.carpentrycon.org/).
 
 #### Code of Conduct main contact
 
