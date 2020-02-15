@@ -1,58 +1,63 @@
 ## A to Z of CarpentryCon
 
-#### Compiled by: Malvika Sharan with the CarpentryCon 2018 Volunteers
+#### Compiled by: CarpentryCon 2020 Task Force
 ***Your pull-requests are welcome.***
 
-Below you will find all the information that we thought might help you plan your trip to Dublin for CarpentryCon 2018. We took this challenge at one of our several meetings to find all the keywords starting A-Z to address any queries you might have about the conference. We are pretty confident that the following list covers everything, but please reach out to us and let us know if something is missing. Please take a look at this so that you can plan your stay in Dublin ahead of time and have the best time during the conference. We are very excited to meet you at CarpentryCon 2018!
+Below you will find all the information that we thought might help you plan your trip to Madison, USA, for CarpentryCon 2020. We took this challenge to find all the keywords starting A-Z to address any queries you might have about the conference. We are pretty confident that the following list covers everything, but please reach out to us and let us know if something is missing. Please take a look at this so that you can plan your stay in Madison ahead of time and have the best time during the conference. We are very excited to meet you at CarpentryCon 2020!
 
-<img src="CarpentryCon-2018/taskforce_misc/a-z-images/allies.jpeg" width=800>
+<img src="FIXME" width=800>
 
-##### *Screenshot of the official website: carpentrycon.org. Original background picture by Hugo Neves at EMBL Annual Software Carpentry Course 2017*
+##### *FIXME*
 
 ### A: Arrival, Access, Accommodation, Allies
 
 #### Arrival and Access
 
-The conference is being held at the [O'Brien Centre for Science](http://www.ucd.ie/conferences/venues/classroom-and-theatres/)
-at [University College Dublin](http://www.ucd.ie/).
+The conference is being held in the [Discovery Building](https://discovery.wisc.edu/) at the [University of Wisconsin - Madison](https://wisc.edu/).
 
 ```
-  UCD O'Brien Centre for Science
-  UCD Science Centre (East)
-  University College Dublin
-  Belfield, Dublin 4
-  Roebuck, Dublin
-  Ireland
-  (01) 716 2120
+  Discovery Building
+  University of Wisconsin-Madison
+  330 N. Orchard St.
+  WI 53715
+  Madison
+  United States
  ```
 
-Link to [Google Map](https://goo.gl/maps/xpnddSdsZ8n) and [campus map](http://mdd.ucd.ie/wp-content/uploads/2015/05/UCD-Map-October-2014-Custom.pdf). There is also a useful [commuters' guide](http://ucdestates.ie/commuting/) that can be [downloaded as a PDF](http://ucdestates.ie/commuting/wp-content/uploads/sites/3/2016/08/Campus-Commuting-Guide-2016.pdf). 
+Link to [Google map](https://www.google.com/maps/d/viewer?mid=1FBVN_9iieOR2aAHLvyoULka6ySYUm-TS&usp=sharing) and [campus map](https://map.wisc.edu/). There is also a useful [Accessible Pedestrian Routes Map](https://map.wisc.edu/accessible-pedestrian-routes.pdf?1) that can be downloaded as a PDF.
 
-When you first arrive, you can exchange your registration ticket for a name tag, badges and lunch tickets. The registration desk will be located at the conference site from May 30 - June. We will have a designated Welcome Team of organizers and volunteers who you can recognize by their T-shirts and name tag. You will have access to the lecture hall and breakout rooms, look out for the signs at the venue. Do not hesitate to reach out to the Welcome Team during the conference for any query or concern. The venue is wheelchair accessible. The Welcome Team will be happy to provide you any additional support.
+The conference venues are accessible by car. For parking rates and locations, please see the [UW-Madison Transportation Office page](https://transportation.wisc.edu/parking-lots/). [Accessible parking](https://transportation.wisc.edu/accessible-transportation-options/#parking) is also available. Note, however, that parking on campus is limited and we cannot guarantee that parking will be available in your chosen location.
+
+If possible, we recommend going to and from campus by alternative means:
+- [Madison Metro Transit](https://www.cityofmadison.com/metro) offers many bus routes near the UW-Madison Campus and downtown. Check their website for routes, schedules and rates.
+- [Bcycle](https://madison.bcycle.com/what-is) offer bike share service in Madison. Check their website for pickup and dropoff locations.
+- [Union Cab](https://www.unioncab.com/) and [Green Cab](https://greencabmadison.com/) are local taxi services. Ride share services like Uber and Lyft also operate in Madison.
+
+FIXME: [When you first arrive, you can exchange your registration ticket for a name tag, badges and lunch tickets. The registration desk will be located at the conference site from May 30 - June. We will have a designated Welcome Team of organizers and volunteers who you can recognize by their T-shirts and name tag. You will have access to the lecture hall and breakout rooms, look out for the signs at the venue. Do not hesitate to reach out to the Welcome Team during the conference for any query or concern. The venue is wheelchair accessible. The Welcome Team will be happy to provide you any additional support.]
 
 #### Accommodation
 
-We have listed all the [accommodation options](http://www.carpentrycon.org/#accom) on the CarpentryCon website. The UCD on-site accommodation ([Summer at UCD](http://www.ucd.ie/summeratucd/accommodation/)) is located within walking distance to the conference venue and their reception Office is open 24/7 from the 28th May onwards. The corresponding accommodation provider will provide you with all the required information. Several of these sites are wheelchair accessible. You must make sure that you have made arrangements for your accommodation in one of these (or other) hotels.
+We have listed all the [accommodation options](https://2020.carpentrycon.org/accommodation/) on the CarpentryCon website. We have reserved room blocks with several accommodation providers, shown on [this Google map](https://www.google.com/maps/d/viewer?mid=1FBVN_9iieOR2aAHLvyoULka6ySYUm-TS&usp=sharing).
 
 #### Allies
 
-An ally is someone who uses her/his/their societal privileges for supporting members of other identity groups. We would like to create an inclusive environment at CarpentryCon and invite you to extend your support to others at this conference and beyond. You can learn through [resources](https://frameshiftconsulting.com/ally-skills-workshop/#materials) made available by one of our Keynote speakers [Valerie Aurora](https://github.com/carpentries/carpentrycon/blob/master/ShortBio/Speakers/ValerieAurora-bio.md). Additionally, Valerie will offer the [Ally workshop](https://github.com/carpentries/carpentrycon/tree/master/Sessions/2018-06-01/03-Workshop-3-Ally-Workshop-With-Valerie-Aurora) on June 1 in parallel to other workshops.
+An ally is someone who uses her/his/their societal privileges for supporting members of other identity groups. We would like to create an inclusive environment at CarpentryCon and invite you to extend your support to others at this conference and beyond.
 
 ### B: Badges, Break-out sessions, Bars
 
 #### Badges
 
-We will offer you a range of badges (speakers, course maintainers, job seeker, new members etc.) to indicate your roles and interests in CarpentryCon and The Carpentries. These badges could be worn with your name tag to help you make the best of the social interaction at the conferences.
+FIXME: We will offer you a range of badges (speakers, course maintainers, job seeker, new members etc.) to indicate your roles and interests in CarpentryCon and The Carpentries. These badges could be worn with your name tag to help you make the best of the social interaction at the conferences.
 
 #### Break-out sessions
 
-There will be 12 breakout sessions during CarpentryCon (http://www.carpentrycon.org/#program) including the sessions on [Carpentry Methods in University Courses](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-30/04-Breakout-1-Carpentry-Methods-In-University-Courses/Abstract.md), [Diversity and Inclusion](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-30/12-Breakout-6-Diversity-And-Inclusion/Abstract.md), [HPC carpentry](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-31/05-Breakout-8-HPC-Carpentry/Abstract.md), and [mentoring](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-31/12-Breakout-12-Mentoring/Abstract.md). The abstracts of all these sessions can be found in the [CarpentryCon GitHub pages](https://github.com/carpentries/carpentrycon/tree/master/Sessions) (separated by dates). There will be a limited number of seats available for each of these. Closer to the conference we will send out more information on how to register for those (look out for that).
+FIXME: There will be XXX breakout sessions during CarpentryCon (https://2020.carpentrycon.org/programme/) including the sessions on X, Y, and Z. There will be a limited number of seats available for each of these. Closer to the conference we will send out more information on how to register for those (look out for that).
 
 #### Bars
 
-Dublin is a city of bars and pubs (but not only). We have a list of bar suggestions (by our UCD Volunteers Ben and Chiara) on the Etherpad dedicated to the discussion of [social activities at CarpentryCon](http://pad.software-carpentry.org/social_events). Please expand the list, if you have any additional recommendations.
+FIXME
 
-### C: Carpentries, CarpentryCon and Cheatsheet, Code of Conduct, Child Care, Coffee, Catering, Currency
+### C: Carpentries, CarpentryCon and Cheatsheet, Catering and Coffee, Child Care, Code of Conduct, Currency
 
 #### The Carpentries
 <br><br>
@@ -63,91 +68,75 @@ Dublin is a city of bars and pubs (but not only). We have a list of bar suggesti
 
 The Carpentries (https://carpentries.org/), brings Software and Data Carpentry together under an umbrella to teach foundational computational, coding, and data science skills to researchers worldwide. We are a diverse, global community of volunteer Instructors, helpers, Trainers, Maintainers, champions, member organizations, supporters, and staffs.
 
-#### CarpentryCon 2018 and Conference Cheatsheet
+#### CarpentryCon 2020 and Conference Cheatsheet
 
-CarpentryCon 2018 (http://www.carpentrycon.org/) is the inaugural annual conference for all the members of the Carpentries. Under the theme “Building Locally, Connecting Globally”, we have planned a number of events and opportunities for you including keynote talks, skill-up sessions, breakout discussions, social events, lightning talks, and workshop. This will provide a diverse and inclusive environment for learning, skill-building, and networking event for the participants interested in computational techniques to enhance the quality and efficiency of their work, and have a great time at the conference.
+CarpentryCon 2020 (https://2020.carpentrycon.org/) is the inaugural annual conference for all the members of the Carpentries. Under the theme “Growing Inclusive, Computational Communities and Leaders”, we have planned a number of events and opportunities for you including keynote talks, skill-up sessions, breakout discussions, social events, lightning talks, and workshops. This will provide a diverse and inclusive environment for learning, skill-building, and networking event for the participants interested in computational techniques to enhance the quality and efficiency of their work, and have a great time at the conference.
 
-See this [conference cheatsheet](https://github.com/carpentries/carpentrycon/blob/master/CarpentryCon_Cheatsheet.md) for all the relevant links to our resources and program.
+FIXME: See this [conference cheatsheet](https://github.com/carpentries/carpentrycon/blob/master/CarpentryCon_Cheatsheet.md) for all the relevant links to our resources and program.
+
+##### Catering and Coffee
+
+Of course! One of the most important conference supplies, coffee, will be offered at the conference during the breaks. Here is a list of all the [coffee/food places in UW-Madison](https://www.visitmadison.com/restaurants/), if you want to take a walk during and after the conference and find other non-conference coffee. Lunch will be provided at the conference for the registered participants. We will use the catering services of the FIXME located in the same building as the venue. We will take care of the different dietary requirements if you have mentioned it in your registration. Please let the organizers know if you'd like to amend your specified dietary requirements.
+
+##### Child Care
+
+FIXME: Parents/Families traveling with child/children must inform the organizers if they would be attending the conference with their child/children so that we can provide you with all the necessary information and support from our end. For mothers who need a designated space at the conference for nursing, please look for the nursing signs upon arrival of the conference.
 
 ##### Code of Conduct
 
 As a member and conference participant, you are requested to familiarize yourself with The Carpentries' [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
 
-*Code of Conduct in Short*: The Carpentries are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. Enforcement of the Code of Conduct will be respectful and not include any harassing behaviors. Harassment in any form or behavior intended to exclude, intimidate, or cause discomfort is a violation of the Code of Conduct. If you believe someone is violating the Code of Conduct we ask that you report it to the CarpentryCon TaskForce members or the Code of Conduct committee members (Karin Lagesen, Kari Jordan and Malvika Sharan) at the conference in person, by email or on Slack, who will take the appropriate action to address the situation. You can also reach out to the Carpentries Policy Committee by emailing policy@carpentries.org.
-
-##### Child Care
-
-Parents/Families traveling with child/children must inform the organizers if they would be attending the conference with their child/children so that we can provide you with all the necessary information and support from our end. For mothers who need a designated space at the conference for nursing, please look for the nursing signs upon arrival of the conference.
-
-##### Coffee and Catering
-
-Of course! One of the most important conference supplies, coffee, will be offered at the conference during the breaks. Here is a list of all the [coffee/food places in UCD](http://www.ucd.ie/students/guide/food.html), if you want to take a walk during and after the conference and find other non-conference coffee. Lunch will be provided at the conference for the registered participants. We will use the catering services of the Pi Restaurant located in the same building as the venue. We will take care of the different dietary requirements if you have mentioned it in your registration. Please let the organizers know if you'd like to amend your specified dietary requirements. (See *Veg()an+ and Special Requirements*)
+*Code of Conduct in Short*: The Carpentries are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. Enforcement of the Code of Conduct will be respectful and not include any harassing behaviors. Harassment in any form or behavior intended to exclude, intimidate, or cause discomfort is a violation of the Code of Conduct. If you believe someone is violating the Code of Conduct we ask that you report it to the CarpentryCon TaskForce members or the Code of Conduct committee members (FIXME) at the conference in person, by email or on Slack, who will take the appropriate action to address the situation. You can also reach out to the Carpentries Policy Committee by emailing policy@carpentries.org.
 
 ##### Currency
 
-The currency used in the Republic of Ireland is Euros.
-See this article for everything you need to know about currency exchange in Dublin: https://transferwise.com/us/blog/currency-exchange-dublin
+The currency used in the United States is United States Dollar (USD / $).
+FIXME: See this article for everything you need to know about currency exchange in Dublin: https://transferwise.com/us/blog/currency-exchange-dublin
 
-TIP: if you are paying with a foreign bankcard/creditcard/debitcard and get asked whether you want to pay in Euro or your own currency, choose EURO - it will save you money in the end (see [this article]( https://www.forbes.com/sites/geoffreymorrison/2014/07/30/pay-in-local-or-home-currency/#5bb059723307)).
+FIXME: TIP: if you are paying with a foreign bankcard/creditcard/debitcard and get asked whether you want to pay in USD or your own currency, choose USD - it will save you money in the end (see [this article]( https://www.forbes.com/sites/geoffreymorrison/2014/07/30/pay-in-local-or-home-currency/#5bb059723307)).
 
-### D: Dublin, Diversity, Data Carpentry
+### D: Diversity
 
-<img src="CarpentryCon-2018/taskforce_misc/a-z-images/dublin1.jpeg" width=800>
+The Carpentries is a community of volunteer instructors, helpers, trainers, maintainers, champions, member organisations, supporters, and staff, of diverse background, nationality, ethnicity, gender and various identity groups. We are working hard to ensure that everyone feels welcome at CarpentryCon. Feel free to reach out to the organizers and staff if they can improve your experience as a member at The Carpentries and CarpentryCon. Attendees must be prepared to abide by our Code of Conduct (see *Allies, Carpentries, Code of Conduct, Inclusion, Emergency*).
 
-##### *Samuel Beckett Bridge and the beer barrel shaped Convention Centre, image by Norman Davey*
-
-#### Dublin
-
-Our host city [Dublin](https://en.wikipedia.org/wiki/Dublin) is known for its rich history, culture, and Georgian architecture. Find all the information we collected about the city in the context of CarpentryCon on the [venue/accessibility page](https://github.com/carpentries/carpentrycon/blob/master/venue.md). Make sure that you go out in the evening with other participants to explore the city and its wonderful bustling restaurants and bars.
-
-#### Diversity
-
-The Carpentries is a community of volunteer instructors, helpers, Trainers, Maintainers, champions, member organisations, supporters, and staff, of diverse background, nationality, ethnicity, gender and various identity groups. We are working hard to ensure that everyone feels welcome at CarpentryCon. Feel free to reach out to the organizers and staff if they can improve your experience as a member at The Carpentries and CarpentryCon. Attendees must be prepared to abide by our Code of Conduct (see *Allies, Carpentries, Code of Conduct, Inclusion, Emergency*).
-
-#### Data Carpentry
-
-[Data Carpentry (DC)](http://www.datacarpentry.org/) provides researchers high-quality, domain-specific training covering the full lifecycle of data-driven research. There will be an information desk where you can collect information on DC team, their work, workshops and various ways to get involved with their activities. Additionally, several DC members will be attending CarpentryCon (you can identify them by their badge), giving participants an opportunity for face-to-face networking.
-
-On May 28-29, right before the conference, we are offering a DC workshop (genomics module) at UCD, with a limited seat available for the external participants. You can find the course detail [here](https://malvikasharan.github.io/2018-05-28-Dublin/).
-
-### E: Executives, Emergency, Etherpads, Entertainment, Events, Exhibition
-
-#### Executives
-
-The Carpentries is governed by the newly formed Executive Council, to whom the Executive Director reports. The Council comprises nine members, four elected by the community, and five appointed from the former Steering Committees of Software and Data Carpentry. [Find out more about the council and their work](http://static.carpentries.org/governance/).
+### E: Emergency, Entertainment and Events, Etherpads, Executives, Exhibition
 
 #### Emergency
 
-In case of emergency, please contact the Welcome Team/organizers via phone **+353 (0) 8339 01891** (will be active only during the conference), email (carpentrycon@carpentries.org) or [slack](https://tinyurl.com/carpentrycon-slack).
+In case of emergency, please contact the Welcome Team/organizers via phone **FIXME** (will be active only during the conference), email (carpentrycon@carpentries.org) or [slack](FIXME).
 
 <img src="http://img.pagecloud.com/Cm7zt07h7XWYD0Vk922I4X58ujU=/280x0/filters:no_upscale()/telcoswitch/images/call_features_2_11-ID-9fccdb65-a8df-4311-c1fa-8a69234dded6.png">
 
-##### *Image source: http://img.pagecloud.com*
-
-Here is a list of few other emergency contacts:
+FIXME: Here is a list of few other emergency contacts:
 - Campus Services (for on-campus emergencies): 01 716 7999
 - Ambulance/ Gardaí and Emergency Services: 999 or 112
 - Nearest pharmacy: [Procare Pharmacy UCD](https://goo.gl/maps/hoxNWogRPWE2), Phone: 017163840
 - Check the list of all other important contacts on [this page](https://github.com/carpentries/carpentrycon/blob/master/venue.md).
 
+#### Entertainment and Events
+
+FIXME: The evening before the conference, we will book a FIXME so that you get a head start on the social part of the conference. Please [fill this doodle](FIXME) with your name and email to be notified. The poster reception and conference dinner will allow you to get to know other attendees in informal settings and spend quality time with them at the conference. During the conference we have planned several opportunities for you (break-out, coffee breaks) and platforms ([etherpad](https://pad.carpentries.org/carpentrycon2020-social), [slack](https://tinyurl.com/carpentrycon-slack), [twitter](twitter.com/CarpentryCon)) to socialize with each other and make spontaneous plans to explore the city and surroundings during the evening. Take a lead and organize sessions and social activities with others.
+
 #### Etherpads
 
 We like to work collaboratively and use [Etherpad](http://pad.software-carpentry.org/pad-of-pads) for organizing our communication in different Carpentries channels. Here is a list of etherpads that are relevant for CarpentryCon.
 
-- *Main CarpentryCon*: http://pad.software-carpentry.org/carpentrycon
-- *Social Activities*: http://pad.software-carpentry.org/social_events
-- *CarpentryCon Community Call*: http://pad.software-carpentry.org/carpconcall
-- *CarpentryCon Volunteers*: http://pad.software-carpentry.org/carpentrycon_volunteers
-- *CarpentryCon TaskForce Meetings*: http://pad.software-carpentry.org/2018carpentrycontaskforce
+- *Main CarpentryCon*: https://pad.carpentries.org/carpentrycon2020-main
+- *Social Activities*: https://pad.carpentries.org/carpentrycon2020-social
+- *CarpentryCon Community Call*: FIXME
+- *CarpentryCon Volunteers*: FIXME
+- *CarpentryCon TaskForce Meetings*: https://pad.carpentries.org/2020carpentrycontaskforce
 - *Pad-of-Pads for all other Carpentries etherpads*: http://pad.software-carpentry.org/pad-of-pads
 
-#### Entertainment and Events
+#### Executives
 
-The evening before the conference, we will book a small pub so that you get a head start on the social part of the conference. Please [fill this doodle](https://doodle.com/poll/37i357fyd8ard9d6) with your name and email to be notified. The poster reception on the 1st day and conference dinner on the 2nd day will allow you to get to know other attendees in informal settings and spend quality time with them at the conference. During the conference we have planned several opportunities for you (break-out, open-mic, coffee breaks) and platforms ([etherpad](http://pad.software-carpentry.org/social_events), [slack](https://tinyurl.com/carpentrycon-slack), [twitter](twitter.com/CarpentryCon)) to socialize with each other and make spontaneous plans to explore the city and surroundings during the evening. Take a lead and organize sessions and social activities with others.
+FIXME: The Carpentries is governed by the newly formed Executive Council, to whom the Executive Director reports. The Council comprises nine members, four elected by the community, and five appointed from the former Steering Committees of Software and Data Carpentry. [Find out more about the council and their work](http://static.carpentries.org/governance/).
+
+##### *Image source: http://img.pagecloud.com*
 
 #### Exhibition
 
-We will offer an opportunity to the exhibitors (commercial and non-commercial) to acquire a booth at CarpentryCon. We can place max 25 exhibitors at the conference site, therefore contact the organizers for a possibility for you to have a booth there.
+FIXME: We will offer an opportunity to the exhibitors (commercial and non-commercial) to acquire a booth at CarpentryCon. We can place max 25 exhibitors at the conference site, therefore contact the organizers for a possibility for you to have a booth there.
 
 ### F: Fitness, Friends, and Family
 
