@@ -5,7 +5,7 @@
 
 Below you will find all the information that we thought might help you plan your trip to Dublin for CarpentryCon 2018. We took this challenge at one of our several meetings to find all the keywords starting A-Z to address any queries you might have about the conference. We are pretty confident that the following list covers everything, but please reach out to us and let us know if something is missing. Please take a look at this so that you can plan your stay in Dublin ahead of time and have the best time during the conference. We are very excited to meet you at CarpentryCon 2018!
 
-<img src="taskforce_misc/a-z-images/allies.jpeg" width=800>
+<img src="CarpentryCon-2018/taskforce_misc/a-z-images/allies.jpeg" width=800>
 
 ##### *Screenshot of the official website: carpentrycon.org. Original background picture by Hugo Neves at EMBL Annual Software Carpentry Course 2017*
 
@@ -92,7 +92,7 @@ TIP: if you are paying with a foreign bankcard/creditcard/debitcard and get aske
 
 ### D: Dublin, Diversity, Data Carpentry
 
-<img src="taskforce_misc/a-z-images/dublin1.jpeg" width=800>
+<img src="CarpentryCon-2018/taskforce_misc/a-z-images/dublin1.jpeg" width=800>
 
 ##### *Samuel Beckett Bridge and the beer barrel shaped Convention Centre, image by Norman Davey*
 
@@ -193,7 +193,7 @@ There are several ways to become a member of [The Carpentries community](https:/
 
 ### K: Keynote Speakers, Knowledge sharing
 
-<img src="taskforce_misc/a-z-images/CarpentryCon-April_poster-6.jpg" width=500>
+<img src="CarpentryCon-2018/taskforce_misc/a-z-images/CarpentryCon-April_poster-6.jpg" width=500>
 
 ##### *Official poster created by Malvika Sharan - Slack voting/suggestions by Greg, Mark, Erin and Maneesha* :)
 
@@ -256,7 +256,7 @@ For mothers who need a designated space for nursing, please look for the nursing
 The conference is being held at the [O'Brien Centre for Science](http://www.ucd.ie/conferences/venues/classroom-and-theatres/)
 at [University College Dublin](http://www.ucd.ie/).
 
-<img src="taskforce_misc/a-z-images/dublin-ucd.jpeg" width=300> <img src="taskforce_misc/a-z-images/dublin-ucd2.jpeg" width=300>
+<img src="CarpentryCon-2018/taskforce_misc/a-z-images/dublin-ucd.jpeg" width=300> <img src="taskforce_misc/a-z-images/dublin-ucd2.jpeg" width=300>
 
 ##### *O'Brien Centre, images by Norman Davey*
 
@@ -348,7 +348,7 @@ Please help us support you by supporting your peers at the CarpentryCon. Here is
 
 We will be using the catering service from Pi Restaurant, which is located in the same builiding as the conference venue. More restaurant suggestions including [restaurants for Iftar](https://colettecolfer.wordpress.com/2013/07/24/iftar-in-a-pakistani-restaurant-ramadan-day-15-half-way-there/) for you are available on the etherpad dedicated to the discussion on [social activities at CarpentryCon](http://pad.software-carpentry.org/social_events). If you have any recommendations please add them there. 
 
-<img src="http://rosyandgrey.de/wp-content/uploads/2017/08/Dublin-Travelguide-Foodguide.png" width=305> <img src="taskforce_misc/a-z-images/dublin5.jpeg" width=300>
+<img src="http://rosyandgrey.de/wp-content/uploads/2017/08/Dublin-Travelguide-Foodguide.png" width=305> <img src="CarpentryCon-2018/taskforce_misc/a-z-images/dublin5.jpeg" width=300>
 
 ##### *Image source: Left - http://rosyandgrey.de/, Right - Temple Bar, image by Norman Davey*
 
@@ -386,8 +386,8 @@ CarpentryCon 2018 will not be possible without the generous support of businesse
 
 Explore Dublin by jogging or walking through the city and learn about its history and famous landmarks with Irish tour guides. Please see details about the [*Sight Jogging Dublin*](www.sightjoggingdublin.com) and [Dublin Free Walking tour](http://www.dublinfreewalkingtour.ie/) for more information.
 
-<img src="taskforce_misc/a-z-images/dublin2.jpeg" width=800>
-<img src="taskforce_misc/a-z-images/dublin7.jpeg.jpg" width=800>
+<img src="CarpentryCon-2018/taskforce_misc/a-z-images/dublin2.jpeg" width=800>
+<img src="CarpentryCon-2018/taskforce_misc/a-z-images/dublin7.jpeg.jpg" width=800>
 
 ##### *Image Sources: Upper: Samuel Beckett Bridge, image by Norman Davey, Lower: Dublin Castle, image by Malvika Sharan*
 
@@ -454,7 +454,7 @@ for any additional information on how to get to UCD. The
 
 ### U: UCD and around
 
-<img src="taskforce_misc/a-z-images/dublin-ucd3.jpeg" width=800>
+<img src="CarpentryCon-2018/taskforce_misc/a-z-images/dublin-ucd3.jpeg" width=800>
 
 ##### *UCD campus, image by Norman Davey*
 
@@ -468,7 +468,7 @@ See *O'Brien Centre* to check out the conference venue at UCD. See our [Accessib
 
 Learn more about the university [here](http://www.ucd.ie/about-ucd/). UCD has its own [A-Z directory](https://www.ucd.ie/a-z/) to get specific information.
 
-<img src="taskforce_misc/a-z-images/dublin-ucd4.jpeg" width=800>
+<img src="CarpentryCon-2018/taskforce_misc/a-z-images/dublin-ucd4.jpeg" width=800>
 
 ##### *UCD campus, image by Norman Davey*
 
@@ -521,7 +521,7 @@ Watercoolers will be available in several spots of the conference venue. Try to 
 
 ### X: _X out inequality_
 
-<img src="taskforce_misc/a-z-images/dublin6.jpeg.jpg" width=800>
+<img src="CarpentryCon-2018/taskforce_misc/a-z-images/dublin6.jpeg.jpg" width=800>
 
 ##### *Rainbow Road from Mario Cart Recreated at the Dublin Pride Parade, image by Norman Davey*
 
@@ -549,7 +549,7 @@ There will be two calls at the following times:
 
 **We are looking forward to welcoming you to CapentryCon 2018!**
 
-<img src="taskforce_misc/a-z-images/TF2.jpg" width=800>
+<img src="CarpentryCon-2018/taskforce_misc/a-z-images/TF2.jpg" width=800>
 
 ##### *Screenshot of one of many Zoom meetings over the year*
 
