@@ -138,23 +138,19 @@ FIXME: The Carpentries is governed by the newly formed Executive Council, to who
 
 FIXME: We will offer an opportunity to the exhibitors (commercial and non-commercial) to acquire a booth at CarpentryCon. We can place max 25 exhibitors at the conference site, therefore contact the organizers for a possibility for you to have a booth there.
 
-### F: Fitness, Friends, and Family
+### F: Fitness, Friends and Family
 
 #### Fitness
 
-If you are in the city, you can check the [running trails](http://trailrunningireland.com/irish-trails-list/) to get your daily dose of fitness activity. You can also take a [sightseeing by jogging tour](http://www.sightjoggingdublin.com) or follow different [UCD Woodland Trails](https://www.ucd.ie/t4cms/UCD%20Woodland%20Walk%20Map%20and%20Guide.pdf) depending on where in the city you are. Here is a [list of swimming pools](https://www.yelp.ie/search?cflt=swimmingpools&find_near=ucd-sport-and-fitness-dublin) near UCD.
+FIXME
 
 #### Friends and Family
 
-Your partner, family members or guests are invited to attend the keynote lectures and poster session if they are on campus during the conference. However, the break-out, skill-up, and workshops will be limited to the conference attendees for their participation. Here is a list of [on-campus cafe and restaurants](http://www.ucd.ie/students/guide/food.html) which will be accessible to them while they are in the UCD area. You can purchase a conference dinner ticket for partner/family member/friends through our [registration page](https://www.eventbrite.com/e/carpentrycon-2018-tickets-42447719271). Contact the organizers if we can help you in any way. See the related sections for *Childcare, Nursing, Medical, Events, Fitness* etc. for related information.
+Your partner, family members or guests are invited to attend the keynote lectures and poster session if they are on campus during the conference. However, the break-out, skill-up, and workshops will be limited to the conference attendees for their participation. Here is a list of [on-campus cafe and restaurants](https://www.visitmadison.com/restaurants/) which will be accessible to them while they are in the UW-Madison area. FIXME: You can purchase a conference dinner ticket for partner/family member/friends through our [registration page](FIXME). Contact the organizers if we can help you in any way. See the related sections for *Childcare, Nursing, Medical, Events, Fitness* etc. for related information.
 
-### G: Guinness
+### G: FIXME
 
-<img src="https://i1.wp.com/thetaste.ie/wp/wp-content/uploads/2017/07/Guinness-Storehouse-Gravity-Bar-to-Double-its-Size-Thanks-to-%E2%82%AC16-Million-Investment.png?resize=650%2C340" width=800>
 
-##### *Image source: thetaste.ie*
-
-The Guinness Storehouse, located at St. James’s Gate Brewery in Dublin is the number one tourist attraction in Dublin. This seven-story building is a museum featuring 250 years of history of Guinness advertising and interactive exhibit on responsible drinking. The top floor offers a beautiful view of the city over drinks (both alcoholic and non-alcoholic) and food from its Gravity Bar. It is open every day from 09:30 to 19:00 and is wheelchair accessible. See [here](https://www.guinness-storehouse.com/) for information about visiting the Guinness Storehouse.
 
 ### H: Helpers and Helpdesk
 
@@ -164,7 +160,7 @@ We will have a helpdesk at the venue where you can get all the information that 
 
 #### Icebreaker
 
-Many people coming to CarpentryCon 2018 will be new to our community. We know that coming into any big event for the first time can be a little intimidating. You may not know anyone but it seems like everyone else knows lots of people. We want to make sure that everyone who comes to CarpentryCon 2018 feels a sense of belonging right from the start. As the first activity at CarpentryCon, Belinda Weaver have planned an icebreaker event for everyone to connect with a small group of people to swap stories about why they are here. See [here](https://github.com/carpentries/carpentrycon/blob/master/Sessions/2018-05-30/00-Icebreaker-Story-Circles.md) for detail.
+Many people coming to CarpentryCon 2020 will be new to our community. We know that coming into any big event for the first time can be a little intimidating. You may not know anyone but it seems like everyone else knows lots of people. We want to make sure that everyone who comes to CarpentryCon 2020 feels a sense of belonging right from the start. As the first activity at CarpentryCon, we have planned an icebreaker event for everyone to connect with a small group of people.
 
 #### Inclusion
 
@@ -180,45 +176,41 @@ We will have a job board at the conference where you can post/advertise both int
 
 There are several ways to become a member of [The Carpentries community](https://carpentries.org/community/) and support its work. At CarpentryCon, there will be different booths for The Carpentries and opportunities to meet the volunteer members to learn more about it. See [here](https://carpentries.org/join/) for more detail.
 
-### K: Keynote Speakers, Knowledge sharing
+### K: Keynote speakers, Knowledge sharing
 
-<img src="CarpentryCon-2018/taskforce_misc/a-z-images/CarpentryCon-April_poster-6.jpg" width=500>
+#### Keynote speakers
 
-##### *Official poster created by Malvika Sharan - Slack voting/suggestions by Greg, Mark, Erin and Maneesha* :)
-
-#### Keynote Speakers
-
-We have fantastic keynote speakers lined up for you at CarpentryCon. Our 4 speakers are: **Valerie Aurora** (founder of FrameShift consulting for diversity & inclusion in tech), **Desmond Higgins** (professor of bioinformatics in UCD, and recipient of 2018 Benjamin Franklin Award for Open Access in the life sciences), **Anelda van der Walt** (founder of Talarify, and recipient of 2017 Carpentries Community Service Award for her work in South Africa), **Greg Wilson** (co-founder Software Carpentry. Head of Instructor Training for DataCamp). We are very excited to have these leaders from their field at CarpentryCon and are looking forward to their talks. See the [official website](http://www.carpentrycon.org/#comp) for more detail.
+We have fantastic keynote speakers lined up for you at CarpentryCon. We will reveal their names soon! 
 
 #### Knowledge sharing
 
-We, as organizers, have put a lot of efforts into making sure that you get several opportunities to learn new skills and ideas while expanding your network. In this 3-day high-intensity conference you will learn from: (1) the experts, through keynote talks, skill-up session, and workshops, (2) share your ideas with each other, in discussion/breakout sessions and get tips from the session leads and other attendees, (3) suggest, vote for and lead a session on the spot and share your own best practices and challenges. At the conference, you will be surrounded by the community leaders and trainers, and everyone is seeking to learn. We can assure you that you will get much more than 'just another conference experience', if you reach out to your neighbor during coffee breaks, at the watercoolers, while sharing charging stations, at lunches, in the breakout rooms, and at conference receptions.
+We, as organizers, have put a lot of efforts into making sure that you get several opportunities to learn new skills and ideas while expanding your network. In this 3-day high-intensity conference you will learn from: (1) the experts, through keynote talks, skill-up sessions, and workshops, (2) share your ideas with each other, in discussion/breakout sessions and get tips from the session leads and other attendees, (3) suggest, vote for and lead a session on the spot and share your own best practices and challenges. At the conference, you will be surrounded by the community leaders and trainers, and everyone is seeking to learn. We can assure you that you will get much more than 'just another conference experience', if you reach out to your neighbor during coffee breaks, at the watercoolers, while sharing charging stations, at lunches, in the breakout rooms, and at conference receptions.
 
-### L: Lightning talks, Library Carpentry
-
-#### Lightning talks
-
-We have lightening talk sessions (divided by topics) on the first and second day of the conference, please see the [conference program](http://www.carpentrycon.org/#prog). You are welcome to submit abstracts, see [here](https://carpentries.typeform.com/to/AImKAG) for more detail.
+### L: Library Carpentry, Lightning talks
 
 #### Library Carpentry
 
-Library Carpentry, is made by librarians, for librarians to help you automate repetitive, boring, error-prone tasks, create, maintain and analyse sustainable and reusable data, work effectively with IT and systems colleagues, better understand the use of software in research and much more. Library Carpentry introduces you to the fundamentals of computing and provides you with a platform for further self-directed learning. See [here](http://librarycarpentry.github.io/our-sponsors/) for more detail. Shortly before CarpentryCon, Library Carpentry and The Carpentries mutually decided to enter into a conversation with each other about incorporating Library Carpentry as a Carpentries lesson program.
+Library Carpentry is made by librarians, for librarians, to help you automate repetitive, boring, error-prone tasks; create, maintain and analyse sustainable and reusable data; work effectively with IT and systems colleagues; better understand the use of software in research, and much more. Library Carpentry introduces you to the fundamentals of computing and provides you with a platform for further self-directed learning. See [here](http://librarycarpentry.github.io/our-sponsors/) for more detail. Library Carpentry and The Carpentries mutually decided to incorporate Library Carpentry as a Carpentries lesson program in 2018.
 
-### M: Medical, Mentoring, Meet-ups
+#### Lightning talks
+
+We have lightning talk sessions (divided by topics) on the first and second day of the conference - please see the [conference program](https://2020.carpentrycon.org/programme/). You are welcome to submit abstracts using [this form](https://docs.google.com/forms/d/e/1FAIpQLSeEXTCSQFsPlHdK8ekSPZHxiyrZ3Y18GCjwfXIEt_9li9Jj9A/viewform).
+
+### M: Medical, Meet-ups, Mentoring
 
 #### Medical
 
-We will have basic medication and first aid support at the venue. The closest pharmacy is within 5 minutes walking distance, on the UCD campus ([Procare Pharmacy UCD](https://goo.gl/maps/hoxNWogRPWE2), Phone: 017163840). If you have any specific medical needs, let the organizers know in advance so that they make the necessary arrangements for you. See *Emergency* for other relevant contact lists.
-
-#### Mentoring
-
-Mentorship is an important part of the Carpentry experience. As Instructors, we both teach and mentor our Learners. We also mentor each other as Instructors, learning something new from each other every time we teach and interact with one another. The Mentoring Subcommittee offers guidance to new and continuing Instructors through weekly discussion sessions, where Instructors from the global Carpentry community gather to share their experiences and learn from each other. This is a fantastic opportunity to interact with other Carpentry Instructors from around the world. (Read more on the The Carpentries [Blog1](https://software-carpentry.org/blog/2017/10/mentoring-wrap-up.html) and [Blog2](https://software-carpentry.org/blog/2018/03/next-round-mentoring.html)).
-
-There are several things planned for you at the conference, which include break-out sessions, social activities, badges to show your involvement and a desk where you can learn more about the existing mentoring program and its activities.
+We will have basic medication and first aid support at the venue. FIXME: The closest pharmacy is within 5 minutes walking distance, on the UW-Madison campus ([FIXME](FIXME), Phone: FIXME). If you have any specific medical needs, let the organizers know in advance so that they can make the necessary arrangements for you. See *Emergency* for other relevant contact lists.
 
 #### Meet-ups
 
-We will organize a pre-conference meet-up (more information will be added) and an official conference dinner. We will offer you opportunities to organize your own small meet-ups and invite the participants (see *Social Activities and Friends and Family*). If you have some ideas or suggestions, please let the organizers know so that they can help you in setting it up. Check out [this etherpad](http://pad.software-carpentry.org/social_events) for existing ideas, and add your name under the relevant sections.
+We will organize a pre-conference meet-up (more information will be added) and an official conference dinner. We will offer you opportunities to organize your own small meet-ups and invite the participants (see *Social Activities and Friends and Family*). If you have some ideas or suggestions, please let the organizers know so that they can help you in setting it up. Check out [this etherpad](https://pad.carpentries.org/carpentrycon2020-social) for existing ideas, and add your name under the relevant sections.
+
+#### Mentoring
+
+Mentorship is an important part of the Carpentry experience. As Instructors, we both teach and mentor our Learners. We also mentor each other as Instructors, learning something new from each other every time we teach and interact with one another. The Mentoring Subcommittee offers guidance to new and continuing Instructors through weekly discussion sessions, where Instructors from the global Carpentry community gather to share their experiences and learn from each other. This is a fantastic opportunity to interact with other Carpentry Instructors from around the world. (Read more about becoming a mentor or a mentee in [The Carpentries Handbook](https://docs.carpentries.org/topic_folders/instructor_development/mentoring_groups.html).
+
+There are several things planned for you at the conference, which include break-out sessions, social activities, badges to show your involvement and a desk where you can learn more about the existing mentoring program and its activities.
 
 ### N: New Members, Name Tags, Nursing
 
