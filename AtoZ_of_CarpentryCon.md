@@ -97,13 +97,13 @@ FIXME: TIP: if you are paying with a foreign bankcard/creditcard/debitcard and g
 
 ### D: Diversity
 
-The Carpentries is a community of volunteer instructors, helpers, trainers, maintainers, champions, member organisations, supporters, and staff, of diverse background, nationality, ethnicity, gender and various identity groups. We are working hard to ensure that everyone feels welcome at CarpentryCon. Feel free to reach out to the organizers and staff if they can improve your experience as a member at The Carpentries and CarpentryCon. Attendees must be prepared to abide by our Code of Conduct (see *Allies, Carpentries, Code of Conduct, Inclusion, Emergency*).
+The Carpentries is a community of volunteer instructors, helpers, trainers, maintainers, champions, member organizations, supporters, and staff, of diverse background, nationality, ethnicity, gender and various identity groups. We are working hard to ensure that everyone feels welcome at CarpentryCon. Feel free to reach out to the organizers and staff if they can improve your experience as a member at The Carpentries and CarpentryCon. Attendees must be prepared to abide by our Code of Conduct (see *Allies, Carpentries, Code of Conduct, Inclusion, Emergency*).
 
 ### E: Emergency, Entertainment and Events, Etherpads, Executives, Exhibition
 
 #### Emergency
 
-In case of emergency, please contact the Welcome Team/organizers via phone **FIXME** (will be active only during the conference), email (carpentrycon@carpentries.org) or [slack](FIXME).
+In case of emergency, please contact the Welcome Team/organizers via phone **FIXME** (will be active only during the conference), email (carpentrycon@lists.carpentries.org) or [slack](FIXME).
 
 <img src="http://img.pagecloud.com/Cm7zt07h7XWYD0Vk922I4X58ujU=/280x0/filters:no_upscale()/telcoswitch/images/call_features_2_11-ID-9fccdb65-a8df-4311-c1fa-8a69234dded6.png">
 
@@ -212,11 +212,7 @@ Mentorship is an important part of the Carpentry experience. As Instructors, we 
 
 There are several things planned for you at the conference, which include break-out sessions, social activities, badges to show your involvement and a desk where you can learn more about the existing mentoring program and its activities.
 
-### N: New Members, Name Tags, Nursing
-
-#### New Members
-
-Are you new to The Carpentries? Do you want to learn more about the organization and how you can support it? CarpentryCon is the place for you. Actually a **_better_** start for you than the rest of us had, as you will have an opportunity for face-to-face networking and interaction. We understand that it could be frightening if you don't know anyone, but the community has a history of being very friendly and inclusive, so don't be afraid to say 'Hi' and introduce yourself. You will be surprised how many lasting collaborations you will make at the conference. Join the ice-breaking session to get a head start to networking, and when in doubt, contact the Welcome Team.
+### N: Name Tags, New Members, Nursing
 
 #### Name Tags
 
@@ -224,53 +220,37 @@ Are you new to The Carpentries? Do you want to learn more about the organization
 
 ##### *[Image source: mynamebadges.com](https://images.mynamebadges.com/img/lg/L/my-name-preferred-pronouns-label-lb-2525.pn)*
 
-Name tags are a great way for participants to strike up conversations with other participants or volunteers. You can collect your name tag at the registration desk (don't forget to bring your registration ticket). We will be offering you a list of badges (e.g. speaker, trainer, task-force, volunteers, new members etc.) to add to you name tag to let others know your interests, roles and expertise, which will help you network more efficiently. Our name tags will have a section to add your pronoun preference. As a participant, be respectful to each other by using the correct name and pronoun. Ask! if you don't know how to pronounce someone's name, maybe they will share a nice story about what their name means.
+Name tags are a great way for participants to strike up conversations with other participants or volunteers. You can collect your name tag at the registration desk (don't forget to bring your registration ticket). We will be offering you a list of badges (e.g. speaker, trainer, task-force, volunteers, new members, etc.) to add to your name tag to let others know your interests, roles and expertise, which will help you network more efficiently. Our name tags will have a section to add your pronoun preference. As a participant, be respectful to each other by using the correct name and pronoun. Ask! if you don't know how to pronounce someone's name, maybe they will share a nice story about what their name means.
+
+#### New Members
+
+Are you new to The Carpentries? Do you want to learn more about the organization and how you can support it? CarpentryCon is the place for you. Actually a **_better_** start for you than the rest of us had, as you will have an opportunity for face-to-face networking and interaction. We understand that it could be frightening if you don't know anyone, but the community has a history of being very friendly and inclusive, so don't be afraid to say 'Hi' and introduce yourself. You will be surprised how many lasting collaborations you will make at the conference. Join the ice-breaking session to get a head start to networking, and when in doubt, contact the Welcome Team.
 
 #### Nursing
 
-For mothers who need a designated space for nursing, please look for the nursing signs upon arrival of the conference. Please let the organisers know if you will be traveling with an infant and would like to place any special requests. Please see *Childcare, Special Requirements, Friends and Family* for related information
+For mothers who need a designated space for nursing, please look for the nursing signs upon arrival of the conference. Please let the organizers know if you will be traveling with an infant and would like to place any special requests. Please see *Childcare, Special Requirements, Friends and Family* for related information.
 
-### O: O'Brien Centre, Open mic
+### O: FIXME
 
-#### O'Brien Centre
+FIXME
 
-The conference is being held at the [O'Brien Centre for Science](http://www.ucd.ie/conferences/venues/classroom-and-theatres/)
-at [University College Dublin](http://www.ucd.ie/).
-
-<img src="CarpentryCon-2018/taskforce_misc/a-z-images/dublin-ucd.jpeg" width=300> <img src="taskforce_misc/a-z-images/dublin-ucd2.jpeg" width=300>
-
-##### *O'Brien Centre, images by Norman Davey*
-
-The UCD O'Brien Centre for Science is located on UCD's Belfield campus, 4 km south of Dublin
-city centre. Link to [Google Map](https://goo.gl/maps/xpnddSdsZ8n) and [campus map](http://mdd.ucd.ie/wp-content/uploads/2015/05/UCD-Map-October-2014-Custom.pdf).
-
-The keynote lectures will take place in the George Moore Auditorium, which can be found on the ground floor of the O'Brien Centre's East wing (#67 on the campus map, above) on the left hand side of the main foyer. Specific workshop, skill-up, and breakout rooms will be anounced as information becomes available.
-
-#### Open mic
-
-The majority of The Carpentries community is constituted by its volunteer trainers (who also go on to take up more roles in The Carpentries). If you are a new trainer, our 'Open Mic' sessions will be very useful for you. If you are a more experienced trainer, it's an opportunity for you to pass your knowledge to the session attendees. Please see our [program](http://www.carpentrycon.org/#program) and prepare yourself up to come up on the podium in one of these sessions.
-
-### P: Pronouns, Photography, Posters, Pre-conference, Post-conference
-
-#### Pronouns
-
-It has become a general practice to share pronouns (He/She/They/Ze etc.) on conference name tags. For those unfamiliar with the practice of sharing pronouns at the conference, it goes something like this: “Name: Malvika Sharan. Pronouns: she/her”. This practice is important for making sure that we use correct pronouns, specifically for our trans, queer, and gender non-conforming community members you will meet at CarpentryCon.
+### P: Photography, Posters, Pre-conference, Post-conference, Pronouns
 
 #### Photography
 
-You are allowed to take photographs at the conference. Make sure that you do not disturb any session or others in the process. We will offer a differently colored lanyard to those who **don't want to be photographed**. Be respectful of their decision and don't take/post their pictures on social media. A few volunteers will be taking pictures to be included to the official collection, you are welcome to join them. If you want to post pictures on social media, use the hastag #carpentrycon2018 to tag the conference, so that other attendees and those who couldn't join the conference can find your posts.
+You are allowed to take photographs at the conference. Make sure that you do not disturb any session or others in the process. We will offer a differently colored lanyard to those who **don't want to be photographed**. Be respectful of their decision and don't take/post their pictures on social media. A few volunteers will be taking pictures to be included to the official collection, you are welcome to join them. If you want to post pictures on social media, use the hastag #CarpentryCon2020Madison to tag the conference, so that other attendees and those who couldn't join the conference can find your posts.
 
 #### Posters
 
-We will have a poster session and a designated area for the display of posters. You should use the A0 poster size (vertical). Any other specifications will be added if required. The deadline for the abstract submission is May 4th.
+We will have a poster session and a designated area for the display of posters. You should use the A0 poster size (vertical). Any other specifications will be added if required. The deadline for the abstract submission is April 30th.
 
 #### Pre-conference
 
-We will send out an email to all the registered participants with all the information we think you must have before arriving to the conference including the [CarpentryCon cheatcheet](https://github.com/carpentries/carpentrycon/blob/master/CarpentryCon_Cheatsheet.md). The email will have link to the pre-conference survey to allow you choose your sessions of preference and add any special need that you may have. It's crucial that you respond to the survey to secure a place in the sessions of your choice. We invite you to our optional Social Event at the **Clubhouse** on May 29, 18:00 onward.
+We will send out an email to all the registered participants with all the information we think you must have before arriving to the conference including the [CarpentryCon cheatsheet](FIXME). The email will have a link to the pre-conference survey to allow you to choose your sessions of preference and add any special need that you may have. It's crucial that you respond to the survey to secure a place in the sessions of your choice.
 
-##### Pre-conference Checklist
+##### Pre-conference checklist
 
-My personal checklist will have very basic reminders like: check your flight_schedule-alarm-passport-visa-keys-wallet-cash-hotel_address-charger-headphones-book-clothes-phone-laptop, take out the garbage, water your plant, lock your door, panic (*did I close the windows!*) - you get it. I didn't want to assume that everyone needs an exhaustive list of reminders like I do, so like any other sensible adult, I asked twitter for advice. [Here is what I got](https://twitter.com/MalvikaSharan/status/990973533823078400):
+A personal checklist may have very basic reminders like: check your flight_schedule-alarm-passport-visa-keys-wallet-cash-hotel_address-charger-headphones-book-clothes-phone-laptop, take out the garbage, water your plant, lock your door, panic (*did I close the windows!*) - you get it. Malvika previously asked twitter for advice. [Here is what she got](https://twitter.com/MalvikaSharan/status/990973533823078400):
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">What do you have in your pre-conference list? Help me fill this list for the <a href="https://twitter.com/CarpentryCon?ref_src=twsrc%5Etfw">@CarpentryCon</a> participants who are coming to <a href="https://twitter.com/ucddublin?ref_src=twsrc%5Etfw">@ucddublin</a> <a href="https://twitter.com/hashtag/Dublin?src=hash&amp;ref_src=twsrc%5Etfw">#Dublin</a> to attend the <a href="https://twitter.com/hashtag/carpentrycon2018?src=hash&amp;ref_src=twsrc%5Etfw">#carpentrycon2018</a>. Pull requests are welcome on this <a href="https://twitter.com/github?ref_src=twsrc%5Etfw">@github</a> link: <a href="https://t.co/fL1uVvxwT1">https://t.co/fL1uVvxwT1</a></p>&mdash; Malvika Sharan (@MalvikaSharan) <a href="https://twitter.com/MalvikaSharan/status/989883041035276288?ref_src=twsrc%5Etfw">April 27, 2018</a></blockquote>
 
@@ -282,95 +262,51 @@ Also, someone has already written a blog on [What to Pack & Prepare Before Any B
 
 #### Post-conference
 
-The post-conference period will be equally crucial to evaluate the success of the conference. Please fill the [post-conference survey](https://www.surveycrest.com/s/2018carpentryconfeedback) after the conference to learn about your experiences from this conference and suggestions for the next one. We will also organize a community call to discuss the survey results and the plans for the next conference: carpentryCon 2019.
+The post-conference period will be equally crucial to evaluate the success of the conference. Please fill the [post-conference survey](FIXME) after the conference to learn about your experiences from this conference and suggestions for the next one. We will also organize a community call to discuss the survey results and the plans for the next conference: carpentryCon 2019.
+
+#### Pronouns
+
+It has become a general practice to share pronouns (He/She/They/Ze etc.) on conference name tags. For those unfamiliar with the practice of sharing pronouns at the conference, it goes something like this: “Name: Malvika Sharan. Pronouns: she/her”. This practice is important for making sure that we use correct pronouns, specifically for our trans, queer, and gender non-conforming community members you will meet at CarpentryCon.
 
 ### Q: Questions, Quiet Rooms
 
 #### Questions
 
-Get in touch with the organisers (carpentrycon@carpentries.org) if you have any specific questions about the conference. Join the community call (May 3) to discuss with them in person ([see the notes](http://pad.software-carpentry.org/carpconcall)). At the conference, you can approach the Welcome Team for any specific queries. Join our [Slack channel](https://tinyurl.com/carpentrycon-slack1) for any recent discussion and updates.
+Get in touch with the organizers (carpentrycon@lists.carpentries.org) if you have any specific questions about the conference. At the conference, you can approach the Welcome Team for any specific queries. Join our [Slack channel](https://tinyurl.com/carpentrycon-slack1) for any recent discussion and updates.
 
 #### Quiet Rooms
 
 If you need a quiet place while attending CarpentryCon, there will be space available. Please see the program or ask a volunteer where the room will be located. We ask that while you are in the room that you are mindful of others who may be sharing the space as well.
 
 The following prayer rooms are available on campus:
-- UCD Muslim/Islamic Prayer Room
-- UCD Chaplaincy prayer room - St Stephens
+- FIXME
+- FIXME
 
-### R: Registration, Ramadan Period, Restaurant suggestions
+### R: Registration, Restaurant suggestions
 
 #### Registration
 
-The [online registration](https://www.eventbrite.com/e/carpentrycon-2018-tickets-42447719271) is open. We will have an opportunity for on-site registration but please let the organisers know in advance. More information about the workshop registration will be added here.
+The [online registration](https://www.eventbrite.com/e/carpentrycon-2020-tickets-88906089507) is open. We will have an opportunity for on-site registration, but please let the organizers know in advance. More information about the workshop registrations will be added here.
 
-The registration desk will be available on site from May 30 to June 1. Please bring your registration confirmation, which can be swapped for your name tag and badges.
-
-#### Ramadan Period During CarpentryCon
-
-Ramadan is regarded as the holiest period of the year in the Muslim communities and takes place on the ninth month of the Muslim year. People with Islamic faith observe Ramadan by fasting from sunrise to sunset. Since CarpentryCon is taking place in Ramadan period, we would like to offer support to our attendees in way we can.
-
-Here is a few information we collected for you:
-
-- [Ramadan prayer time in Dublin](https://hamariweb.com/islam/dublin_ramadan-timing168578.aspx)
-- Dedicated prayer rooms for Muslim students are located in [Woodview House on the Belfield campus](https://goo.gl/maps/b7M1Uj5jQXA2), which is 5 minutes by foot from the conference venue
-- [Dublin mosque](https://en.wikipedia.org/wiki/Dublin_Mosque) and [Islamic Cultural Centre of Ireland](https://islamireland.ie/), [google maps](https://tinyurl.com/y7bvzt9q)
-- [Ramadan in Dublin](https://colettecolfer.wordpress.com/tag/ramadan-in-dublin/)
-
-Please help us support you by supporting your peers at the CarpentryCon. Here is how you can do it:
-
-- Our Muslim participants can share relevant information with each other and organize their 'Iftar'. Feel free to use Slack and/or [etherpad for social activities](http://pad.software-carpentry.org/social_events).
-- Our non-muslim participants can extend their support by learning about Ramadan through these articles:
-  - [What is Ramadan?](https://www.livescience.com/61815-what-is-ramadan.html )
-  - [Ramadan 2018: All you need to know.](https://gulfnews.com/guides/life/ramadan/features/ramadan-2018-all-you-need-to-know-1.1528649)
-  - [Every awkward question you have about Ramadan answered.](https://www.joe.ie/life-style/a-beginners-guide-to-ramadan-548073)
+The registration desk will be available on site from June 29 to July 1. Please bring your registration confirmation, which can be swapped for your name tag and badges.
 
 #### Restaurant suggestions
 
-We will be using the catering service from Pi Restaurant, which is located in the same builiding as the conference venue. More restaurant suggestions including [restaurants for Iftar](https://colettecolfer.wordpress.com/2013/07/24/iftar-in-a-pakistani-restaurant-ramadan-day-15-half-way-there/) for you are available on the etherpad dedicated to the discussion on [social activities at CarpentryCon](http://pad.software-carpentry.org/social_events). If you have any recommendations please add them there. 
+We will be using the catering service from FIXME, which is located in the same builiding as the conference venue. More restaurant suggestions, including [FIXME](FIXME), are available on the etherpad dedicated to the discussion on [social activities at CarpentryCon](https://pad.carpentries.org/carpentrycon2020-social). If you have any recommendations, please add them there. 
 
-<img src="http://rosyandgrey.de/wp-content/uploads/2017/08/Dublin-Travelguide-Foodguide.png" width=305> <img src="CarpentryCon-2018/taskforce_misc/a-z-images/dublin5.jpeg" width=300>
-
-##### *Image source: Left - http://rosyandgrey.de/, Right - Temple Bar, image by Norman Davey*
-
-### S: Skill-up, Sticky Notes, Slack, Special requirements, Surveys, Sponsors, Sightseeing, Software Carpentry
-
-#### Skill-up
-
-There will be 6 skill-up sessions during CarpentryCon (http://www.carpentrycon.org/#program). The abstracts of all the session can be found in the [CarpentryCon GitHub pages](https://github.com/carpentries/carpentrycon/tree/master/Sessions) (separated by dates). There will be a limited number of seats available for each of these. Closer to the conference we will send out more information on how to register for those (look out for that).
-
-#### Sticky Notes
-
-We love sticky notes! No Carpentries workshop is possible without the sticky notes. See [Greg's collection of tips and techniques for teaching with sticky notes](https://github.com/gvwilson/sticky-note-teaching) to learn the various reasons it makes learning and teaching easier. Therefore, we will be using (even over-using!) these during the skill-up sessions, workshops and wherever possible.
-
-#### Slack
-
-We are on Slack: https://tinyurl.com/carpentrycon-slack1. Join us there to connect and communicate with the organizers and participants of CarpentryCon. We will be actively using the various channels for continuing discussions, and documenting them to summerise different aspects of the conference. Also, you can install Slack apps to have access to these channels through your phone.
-
-#### Special requirements
-
-We want to assist you in all possible ways to make your participation at CarpentryCon enjoyable and stress-free. Please contact the organisers with any requests for special needs so that we can make arrangements before your arrival. Do not hesitate to contact the Welcome Team during the meeting for any help. (see *Arrival and Access, Childcare, Inclusion*)
-
-#### Surveys
-
-Please fill out the pre-conference survey before your arrival to help us organise everything you may need at the conference (e.g. any special needs, suggestions etc.). The post-conference survey will be used to evaluate your overall experience at the conference, which will help us to improve our efforts while organising future conferences and meetings.
-
-**Links to the surveys:**
-- Pre-conference Survey: https://goo.gl/forms/VUBMglv0qyRZp6aA2
-- Post-conference Survey: https://www.surveycrest.com/s/2018carpentryconfeedback
-
-#### Sponsors
-
-CarpentryCon 2018 will not be possible without the generous support of businesses and foundations who support our mission of teaching foundational computational and data science skills to researchers, to safeguard the future of sound, open, reproducible science. Here is the [list of our sponsors](http://www.carpentrycon.org/#donor). Do you/your organisation want to support our event? See [details on our official website](http://www.carpentrycon.org/#portfolio) to learn all about it.
+### S: Sightseeing, Skill-up, Slack, Software Carpentry, Special requirements, Sponsors, Sticky Notes, Surveys
 
 #### Sightseeing
 
-Explore Dublin by jogging or walking through the city and learn about its history and famous landmarks with Irish tour guides. Please see details about the [*Sight Jogging Dublin*](www.sightjoggingdublin.com) and [Dublin Free Walking tour](http://www.dublinfreewalkingtour.ie/) for more information.
+FIXME
 
-<img src="CarpentryCon-2018/taskforce_misc/a-z-images/dublin2.jpeg" width=800>
-<img src="CarpentryCon-2018/taskforce_misc/a-z-images/dublin7.jpeg.jpg" width=800>
+#### Skill-up
 
-##### *Image Sources: Upper: Samuel Beckett Bridge, image by Norman Davey, Lower: Dublin Castle, image by Malvika Sharan*
+There will be 6 skill-up sessions during CarpentryCon (https://2020.carpentrycon.org/programme/). The abstracts of all the sessions will be announced soon. There will be a limited number of seats available for each of these. Closer to the conference we will send out more information on how to register for those (look out for that).
+
+#### Slack
+
+We are on Slack: FIXME. Join us there to connect and communicate with the organizers and participants of CarpentryCon. We will be actively using the various channels for continuing discussions, and documenting them to summarise different aspects of the conference. Also, you can install Slack apps to have access to these channels through your phone.
 
 #### Software Carpentry
 
@@ -378,127 +314,123 @@ The Software Carpentry Foundation and its sibling project, Data Carpentry, have 
 
 Like *Data Carpentry*, we will have a desk at the conference where you can learn more about this project.
 
-### T: Taskforce, Twitter, T-shirts, Technical Support, Travel/Transportation
+#### Special requirements
+
+We want to assist you in all possible ways to make your participation at CarpentryCon enjoyable and stress-free. Please contact the organizers with any requests for special needs so that we can make arrangements before your arrival. Do not hesitate to contact the Welcome Team during the meeting for any help. (see *Arrival and Access, Childcare, Inclusion*)
+
+#### Sponsors
+
+CarpentryCon 2020 will not be possible without the generous support of businesses and foundations who support our mission of teaching foundational computational and data science skills to researchers, to safeguard the future of sound, open, reproducible science. Here is the [list of our sponsors](FIXME). Do you/your organization want to support our event? See [details on our official website](https://2020.carpentrycon.org/sponsorship/) to learn all about it.
+
+#### Sticky Notes
+
+We love sticky notes! No Carpentries workshop is possible without the sticky notes. See [Greg's collection of tips and techniques for teaching with sticky notes](https://github.com/gvwilson/sticky-note-teaching) to learn the various reasons it makes learning and teaching easier. Therefore, we will be using (even over-using!) these during the skill-up sessions, workshops and wherever possible.
+
+#### Surveys
+
+Please fill out the pre-conference survey before your arrival to help us organize everything you may need at the conference (e.g. any special needs, suggestions, etc.). The post-conference survey will be used to evaluate your overall experience at the conference, which will help us to improve our efforts while organizing future conferences and meetings.
+
+**Links to the surveys:**
+- Pre-conference Survey: FIXME
+- Post-conference Survey: FIXME
+
+### T: T-shirts, TaskForce, Technical Support, Travel/Transportation, Twitter
+
+#### T-shirts
+Would you like to have a keepsake of this momentus occasion for the Carpentries? Order yourself a t-shirt to show your pride. More information will be added [here](FIXME) to ensure you have your shirt for CarpentryCon!
 
 #### TaskForce
 
-The CarpentryCon TaskForce was created in 2017 by the volunteers from the community with an intention to organize the inaugural CarpentryCon conference. The team worked out the initial plan for the conference (including its name), and kept recruiting the volunteers and passed over the role of organizing the meeting. The current Organizing TaskForce comprises both volunteers and The Carpentries staff members. With the conference approaching, more community members from The Carpentries formed the [Travel Support TaskForce](https://github.com/carpentries/carpentrycon/blob/master/travel_support.md) and [Diversity and Inclusion TaskForce](https://github.com/carpentries/carpentrycon/blob/master/venue.md) and extended their help in addressing specific concerns related to the conference. Several of the TaskForce members will be at the conference. Stop by and say 'Hi' to us and let us know if you have any suggestions or interest in joining us for the next conference.
+The CarpentryCon TaskForce was created in 2019 by the volunteers from the community with an intention to organize the inaugural CarpentryCon conference. The team worked out the initial plan for the conference, and kept recruiting the volunteers and passed over the role of organizing the meeting. The current Organizing TaskForce comprises both volunteers and The Carpentries staff members. Several of the TaskForce members will be at the conference. Stop by and say 'Hi' to us and let us know if you have any suggestions or interest in joining us for the next conference.
 
-- Current members of the Organizing TaskForce: Fotis Psomopoulos (Chair), Malvika Sharan (Secretary), Belinda Weaver (The Carpentries), SherAaron Hurt (The Carpentries), Mark Laufersweiler (on-site facilitator), Danielle Quinn (Social media manager), Ivo Arrey (on site help)
-  - Common email: carpentrycon@carpentries.org, contact them for a specific topic: http://www.carpentrycon.org/#contact
-- Local host: Norman Davey
-- Travel Support TaskForce: Erin Becker, Elizabeth Williams, Kari Jordan, Malvika Sharan, SherAaron Hurt
-- Diversity and Inclusion TaskForce: Tracy Teal, Malvika Sharan, SherAaron Hurt, Kari Jordan
-- Past members and continuous supporters: Greg Wilson, Jason Williams, Mateusz Kuzak, Tracy Teal, Alix Keener, Jonah Duckles, Jamie Hadwin, Rayna Harris, Maneesha Sane
-- CarpentryCon 2018 Volunteers from UCD: They are very crucial for this event while we are not on site. A special shout out to each of them.
-
-#### Twitter
-
-We have a Twitter account dedicated to CarpentryCon feed, [follow us](https://twitter.com/CarpentryCon)!
-We would love to see your pictures and tweets about CarpentryCon. Use the **#carpentrycon2018** hashtag to tag CarpentryCon.
-
-#### T-shirts
-Would you like to have a keepsake of this momentus occasion for the Carpentries? Order yourself a t-shirt to show your pride. More information will be added [here](https://github.com/carpentries/carpentrycon/blob/master/taskforce_misc/CarpentryCon-tshirt.md) in a few days to ensure you have your shirt for CarpentryCon!
+- Current members of the Organizing TaskForce: https://2020.carpentrycon.org/task-force/
+- Common email: carpentrycon@lists.carpentries.org
+- CarpentryCon 2020 Volunteers from UW-Madison: They are very crucial for this event while we are not on site. A special shout out to each of them.
 
 #### Technical Support
 
-We will have technical support at the conference from the AVCOM AV services. A few volunteers will be willing to help you with any technical difficulties that you might face at the conference. You can inquire about this at the helpdesk or by directly approaching the members of the Welcome Team.
+We will have technical support at the conference from the FIXME services. A few volunteers will be willing to help you with any technical difficulties that you might face at the conference. You can inquire about this at the helpdesk or by directly approaching the members of the Welcome Team.
 
-Here are a few tips to help you use your electronic devices in Ireland:
+Here are a few tips to help you use your electronic devices in Madison:
 
 <img src="http://irishfireside.com/wp-content/uploads/2016/04/outlets-1.jpg" width=60%>
 
 ##### *Image source: [Adapters to keep your electronics charged in Ireland - irishfireside.com](http://irishfireside.com/2016/04/07/qa-kind-electrical-adapter-need-keep-electronics-charged-ireland/)*
 
-1) Bring a Type-G (compatible) power adapter. Check the requirements [here](https://www.power-plugs-sockets.com/ireland/).
+1) Bring a Type-G (compatible) power adapter. Check the requirements [here](FIXME).
 2) If you are using your laptop for a presentation, bring your adapter to connect it with the projector (HDMI or VGA).
 3) You can take pictures at the conference. Check the sign on the participants badges to make sure if they have chosen to be photographed.
 4) If you have any errors while running your program, send a tweet or ask for help on the Slack channels.
 
-#### Travel/Transportation
+#### Travel and Transportation
 
-**Dublin Bus** provide services from anywhere in the city to the Belfield campus. The
-price of a ticket to/from Dublin's city center is €2.85, to be paid in exact change to the
-driver. Routes to/from the city centre are operated by several lines, stopping at different locations around the campus. We recommend using Google Maps to plan your trips with Dublin Bus. Bus lines operate from 5:15 until 23:30.
+##### Getting Here By Air
+The closest airport to UW-Madison is Dane County Regional Airport (MSN). Flights to here can be more expensive, as it is a small airport, but getting to campus from MSN is easy on a Metro Bus, by taxi or by rideshare services. Alternative airports include Mitchell International Airport (MKE) in Milwaukee, WI, O’Hare International Airport (ORD) and Chicago Midway International Airport in Chicago, IL. There is a regular, reliable regional bus service from the Chicago airports to Madison (see below).
 
-**Aircoach** (http://www.aircoach.ie) operates a coach service from Dublin Airport
-to Leopardstown / Sandyford / Stillorgan, which stops in front of UCD's main entrance.
-Ask the driver for a ticket to UCD’s Belfield Campus (a one-way ticket is €10, a two-way ticket is €16).
+##### Getting Here By Bus
+Regional buses run from Chicago Midway Airport, Chicago O’Hare Airport and Downtown Chicago (see [Van Galder Bus](https://web.coachusa.com/vangalder/) or [Megabus](https://us.megabus.com/) for more details). Regional buses run from Milwaukee to Madison (see [Badger Bus](https://badgerbus.com/tickets/) or [Megabus](https://us.megabus.com/) for more details).
 
-**Taxis** and **Ubers** to UCD’s Belfield Campus can be booked with the MyTaxi and
-Uber smartphone apps, respectively. A taxi from the airport to the campus will cost
-approximately €30-50, depending on traffic. Please notice that all Uber drivers in Ireland are also required by law to be licensed taxi drivers.
+##### Getting to UW-Madison
+The conference venues are accessible by car. For parking rates and locations, please see the [UW-Madison Transportation Office page](https://transportation.wisc.edu/parking-lots/). [Accessible parking](https://transportation.wisc.edu/accessible-transportation-options/#parking) is also available. Note, however, that parking on campus is limited and we cannot guarantee that parking will be available in your chosen location.
 
-Please refer to the [UCD Commuting Guide](https://www.ucd.ie/t4cms/UCD-commuting-guide-2015.pdf)
-for any additional information on how to get to UCD. The
-[additional detail](http://www.ucd.ie/gettingtoucd.htm) page on UCD's website also provides additional information on how to get to UCD from the Dublin airport or train stations.
+If possible, we recommend going to and from campus by alternative means:
+- [Madison Metro Transit](https://www.cityofmadison.com/metro) offers many bus routes near the UW-Madison Campus and downtown. Check their website for routes, schedules and rates.
+- [Bcycle](https://madison.bcycle.com/what-is) offer bike share service in Madison. Check their website for pickup and dropoff locations.
+- [Union Cab](https://www.unioncab.com/) and [Green Cab](https://greencabmadison.com/) are local taxi services. Ride share services like Uber and Lyft also operate in Madison.
 
-### U: UCD and around
+#### Twitter
 
-<img src="CarpentryCon-2018/taskforce_misc/a-z-images/dublin-ucd3.jpeg" width=800>
+We have a Twitter account dedicated to CarpentryCon feed, [follow us](https://twitter.com/CarpentryCon)!
+We would love to see your pictures and tweets about CarpentryCon. Use the **#CarpentryCon2020Madison** hashtag to tag CarpentryCon.
 
-##### *UCD campus, image by Norman Davey*
+### U: UW-Madison
 
-University College Dublin (UCD) is our venue host, where we have been provided with an excellent facility to hold our inaugural CarpentryCon.
+FIXME
 
-> "Founded one hundred and sixty years ago, University College Dublin has continued to make a unique and substantial contribution to the creation of modern Ireland" - UCD Statement
-
-We are thankful to our conference host, the venue manager, the 'Summer at UCD' staff, and several volunteers for their constant support and help with everything we needed while not being on the site.
-
-See *O'Brien Centre* to check out the conference venue at UCD. See our [Accessibility Page](https://github.com/carpentries/carpentrycon/blob/master/venue.md) for more information on what you can do while at UCD.
-
-Learn more about the university [here](http://www.ucd.ie/about-ucd/). UCD has its own [A-Z directory](https://www.ucd.ie/a-z/) to get specific information.
-
-<img src="CarpentryCon-2018/taskforce_misc/a-z-images/dublin-ucd4.jpeg" width=800>
-
-##### *UCD campus, image by Norman Davey*
-
-### V: Volunteers, Visa, Veg()an+
-
-#### Volunteers
-
-A group of volunteers will always be present at the venue to help you coordinate with the organizer, session chairs, venue manager, and find your way to the different rooms at the venue.
-
-If you are at UCD already or coming to the conference, you can offer your help to us by volunteering at CarpentryCon 2018.
-Sher has written a wonderful [blog on volunteering](http://www.datacarpentry.org/blog/volunteers-wanted/) summarizing what we have done so far in the CarpentryCon, and how you can contribute to it. Belinda has put the recent updates (April 2018) [here](https://carpentries.org/blog/2018/04/carpentrycon-update/). You can see our discussion on this [etherpad](http://pad.software-carpentry.org/carpentrycon_volunteers). How to become a CarpentryCon Volunteer? Contact one of us: Malvika Sharan (malvika.sharan@embl.de), Danielle Quinn (danielle.quinn@acadiau.ca), SherAaron Hurt (sheraaron@carpentries.org).
-
-#### Visa
-
-Make sure that your passport/existing visa allows you to enter Ireland - check it [here](http://www.inis.gov.ie/en/INIS/Pages/check-irish-visa). In case you need to apply for a visa, you should do so at minimum 2-3 weeks before the conference. You can receive a visa support letter from the conference organizers: please contact Fotis and Malvika with your request. Please see the details about the application process here for a visa application to the Irish Naturalisation and Immigration Service: https://www.dfa.ie/travel/visas/visas-for-ireland/.
+### V: Veg()an+, Visa, Volunteers
 
 #### Veg()an+
 
-We want to be able to provide you catering keeping your dietary restrictions into account (e.g. Veg(itari)ans, Gluten-free, Nut-free etc). Make sure that you provide your preference while registering. If you forgot about it, contact the organizers with your request.
+We want to be able to provide you catering keeping your dietary restrictions into account (e.g. Veg(etari)ans, Gluten-free, Nut-free etc). Make sure that you provide your preference while registering. If you forgot about it, contact the organizers with your request.
 
-### W: Weather, Workshops, Wireless, Welcome Team, Wish board, Watercoolers
+#### Visa
+
+If you are traveling from outside of the United States, please confirm that you have the [necessary visa needed to enter the United States](https://travel.state.gov/content/travel/en/us-visas.html). You can check if and what type of visa you require by using the US Government's [Visa Wizard](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/wizard.html).
+
+In case you need to apply for a visa, you should do so at minimum 2-3 weeks before the conference. You can receive a visa support letter from the conference organizers: please contact carpentrycon@lists.carpentries.org with your request.
+
+#### Volunteers
+
+A group of volunteers will always be present at the venue to help you coordinate with the organizers, session chairs, venue manager, and find your way to the different rooms at the venue.
+
+If you are at UW-Madison already or coming to the conference, you can offer your help to us by volunteering at CarpentryCon 2020.
+How to become a CarpentryCon Volunteer? Contact us: carpentrycon@lists.carpentries.org.
+
+### W: Watercoolers, Weather, Welcome Team, Wireless, Wish board, Workshops 
+
+#### Watercoolers
+
+FIXME: Watercoolers will be available in several spots of the conference venue. Try to minimize the waste by avoiding packaged water bottles, and re-using your cups.
 
 #### Weather
 
-The temperature during the conference, as per the AccuWeather-forecast, will be 8-16 Degree Celcius. Weather in Dublin changes a lot throughout the day. It is not unusual to have wind, short rain showers, and surprising sunshine, all in one day. Unfortunately, the city is also extremely windy so umbrellas will not be very useful! A good strategy is to resort to layered clothing and to bring waterproof shoes and jackets.
-
-#### Workshops
-
-On the last day of the conference, June 1, we will run several parallel workshop sessions. There will be a limited number of seats available for each of these workshops and you will receive an email from us stating how you can secure a place in the workshop of your choice. We are still discussing to offer some seats for the participants from UCD, who would be able to register on the spot with a minimal fee.
-
-#### Wireless
-
-Two wireless networks are available in the UCD O'Brien Centre for Science:
-
-|UCD Wireless|Eduroam (requires access via your home institution)|
-|--|--|
-|<table> <tr><td>**SSID**</td><td>UCD Wireless</td></tr> <tr><td>**Network type**</td><td>Access point</td></tr> <tr><td>**Security type**</td><td>No authentication</td></tr> <tr><td>**Encryption type**</td><td>None</td></tr></table>| <table> <tr><td>**SSID**</td><td>eduroam</td></tr> <tr><td>**Network type**</td><td>Access point</td></tr> <tr><td>**Security type**</td><td>WPA2-Enterprise</td></tr> <tr><td>**Encryption type**</td><td>AES</td></tr></table>|
+FIXME: In Madison, the summers are warm and wet; the winters are freezing, dry, and windy; and it is partly cloudy year round. Over the course of the year, the temperature typically varies from 13°F to 82°F and is rarely below -7°F or above 90°F. From mid-June to early September, i.e. during CarpentryCon 2020, we will have warm weather. Pack accordingly!
 
 #### Welcome Team
 
 The group of volunteers and organizers will be the part of this Welcome Team who will guide you and will be there to offer you any sort of assistance from the beginning to the end of the conference. Make yourself familiar with them (name tag, T-shirt etc.).
 
+#### Wireless
+
+FIXME
+
 #### Wish board
 
 At the conference site, we will put a wish-board for you, where you can add your 'wish' for CarpentryCon, The Carpentries, and its community. We will let you decide what this means to you! :)
 
-#### Watercoolers
+#### Workshops
 
-Watercoolers will be available in several spots of the conference venue. Try to minimize the waste by avoiding packaged water bottles, and re-using your cups.
+On the last day of the conference, July 1, we will run several parallel workshop sessions. There will be a limited number of seats available for each of these workshops and you will receive an email from us stating how you can secure a place in the workshop of your choice.
 
 ### X: _X out inequality_
 
@@ -508,13 +440,11 @@ Watercoolers will be available in several spots of the conference venue. Try to 
 
 *We can't emphasize this enough!*
 
-The globally diverse community of The Carpentries provides equal opportunities to everyone irrespective of their background (both technical and non-technical). We will maintain the same ethics at CarpentryCon and would request all our participants to familiarize themselves with our [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
+The globally diverse community of The Carpentries provides equal opportunities to everyone irrespective of their background (both technical and non-technical). We will maintain the same ethics at CarpentryCon and request all our participants to familiarize themselves with our [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
 
 ***Discrimination in any form, including behavior or remarks against any nationality, ethnicity, sexuality, religious and cultural belief, will not be tolerated!*** (also see *Allies, Code of Conduct, Diversity, Inclusion*)
 
 ### Y: You!
-
-> [Who Belongs at CarpentryCon 2018? You do.](https://carpentries.org/blog/2018/03/who-belongs-carpentrycon/) - Blog by Belinda Weaver
 
 This event is for **you**. The success of this conference will be measured by what you gain at the conference and afterward in terms of skills, knowledge, and networking.
 
@@ -522,17 +452,11 @@ Be mindful that the organizers are also volunteers who are organizing this for t
 
 ### Z: Zoom for TaskForce, Volunteers, and Community Calls
 
-We use [Zoom](https://zoom.us/) (not a sponsor!), for our calls to connect with community members. See *Etherpads* for all the relevant etherpads. We have planned a CarpentryCon-themed community call on May 3rd to help people get excited about what is coming, as well as answer any questions the community might have. See [this etherpad](http://pad.software-carpentry.org/carpconcall) for connection information and Zoom link.
+We use [Zoom](https://zoom.us/) (not a sponsor!), for our calls to connect with community members. See *Etherpads* for all the relevant etherpads. We will plan a CarpentryCon-themed community call in May/June to help people get excited about what is coming, as well as answer any questions the community might have. See [this etherpad](FIXME) for connection information and Zoom link.
 
-There will be two calls at the following times:
-- *First call:* 13:00 GMT/UTC, [see your time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CarpentryCon+Call&iso=20180503T13&p1=%3A&ah=1)
-- *Second call:* 12 noon PDT, [see your time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CarpentryCon+Call&iso=20180503T12&p1=234&ah=1)
+**We are looking forward to welcoming you to CapentryCon 2020!**
 
-**We are looking forward to welcoming you to CapentryCon 2018!**
-
-<img src="CarpentryCon-2018/taskforce_misc/a-z-images/TF2.jpg" width=800>
-
-##### *Screenshot of one of many Zoom meetings over the year*
+<img src="FIXME" width=800>
 
 Yours,
 
