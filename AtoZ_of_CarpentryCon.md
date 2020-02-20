@@ -123,8 +123,8 @@ We like to work collaboratively and use [Etherpad](http://pad.software-carpentry
 
 - *Main CarpentryCon*: https://pad.carpentries.org/carpentrycon2020-main
 - *Social Activities*: https://pad.carpentries.org/carpentrycon2020-social
-- *CarpentryCon Community Call*: FIXME
-- *CarpentryCon Volunteers*: FIXME
+- *CarpentryCon Community Call*: https://pad.carpentries.org/community-discussions (7 April, 14h00 UTC & 17h00 UTC)
+- *CarpentryCon Volunteers*: https://pad.carpentries.org/carpentrycon2020-volunteers
 - *CarpentryCon TaskForce Meetings*: https://pad.carpentries.org/2020carpentrycontaskforce
 - *Pad-of-Pads for all other Carpentries etherpads*: http://pad.software-carpentry.org/pad-of-pads
 
