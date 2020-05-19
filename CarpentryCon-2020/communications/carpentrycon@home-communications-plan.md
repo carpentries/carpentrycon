@@ -49,6 +49,7 @@ With the shift from an in-person CarpentryCon to a virtual series, there is a ne
   - Reshare GitHub repository and ask for more proposals
 - **Week of 25 May**
   - calls to action asking community members to Join the CarpentryCon mailing list 
+  - point people to the CarpentryCon @ Home public channel
 - **Week of 1 June**
   - Final push for first round of proposals
 - **Week of 8 June**
