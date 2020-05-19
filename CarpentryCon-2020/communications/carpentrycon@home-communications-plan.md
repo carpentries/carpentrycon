@@ -50,6 +50,8 @@ With the shift from an in-person CarpentryCon to a virtual series, there is a ne
 - **Week of 25 May**
   - calls to action asking community members to Join the CarpentryCon mailing list 
   - point people to the CarpentryCon @ Home public channel
+  - point people to @carpentrycon and #carpentryconhome on Twitter
+  - ask people to follow the CarpentryCon events page on Facebook
 - **Week of 1 June**
   - Final push for first round of proposals
 - **Week of 8 June**
