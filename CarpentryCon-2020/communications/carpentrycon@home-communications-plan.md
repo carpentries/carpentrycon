@@ -45,59 +45,25 @@ With the shift from an in-person CarpentryCon to a virtual series, there is a ne
 - General & Events Slack Channels
 
 ### Key Messages
-- **Week of 18 May**
-  - Reshare GitHub repository and ask for more proposals
-- **Week of 25 May**
-  - calls to action asking community members to Join the CarpentryCon mailing list 
-  - point people to the CarpentryCon @ Home public channel
-  - point people to @carpentrycon and #carpentryconhome on Twitter
-  - ask people to follow the CarpentryCon events page on Facebook
-- **Week of 1 June**
-  - Final push for first round of proposals
-- **Week of 8 June**
-  - Announce keynote speakers
-  - Tease announcement of full schedule
-- **Week of 15 June**
-  - Announce full schedule including keynotes in blog post to coincide with one month till CC @ Home
-  - Publish CC @ Home One Sheet
-  - June email to list
-- **Week of 22 June**
-  - 3 weeks till CC @ Home countdown post
-- **Week of 29 June**
-  - 2 Weeks till CC @ Home countdown
-- **Week of 6 July**
-  - 1 week till CC @ Home (ask what people are looking forward to)
-- **Week of 13 July**
-  - First sessions of CC @ Home! promote before and share link to recording afterwards
-  - July email to list
-- **Week of 20 July**
-  - Amplify Keynote
-  - Ask for Feedback on Keynote
-  - Promote upcoming sessions of CC @ Home
-  - Share session highlights from last week
-- **Week of 27 July**
-  - Ask for Feedback on Keynote
-  - Promote upcoming sessions of CC @ Home
-  - Share session highlights
-- **Week of 3 Aug**
-  - Promote upcoming sessions of CC @ Home
-  - Share session highlights
-- **Week of 10 Aug**
-  - Amplify Keynote
-  - Ask for Feedback on Keynote
-  - Promote upcoming sessions of CC @ Home
-  - Share session highlights
-- **Week of 17 Aug**
-  - Mid-way through CC @ Home blog post recapping sessions and previewing sessions to come
-  - August Email to List
-- **Week of 24 Aug**
-  - Second to last week promotion
-  - Start shifting from promotion to wrap up and asking for feedback
-- **Week of 31 Aug**
-  - Wrap up posts
-  - Promote final sessions
-  - Ask for feedback
-  - Amplify continuing work and post CC @ Home efforts
+| Month  | Week | Key Messages |
+| -------- | ----------- |----------- |
+| May | Week of 18 May  | - Reshare GitHub repository and ask for more proposals	|
+|     | Week of 25 May  |- Calls to action asking community members to Join the CarpentryCon mailing list <br> - Point people to the CarpentryCon @ Home public channel <br> - Point people to @carpentrycon and #carpentryconhome on Twitter <br> - Ask people to follow the CarpentryCon events page on Facebook <br> - Ask for feedback and review of submitted proposals  |
+| June | Week of 1 June  |- Final push for first round of proposals <br> - Continue asking for feedback on submitted proposals |
+|      | Week of 8 June  |- Announce keynote speakers <br> - Tease announcement of full schedule |
+|      | Week of 15 June  |- Announce full schedule including keynotes in blog post to coincide with one month till CC @ Home <br> - Publish CC @ Home one sheet <br> June email to list |
+|      | Week of 22 June  |- 3 weeks to CC @ Home, begin countdown posts with images featuring the keynotes and sessions |
+|      | Week of 29 June  |- 2 weeks to CC @ Home, begin countdown posts with images featuring the keynotes and sessions |
+| July | Week of 6 July  | - 1 week to CC @ Home, begin countdown posts with images featuring the keynotes and sessions <br> ask community what they are looking forward to  |
+|      | Week of 13 July  |- First sessions of CC @ Home begin! Promote and share link to recording afterwards <br> - July email to list |
+|      | Week of 20 July  |- Amplify keynote <br> - Ask for Feedback on Keynote <br> - Promote upcoming sessions of CC @ Home <br>-  Share session highlights from last week |
+|      | Week of 27 July  |- Ask for Feedback on Keynote <br> - Promote upcoming sessions of CC @ Home <br> - Share session highlights from last week  |
+|August| Week of 3 August  |- Promote upcoming sessions of CC @ Home <br> - Share session highlights from last week |
+|      | Week of 10 August  |- Amplify keynote <br> - Ask for Feedback on Keynote <br> - Promote upcoming sessions of CC @ Home <br>-  Share session highlights from last week |
+|      | Week of 17 August  |- Mid-way through CC @ Home blog post recapping sessions and previewing sessions to come <br> August Email to list |
+|      | Week of 24 August  |- Second to last week promotion <br> - Start shifting messaging from promotion to wrap up and asking for feedback |
+|      | Week of 31 August  |- Wrap up posts <br>- Promote final sessions <br>- Ask for feedback <br>- Amplify continuing work and post CC @ Home efforts |
+
 
 
 
