@@ -48,7 +48,7 @@ With the shift from an in-person CarpentryCon to a virtual series, there is a ne
 | Month  | Week | Key Messages |
 | -------- | ----------- |----------- |
 | May | Week of 18 May  | - Reshare GitHub repository and ask for more proposals	|
-|     | Week of 25 May  |- Calls to action asking community members to Join the CarpentryCon mailing list <br> - Point people to the CarpentryCon @ Home public channel <br> - Point people to @carpentrycon and #carpentryconhome on Twitter <br> - Ask people to follow the CarpentryCon events page on Facebook <br> - Ask for feedback and review of submitted proposals  |
+|     | Week of 25 May  |- Calls to action asking community members to Join the CarpentryCon mailing list <br> - Point people to the CarpentryCon @ Home public channel <br> - Point people to @carpentrycon and #carpentryconhome on Twitter <br> - Ask people to follow the CarpentryCon events page on Facebook <br> - Announce extension of proposal submission deadline.  |
 | June | Week of 1 June  |- Final push for first round of proposals <br> - Continue asking for feedback on submitted proposals |
 |      | Week of 8 June  |- Announce keynote speakers <br> - Tease announcement of full schedule |
 |      | Week of 15 June  |- Announce full schedule including keynotes in blog post to coincide with one month till CC @ Home <br> - Publish CC @ Home one sheet <br> June email to list |
