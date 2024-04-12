@@ -1,4 +1,4 @@
-# [CarpentryCon](http://www.carpentrycon.org/)
+# [CarpentryCon](https://carpentrycon.org/)
 
 ## Purpose and Scope
 - **Community Building:** bring together members of the Carpentry community, including instructors, partners, advocates, and staff, together with people sharing similar interests from around the globe. We will have a “come and learn” format that is different from most conferences.
@@ -41,10 +41,10 @@ See the [Carpentry Con 2020 website](https://2020.carpentrycon.org/).
 
 ## Useful Links
 
-[meetings](http://pad.software-carpentry.org/2020carpentrycontaskforce)
+[meetings](https://pad.carpentries.org/2020carpentrycontaskforce)
 
 [minutes](https://github.com/carpentries/carpentrycon/tree/master/Minutes)
 
-[official website](http://www.carpentrycon.org/)
+[official website](https://carpentrycon.org/)
 
 [Twitter](https://twitter.com/carpentrycon)
